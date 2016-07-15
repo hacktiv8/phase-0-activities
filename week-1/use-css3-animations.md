@@ -1,4 +1,4 @@
-# Use CSS3
+# Use CSS3 Animations
 
 - Include into HTML
 - Comments or Documentation
