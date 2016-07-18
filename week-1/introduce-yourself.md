@@ -10,7 +10,7 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 
 - ▢ Cek membership melalui email konfirmasi.
 - ▢ Kamu akan masuk ke Slack dengan URL <http://hacktiv8-class.slack.com>.
-- ▢ Tentukan username kamu yang baik dan jelas, dengan huruf kecil (misalnya `andiruben`).
+- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`).
 - ▢ Tentukan password kamu yang kuat namun mudah diingat.
 - ▢ [Isi profil lengkap dan upload foto profil melalui `Edit Profile`](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)
 - ▢ [Download aplikasi Slack](https://slack.com/downloads) ke mobile ataupun desktop.
