@@ -27,22 +27,21 @@ Menggunakan berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 
 ### 2. Persiapkan struktur folder untuk berbagai kebutuhan
 
-- ▢ Buatlah folder `profile` dalam repositori `[USERNAME].github.io` (`mkdir profile && cd profile`)
-- ▢ Buatlah folder `images` di dalamnya. (`mkdir images`)
+- ▢ Buatlah folder `images` pada root directory. (`mkdir images`)
 - ▢ Buatlah folder `styles` juga. (`mkdir styles`)
 
 Sehingga sekarang struktur foldernya menjadi:
 
 ```
 [USERNAME].github.io
-└── profile
-    ├── images
-    └── styles
+├── images
+├── index.html
+└── styles
 ```
 
 ### 2. Membuat halaman web untuk mengenalkan dirimu
 
-- ▢ Buatlah file `index.html` dalam repositori `profile` yang berisi:
+- ▢ Update file `index.html` menjadi dokumen HTML yang lebih lengkap:
   - Bagian doctype, head, title, and body
   - Satu atau beberapa heading (`h1`-`h6`)
   - 2-3 paragraf pendek tentang dirimu
@@ -55,23 +54,13 @@ Sehingga sekarang struktur foldernya menjadi:
   - Berbagai komentar yang menjelaskan bagian-bagian tertentu
 - ▢ Berilah `id` dan `class` pada elemen-elemen tertentu
 
-Sekarang struktur reponya menjadi:
-
-```
-[USERNAME].github.io
-└── profile
-    ├── images
-    ├── styles
-    └── index.html
-```
-
 ### 3. Kirim berbagai perubahan yang ada ke website kamu
 
 - ▢ Add, commit, dan push file HTML ke GitHub
   - `git add index.html`
   - `git commit -m "Create my profile"`
   - `git push`
-- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io/profile`
+- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io`
 
 ## References
 

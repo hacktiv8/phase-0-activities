@@ -14,16 +14,16 @@ Menggunakan berbagai pondasi dan aturan CSS3 yang berfungsi untuk:
 
 ### 1. Pastikan kamu sudah mengenal pondasi HTML dan CSS
 
-- ▢ Mengidentifikasi selector pada CSS
-- ▢ Menjelaskan bagaimana CSS menggayakan atau mempercantik dokumen HTML
-- ▢ Membandingkan sifat dan kegunaan ID dan class dalam HTML dan CSS
-- ▢ Memahami box model (padding, margin, border) pada HTML dan CSS
-- ▢ Memahami dasar display dan positioning pada HTML dan CSS (inline, inline-block, float, absolute, relative, fixed, dll)
+- ▢ Mengidentifikasi selector pada CSS.
+- ▢ Menjelaskan bagaimana CSS menggayakan atau mempercantik dokumen HTML.
+- ▢ Membandingkan sifat dan kegunaan ID dan class dalam HTML dan CSS.
+- ▢ Memahami box model (padding, margin, border) pada HTML dan CSS.
+- ▢ Memahami dasar display dan positioning pada HTML dan CSS (inline, inline-block, float, absolute, relative, fixed, dll).
 
 ### 2. Menggayakan file HTML yang sudah dibuat
 
-- ▢ Buatlah file `index.css` dalam folder `styles`
-- ▢ Ikutkan file CSS tersebut ke dalam file HTML dengan cara "external"
+- ▢ Buatlah file `styles.css` dalam folder `styles`.
+- ▢ Ikutkan file CSS tersebut ke dalam file HTML dengan cara "external".
 - ▢ Gayakan berbagai elemen di halaman tersebut:
   - Beri warna, warna background, bentuk font/tipografi yang sesuai
   - Gunakan selector untuk `id` dan `class`
@@ -32,11 +32,10 @@ Sekarang struktur reponya menjadi:
 
 ```
 [USERNAME].github.io
-└── profile
-    ├── images
-    ├── styles
-    │   └── index.css
-    └── index.html
+├── images
+├── index.html
+└── styles
+    └── index.css
 ```
 
 ### 3. Kirim berbagai perubahan yang ada ke website kamu
