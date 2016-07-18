@@ -1,9 +1,17 @@
-# Learn Coding Style Guide
+#
 
 ## Objectives
 
+
+
 ## Directions
+
+### .
+
+- ▢
+- ▢
+- ▢
 
 ## References
 
-- 
+-

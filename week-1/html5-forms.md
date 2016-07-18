@@ -1,10 +1,6 @@
 # Use HTML Forms
 
-Ikuti
-
-- [Various Frontend Tracks on Bento](https://bento.io/tracks/front-end)
-
-Kegiatan
+## Objectives
 
 - Legend
 - Label
@@ -14,3 +10,11 @@ Kegiatan
 - Select Box
 - Data List
 - Option Group
+
+## Directions
+
+Ikuti
+
+## References
+
+- [Various Frontend Tracks on Bento](https://bento.io/tracks/front-end)
