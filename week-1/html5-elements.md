@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Memahami berbagai pondasi dan elemen HTML yang berfungsi untuk membuat:
+Memahami berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 
 - Komentar atau dokumentasi
 - Meta data
@@ -25,17 +25,40 @@ Memahami berbagai pondasi dan elemen HTML yang berfungsi untuk membuat:
 - ▢ Meng-indent code HTML sesuai dengan aturan yang baik
 - ▢ Mengidentifikasi elemen parent atau child dalam HTML
 
-http://learn.shayhowe.com/html-css, lesson 1 dan 2
+### 2. Membuat halaman web untuk mengenalkan dirimu
+
+- ▢ Buatlah file `myprofile.html` dalam repositori `[USERNAME].github.io` yang berisi:
+  - Bagian doctype, head, title, and body
+  - Satu atau beberapa heading (`h1`-`h6`)
+  - 2-3 paragraf pendek tentang dirimu
+  - Teks italic dan bold
+  - Berbagai link yang jika diklik, dibuka dalam window/tab yang sama dan yang berbeda
+  - Link alamat email yang jika diklik, membuka aplikasi email
+  - Gambar dan gambar yang juga merupakan link
+  - Line break
+  - Unordered list dan ordered list
+
+### 3. Kirim file HTML tersebut ke website kamu
+
+- ▢ Add, commit, dan push file HTML ke GitHub
+  - `git add myprofile.html`
+  - `git commit -m "Create my profile"`
+  - `git push`
+- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io/myprofile.html`
 
 ## References
 
-- https://www.codecademy.com/learn/make-a-website
-- http://tutorialspoint.com/html
+**Basics*
 
+- [Make a Website, on Codecademy](https://codecademy.com/learn/make-a-website)
+- [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
+- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css) (lesson 1 and 2)
+- [Intro to HTML & CSS Online Course, by Udacity](https://udacity.com/course/intro-to-html-and-css--ud304)
+- [Belajar HTML dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html-dari-dasar)
+- [Belajar HTML5, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html5)
 
-https://www.udacity.com/course/intro-to-html-and-css--ud304
-http://www.sekolahkoding.com/track/mulai-belajar-website-frontend
-
+**Extra**
 
 - [The Best Way to Learn HTML, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)
 - [HTML Tag Cheatsheet, by Skillcrush](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
+- [DevDocs HTML Documentation](http://devdocs.io/html)

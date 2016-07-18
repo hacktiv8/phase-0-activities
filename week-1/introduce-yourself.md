@@ -12,19 +12,27 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 - ▢ Kamu akan masuk ke Slack dengan URL <http://hacktiv8-class.slack.com>.
 - ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`).
 - ▢ Tentukan password kamu yang kuat namun mudah diingat.
-- ▢ [Isi profil lengkap dan upload foto profil melalui `Edit Profile`](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)
+- ▢ [Isi profil lengkap dan upload foto profil melalui "Edit Profile"](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)
 - ▢ [Download aplikasi Slack](https://slack.com/downloads) ke mobile ataupun desktop.
 
-### 2. Kenalkan dirimu kepada rekan-rekan
+### 2. Kenalkan profil dirimu kepada rekan-rekan
 
 - ▢ Siapa nama panggilanmu?
 - ▢ Mengapa kamu ikut bergabung?
+- ▢ Siapa programmer/engineer/developer idola (role model) Anda?
 - ▢ Boleh sertakan link website, blog, atau social media yang kamu punya.
 - ▢ Gunakan emoji agar lebih seru. :star2:
 
 **Contoh**
 
-> :wave: Halo salam kenal semuanya, saya Andi. Saya bergabung di Hacktiv8 karena dengan menjadi web software developer yang handal menjadikan kita untuk menciptakan aplikasi bermanfaat yang berkualitas, bagi berbagai orang sekitar. Untuk lebih lengkapnya, kunjungi website dan blog saya di <http://andiruben.com> ya. Terima kasih! :clap:
+> :wave: Halo salam kenal semuanya, saya Andi. Saya bergabung di Hacktiv8 karena dengan menjadi web software developer yang handal menjadikan kita untuk menciptakan aplikasi bermanfaat yang berkualitas, bagi berbagai orang sekitar.
+
+> Saya adalah pengembang robot dan guru di Universitas. Saya bergabung dalam bootcamp/kursus ini untuk meningkatkan kemampuan saya mengintegrasikan hardware dengan teknologi Web.
+
+> Engineer idola saya adalah Linus Torvalds. Dia engineer yang simple, tapi keren karena dia sudah membuat Linux dan Git bersama-sama dengan berbagai kolaborator di penjuru dunia.
+
+> Untuk mengenal saya lebih lanjut, kunjungi website dan blog saya di <http://andiruben.com> ya. Terima kasih! :clap:
+
 
 ### 3. Diskusi dengan rekan sekelas
 
