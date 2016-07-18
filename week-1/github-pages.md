@@ -39,6 +39,8 @@ Oke saatnya beraksi secara lebih nyata!
 - ▢ Kirim atau push commit pertama kalinya ke GitHub dengan `git push -u origin master`. Perintah push berikutnya bisa cukup dengan `git push` saja.
 - ▢ Bukalah `[USERNAME].github.io`, lalu saksikanlah halaman website kamu! Selamat! :tada:
 
+Cek kembali `https://github.com/[USERNAME]/[USERNAME].github.io`, kamu dapat melihat file `index.html` juga sudah muncul di situ.
+
 ### 4. Bonus: Generator
 
 Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Page Generator" yang terdapat di settings-nya. ( `https://github.com/[USERNAME]/[USERNAME].github.io/settings`). Di situ kamu bisa mengubah konten, memilih tema, kemudian mempublikasikannya
