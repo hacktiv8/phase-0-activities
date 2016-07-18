@@ -2,10 +2,13 @@
 
 ## Objectives
 
-- Include into HTML
+Menggunakan berbagai pondasi dan aturan CSS3 yang berfungsi untuk:
+
+- Mengikutkannya ke dalam HTML
 - Comments or Documentation
-- CSS Selector and Properties
-- CSS Positioning and Box Model
+- Selector and Properties
+- Positioning
+- Box model
 
 ## Directions
 
@@ -17,37 +20,32 @@
 - ▢ Memahami box model (padding, margin, border) pada HTML dan CSS
 - ▢ Memahami dasar display dan positioning pada HTML dan CSS (inline, inline-block, float, absolute, relative, fixed, dll)
 
+### 2. Menggayakan file HTML yang sudah dibuat
 
-- ▢ Buatlah file `myprofile.css` dalam repositori kamuCreate a new css file in your repository called dbc1.css and save it to the stylesheets/ directory.
+- ▢ Buatlah file `index.css` dalam folder `styles`
+- ▢ Ikutkan file CSS tersebut ke dalam file HTML dengan cara "external"
+- ▢ Gayakan berbagai elemen di halaman tersebut:
+  - Beri warna, warna background, bentuk font/tipografi yang sesuai
+  - Gunakan selector untuk `id` dan `class`
 
-Link the dbc1.css file to your html file using the "external" method
-Add colors, background colors or fonts of different parts of the page
-Use ids and classes to change specific elements
+Sekarang struktur reponya menjadi:
 
-### 2. Menggayakan halaman web kamu
+```
+[USERNAME].github.io
+└── profile
+    ├── images
+    ├── styles
+    │   └── index.css
+    └── index.html
+```
 
-- ▢ Buatlah file `myprofile.html` dalam repositori `[USERNAME].github.io` yang berisi:
-  - Bagian doctype, head, title, and body
-  - Satu atau beberapa heading (`h1`-`h6`)
-  - 2-3 paragraf pendek tentang dirimu
-  - Teks italic dan bold
-  - Berbagai link yang jika diklik, dibuka dalam window/tab yang sama dan yang berbeda
-  - Link alamat email yang jika diklik, membuka aplikasi email
-  - Gambar dan gambar yang juga merupakan link
-  - Line break
-  - Unordered list dan ordered list
+### 3. Kirim berbagai perubahan yang ada ke website kamu
 
-### 3. Kirim file HTML tersebut ke website kamu
-
-- ▢ Add, commit, dan push file HTML ke GitHub
-  - `git add myprofile.html`
-  - `git commit -m "Create my profile"`
+- ▢ Add, commit, dan push file CSS ke GitHub
+  - `git add styles/index.css`
+  - `git commit -m "Create my style"`
   - `git push`
-- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io/myprofile.html`
-
-
-
-
+- ▢ Cek tampilan halaman profil kamu yang ada di `[USERNAME].github.io/profile`
 
 ## References
 

@@ -2,10 +2,10 @@
 
 ## Objectives
 
-Memahami berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
+Menggunakan berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 
-- Komentar atau dokumentasi
 - Meta data
+- Komentar atau dokumentasi
 - Header dan footer
 - Paragraf dan span
 - Varian teks dan style
@@ -25,9 +25,24 @@ Memahami berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 - ▢ Meng-indent code HTML sesuai dengan aturan yang baik
 - ▢ Mengidentifikasi elemen parent atau child dalam HTML
 
+### 2. Persiapkan struktur folder untuk berbagai kebutuhan
+
+- ▢ Buatlah folder `profile` dalam repositori `[USERNAME].github.io` (`mkdir profile && cd profile`)
+- ▢ Buatlah folder `images` di dalamnya. (`mkdir images`)
+- ▢ Buatlah folder `styles` juga. (`mkdir styles`)
+
+Sehingga sekarang struktur foldernya menjadi:
+
+```
+[USERNAME].github.io
+└── profile
+    ├── images
+    └── styles
+```
+
 ### 2. Membuat halaman web untuk mengenalkan dirimu
 
-- ▢ Buatlah file `myprofile.html` dalam repositori `[USERNAME].github.io` yang berisi:
+- ▢ Buatlah file `index.html` dalam repositori `profile` yang berisi:
   - Bagian doctype, head, title, and body
   - Satu atau beberapa heading (`h1`-`h6`)
   - 2-3 paragraf pendek tentang dirimu
@@ -37,14 +52,26 @@ Memahami berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
   - Gambar dan gambar yang juga merupakan link
   - Line break
   - Unordered list dan ordered list
+  - Berbagai komentar yang menjelaskan bagian-bagian tertentu
+- ▢ Berilah `id` dan `class` pada elemen-elemen tertentu
 
-### 3. Kirim file HTML tersebut ke website kamu
+Sekarang struktur reponya menjadi:
+
+```
+[USERNAME].github.io
+└── profile
+    ├── images
+    ├── styles
+    └── index.html
+```
+
+### 3. Kirim berbagai perubahan yang ada ke website kamu
 
 - ▢ Add, commit, dan push file HTML ke GitHub
-  - `git add myprofile.html`
+  - `git add index.html`
   - `git commit -m "Create my profile"`
   - `git push`
-- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io/myprofile.html`
+- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io/profile`
 
 ## References
 
