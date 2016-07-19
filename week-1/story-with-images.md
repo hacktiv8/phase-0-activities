@@ -4,7 +4,7 @@
 
 Membuat halaman karangan cerita yang menyertakan gambar.
 
-Berikut contoh cerita yang terdapat beberapa bagian serta gambar-gambar yang kami telah buat dan tampilkan dengan HTML dan CSS.
+Berikut contoh cerita yang terdapat beberapa bagian serta gambar-gambar yang ditampilkan dengan HTML dan CSS.
 
 ![Contoh Cerita](assets/example-story.png)
 

@@ -4,7 +4,7 @@
 
 Halo ${student-first-name},
 
-Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Kali ini, kita akan lebih intens dalam pembelajaran. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu. Tahap ini bisa diselesaikan dalam waktu 40-60 jam.
+Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Kali ini, kita akan lebih intens dalam pembelajaran. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu. Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu 15-30 jam.
 
 **Apa bedanya Phase 0 dengan online course biasa yang gratis?** Seperti pada briefing, di sini kita sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun bersifat _open-ended path_, bisa belajar dari berbagai sumber. Hingga pada saat selesai, kamu sudah punya pondasi yang kuat saat masuk Phase 1, dalam sesi kelas on site yang tentunya sangat immersive! Karena biasanya juga, online course yang gratis pedomannya seringkali alurnya masih  _nanggung_. Selain itu di Phase 0 kamu mendapat dukungan dan bimbingan dari para instruktur jika butuh bantuan, baik online maupun langsung di tempat jika kamu ingin datang.
 
@@ -57,7 +57,7 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 ![Footer](images/footer.png)
 
-Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://) sebelum hari Minggu ini jam 9 malam. Kamu akan menyertakan link website, link repositori GitHub kamu, dan berbagai blog post yang sudah kamu tulis.
+Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w1) sebelum hari Minggu ini jam 9 malam. Kamu akan menyertakan link website, link profil dan repositori GitHub kamu, serta berbagai blog post yang sudah kamu tulis.
 
 Selamat memulai petualanganmu yang sebenarnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 

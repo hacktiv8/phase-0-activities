@@ -33,7 +33,6 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 
 > Untuk mengenal saya lebih lanjut, kunjungi website dan blog saya di <http://andiruben.com> ya. Terima kasih! :clap:
 
-
 ### 3. Diskusi dengan rekan sekelas
 
 - ▢ Mention temanmu yang sudah kenal maupun belum, agar lebih akrab.

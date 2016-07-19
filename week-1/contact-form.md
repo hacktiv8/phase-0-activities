@@ -13,7 +13,7 @@ Mempraktekkan pengetahuan HTML5 forms untuk membuat formulir kontak dengan email
 - Data List
 - Option Group
 
-Berikut contoh formulir kontak dengan email dan berbagai input lain yang kami telah buat dan tampilkan dengan HTML dan CSS. Adaptasikan dengan kebutuhan kamu.
+Berikut contoh formulir kontak dengan email dan berbagai input lain sederhana dengan HTML dan CSS. Adaptasikan dengan kebutuhan kamu.
 
 ![Contoh Formulir Kontak](assets/example-contact.png)
 
