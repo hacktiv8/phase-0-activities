@@ -1,4 +1,4 @@
-# Phase 0: That's a wrap!
+# Phase 0 is Over: That's a wrap!
 
 - Student Report
 - Blog Post Collection
