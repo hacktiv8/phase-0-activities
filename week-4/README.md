@@ -9,51 +9,51 @@ Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan m
 ## Monday
 
 - ▢ [Mengenal ]()
-- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](week-4/algorithm-pseudocode.md)
-- ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](week-4/js-world.md)
+- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
+- ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md)
   - package manager and npm
   - Class and Object
   - Transpilation and Babel
-- ▢ [Membuat program yang sudah ditranspilasi menjadi ES2015](week-4/js-transpiled.md)
+- ▢ [Membuat program yang sudah ditranspilasi menjadi ES2015](./js-transpiled.md)
 
 ## Tuesday
 
-- ▢ [Mengenal berbagai macam paradigma pemrograman](week-4/programming-paradigm.md)
-- ▢ [Mengenal Object-Oriented Programming](week-4/oop-basics.md)
-- ▢ [Membuat rancangan relasi objek untuk persiapan OOP](week-4/oop-design.md)
-- ▢ [Mengimplementasikan OOP di JavaScript](week-4/oop-implementation.md)
+- ▢ [Mengenal berbagai macam paradigma pemrograman](./programming-paradigm.md)
+- ▢ [Mengenal Object-Oriented Programming](./oop-basics.md)
+- ▢ [Membuat rancangan relasi objek untuk persiapan OOP](./oop-design.md)
+- ▢ [Mengimplementasikan OOP di JavaScript](./oop-implementation.md)
 
 ## Wednesday
 
-- ▢ [Mengeksplorasi lebih lanjut pedoman dan pengecekan sintaks dalam penulisan code](week-4/syntax-checking.md)
+- ▢ [Mengeksplorasi lebih lanjut pedoman dan pengecekan sintaks dalam penulisan code](./syntax-checking.md)
   - Style Checking dan Hinting/Linting
-- ▢ [Mengeksplorasi best practice dalam pembuatan aplikasi web](week-4/best-practice.md)
+- ▢ [Mengeksplorasi best practice dalam pembuatan aplikasi web](./best-practice.md)
   - Frontend Library dan Framework
   - Frontend Application Library dan Framework
   - Backend Application Library dan Framework
   - Versioning
   - Preprocessing dan Templating
   - Boilerplate
-- ▢ [Menggunakan jQuery](week-4/jquery.md)
-- ▢ [Menggunakan Bootstrap](week-4/bootstrap.md)
-- ▢ [Menggunakan HTML5 boilerplate](week-4/html5-boilerplate.md)
+- ▢ [Menggunakan jQuery](./jquery.md)
+- ▢ [Menggunakan Bootstrap](./bootstrap.md)
+- ▢ [Menggunakan HTML5 boilerplate](./html5-boilerplate.md)
 
 ## Thursday
 
-- ▢ [Mengenal teknologi database](week-4/database.md)
-- ▢ [Mengenal desain dan arsitektur aplikasi](week-4/app-design-architecture.md)
+- ▢ [Mengenal teknologi database](./database.md)
+- ▢ [Mengenal desain dan arsitektur aplikasi](./app-design-architecture.md)
   - Design Pattern: MVC
   - Various Application Architecture
-- ▢ [Melatih modularisasi pengembangan aplikasi dan website](week-4/modularization.md)
-- ▢ [Membuat rancangan website yang modular](week-4/modular-design.md)
+- ▢ [Melatih modularisasi pengembangan aplikasi dan website](./modularization.md)
+- ▢ [Membuat rancangan website yang modular](./modular-design.md)
 
 ## Friday
 
-- ▢ [Mengecek kualitas code dengan hinting/linting](week-4/hinting-linting.md)
-- ▢ [Mengenal cara pengetesan aplikasi](week-4/testing.md)
-- ▢ [Melihat performa kecepatan website dengan online tools](week-4/website-speed.md)
-- ▢ [Menghemat aset website dengan kompresi](week-4/assets-compression.md)
-- ▢ [Membuat website profil pribadi kita sendiri](week-4/website-profile.md)
+- ▢ [Mengecek kualitas code dengan hinting/linting](./hinting-linting.md)
+- ▢ [Mengenal cara pengetesan aplikasi](./testing.md)
+- ▢ [Melihat performa kecepatan website dengan online tools](./website-speed.md)
+- ▢ [Menghemat aset website dengan kompresi](./assets-compression.md)
+- ▢ [Membuat website profil pribadi kita sendiri](./website-profile.md)
 
 ![Footer](images/footer.png)
 

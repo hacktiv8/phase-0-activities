@@ -20,40 +20,40 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 ## Monday
 
-- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](week-1/introduce-yourself.md)
-- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](week-1/git-github-basics.md)
-- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](week-1/github-pages.md)
-- ▢ [Melakukan pencatatan pribadi atau blogging](week-1/blogging.md)
+- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](./introduce-yourself.md)
+- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./git-github-basics.md)
+- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](./github-pages.md)
+- ▢ [Melakukan pencatatan pribadi atau blogging](./blogging.md)
 
 ## Tuesday
 
-- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](week-1/cli-git-github-practice.md)
-- ▢ [Menggunakan berbagai elemen dasar HTML5 yang perlu kamu ketahui dan kuasai](week-1/html5-elements.md)
-- ▢ [Memahami dan menggunakan aturan dasar CSS3](week-1/css3-rules.md)
-- ▢ [Membuat transformasi dan animasi dengan CSS3](week-1/css3-advanced.md)
+- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./cli-git-github-practice.md)
+- ▢ [Menggunakan berbagai elemen dasar HTML5 yang perlu kamu ketahui dan kuasai](./html5-elements.md)
+- ▢ [Memahami dan menggunakan aturan dasar CSS3](./css3-rules.md)
+- ▢ [Membuat transformasi dan animasi dengan CSS3](./css3-advanced.md)
 
 ## Wednesday
 
-- ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](week-1/internet-web.md)
-- ▢ [Membuat artikel berita sederhana](week-1/news-article.md)
-- ▢ [Membuat cerita bergambar](week-1/story-with-images.md)
-- ▢ [Membuat contact form pribadi](week-1/contact-form.md)
-- ▢ [Memanfaatkan style guide untuk HTML dan CSS](week-1/html-css-style-guide.md)
+- ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](./internet-web.md)
+- ▢ [Membuat artikel berita sederhana](./news-article.md)
+- ▢ [Membuat cerita bergambar](./story-with-images.md)
+- ▢ [Membuat contact form pribadi](./contact-form.md)
+- ▢ [Memanfaatkan style guide untuk HTML dan CSS](./html-css-style-guide.md)
 
 ## Thursday
 
-- ▢ [Mengenal Web Literacy](week-1/web-literacy.md)
-- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](week-1/web-dev-process.md)
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](week-1/website-evaluation.md)
-- ▢ [Mempelajari dan menggunakan teknik wireframing](week-1/wireframing.md)
+- ▢ [Mengenal Web Literacy](./web-literacy.md)
+- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./web-dev-process.md)
+- ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
+- ▢ [Mempelajari dan menggunakan teknik wireframing](./wireframing.md)
 
 ## Friday
 
-- ▢ [Mengenal berbagai teknik kolaborasi](week-1/collaboration-techniques.md)
-- ▢ [Memahami pair development/coding/programming](week-1/pair-programming.md)
-- ▢ [Mengenal, membaca, dan membuat dokumentasi code](week-1/code-documentation.md)
-- ▢ [Berkreasi membuat website sederhana](week-1/website-creation.md)
-- ▢ [Mengeksplorasi nilai inti (core values) dirimu](week-1/core-values.md)
+- ▢ [Mengenal berbagai teknik kolaborasi](./collaboration-techniques.md)
+- ▢ [Memahami pair development/coding/programming](./pair-programming.md)
+- ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
+- ▢ [Berkreasi membuat website sederhana](./website-creation.md)
+- ▢ [Mengeksplorasi nilai inti (core values) dirimu](./core-values.md)
 
 ![Footer](images/footer.png)
 
