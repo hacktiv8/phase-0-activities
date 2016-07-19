@@ -42,3 +42,7 @@ Selalu gunakan selector `id` dan `class` untuk berbagai element.
   - `git commit -m "Enhance my style"`
   - `git push`
 - ▢ Cek tampilan halaman yang terbaru
+
+## References
+
+- [The Guide To CSS Animation: Principles and Examples, by Tom Waterhouse on Smashing Magazine] (https://www.smashingmagazine.com/2011/09/the-guide-to-css-animation-principles-and-examples)
