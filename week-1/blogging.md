@@ -18,6 +18,11 @@ Baik blog dengan cara biasa (website pribadi, [Medium](https://medium.com), [Wor
 - ▢ Dari sudut pandang kamu, apa saja yang sudah dipahami dan dipelajari?
 - ▢ Sertakan berbagai sumber/URL yang sudah kamu dapat dan temukan.
 
+### 3. Taruh link blog kamu di profil GitHub
+
+- ▢ Kunjungi <https://github.com/settings/profile> lalu isi URL blog kamu.
+- ▢ "Update profile" kamu.
+
 ## References
 
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)

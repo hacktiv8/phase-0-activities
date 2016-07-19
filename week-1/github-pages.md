@@ -47,7 +47,7 @@ Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Pa
 
 ## References
 
-- ▢ [Naming files and folders, short guide by University of Leicester](http://www2.le.ac.uk/services/research-data/organise-data/naming-files)
-- ▢ [Naming Conventions, PDF guide from Harvard](http://library.harvard.edu/sites/default/files/NamingConventions.pdf)
-- ▢ [GitHub Pages](https://pages.github.com)
-- ▢ https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website
+- [Naming files and folders, short guide by University of Leicester](http://www2.le.ac.uk/services/research-data/organise-data/naming-files)
+- [Naming Conventions, PDF guide from Harvard](http://library.harvard.edu/sites/default/files/NamingConventions.pdf)
+- [GitHub Pages](https://pages.github.com)
+- [Publishing your website, BY Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website)

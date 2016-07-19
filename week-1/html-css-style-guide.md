@@ -2,8 +2,40 @@
 
 ## Objectives
 
+Dalam menulis code yang profesional, diperlukan berbagai aturan atau standar yang sangat dianjurkan untuk diikuti. Selain code kita bisa lebih rapi, mudah dibaca, dan komprehensif; tentunya kita juga akan lebih produktif.
+
 ## Directions
 
-## References
+### 1. Memahami cara penulisan HTML dan CSS yang baik
 
-- 
+- ▢ Pahami berbagai aturan penulisan HTML dan CSS di ini: [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code)
+- Cek berbagai pedoman penulisan code berikut:
+  - ▢ [Code Guide by @mdo](http://codeguide.co)
+  - ▢ [CSS Style Guides, on CSS Tricks](https://css-tricks.com/css-style-guides)
+  - ▢ [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+
+### 2. Merapikan penulisan code HTML dan CSS sebelumnya
+
+Update berbagai file HTML dan CSS yang sudah ada:
+
+- ▢ Struktur dokumen HTML harus lengkap.
+- ▢ Penulisan sintaks diorganisir dengan rapi.
+  - Perhatikan indentasi ataupun spacing.
+  - Sebaiknya quote yang digunakan semuanya adalah double quote.
+  - Gunakan lowercase untuk penamaan element, attributes, dan values.
+- ▢ Update penamaan `id` dan `class` yang belum rapi. `id` tidak boleh ada yang redundant.
+- ▢ Pindahkan attribute `style` dari tag HTML, jadikan semua styling lewat `id` atau `class`.
+- ▢ Gunakan element secara semantic, tidak menyalahi aturan.
+- ▢ Gunakan attribute `alt` pada gambar.
+- ▢ Berilah komentar pada berbagai segmen element HTML dan rule CSS.
+- ▢ Aturan CSS ditulis secara multiline.
+
+Harap menyadari cara dan hasil penulisan code kamu. Pada berbagai kegiatan berikutnya, dianjurkan untuk udah bisa mengimplementasikannya secara alami.
+
+### 3. Kirim berbagai perubahan yang ada ke website kamu
+
+- ▢ Add, commit, dan push perubahan ke GitHub
+  - `git add -A`
+  - `git commit -m "Tidy up my code"`
+  - `git push`
+- ▢ Cek halaman dan source code kamu yang sudah lebih rapi

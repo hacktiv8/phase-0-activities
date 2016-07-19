@@ -28,6 +28,8 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
 
 - ▢ [Bergabung ke GitHub di sini](https://github.com/join)
 - ▢ Konfirmasi email akun GitHub di inbox kamu.
+- ▢ Kunjungi <https://github.com/settings/profile> lalu lengkapi profil kamu.
+- ▢ "Update profile" kamu.
 
 Jika nanti kamu melihat `[USERNAME]`, artinya perlu diganti dengan username-kamu. Misalnya username kamu adalah `andiruben`, berarti `github.com/[USERNAME]` menjadi `github.com/andiruben`.
 

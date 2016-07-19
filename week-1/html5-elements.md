@@ -25,6 +25,8 @@ Menggunakan berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 - ▢ Meng-indent code HTML sesuai dengan aturan yang baik
 - ▢ Mengidentifikasi elemen parent atau child dalam HTML
 
+Pelajari lagi berbagai dasar HTML dari referensi yang disertakan.
+
 ### 2. Persiapkan struktur folder untuk berbagai kebutuhan
 
 - ▢ Buatlah folder `images` pada root directory. (`mkdir images`)
@@ -64,7 +66,7 @@ Sehingga sekarang struktur foldernya menjadi:
 
 ## References
 
-**Basics*
+**Basics**
 
 - [Make a Website, on Codecademy](https://codecademy.com/learn/make-a-website)
 - [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)

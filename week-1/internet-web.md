@@ -23,6 +23,9 @@ Ikuti, bacalah, atau tonton berbagai resource yang disertakan. Kamu juga bisa be
 - ▢ [How the Internet Works in 5 Minutes, YouTube video by Aaron Titus](https://www.youtube.com/watch?v=7_LPdttKXPc)
 - ▢ [History of The Internet by PICOL](https://www.youtube.com/watch?v=9hIQjrMHTv4)
 - ▢ [What is the Internet, really? by Andrew Blum on TED](https://www.youtube.com/watch?v=XE_FPEFpHt4)
+- ▢ [How Does the Internet Actually Work? by Cisco](https://www.youtube.com/watch?v=ZonvMhT5c_Q)
+- ▢ [There and Back Again: A Packet's Tale. How Does the Internet Work? by World Science Festival](https://www.youtube.com/watch?v=ewrBalT_eBM)
+- ▢ [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA)
 
 ### 2. Memahami Web dan Browser
 
