@@ -6,14 +6,12 @@ Seiring waktu dalam belajar membuat website, tentunya kita akan mencari dan mend
 
 ## Directions
 
-Buatlah sebuah halaman `favorite-websites.html` yang berisi jawaban berikut. Formatnya bebas, yang penting menjawab semua evaluasi berikut. Kemudian commit ke website kamu.
+Buatlah sebuah halaman `websites.html` yang berisi jawaban berikut. Formatnya bebas, yang penting menjawab semua evaluasi berikut. Kemudian commit dan push ke GitHub.
 
 - ▢ Pilihlah dan identifikasi beberapa website ataupun web app (lebih dari satu) yang kamu sukai. Kalau bisa selain social media yang populer.
 - ▢ Mengapa website tersebut kamu pilih?
 - ▢ Hal apa yang disajikan atau dijual? Apakah ada masalah yang diselesaikan oleh website tersebut?
-- ▢ Bagian mana pada website tersebut yang:
-  - Paling menarik?
-  - Paling penting?
+- ▢ Bagian mana pada website tersebut yang paling menarik dan paling penting?
 - ▢ Deskripsikan website tersebut secara visual, dengan minimal 5 sifat. (elegan, sederhana, cantik, minimal, gelap, terang, dll)
 - ▢ Deskripsikan sifat konten, fokus, atau tujuan website tersebut, dengan minimal 5 sifat. (teoritis, seru, lucu, serius, praktis)
 - ▢ Seberapa mudah kamu dapat menemukan hal yang kamu cari dari halaman utama? Bagaimana jika dari halaman lain?

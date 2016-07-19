@@ -8,6 +8,8 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 ## Monday
 
+- ▢ [Berpikir secara lebih efektif dan efisien](./thinking.md)
+  - Time Management, Productivity, and Mindfulness
 - ▢ [Mengenal JavaScript versi terbaru yaitu ECMAScript 2015 (ES6)](./js-ecmascript.md)
 - ▢ [Menggunakan Developer Tools dalam browser](./dev-tools.md)
 - ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](./js-basics.md)
@@ -16,13 +18,10 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
   - Syntax and Statement
   - Expression and Value
   - Variable and Operator
-- ▢ [Memanfaatkan style guide untuk JavaScript](./js-style-guide.md)
-- ▢ [Mengenal adaptive web design dan Responsive Web Design (RWB)](./web-design.md)
 
 ## Tuesday
 
-- ▢ [Berpikir secara lebih efektif dan efisien](./thinking.md)
-  - Time Management, Productivity, and Mindfulness
+- ▢ [Memanfaatkan style guide untuk JavaScript](./js-style-guide.md)
 - ▢ [Memahami dan menggunakan struktur dan tipe data di JavaScript](./js-data.md)
   - Number
   - String
@@ -36,6 +35,8 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 ## Wednesday
 
 - ▢ [Memahami budaya dan team work dalam pengembangan software](./software-culture-teamwork.md)
+- ▢ [Mengenal berbagai teknik kolaborasi](./collaboration.md)
+- ▢ [Mengenal pair programming](./pair-programming.md)
 - ▢ [Memahami alur logika di JavaScript](./js-logic.md)
   - Conditionals
   - Iteration

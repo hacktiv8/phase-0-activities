@@ -6,11 +6,9 @@ Halo ${student-first-name},
 
 Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Kali ini, kita akan lebih intens dalam pembelajaran. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu. Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu 15-30 jam.
 
-**Apa bedanya Phase 0 dengan online course biasa yang gratis?** Seperti pada briefing, di sini kita sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun bersifat _open-ended path_, bisa belajar dari berbagai sumber. Hingga pada saat selesai, kamu sudah punya pondasi yang kuat saat masuk Phase 1, dalam sesi kelas on site yang tentunya sangat immersive! Karena biasanya juga, online course yang gratis pedomannya seringkali alurnya masih  _nanggung_. Selain itu di Phase 0 kamu mendapat dukungan dan bimbingan dari para instruktur jika butuh bantuan, baik online maupun langsung di tempat jika kamu ingin datang.
+**Apa bedanya Phase 0 dengan online course biasa yang gratis?** Seperti pada briefing, di sini kita sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun bersifat _open-ended path_, bisa belajar dari berbagai sumber. Hingga pada saat selesai, kamu sudah punya pondasi yang kuat saat masuk Phase 1, dalam sesi kelas on site yang tentunya sangat immersive! Karena biasanya juga, online course yang gratis pedomannya seringkali alurnya masih  _nanggung_. Selain itu di Phase 0 kamu mendapat dukungan dan bimbingan dari para instruktur jika butuh bantuan, baik online maupun langsung di tempat jika kamu ingin datang. Kita juga bukan hanya belajar coding, namun juga pemecahan masalah, melatih kemampuan personal, bahkan hingga bersosialisasi dengan developer lainnya.
 
-**Bagaimana Phase 0 ini akan berjalan?** Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 9 email (termasuk email ini) dalam 4 pekan. Jadi setiap pekan kamu akan mendapatkan dua email, pada hari Minggu dan Rabu, kemudian ditutup pada hari Sabtu. Sehingga diharapkan bahwa kamu dapat menyelesaikan materi yang disertakan di email dalam tempo sekitar 3 hari saja. Mantap!
-
-**Apa saja modul dan goal utama tiap pekan?** Masing-masing pekan menargetkan kita untuk membuat web dan aplikasi, sesuai dengan skill set yang didapat.
+**Bagaimana Phase 0 ini akan berjalan?** Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 4 email (termasuk email ini) yang akan dikirim tiap pekannya. Masing-masing pekan menargetkan kita untuk selalu membuat web maupun aplikasi, sesuai dengan skill set yang sudah didapat. Mantap!
 
 ![Let's get ready](images/ready.png)
 
@@ -49,8 +47,7 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 ## Friday
 
-- ▢ [Mengenal berbagai teknik kolaborasi](./collaboration.md)
-- ▢ [Mengenal pair programming](./pair-programming.md)
+- ▢ [Mengenal adaptive web design dan Responsive Web Design (RWB)](./web-design.md)
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
 - ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](./core-values.md)
