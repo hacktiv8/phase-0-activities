@@ -41,7 +41,7 @@ Berikut contoh cerita yang terdapat beberapa bagian serta gambar-gambar yang kam
   - `git add blog/*.html`
   - `git commit -m "Create the first blog post"`
   - `git push`
-- ▢ Cek halaman cerita yang sudah dibuat
+- ▢ Cek halaman cerita atau blog post yang sudah dibuat
 
 ## References
 

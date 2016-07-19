@@ -29,16 +29,15 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 - ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](week-1/cli-git-github-practice.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5 yang perlu kamu ketahui dan kuasai](week-1/html5-elements.md)
-- ▢ [Memahami dan menggunakan aturan CSS3](week-1/css3-rules.md)
-- ▢ [Membuat animasi dengan CSS3](week-1/css3-animations.md)
-- ▢ [Membuat artikel berita sederhana](week-1/news-article.md)
-- ▢ [Membuat cerita bergambar](week-1/story-with-images.md)
-- ▢ [Membuat contact form pribadi](week-1/contact-form.md)
+- ▢ [Memahami dan menggunakan aturan dasar CSS3](week-1/css3-rules.md)
+- ▢ [Membuat transformasi dan animasi dengan CSS3](week-1/css3-advanced.md)
 
 ## Wednesday
 
 - ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](week-1/internet-web.md)
-
+- ▢ [Membuat artikel berita sederhana](week-1/news-article.md)
+- ▢ [Membuat cerita bergambar](week-1/story-with-images.md)
+- ▢ [Membuat contact form pribadi](week-1/contact-form.md)
 - ▢ [Memanfaatkan style guide untuk HTML dan CSS](week-1/html-css-style-guide.md)
 
 ## Thursday

@@ -31,11 +31,11 @@ Berikut contoh formulir kontak dengan email dan berbagai input lain yang kami te
 
 ### 2. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push file HTML ke GitHub
+- ▢ Add, commit, dan push perubahan ke GitHub
   - `git add index.html`
   - `git commit -m "Add a contact form"`
   - `git push`
-- ▢ Cek halaman profil kamu yang sudah di-update
+- ▢ Cek halaman profil kamu yang terbaru
 
 ## References
 

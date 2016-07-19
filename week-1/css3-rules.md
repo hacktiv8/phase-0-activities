@@ -10,6 +10,8 @@ Menggunakan berbagai pondasi dan aturan CSS3 yang berfungsi untuk:
 - Positioning
 - Box model
 
+Kamu juga dapat menggunakan teknik shorthand untuk mengeset value untuk beberapa property khusus.
+
 ## Directions
 
 ### 1. Pastikan kamu sudah mengenal pondasi HTML dan CSS
@@ -25,8 +27,8 @@ Menggunakan berbagai pondasi dan aturan CSS3 yang berfungsi untuk:
 - ▢ Buatlah file `styles.css` dalam folder `styles`.
 - ▢ Ikutkan file CSS tersebut ke dalam file HTML dengan cara "external".
 - ▢ Gayakan berbagai elemen di halaman tersebut:
-  - Beri warna, warna background, bentuk font/tipografi yang sesuai
-  - Gunakan selector untuk `id` dan `class`
+  - Gunakan selector `id` dan `class`.
+  - Beri warna, warna background, bentuk font/tipografi yang sesuai.
 
 Sekarang struktur reponya menjadi:
 
@@ -44,7 +46,7 @@ Sekarang struktur reponya menjadi:
   - `git add styles/index.css`
   - `git commit -m "Create my style"`
   - `git push`
-- ▢ Cek tampilan halaman profil kamu yang ada di `[USERNAME].github.io/profile`
+- ▢ Cek tampilan halaman profil kamu sekarang
 
 ## References
 
@@ -54,6 +56,7 @@ Sekarang struktur reponya menjadi:
 - [Getting started with CSS, by Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [Introduction to CSS, by CSS Basics](http://cssbasics.com/introduction-to-css)
 - [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/getting-to-know-css) (lesson 3 to 9)
+- [Learn to Code Advanced HTML & CSS, by Shay Howe](http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning) (lesson 2 and 3)
 - [Belajar CSS dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-css-dari-dasar)
 - [Belajar CSS3, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-css3)
 
