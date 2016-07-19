@@ -36,21 +36,20 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 - ▢ [Membuat artikel berita sederhana](./news-article.md)
 - ▢ [Membuat cerita bergambar](./story-with-images.md)
 - ▢ [Membuat contact form pribadi](./contact-form.md)
-- ▢ [Memanfaatkan style guide untuk HTML dan CSS](./html-css-style-guide.md)
 
 ## Thursday
 
-- ▢ [Mengenal Web Literacy](./web-literacy.md)
+- ▢ [Memanfaatkan style guide untuk HTML dan CSS](./html-css-style-guide.md)
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./web-dev-process.md)
 - ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
 - ▢ [Mempelajari dan menggunakan teknik wireframing](./wireframing.md)
 
 ## Friday
 
+- ▢ [Mengenal Web Literacy](./web-literacy.md)
 - ▢ [Mengenal adaptive web design dan Responsive Web Design (RWB)](./web-design.md)
-- ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
-- ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](./core-values.md)
+- ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)
 
 ![Footer](images/footer.png)
 

@@ -9,7 +9,7 @@ Mengidentifikasi berbagai nilai inti yang kamu miliki dapat meningkatkan kesempa
 - ▢ Pilihlah berbagai nilai berikut yang kamu pikirkan ataupun rasakan saat kamu sedang dalam keadaan paling bahagia, bangga, puas, atau tenang. Tambahkan yang lain jika perlu.
 - ▢ Tulislah kalimat atau paragraf yang mengandung nilai-nilai yang kamu pilih. Jelaskan mengapa nilai tersebut berarti bagimu.
 - ▢ Ceritakan topik yang orang lain sering atau baru saja tanyakan atau minta saran kepadamu.
-- ▢ Buatlah halaman khusus untuk tulisan ini. Kemudian commit ke website kamu.
+- ▢ Buatlah halaman khusus untuk tulisan ini (misalnya `core-values.html`). Kemudian commit ke website kamu.
 
 Adil
 Aktivisme

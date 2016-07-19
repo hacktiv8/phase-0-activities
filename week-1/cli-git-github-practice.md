@@ -8,7 +8,7 @@ Melatih penggunaan command line serta Git dan GitHub lebih jauh akan memudahkan 
 
 ### 1. Melatih setup repositori Git dari awal
 
-TODO
+- ▢ TODO
 
 ### 2. Melatih percabangan commit
 

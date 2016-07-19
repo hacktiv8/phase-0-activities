@@ -8,8 +8,8 @@ Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan m
 
 ## Monday
 
-- ▢ [Mengenal ]()
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
+- ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
 - ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md)
   - package manager and npm
   - Class and Object
