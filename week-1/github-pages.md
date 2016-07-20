@@ -2,20 +2,19 @@
 
 ## Objectives
 
-- Membuat website sederhana yang akan ditaruh/di-host secara gratis dengan GitHub Pages.
-- Melakukan clone, add, commit, pull, dan push dari/ke GitHub.
+Saatnya membuat website sederhana yang akan ditaruh/di-host secara gratis dengan GitHub Pages. Kamu akan bisa melakukan clone, add, commit, pull, dan push dari/ke GitHub. Website sederhana ini akan kita update secara berkala seiring waktu, yang juga menjadi pusat mengumpulkan berbagai kegiatan yang sudah kamu kerjakan.
 
 ## Directions
 
-### 1. Membuat repositori website di GitHub
+### 1. Membuat repositori untuk website di GitHub
 
-- ▢ Sign in ke GitHub.
+- ▢ [Sign in ke GitHub](https://github.com/login).
 - ▢ Buat repositori publik baru dengan format nama `[USERNAME].github.io` dan deskripsi sesukamu.
 - ▢ Centang "Initialize this project with a README".
 - ▢ Pilih "Create repository"
 - Selamat, website kosongan kamu sudah dibuat dan dapat diakses di `[USERNAME].github.io`! :tada:
 
-Repositori bersifat distributif, yang berarti bisa ada di berbagai komputer sekaligus. Sekarang repositori tersebut hanya ada di GitHub. Untuk menambahkan dan mengedit file/folder, kamu perlu menduplikasikan ke komputermu. Hal ini disebut cloning repositori ke local. Repositori local adalah copy yang ada di komputer pribadi, sedangkan repositori remote ada di sebuah komputer lain atau server (misalnya GitHub).
+Seperti yang telah kamu pelajari, repositori bersifat distributif, yang berarti bisa ada di berbagai komputer sekaligus. Sekarang repositori tersebut hanya ada di GitHub. Untuk menambahkan dan mengedit file/folder, kamu perlu menduplikasikannya ke komputermu. Hal ini disebut cloning repositori ke local. Repositori local adalah copy yang ada di komputer pribadi, sedangkan repositori remote ada di sebuah komputer lain atau server (misalnya GitHub).
 
 ### 2. Clone repositori dari GitHub ke local dengan command line
 
@@ -39,7 +38,7 @@ Oke saatnya beraksi secara lebih nyata!
 - ▢ Kirim atau push commit pertama kalinya ke GitHub dengan `git push -u origin master`. Perintah push berikutnya bisa cukup dengan `git push` saja.
 - ▢ Bukalah `[USERNAME].github.io`, lalu saksikanlah halaman website kamu! Selamat! :tada:
 
-Cek kembali `https://github.com/[USERNAME]/[USERNAME].github.io`, kamu dapat melihat file `index.html` juga sudah muncul di situ.
+Cek kembali `https://github.com/[USERNAME]/[USERNAME].github.io`, kamu dapat melihat file `index.html` yang juga sudah muncul di situ.
 
 ### 4. Bonus: Generator
 

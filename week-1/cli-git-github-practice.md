@@ -2,17 +2,27 @@
 
 ## Objectives
 
-Melatih penggunaan command line serta Git dan GitHub lebih jauh akan memudahkan kamu seiring pengembangan HTML dan CSS kamu.
+Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memudahkan kamu seiring pengembangan web kamu. Eksperimen ini dapat secara bebas dilakukan, tidak harus sama persis dengan petunjuk, yang penting esensinya didapat.
 
 ## Directions
 
 ### 1. Melatih setup repositori Git dari awal
 
-- ▢ TODO
+- ▢ Buatlah folder baru sebagai latihan. Namanya bebas.
+- ▢ Inisilaisasi Git dalam folder tersebut dengan `git init`.
+- ▢ Kini kamu bisa cek status repositori dengan `git status`.
+- ▢ Tambahkan file teks misalnya `try.txt` atau `README.md`, lalu isi dengan beberapa tulisan. Gunakan perintah `touch` jika mau cepat.
+- ▢ Cek kembali status repositori. Latihlah untuk melakukan ini setiap saat.
+- ▢ Add dan commit perubahan yang ada.
 
-### 2. Melatih percabangan commit
+### 2. Melatih push dan pull
 
-TODO
+- ▢ [Buatlah repositori GitHub baru](https://github.com/new) bernama sama dengan repositori di local. Kemudian langsung `Create repository`.
+- ▢ Bacalah petunjuk yang ada pada halaman utama repositori kosong tersebut.
+  - ▢ Add remote dengan `git remote add origin [GIT SSH URL]`
+  - ▢ Kirim semua perubahan dengan `git push -u origin master`
+- ▢ Ubah isi file yang ada di GitHub langsung di web-nya, kemudian commit.
+- ▢ Dapatkan perubahan yang ada ke local dengan `git pull origin master`.
 
 ## References
 

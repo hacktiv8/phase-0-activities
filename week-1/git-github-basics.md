@@ -42,7 +42,7 @@ Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah ka
   - ▢ [Git, by Skillcrush](http://skillcrush.com/2013/02/18/git)
   - ▢ [Get started working with Git, by Skillcrush](http://skillcrush.com/2013/02/20/get-started-working-with-git)
   - ▢ [Is Git the Same Thing as Github!?, by Andrew McWilliams](https://jahya.net/blog/git-vs-github)
-- Menonton berbagai video berikut:
+- Menonton salah satu playlist video berikut:
   - ▢ [Playlist GitHub Quick Looks, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD17rhrz2BJWAPJMjR71B3IDx)
   - ▢ [Playlist Git Basics, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
   - ▢ [Playlist GitHub & Git Foundations, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)

@@ -22,6 +22,7 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 - ▢ Siapa programmer/engineer/developer idola (role model) kamu?
 - ▢ Boleh sertakan link website, blog, atau social media yang kamu punya.
 - ▢ Gunakan emoji agar lebih seru. :star2:
+- ▢ Simpanlah tulisan perkenalan kamu tersebut dengan baik.
 
 **Contoh**
 
@@ -41,5 +42,5 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 
 ## References
 
-- https://slack.com/videoguides
-- https://get.slack.help/hc/en-us/articles/217626328-Onboarding-checklist-for-new-users
+- [Slack Video Guides](https://slack.com/videoguides)
+- [Onboarding checklist for new users on Slack](https://get.slack.help/hc/en-us/articles/217626328-Onboarding-checklist-for-new-users)
