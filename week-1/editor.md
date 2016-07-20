@@ -1,0 +1,1 @@
+- <https://id.techinasia.com/developer-series-5-text-editor-modern>
