@@ -48,7 +48,7 @@ Pada dasarnya, setiap bahasa pemrograman modern memiliki hal-hal yang tertulis b
 
 Spesial untuk JavaScript, kita bisa menggunakan editor code biasa (code editor) untuk mengetikkan JavaScript bersamaan dengan HTML dan CSS; atau kita bisa langsung mengetikkan code ke dalam dev tools (terdapat di Chromium/Chrome dan Firefox) dengan membuka tab `console` (`Ctrl+Shift+J` atau `Cmd+Shift+J` di Chrome, `Ctrl+Shift+K` atau `Cmd+Shift+K` di Firefox). Artinya JavaScript bisa langsung digunakan dan ditulis di dalam browser ataupun editor code.
 
-<hr>
+Kamu juga bisa gunakan extension browser untuk editor JavaScript yang lebih dari sekadar console di dev tools seperti [Chrome Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn), [JSBin](http://jsbin.com), ataupun [CodePen](https://codepen.io). Apapun tools yang dipakai, yang terpenting adalah kita dapat mengakses editor atau console yang akan menjalankan sintaks JavaScript.
 
 ### Sintaks (Syntax) dan Pernyataan (Statement)
 
@@ -78,7 +78,7 @@ Perlu diketahui sebenarnya JavaScript tidak punya fungsi cetak (print) atau disp
 
 Baris-baris pada code program juga disebut ekspresi (expression), sejumlah nilai (values), variabel (variables), dan penghubung (operators) yang saat diinterpretasi akan mengembalikan sebuah nilai (return a value). Sebagai contoh:
 
-- "Hello!" adalah ekspresi yang berevaluasi menjadi `Hello!` di console.
+- `"Hello!"` adalah ekspresi yang berevaluasi menjadi `Hello!` di console.
 - `1 + 1` adalah ekspresi yang berevaluasi menjadi `2`.
 
 Kita juga bisa menghapus (clear) jendela console (console window) dengan `Ctrl+L`. Lalu untuk ganti baris atau masuk ke baris baru saat mengetikkan code, tekan `Shift` sambil `Return`/`Enter`.
@@ -219,7 +219,7 @@ typeof	    // Returns the type of a variable
 instanceof	// Returns true if an object is an instance of an object type
 ```
 
-Operator pendahulu untuk konsiderasi (precedence) mendeskripsikan sususan/urutan yang operasinya diprioritaskan untuk dilakukan (performed) dalam sebuah ekspresi. Untuk contoh sederhana seperti matematika zaman sekolah, perkalian (multiplication) dan pembagian (division) dilakukan pertama kali. Tanda kali (`*`) dan bagi (`/`) memilki precedence yang lebih tinggi dari tanda tambah (`+`) dan kurang (`-`). Precedence juga bisa dipaksa dengan tanda kurung biasa (parentheses). Saat ada precedence yang sama, maka akan dihitung/dikomputasi dari kiri ke kanan. Ini ada tabel contekan yang menggambarkan nilai precedencedari paling tinggki ke rendah (tidak perlu diingat semua, yang penting-penting saja).
+Operator pendahulu untuk konsiderasi (precedence) mendeskripsikan sususan/urutan yang operasinya diprioritaskan untuk dilakukan (performed) dalam sebuah ekspresi. Untuk contoh sederhana seperti matematika zaman sekolah, perkalian (multiplication) dan pembagian (division) dilakukan pertama kali. Tanda kali (`*`) dan bagi (`/`) memilki precedence yang lebih tinggi dari tanda tambah (`+`) dan kurang (`-`). Precedence juga bisa dipaksa dengan tanda kurung biasa (parentheses). Saat ada precedence yang sama, maka akan dihitung/dikomputasi dari kiri ke kanan. Ini ada tabel contekan yang menggambarkan nilai precedence dari paling tinggi ke rendah (tidak perlu diingat semua, yang penting-penting saja).
 
 |Value|Operator| Descriptions and Example |
 |-----|--------|--------------------------|

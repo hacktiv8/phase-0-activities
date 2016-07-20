@@ -14,7 +14,23 @@ Dalam menulis code yang profesional, diperlukan berbagai aturan atau standar yan
   - ▢ [CSS Style Guides, on CSS Tricks](https://css-tricks.com/css-style-guides)
   - ▢ [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 
-### 2. Merapikan penulisan code HTML dan CSS sebelumnya
+### 2. Memperhatikan meta data lebih lanjut
+
+Memberi data dan informasi yang berguna bagi browser bahkan juga pengguna adalah kegunaan meta data. Meta data dapat berupa judul website, deskripsi tentang website, kata kunci terkait, serta gambar icon.
+
+Modern ini terdapat meta data yang sangat bermanfaat bagi kita dan pengguna agar lebih memuat informasi yang jelas bagi platform media sosial serta search engine, seperti alamat, nomor telepon, foto-foto, dan lainnya. Untuk itu perlu disertakan tag meta data Facebook OpenGraph, Twitter Card, dan Google JSON-LD; namun akan kita bahas lain waktu saja.
+
+Contoh umum menggunakan meta data `title`, `description`, `author`, `icon`.
+
+```html
+<title>Hacktiv8 - Menjadi Full Stack Javascript Web Developer</title>
+<meta name="description" content="Hacktiv8 adalah sebuah pelatihan coding fulltime di Jakarta.">
+<meta name="keywords" content="hacktiv8, coding, bootcamp, javascript, web, developer">
+<meta name="author" content="Hacktiv8 Team">
+<link rel="icon" href="//favicon.ico" type="image/x-icon"/>
+```
+
+### 3. Merapikan penulisan code HTML dan CSS sebelumnya
 
 Update berbagai file HTML dan CSS yang sudah ada:
 
@@ -32,7 +48,7 @@ Update berbagai file HTML dan CSS yang sudah ada:
 
 Harap menyadari cara dan hasil penulisan code kamu. Pada berbagai kegiatan berikutnya, dianjurkan untuk udah bisa mengimplementasikannya secara alami.
 
-### 3. Kirim berbagai perubahan yang ada ke website kamu
+### 4. Kirim berbagai perubahan yang ada ke website kamu
 
 - ▢ Add, commit, dan push perubahan ke GitHub
   - `git add -A`

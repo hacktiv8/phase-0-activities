@@ -19,7 +19,7 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 
 - ▢ Siapa nama panggilanmu?
 - ▢ Mengapa kamu ikut bergabung?
-- ▢ Siapa programmer/engineer/developer idola (role model) Anda?
+- ▢ Siapa programmer/engineer/developer idola (role model) kamu?
 - ▢ Boleh sertakan link website, blog, atau social media yang kamu punya.
 - ▢ Gunakan emoji agar lebih seru. :star2:
 

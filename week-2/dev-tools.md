@@ -1,1 +1,17 @@
-Gunakan juga extension browser untuk editor JavaScript yang lebih dari sekadar console di dev tools seperti [Chrome Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn), ataupun [JSBin](http://jsbin.com) atau [CodePen](https://codepen.io).
+# Using Developer Tools in Browser
+
+## Objectives
+
+
+
+## Directions
+
+### Mengenal Chrome D
+
+- ▢
+- ▢
+- ▢
+
+## References
+
+-

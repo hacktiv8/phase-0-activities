@@ -11,6 +11,8 @@ Membuat simulasi daftar kontak sederhana yang dapat menyimpan nama, email, telep
 
 ## Directions
 
+(0) Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
+
 (1) Buatlah agar objek `DaftarKontak` berisi array kosong, yang nantinya akan memiliki beberapa objek lain.
 
 ```

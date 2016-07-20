@@ -6,9 +6,18 @@ Halo ${student-first-name},
 
 Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan mendapat berbagai petuah yang sangat berharga dalam perjalanan kita sebagai web developer.
 
+Pengetahuan yang sudah kita miliki tentang HTML, CSS, dan JavaScript sekarang sebenarnya sudah cukup banyak. Namun mulai muncul berbagai pertanyaan seperti:
+
+- Apakah yakin bahwa kita membuatnya dengan kualitas yang baik?
+- Apa itu ES2015/ES6? Saya dengar sedang populer?
+- Bagaimana tentang implementasi paradigma pemrograman terutama OOP?
+- Kita bisa mendesain aplikasi dengan lebih rapi?
+- Cara mengukur performa maupun kecepatan website kita?
+
+Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web application developer memerlukan peningkatan terus-menerus seiring waktu. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
+
 ## Monday
 
-- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
 - ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md)
   - package manager and npm

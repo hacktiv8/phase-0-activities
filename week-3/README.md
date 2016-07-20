@@ -11,27 +11,17 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 - ▢ [Bermain Blockly Games untuk pemanasan](./blockly-games.md)
   - https://blockly-games.appspot.com
 - ▢ [Memahami HTML DOM dan kaitannya dengan JavaScript](./js-html-dom.md)
-  - Introduction to DOM API
-  - Integrate with HTML and CSS
-  - DOM Traversing
-  - DOM Manipulation
-  - DOM Style
-  - Node Property, Value, Attributes
 - ▢ [Mengubah-ubah berbagai style pada DOM](./dom-styling.md)
 
 ## Tuesday
 
 - ▢ [Bermain Code Combat dengan JavaScript](./code-combat.md)
-- ▢ [Memahami event pada JavaScript](./js-event.md)
-  - `this` Keyword
-  - Modern Event Handler/Listener Model
-  - Event Object
+- ▢ [Memahami event pada JavaScript](./js-events.md)
 - ▢ [Membuat tulisan pelangi menggunakan JavaScript](./rainbow-text.md)
 - ▢ [Mengubah gaya tulisan dengan event listener](./text-style-event.md)
 
 ## Wednesday
 
-- ▢ [Mengenal Node.js dan ekosistemnya](./nodejs.md)
 - ▢ [Memahami scope pada JavaScript lebih dalam](./js-scope.md)
 - ▢ [Membuat slide galeri gambar sederhana](./gallery-slide.md)
 - ▢ [Membuat permainan tebak angka](./number-guess.md)
@@ -44,10 +34,10 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 
 ## Friday
 
-- ▢ [Mengeksplorasi berbagai situs dan komunitas developer](./.md)
+- ▢ [Mengeksplorasi berbagai situs dan komunitas developer](./community.md)
   - Hacker News, Stack Overflow
 - ▢ [Berkreasi untuk membuat web yang interaktif](./web-interactive.md)
-- ▢ [Memahami ekosistem developer](./.md)
+- ▢ [Memahami ekosistem developer](./dev-ecosystem.md)
 
 ![Footer](images/footer.png)
 

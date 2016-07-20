@@ -11,6 +11,8 @@ Permainan suit lokal yang mengumpamakan jempol, telunjuk, dan kelingking sebagai
 
 ## Directions
 
+(0) Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
+
 (1) Buatlah fungsi pilihan aksi pengguna dimana akan ditanyakan "Jempol / Telunjuk / Kelingking?". Lalu jika pengguna menulis "Telunjuk" maka dicetak "telunjuk" pada console. Kita dapat memanggil fungsi aksi tersebut seperti berikut, yang akan disimpan dalam sebuah variabel.
 
 ```

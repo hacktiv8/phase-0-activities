@@ -12,6 +12,8 @@ Membuat berbagai fungsi matematika dasar.
 
 ## Directions
 
+(0) Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
+
 (1) Buatlah fungsi pangkat angka agar kode berikut dapat berjalan:
 
 ```
