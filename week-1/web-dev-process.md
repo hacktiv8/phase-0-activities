@@ -22,8 +22,8 @@ Yuk kita kenali teknik perencanaan, proses, dan manajemen pengembangan web. Agar
 
 ### 2. Menceritakan perencanaan sederhana web kamu
 
-1. Website apa yang paling ingin kamu buat? Tentang apa?
-2. Hasil atau informasi apa yang paling ingin kamu sampaikan?
-3. Bagaimana kira-kira kamu memproses pembuatan website dari awal hingga akhir?
+- ▢ Website apa yang paling ingin kamu buat? Tentang apa?
+- ▢ Hasil atau informasi apa yang paling ingin kamu sampaikan?
+- ▢ Bagaimana kira-kira kamu memproses pembuatan website dari awal hingga akhir?
 
 Buatlah sebuah halaman `web-dev.html` dalam website kamu, lalu jabarkan pertanyaan tersebut dan jawaban kamu di dalamnya.
