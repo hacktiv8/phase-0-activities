@@ -11,7 +11,8 @@
 
 Tiba saatnya dalam hal favorit yang paling dinantikan oleh semua web developer: membuat website untuk pribadi! Beberapa orang melakukannya sebagai hobi yang seru, karena kita bisa mengekspresikan diri sekaligus bereksperimen dengan berbagai teknologi web. Sertakan minimal nama dan hal-hal favoritmu! Kreasikan dirimu.
 
-- ▢ Buat ulang website kamu yang terdapat di `[USERNAME].github.io`
+- ▢ Buat ulang website kamu yang terdapat di `[USERNAME].github.io` dengan lebih baik.
+- ▢ Link semua halaman hasil aktivitas yang ada jika belum.
 
 ### Bonus Inpirasi
 
