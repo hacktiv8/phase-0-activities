@@ -14,7 +14,7 @@ Dalam dunia web development, kita sangat perlu untuk memahami makna dan perbedaa
 
 Karena pada umumnya, berbagai istilah ini banyak yang salah paham atau ketukar-tukar. Mengenai kegunaannya, peletakannya, cara kerjanya, dan bagaimana cara pembuatannya lebih lanjut.
 
-## Directions
+## Learnings
 
 Ikuti, bacalah, atau tonton berbagai resource yang disertakan. Kamu juga bisa belajar dari referensi lain di luar ini.
 

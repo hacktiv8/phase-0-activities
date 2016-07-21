@@ -40,7 +40,7 @@ Oke saatnya beraksi secara lebih nyata!
 
 Cek kembali `https://github.com/[USERNAME]/[USERNAME].github.io`, kamu dapat melihat file `index.html` yang juga sudah muncul di situ.
 
-### 4. Bonus: Generator
+### 4. (Opsional) Generator
 
 Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Page Generator" yang terdapat di settings-nya. ( `https://github.com/[USERNAME]/[USERNAME].github.io/settings`). Di situ kamu bisa mengubah konten, memilih tema, kemudian mempublikasikannya
 
