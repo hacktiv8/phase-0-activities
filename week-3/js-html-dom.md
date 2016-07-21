@@ -45,24 +45,6 @@ Mirip dengan cara mencetak JavaScript ke halaman web!
 document.write("Hello!");
 ```
 
-### JavaScript dalam HTML
-
-Bagi yang belum tahu bagaimana cara JavaScript dapat digunakan dalam HTML, perhatikan contoh berikut.
-
-```html
-<html>
-  <head>
-    <script src="example.js"> <!-- cara pertama -->
-  </head>
-  <body>
-    <h1 onClick="changeColor('red')">Something</h1> <!-- cara kedua -->
-    <script>
-       document.write("Tulisan"); <!-- cara ketiga -->
-    </script>
-  </body>
-</html>
-```
-
 ### Menjelajahi DOM (DOM Traversing)
 
 Bayangkan rangkaian kaitan DOM seperti sebuah pohon yang terbalik. Pada dasarnya HTML dimulai dari node `html` sebagai ujung/akar paling awal (root), kemudian lanjut ke cabang lainnya seperti `head` (masuk ke `title`, `link`, dll) yang bersebelahan dengan `body` yang di dalamnya terdapat berbagai elemen umum seperti `div`, `h1`, `p`, `ul` (yang bisa berisi `li`), `table` (berisi `tr`, `td`), serta lain sebagainya.

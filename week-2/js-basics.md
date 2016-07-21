@@ -96,6 +96,28 @@ Agar penulisan code kita sederhana, kita tidak perlu pakai titik koma. Tapi juga
   }
 ```
 
+### JavaScript dalam HTML
+
+JavaScript memiliki banyak cara untuk dapat digunakan dalam HTML selain lewat console. Perhatikan contoh berikut.
+
+```html
+<html>
+  <head>
+    <script src="example.js"> <!-- cara pertama -->
+  </head>
+  <body>
+    <h1 onClick="changeColor('red')">Something</h1> <!-- cara kedua -->
+    <script>
+       document.write("Tulisan"); <!-- cara ketiga -->
+    </script>
+  </body>
+</html>
+```
+
+- Cara pertama merupakan mengikutkan file JavaScript secara external.
+- Yang kedua menggunakan code JavaScript dalam element HTML tertentu.
+- Kemudian yang terakhir adalah meng-embed code JavaScript langsung di element `script`.
+
 ### Komentar (Comments)
 
 Cara unik untuk menambahkan beberapa penjelasan dan membuatnya lebih mudah terbaca seringkali digunakan oleh programmer yang baik. Bisa juga digunakan untuk mencegah eksekusi code, saat mencoba-coba atau mengetes code alternatif atau yang belum berjalan.
@@ -108,11 +130,9 @@ Cara unik untuk menambahkan beberapa penjelasan dan membuatnya lebih mudah terba
 > // console.log("Try me!"); // This code would not run
 ```
 
-Berikutnya di berbagai contoh, kita tidak perlu mengetikkan komentar untuk menjalankan statement. Hanya dibaca sebagai keterangan.
+Berikutnya di berbagai contoh yang ada, kita tidak perlu mengetikkan komentar untuk menjalankan statement. Hanya dibaca sebagai keterangan.
 
-<hr>
-
-## Variabel (Variable)
+### Variabel (Variable)
 
 Variabel bisa memegang atau berisi hampir semua tipe data yang tersedia. Variabel memungkinkan kita untuk memuat atau menyimpan nilai data ke dalam sesuatu. Biasanya bersifat sementara saat program dijalankan.
 
@@ -173,7 +193,7 @@ Gaya penamaan sebenarnya bebas dan terserah. Tapi di JavaScript kami merekomenda
 - Penamaan itu case sensitive `x` dan `X` berbeda
 - Kata-kata yang sudah dipesan (reserved words) oleh JavaScript seperti kata kunci `var`, `function`, `for`; tidak bisa digunakan untuk nama variabel
 
-## Operator
+### Operator
 
 Kamu sudah tahu beberapa aritmatika dasar dan operator penugasan (assignment operators) dari aktifitas sebelumnya dengan variabel. Mari kita coba lebih jauh!! Assignment operator memungkinkan kita untuk mengkombinasikan tanda sama dengan (equal sign `=`) dengan tanda aritmetis untuk membuat statement. Variabel (`a`) atau angka (`10`) disebut operand dan operasi yang akan dilakukan oleh dua operand didefinisikan dengan operator (`=` atau `+=`).
 

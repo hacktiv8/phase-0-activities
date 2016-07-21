@@ -155,3 +155,10 @@ Array seperti tumpukan data. Bayangkan sebuah botol atau toples yang berisi bebe
 > animals.pop()
 > animals.slice(0, 2)
 ```
+
+## References
+
+- [JavaScript (Original) on Codecademy](https://www.codecademy.com/en/tracks/javascript-original)
+- [JavaScript on Codecademy](https://www.codecademy.com/learn/javascript)
+- [JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Belajar javascript untuk pemula, di Sekolah Koding](https://sekolahkoding.com/kelas/belajar-javascript-untuk-pemula)

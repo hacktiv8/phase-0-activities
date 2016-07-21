@@ -24,14 +24,14 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 - ▢ [Memanfaatkan code style guide untuk JavaScript](./js-code-style.md)
 - ▢ [Memahami alur logika di JavaScript](./js-logic.md)
 - ▢ [Memahami function dan method di JavaScript](./js-function-method.md)
-- ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
+- ▢ [Mengenal debugging untuk menyelesaikan masalah code](./debugging.md)
 
 ## Thursday
 
-- ▢ [Mengenal debugging untuk menyelesaikan masalah code](./debugging.md)
 - ▢ [Membuat fungsi matematika dasar](./math-basics.md)
 - ▢ [Membuat permainan suit jepang](./rock-paper-scissors.md)
 - ▢ [Membuat daftar kontak sederhana](./contact-list.md)
+- ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 
 ## Friday
 
