@@ -36,6 +36,7 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 ## Friday
 
 - ▢ [Memahami open source dan fenomenanya](./open-source.md)
+- ▢ [Mengenal dan menggunakan Dev Tools lebih lanjut](./dev-tools.md)
 - ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)
 

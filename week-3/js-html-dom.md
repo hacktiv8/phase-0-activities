@@ -202,4 +202,4 @@ Silakan coba-coba secara mandiri dengan bantuan Dev Tools Console dan Elements s
 
 ### References
 
-- http://skillcrush.com/2012/10/17/dom-document-object-model
+- [DOM (Document Object Model) on Skillcrush](http://skillcrush.com/2012/10/17/dom-document-object-model)
