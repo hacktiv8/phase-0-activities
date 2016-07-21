@@ -13,6 +13,10 @@ Kenali berbagai teknik yang dipakai dalam AWD dan RWB serta perbedaannya dengan 
 - ▢ [Responsive Web Design, by Ethan Marcotte on A List Apart](http://alistapart.com/article/responsive-web-design)
 - ▢ [Responsive Website Basics (in 3 simple steps), YouTube video by DevTips](https://www.youtube.com/watch?v=h3IdEqpjMvQ)
 - ▢ [Responsive vs. Adaptive Design: What’s the Best Choice for Designers? by Jerry Cao Jerry Cao on UXPin](https://www.uxpin.com/studio/blog/responsive-vs-adaptive-design-whats-best-choice-designers)
-- ▢ [Designing for Breakpoints, by Stephen Hay on A List Apart](http://alistapart.com/article/designing-for-breakpoints)
 - ▢ [Mobile Web Design - Coding Workflow For Mobile Websites, YouTube video by LearnCode.academy](https://www.youtube.com/watch?v=D25OVUVBVt8)
+
+**Opsional**
+
+- ▢ [Efficient Responsive Design Process, on Smashing Magazine](https://www.smashingmagazine.com/2016/02/efficient-responsive-design-process)
+- ▢ [Designing for Breakpoints, by Stephen Hay on A List Apart](http://alistapart.com/article/designing-for-breakpoints)
 - ▢ [Building Your Mobile-Friendly Site - The Distilled Best Practice Guide](https://www.distilled.net/training/mobile-seo-guide)
