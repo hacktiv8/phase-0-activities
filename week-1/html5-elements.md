@@ -74,6 +74,7 @@ Sehingga sekarang struktur foldernya menjadi:
 - [Intro to HTML & CSS Online Course, by Udacity](https://udacity.com/course/intro-to-html-and-css--ud304)
 - [Belajar HTML dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html-dari-dasar)
 - [Belajar HTML5, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html5)
+- [HTML5 Doctor](http://html5doctor.com)
 
 **Extra**
 

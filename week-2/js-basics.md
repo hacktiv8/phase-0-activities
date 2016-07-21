@@ -16,7 +16,7 @@ Berikut adalah beberapa hal yang kamu perlu cek saat mengikuti pedoman ini beser
 - ▢ Memahami expression dan value di JavaScript
 - ▢ Mendokumentasikan code program dengan komentar
 
-## Directions
+## Learnings
 
 ### Mengenal JavaScript
 

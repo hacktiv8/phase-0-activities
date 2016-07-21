@@ -32,3 +32,15 @@ Kita akan bahas ini lain kali. Namun sekarang cukup tahu terlebih dahulu saja, b
 - Service Oriented Architecture (SOA)
 - Real Time Protocol with Socket.io
 - dan berbagai lainnya sesuai kebutuhan
+
+## References
+
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
+- [Applications architecture - Wikipedia](https://en.wikipedia.org/wiki/Applications_architecture)
+- [What is Software Architecture? - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/ee658098.aspx)
+- [Service-oriented architecture - Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [Microservices - Martin Fowler](http://martinfowler.com/articles/microservices.html)
+- [Web Application Architectures - University of New Mexico - Coursera](https://www.coursera.org/course/webapplications)
+- [Front-End Web UI Frameworks and Tools - The Hong Kong University of Science and Technology - Coursera](https://www.coursera.org/learn/web-frameworks)
+- [Web Application Development with JavaScript and MongoDB - University of London, Goldsmiths, University of London - Coursera](https://www.coursera.org/learn/web-application-development)
+- [BuiltWith: Technology Lookup, Website Analysis and Technology Trends](http://builtwith.com)

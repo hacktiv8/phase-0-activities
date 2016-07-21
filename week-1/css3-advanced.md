@@ -45,4 +45,5 @@ Selalu gunakan selector `id` dan `class` untuk berbagai element.
 
 ## References
 
+- [CSS3 Awesome: CSS Transitions, Transforms, and Animation Tutorial](http://css3.bradshawenterprises.com)
 - [The Guide To CSS Animation: Principles and Examples, by Tom Waterhouse on Smashing Magazine] (https://www.smashingmagazine.com/2011/09/the-guide-to-css-animation-principles-and-examples)

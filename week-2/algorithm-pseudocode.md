@@ -4,7 +4,7 @@
 
 - ▢ Memahami struktur alur program dengan algoritma dan pseudocode
 
-## Directions
+## Learnings
 
 ### Mengenal Algoritma
 
@@ -81,4 +81,6 @@ puts c
 
 ### References
 
--
+- [What is a computer algorithm? on HowStuffWorks](http://computer.howstuffworks.com/question717.htm)
+- [Algorithm, on Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+- [Sorting Algorithm Animations](http://sorting-algorithms.com)

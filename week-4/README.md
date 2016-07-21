@@ -38,8 +38,6 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 
 - ▢ [Mengenal teknologi database](./database.md)
 - ▢ [Mengenal desain dan arsitektur aplikasi](./app-design-architecture.md)
-  - Design Pattern: MVC
-  - Various Application Architecture
 - ▢ [Melatih modularisasi pengembangan aplikasi dan website](./modularization.md)
 - ▢ [Membuat rancangan website yang modular](./modular-design.md)
 

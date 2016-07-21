@@ -22,31 +22,34 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 - ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./git-github-basics.md)
 - ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](./github-pages.md)
 - ▢ [Melakukan pencatatan pribadi atau blogging](./blogging.md)
+- ▢ [Memastikan kamu mengetahui dasar penyusun website](./website.md)
 
 ## Tuesday
 
 - ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./cli-git-github-practice.md)
+- ▢ [Mempelajari dasar HTML5](./html5-basics.md)
+- ▢ [Mempelajari dasar HTML5 Forms](./html5-forms-basics.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5 yang perlu kamu ketahui dan kuasai](./html5-elements.md)
-- ▢ [Memahami dan menggunakan aturan dasar CSS3](./css3-rules.md)
-- ▢ [Membuat transformasi dan animasi dengan CSS3](./css3-advanced.md)
 
 ## Wednesday
 
 - ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](./internet-web.md)
-- ▢ [Membuat artikel berita sederhana](./news-article.md)
-- ▢ [Membuat cerita bergambar](./story-with-images.md)
-- ▢ [Membuat contact form pribadi](./contact-form.md)
+- ▢ [Mempelajari dasar CSS3](./css3-basics.md)
+- ▢ [Menggunakan aturan dasar CSS3](./css3-rules.md)
+- ▢ [Membuat transformasi dan animasi dengan CSS3](./css3-advanced.md)
 
 ## Thursday
 
 - ▢ [Memanfaatkan code style guide untuk HTML dan CSS](./html-css-code-style.md)
+- ▢ [Membuat artikel berita sederhana](./news-article.md)
+- ▢ [Membuat cerita bergambar](./story-with-images.md)
+- ▢ [Membuat contact form pribadi](./contact-form.md)
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./web-dev-process.md)
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
 - ▢ [Mempelajari dan menggunakan teknik wireframing](./wireframing.md)
 
 ## Friday
 
-- ▢ [Mengenal Web Literacy](./web-literacy.md)
+- ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
 - ▢ [Mengenal adaptive web design dan Responsive Web Design (RWB)](./web-design.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](./core-values.md)
 - ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)

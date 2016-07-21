@@ -2,7 +2,7 @@
 
 ## Objectives
 
-
+Berikut hal-hal yang kita perlu pahami dengan apa yang akan kita lakukan setiap hari pada fase ini. Teknik-teknik ini juga berguna untuk belajar lebih baik, efektif, dan efisien sambil melakukan pengembangan (development) diri dan aplikasi yang kita buat.
 
 ## Directions
 
