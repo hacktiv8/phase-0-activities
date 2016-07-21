@@ -39,7 +39,7 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 ## Thursday
 
-- ▢ [Memanfaatkan style guide untuk HTML dan CSS](./html-css-style-guide.md)
+- ▢ [Memanfaatkan code style guide untuk HTML dan CSS](./html-css-code-style.md)
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./web-dev-process.md)
 - ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
 - ▢ [Mempelajari dan menggunakan teknik wireframing](./wireframing.md)

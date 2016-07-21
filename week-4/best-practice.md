@@ -1,8 +1,14 @@
-# Get Advised with Best Practice
+# Explore Best Practices on Web Development
 
 ## Objectives
 
 Terkait lebih dalam dan jauh mengenai best practice, berikut pedoman yang didedikasikan untuk menyertakan hal-hal apa saja yang membantu kita mencapai kualitas website, kode program, dan aplikasi yang baik.
+
+- ▢ Mengetahui Frontend Library dan Framework
+- ▢ Mengetahui Frontend Application Library dan Framework
+- ▢ Mengetahui Backend Application Library dan Framework
+- ▢ Mengetahui Versioning
+- ▢ Mengetahui Preprocessing dan Templating
 
 ## Directions
 

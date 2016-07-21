@@ -1,15 +1,11 @@
-# Change Element Style with Event Listener
+# Change Text Style with Event Listener
 
 ## Objectives
 
-Optimalkan code kita menggunakan event listener daripada menggunakan event handler tradisional sebelumnya.
-
-- ▢ Membuat event handler/listener.
+- ▢ Mengoptimalkan code kita menggunakan event listener daripada menggunakan event handler tradisional sebelumnya.
 - ▢ Memasang function pada event listener.
 - ▢ Mendapatkan objek event dan mengolahnya.
 - ▢ Menempatkan listener tergantung konteksnya.
-
-## Directions
 
 Context menu yang akan kita buat sesederhana untuk mengubah gaya font pada text yang kita klik. Ditampilkan seperti berikut.
 
@@ -25,12 +21,20 @@ Setelah diklik kanan:
 
 ![Style klik kanan](assets/style-event_right.png)
 
-(0) Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
+## Directions
 
-(1) Buatlah berbagai teks/tulisan yang kamu mau. Bisa pakai `h1`, `p`, `span`, ataupun `button`.
+Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
 
-(2) Buatlah event listener untuk elemen tersebut yang akan beraksi jika ada klik kanan (`click`/`mousedown`) dan klik kiri (`contextmenu`)
+### 1. Buatlah berbagai teks/tulisan yang kamu mau
 
-(3) Di baris sebelum menambah event listener, buatlah fungsi untuk mengganti style dari tulisan, misalnya `makeBold()` dan `makeItalic()`.
+Bisa pakai `h1`, `p`, `span`, ataupun `button`.
 
-(4) Cobalah untuk klik kanan dan kiri terhadap teks tersebut.
+### 2. Buatlah event listener untuk elemen tersebut
+
+Event listener akan beraksi jika ada klik kanan (`click`/`mousedown`) dan klik kiri (`contextmenu`). Bisa juga memberi event listener pada element yang berbeda. Jadi misalnya tombol memiliki event yang dapat mengganti sifat element tulisan.
+
+### 3. Buat fungsi untuk mengganti style
+
+Di baris sebelum menambah event listener, buatlah fungsi untuk mengganti style dari tulisan, misalnya `makeBold()` dan `makeItalic()`.
+
+### 4. Cobalah untuk klik kanan dan kiri untuk mengubah tulisan tersebut

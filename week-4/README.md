@@ -26,19 +26,10 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 - ▢ [Mengenal berbagai macam paradigma pemrograman](./programming-paradigm.md)
 - ▢ [Mengenal Object-Oriented Programming](./oop-basics.md)
 - ▢ [Membuat rancangan relasi objek untuk persiapan OOP](./oop-design.md)
-- ▢ [Mengimplementasikan OOP di JavaScript](./oop-implementation.md)
 
 ## Wednesday
 
-- ▢ [Mengeksplorasi lebih lanjut pedoman dan pengecekan sintaks dalam penulisan code](./syntax-checking.md)
-  - Style Checking dan Hinting/Linting
-- ▢ [Mengeksplorasi best practice dalam pembuatan aplikasi web](./best-practice.md)
-  - Frontend Library dan Framework
-  - Frontend Application Library dan Framework
-  - Backend Application Library dan Framework
-  - Versioning
-  - Preprocessing dan Templating
-  - Boilerplate
+- ▢ [Mengeksplorasi berbagai best practice dalam pembuatan aplikasi web](./best-practice.md)
 - ▢ [Menggunakan jQuery](./jquery.md)
 - ▢ [Menggunakan Bootstrap](./bootstrap.md)
 - ▢ [Menggunakan HTML5 boilerplate](./html5-boilerplate.md)
@@ -55,7 +46,6 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 ## Friday
 
 - ▢ [Mengecek kualitas code dengan hinting/linting](./hinting-linting.md)
-- ▢ [Mengenal cara pengetesan aplikasi](./testing.md)
 - ▢ [Melihat performa kecepatan website dengan online tools](./website-speed.md)
 - ▢ [Menghemat aset website dengan kompresi](./assets-compression.md)
 - ▢ [Membuat website profil pribadi kita sendiri](./website-profile.md)

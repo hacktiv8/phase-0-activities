@@ -109,7 +109,7 @@ elem.addEventListener("click", logMessage, false);
 
 ### Objek Event
 
-Hebatnya di JavaScript adalah bahkan sebuah event merupakan object juga. Tentu secara tersirat kita telah ketahui ini pada saat menggunakan event handler dan listener.
+Hebatnya di JavaScript adalah, bahkan sebuah event merupakan object juga. Tentu secara tersirat kita telah ketahui ini pada saat menggunakan event handler dan listener.
 
 Mengambil object event biasanya dilakukan dengan pola seperti...
 
@@ -126,7 +126,7 @@ Objek event memilki berbagai property yang bisa kita gunakan seperti `target`, `
 Salah satu method paling digunakan pada objek event adalah `preventDefault()` dimana dengan ini kita bisa mencegah browser melalukan aksi default/normal terkait dengan respon pada event. Misalnya di sini mencegah agar anchor tidak dapat berfungsi.
 
 ```html
-<a id="example" href="http://hacktiv8.com">Hacktiv8</a>
+<a id="example" href="http://example.com">Example</a>
 ```
 
 ```javascript
@@ -140,3 +140,7 @@ Gunanya untuk apa? Bisa saja ke depan kita ingin membuat menimpa sifat bawaan da
 **Catatan Penting:** Jika ingin menggunakan event listener yang memanggil sebuah fungsi, deklarasikan terlebih dahulu fungsi tersebut sebelum memasang event listener terhadap elemen.
 
 ### References
+
+- [JavaScript: Events and Listeners, on I'd Rather Be Writing](http://idratherbewriting.com/events-and-listeners-javascript)
+- [JavaScript Events, on W3Schools](http://www.w3schools.com/js/js_events.asp)
+- [DevDocs DOM Event API Documentation](http://devdocs.io/dom_events)

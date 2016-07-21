@@ -10,38 +10,35 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 
 - ▢ [Bermain Blockly Games untuk pemanasan](./blockly-games.md)
   - https://blockly-games.appspot.com
-- ▢ [Memahami HTML DOM dan kaitannya dengan JavaScript](./js-html-dom.md)
-- ▢ [Mengubah-ubah berbagai style pada DOM](./dom-styling.md)
+- ▢ [Bermain Code Combat dengan JavaScript](./code-combat.md)
+- ▢ [Bermain di Codewars](./codewars.md)
 
 ## Tuesday
 
-- ▢ [Bermain Code Combat dengan JavaScript](./code-combat.md)
-- ▢ [Memahami event pada JavaScript](./js-events.md)
-- ▢ [Membuat tulisan pelangi menggunakan JavaScript](./rainbow-text.md)
-- ▢ [Mengubah gaya tulisan dengan event listener](./text-style-event.md)
+- ▢ [Memahami DOM dan Dev Tools lebih lanjut](./js-dom-devtools.md)
+- ▢ [Memahami events pada JavaScript](./js-events.md)
+- ▢ [Memahami scope pada JavaScript lebih dalam](./js-scope.md)
 
 ## Wednesday
 
-- ▢ [Memahami scope pada JavaScript lebih dalam](./js-scope.md)
+- ▢ [Membuat tulisan pelangi menggunakan JavaScript](./rainbow-text.md)
+- ▢ [Mengubah gaya tulisan dengan event listener](./text-style-event.md)
 - ▢ [Membuat slide galeri gambar sederhana](./gallery-slide.md)
-- ▢ [Membuat permainan tebak angka](./number-guess.md)
 
 ## Thursday
 
-- ▢ [Bermain di Codewars](./codewars.md)
 - ▢ [Mengenal SVG](./svg.md)
 - ▢ [Mengenal dan melakukan code refactoring](./refactoring.md)
+- ▢ [Membuat permainan tebak angka](./number-guess.md)
 
 ## Friday
 
-- ▢ [Mengeksplorasi berbagai situs dan komunitas developer](./community.md)
-  - Hacker News, Stack Overflow
+- ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](./dev-ecosystem-community.md)
 - ▢ [Berkreasi untuk membuat web yang interaktif](./web-interactive.md)
-- ▢ [Memahami ekosistem developer](./dev-ecosystem.md)
 
 ![Footer](images/footer.png)
 
-Selamat berpetualang dengan dunia DOM!
+Selamat berpetualang dengan dunia DOM dan JavaScript lebih lanjut!
 Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,

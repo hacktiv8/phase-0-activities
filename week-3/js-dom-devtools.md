@@ -1,14 +1,27 @@
-# Learn HTML DOM and its Relation with JavaScript
+# Learn DOM and More on Dev Tools
 
 ## Objectives
 
-- ▢ Memahami Document Object Model (DOM).
+Dalam mengembangkan web, kita harus menyadari bahwa kita sekaligus membuat Document Object Model (DOM) yang tersusun dalam dokumen HTML. Dengan pengetahuan DOM, kita bisa secara lebih lengkap mengetahui dan mampu untuk membuat interaksi pada halaman web menggunakan JavaScript.
+
+Selain itu, selama menggunakan Chrome Dev Tools kemungkinan kita kebanyakan hanya berkutat di Console saja. Beberapa dari kita mungkin sudah secara tidak sengaja mengecek tab Elements Inspector. Sekarang saatnya kita mengetahui lebih jelas apa saja yang ada di Dev Tools tersebut dan kegunaannya.
+
+**DOM**
+
+- ▢ Memahami Document Object Model (DOM) serta hubungannya dengan HTML, CSS, dan JavaScript.
 - ▢ Mengetahui berbagai DOM API.
 - ▢ Mengintegrasikan DOM dengan HTML dan CSS.
-- ▢ Menjelajahi DOM.
-- ▢ Memanipulasi DOM.
+- ▢ Menjelajahi DOM dengan JavaScript.
+- ▢ Memanipulasi DOM dengan JavaScript.
 - ▢ Menggayakan (styling) DOM dengan CSS.
 - ▢ Mengetahui node property, value, attributes.
+
+**Dev Tools**
+
+- ▢ Mengenal Chrome DevTools lebih lanjut.
+- ▢ Menavigasikan dan mengedit halaman HTML serta aturan CSS menggunakan Dev Tools Elements Inspector.
+- ▢ Menggunakan DevTools untuk memanipulasi elements yang ada pada DOM.
+- ▢ Mengidentifikasi aset/media yang dapat memperlambat page load.
 
 ## Directions
 
@@ -44,6 +57,18 @@ Mirip dengan cara mencetak JavaScript ke halaman web!
 ```javascript
 document.write("Hello!");
 ```
+
+### Mengenal DevTools lebih jauh
+
+Sebelum lanjut mempelajari DOM lebih jauh, kita perlu bantuan DevTools.
+
+- ▢ [Membaca referensi Chrome DevTools dari Google Developers](https://developers.google.com/web/tools/chrome-devtools)
+- ▢ [Mengeksplorasi dan menguasai Chrome DevTools melalui course dari Code School](http://discover-devtools.codeschool.com). Cukup fokus di Chapter 1 sampai 5 saja.
+
+Setelah kamu lebih memahami penggunaan DevTools...
+
+- ▢ Modifikasi atau eksperimenlah CSS pada website kamu dengan DevTools.
+- ▢ Kunjungi website apapun yang kamu suka. Lalu lihat DOM code-nya. Apa bedanya dengan HTML dan CSS biasa?
 
 ### Menjelajahi DOM (DOM Traversing)
 
@@ -203,3 +228,7 @@ Silakan coba-coba secara mandiri dengan bantuan Dev Tools Console dan Elements s
 ### References
 
 - [DOM (Document Object Model) on Skillcrush](http://skillcrush.com/2012/10/17/dom-document-object-model)
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [DOM Nodes on JavaScript Tutorial](http://javascript.info/tutorial/dom-nodes)
+- [Interactive JavaScript DOM Tutorials, by Neil Fraser of Google](https://dom-tutorials.appspot.com)
+- [DevDocs DOM API Documentation](http://devdocs.io/dom)
