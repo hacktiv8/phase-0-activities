@@ -8,8 +8,11 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 
 ### 1. Selamat datang di Slack!
 
+Komunikasi kelas dan tim yang lebih baik menggunakan Slack. Tiada email atau lampiran (attachment) tradisional, atau bahkan SMS dan WhatsApp. Gunakan Slack untuk berdiskusi dan bertanya di satu tempat.
+
+- ▢ [Tontonlah video YouTube tentang Slack ini](https://www.youtube.com/watch?v=B6zVzWU95Sw)
 - ▢ Cek membership melalui email konfirmasi.
-- ▢ Kamu akan masuk ke Slack dengan URL <http://hacktiv8-class.slack.com>.
+- ▢ Kamu akan masuk ke Slack kelas kita dengan URL <http://hacktiv8-class.slack.com>.
 - ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`).
 - ▢ Tentukan password kamu yang kuat namun mudah diingat.
 - ▢ [Isi profil lengkap dan upload foto profil melalui "Edit Profile"](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)

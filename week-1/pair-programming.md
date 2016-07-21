@@ -8,7 +8,7 @@ Esensi pemrograman berpasangan (pair programming) berkaitan dengan programming b
 
 ### 1. Memahami teknik pair programming
 
-- [Tontonlah video YouTube ini](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
+- ▢ [Tontonlah video YouTube ini](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
 
 Pair programming juga digunakan untuk kegunaan yang lain seperti pengembangan (development), engineering, bahkan desain. Metode ini adalah dimana dua orang ditugaskan ke dalam dua peran:
 
@@ -21,13 +21,20 @@ Dengan metode ini, bahkan kita bisa meningkatkan kualitas kerja sama serta kepem
 
 ### 2. Mengenal aplikasi untuk online/remote pair programming
 
-Terdapat tool online untuk melakukan pair programming dengan aplikasi online yang ada di desktop kita, misalnya [Screenhero](https://screenhero.com) dan [tmate](http://tmate.io). Bahkan dengan kemampuan cloud application yang real time seperti JSBin, secara tersirat kita bisa melakukan pair programming. Terdapat juga integrated development environment (IDE) online seperti [Plunker](http://plnkr.co), [Codeanywhere](https://codeanywhere.com), dan [Cloud9](https://c9.io) yang memungkinkan kita melakukan aktifitas pairing ini.
+Terdapat tool online untuk melakukan pair programming dengan aplikasi online yang ada di desktop kita, misalnya:
 
-- Cloud9
-- CodeAnywhere
 - [Floobits](https://floobits.com)
 - [MadEye](https://madeye.io)
 - [Screenhero](https://screenhero.com)
+- [tmate](http://tmate.io).
+
+Bahkan dengan kemampuan cloud application yang real time seperti JSBin, secara tersirat kita bisa melakukan pair programming.
+
+Terdapat juga integrated development environment (IDE) online seperti:
+
+- [Plunker](http://plnkr.co)
+- [Codeanywhere](https://codeanywhere.com)
+- [Cloud9](https://c9.io)
 
 ## References
 
