@@ -16,27 +16,27 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 - ▢ [Memahami budaya dan team work dalam pengembangan software](./software-culture-teamwork.md)
 - ▢ [Mengenal dan melatih pair programming](./pair-programming.md)
-- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
 - ▢ [Memahami dan menggunakan object dan JSON di JavaScript](./js-object-json.md)
+- ▢ [Mengenal debugging untuk menyelesaikan masalah code](./debugging.md)
 
 ## Wednesday
 
 - ▢ [Memanfaatkan code style guide untuk JavaScript](./js-code-style.md)
 - ▢ [Memahami alur logika di JavaScript](./js-logic.md)
 - ▢ [Memahami function dan method di JavaScript](./js-function-method.md)
-- ▢ [Mengenal debugging untuk menyelesaikan masalah code](./debugging.md)
+- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
 
 ## Thursday
 
+- ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md)
 - ▢ [Membuat fungsi matematika dasar](./math-basics.md)
 - ▢ [Membuat permainan suit jepang](./rock-paper-scissors.md)
 - ▢ [Membuat daftar kontak sederhana](./contact-list.md)
-- ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 
 ## Friday
 
 - ▢ [Memahami open source dan fenomenanya](./open-source.md)
-- ▢ [Mengenal JavaScript versi terbaru yaitu ECMAScript 2015 (ES6)](./js-ecmascript.md)
+- ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)
 
 ![Footer](images/footer.png)

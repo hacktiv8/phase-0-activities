@@ -19,10 +19,6 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 ## Monday
 
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
-- ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md)
-  - package manager and npm
-  - Class and Object
-  - Transpilation and Babel
 - ▢ [Membuat program yang sudah ditranspilasi menjadi ES2015](./js-transpiled.md)
 
 ## Tuesday
