@@ -24,7 +24,7 @@ Kamu juga dapat menggunakan teknik shorthand untuk mengeset value untuk beberapa
 
 Perkuatan pemahaman dasar CSS dari berbagai referensi yang disertakan.
 
-### 2. Menggayakan file HTML yang sudah dibuat
+### 2. Styling file HTML yang sudah dibuat
 
 - ▢ Buatlah file `styles.css` dalam folder `styles`.
 - ▢ Ikutkan file CSS tersebut ke dalam file HTML dengan cara "external".
