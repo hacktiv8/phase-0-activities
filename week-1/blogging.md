@@ -23,6 +23,10 @@ Kamu juga bisa memanfaatkan GitHub Pages sebagai tempat kamu blogging.
 - ▢ Kunjungi <https://github.com/settings/profile> lalu isi URL blog kamu.
 - ▢ "Update profile" kamu.
 
+### 4. (Opsional) Berbagi informasi yang kamu punya
+
+- ▢ Jika ada, bagilah informasi atau artikel bermanfaat yang ada di blog kamu ke grup Slack.
+
 ## References
 
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
