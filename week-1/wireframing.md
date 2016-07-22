@@ -23,9 +23,9 @@ Pelajari dari referensi berikut:
 - [Beyond Wireframing: The Real-Life UX Design Process, by Marcin Treder on Smashing Magazine](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process)
 - [How to wireframe a website, YouTube video by Charli Marie](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
-### 3. Mereka ulang website yang sudah dievaluasi
+### 3. Merekayasa ulang website yang sudah dievaluasi
 
-Untuk semua website yang sudah kamu evaluasi sebelumnya, cobalah untuk mereka ulang (reverse engineer) proses desain web mereka. Kamu bisa memilih satu atau lebih halaman dari tiap website.
+Untuk semua website yang sudah kamu evaluasi sebelumnya, cobalah untuk merekayasa ulang (reverse engineer) proses desain web mereka. Kamu bisa memilih satu atau lebih halaman dari tiap website.
 
 Buatlah sebuah halaman `wireframes.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
 
