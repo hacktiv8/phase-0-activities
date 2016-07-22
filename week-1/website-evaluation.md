@@ -6,7 +6,7 @@ Seiring waktu dalam belajar membuat website, tentunya kita akan mencari dan mend
 
 ## Directions
 
-Buatlah sebuah halaman `websites.html` yang berisi jawaban berikut. Formatnya bebas, yang penting menjawab semua evaluasi berikut. Kemudian commit dan push ke GitHub.
+Buatlah sebuah halaman `website-evaluation.html` yang berisi jawaban berikut. Formatnya bebas, yang penting menjawab semua evaluasi berikut. Kemudian commit dan push ke GitHub.
 
 - ▢ Pilihlah dan identifikasi beberapa website ataupun web app (lebih dari satu) yang kamu sukai. Kalau bisa selain social media yang populer.
 - ▢ Mengapa website tersebut kamu pilih?
