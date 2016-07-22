@@ -1,4 +1,4 @@
-# Make Your Website Become More Interactive
+# Make Your Website to be More Interactive
 
 ## Objectives
 
