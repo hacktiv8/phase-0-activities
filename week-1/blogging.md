@@ -30,3 +30,4 @@ Kamu juga bisa memanfaatkan GitHub Pages sebagai tempat kamu blogging.
 ## References
 
 - [How to Start a Blog, a fun tutorial by First Site Guide](http://firstsiteguide.com/start-blog)
+- [How daily vlogging has made me more productive and a better entrepreneur](https://meda.io/blog/startup/2016/05/20/how-daily-vlogging-has-made-me-more-productive-and-a-better-entrepreneur.html)
