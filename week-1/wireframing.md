@@ -10,18 +10,18 @@ Desain web sangat penting dan berpengaruh bagi para pengguna website bahkan juga
 
 Berpikir secara desain (design thinking) merupakan teknik pemecahan masalah secara visual. Kenali istilah dan manfaatnya yang akan bermanfaat untuk mengerjakan aktivitas yang berhubungan dengan desain.
 
-- ▢ [How It Works: Design Thinking, YouTube video by IBM Think Academy](https://www.youtube.com/watch?v=pXtN4y3O35M)
-- ▢ [Design thinking, on Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)
-- ▢ [Design Thinking... What is That?, on Fast Company](http://www.fastcompany.com/919258/design-thinking-what)
-- ▢ [What is Design Thinking?, on Visual.ly](http://visual.ly/what-design-thinking)
+- [How It Works: Design Thinking, YouTube video by IBM Think Academy](https://www.youtube.com/watch?v=pXtN4y3O35M)
+- [Design thinking, on Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)
+- [Design Thinking... What is That?, on Fast Company](http://www.fastcompany.com/919258/design-thinking-what)
+- [What is Design Thinking?, on Visual.ly](http://visual.ly/what-design-thinking)
 
 ### 2. Mengenal wireframing
 
 Pelajari dari referensi berikut:
 
-- ▢ [A Beginner’s Guide to Wireframing, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
-- ▢ [Beyond Wireframing: The Real-Life UX Design Process, by Marcin Treder on Smashing Magazine](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process)
-- ▢ [How to wireframe a website, YouTube video by Charli Marie](https://www.youtube.com/watch?v=PmmQjLqJQlY)
+- [A Beginner’s Guide to Wireframing, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
+- [Beyond Wireframing: The Real-Life UX Design Process, by Marcin Treder on Smashing Magazine](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process)
+- [How to wireframe a website, YouTube video by Charli Marie](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
 ### 3. Mereka ulang website yang sudah dievaluasi
 
