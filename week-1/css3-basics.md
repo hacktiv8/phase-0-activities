@@ -31,11 +31,11 @@ button:hover {
 
 yang akan menghasilkan halaman web bisa ditampilkan seperti ini jika di JSBin:
 
-![Contoh CSS di JSBin](images/css-jsbin.png)
+![Contoh CSS di JSBin](assets/css-jsbin.png)
 
 atau seperti ini jika di CodePen:
 
-![Contoh CSS di Codepen](images/css-codepen.png)
+![Contoh CSS di Codepen](assets/css-codepen.png)
 
 Dikarenakan bahasan CSS juga sangat banyak sekali layaknya HTML, di sini kita hanya membahas sepintas hal-hal yang penting. Sehingga tujuannya mengenalkan seperlunya agar Anda dapat familiar. Silakan lihat [berbagai referensi di bawah](#guides) untuk belajar lebih lanjut.
 
@@ -156,7 +156,7 @@ p {
 
 Sehubungan dengan box model, umpamakan setiap elemen HTML seperti kotak yang memiliki beberapa lapisan jarak (`padding`), batas (`border`), pinggiran (`margin`), dan posisi (`position`); diilustrasikan seperti ini, yang bahkan Anda bisa lihat dengan membuka Chrome Dev Tools.
 
-![HTML/CSS Box Model](images/html-css-box-model.png)
+![HTML/CSS Box Model](assets/html-css-box-model.png)
 
 ### Transisi (Transitions)
 
