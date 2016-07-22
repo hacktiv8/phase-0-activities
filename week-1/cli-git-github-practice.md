@@ -28,6 +28,7 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 
 ### CLI
 
+- [A Command Line Primer for Beginners, article on Lifehacker](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 - [Learn Enough Command Line to Be Dangerous, by Michael Hartl](https://learnenough.com/command-line-tutorial)
 - [Learn CLI the hard way](http://cli.learncodethehardway.org/book)
 

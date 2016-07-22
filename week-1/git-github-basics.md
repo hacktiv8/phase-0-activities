@@ -61,6 +61,13 @@ Setelah semua persiapan sudah selesai, kita bisa lanjut membuat website sederhan
 
 ## References
 
+**CLI**
+
+- [A Command Line Primer for Beginners, article on Lifehacker](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
+- [Learn Enough Command Line to Be Dangerous, book by Michael Hartl](https://learnenough.com/command-line-tutorial)
+
+**Git and GitHub**
+
 - ▢ [Official website of Git SCM](https://git-scm.com)
 - ▢ [GitHub website](https://github.com)
 - ▢ [How to Use Git and GitHub, interactive course on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)

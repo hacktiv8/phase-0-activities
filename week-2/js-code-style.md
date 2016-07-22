@@ -10,7 +10,9 @@ Seperti yang tertera pada bagian referensi pekan ini, ada beberapa hal yang perl
 
 - ▢ Pahami berbagai aturan penulisan JavaScript di sini:
 - Cek berbagai pedoman penulisan code berikut:
-  - ▢ []() TODO
+  - ▢ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  - ▢ [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+  - ▢ [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
 
 ### 2. Ingat untuk menggunakan tiap bahasa sesuai kegunaan terbaiknya
 

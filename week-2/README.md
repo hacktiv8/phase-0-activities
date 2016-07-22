@@ -8,10 +8,10 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 ## Monday
 
-- ▢ [Berpikir secara lebih efektif dan efisien](./thinking.md)
-- ▢ [Mengenal Web Literacy](./web-literacy.md)
+- ▢ [Berpikir secara lebih efektif dan efisien, dengan growth mindset](./thinking.md)
 - ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](./js-basics.md)
 - ▢ [Memahami dan menggunakan struktur dan tipe data di JavaScript](./js-data.md)
+- ▢ [Menguasai sistem angka decimal, binary, hexadecimal, dan lainnya](./number-system.md)
 
 ## Tuesday
 
@@ -36,6 +36,7 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 ## Friday
 
+- ▢ [Mengenal Web Literacy](./web-literacy.md)
 - ▢ [Memahami open source dan fenomenanya](./open-source.md)
 - ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)

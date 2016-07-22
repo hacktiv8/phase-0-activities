@@ -281,10 +281,19 @@ Operator pendahulu untuk konsiderasi (precedence) mendeskripsikan sususan/urutan
 
 ## References
 
+**Programming**
+
+- ▢ [The Beginner’s Guide to Learning to Program, article by Scott H Young](https://www.scotthyoung.com/blog/2012/09/09/learn-to-program)
+- ▢ [Programming 101: The 5 Basic Concepts of any Programming Language, article by Trevor Page](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language)
+- [Programming Concepts: A Brief Tutorial for New Programmers, article by Richard Holowczak](http://holowczak.com/programming-concepts-tutorial-programmers)
+
+**JavaScript**
+
 - [Learning to Code? Why You Should Learn JavaScript First, on General Assembly](https://generalassemb.ly/blog/learning-to-code-why-you-should-learn-javascript-first)
 - [5 Alasan Mengapa Kamu Harus Belajar Bahasa Pemrograman JavaScript, via Tech in Asia](https://id.techinasia.com/5-alasan-mengapa-kamu-harus-belajar-javascript)
 - [JavaScript.com](http://javascript.com)
 - [JavaScript (Original) on Codecademy](https://www.codecademy.com/en/tracks/javascript-original)
 - [JavaScript on Codecademy](https://www.codecademy.com/learn/javascript)
-- [JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Guide, by Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Guide, by Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Belajar javascript untuk pemula, di Sekolah Koding](https://sekolahkoding.com/kelas/belajar-javascript-untuk-pemula)

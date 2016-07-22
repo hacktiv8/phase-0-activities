@@ -162,3 +162,4 @@ Array seperti tumpukan data. Bayangkan sebuah botol atau toples yang berisi bebe
 - [JavaScript on Codecademy](https://www.codecademy.com/learn/javascript)
 - [JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Belajar javascript untuk pemula, di Sekolah Koding](https://sekolahkoding.com/kelas/belajar-javascript-untuk-pemula)
+- [Data type, article on Wikipedia](https://en.wikipedia.org/wiki/Data_type)
