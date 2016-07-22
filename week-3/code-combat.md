@@ -4,8 +4,8 @@
 
 TODO
 
-- ▢ Manipulate an object using JavaScript
-- ▢ Use error messages correct syntax mistakes
+- ▢ Mengetahui cara memanipulasi object.
+- ▢ Membaca pesan error untuk membantu mengatasi kesalahan sintaks.
 
 ## Directions
 

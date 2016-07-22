@@ -22,10 +22,10 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 ## Wednesday
 
+- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
 - ▢ [Memanfaatkan code style guide untuk JavaScript](./js-code-style.md)
 - ▢ [Memahami alur logika di JavaScript](./js-logic.md)
 - ▢ [Memahami function dan method di JavaScript](./js-function-method.md)
-- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](./algorithm-pseudocode.md)
 
 ## Thursday
 
