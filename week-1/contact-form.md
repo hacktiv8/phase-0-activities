@@ -2,7 +2,9 @@
 
 ## Objectives
 
-Mempraktekkan pengetahuan HTML5 forms untuk membuat formulir kontak dengan email sederhana. Berbagai element yang bisa dipakai adalah sebagai berikut:
+- ▢ Mempraktekkan pengetahuan HTML5 forms untuk membuat formulir kontak dengan email sederhana.
+
+Berbagai element yang bisa dipakai adalah sebagai berikut:
 
 - Legend
 - Label

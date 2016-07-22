@@ -31,7 +31,7 @@ Kenali berbagai teknik yang dipakai dalam AWD dan RWB serta perbedaannya dengan 
 
 ### Ceritakan pemikiran dan pendapatmu
 
-Buatlah file `web-design.html` kemudian link ke website kamu.
+Buatlah file `web-design.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
 
 - ▢ Apa itu adaptive dan responsive web design? Apakah kamu setuju bahwa teknik tersebut bagus? Mengapa atau mengapa tidak?
 - ▢ Apakah hadirnya smartphone dan tablet mengubah desain web secara signifikan? Bagaimana kira-kira teknologi baru akan mengubah desain web di masa depan?

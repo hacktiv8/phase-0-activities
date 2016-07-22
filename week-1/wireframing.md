@@ -6,7 +6,7 @@ Desain web sangat penting dan berpengaruh bagi para pengguna website bahkan juga
 
 ## Directions
 
-### Mengenal Design Thinking
+### 1. Mengenal Design Thinking
 
 Berpikir secara desain (design thinking) merupakan teknik pemecahan masalah secara visual. Kenali istilah dan manfaatnya yang akan bermanfaat untuk mengerjakan aktivitas yang berhubungan dengan desain.
 
@@ -15,7 +15,7 @@ Berpikir secara desain (design thinking) merupakan teknik pemecahan masalah seca
 - ▢ [Design Thinking... What is That?, on Fast Company](http://www.fastcompany.com/919258/design-thinking-what)
 - ▢ [What is Design Thinking?, on Visual.ly](http://visual.ly/what-design-thinking)
 
-### Mengenal wireframing
+### 2. Mengenal wireframing
 
 Pelajari dari referensi berikut:
 
@@ -23,10 +23,12 @@ Pelajari dari referensi berikut:
 - ▢ [Beyond Wireframing: The Real-Life UX Design Process, by Marcin Treder on Smashing Magazine](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process)
 - ▢ [How to wireframe a website, YouTube video by Charli Marie](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
-### Mereka ulang website yang sudah dievaluasi
+### 3. Mereka ulang website yang sudah dievaluasi
 
 Untuk semua website yang sudah kamu evaluasi sebelumnya, cobalah untuk mereka ulang (reverse engineer) proses desain web mereka. Kamu bisa memilih satu atau lebih halaman dari tiap website.
 
+Buatlah sebuah halaman `wireframes.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
+
 - ▢ Jabarkan masalah apa yang halaman web tersebut ingin pecahkan melalui tampilan visual?
 - ▢ Buatlah wireframe tiap halaman yang sudah dipilih. Kamu bisa menggunakan kertas dan pulpen saja (yang kemudian nanti difoto), maupun tool wireframing digital (yang bisa di-export atau screenshot).
-- ▢ Tambahkan hasil gambar wireframe yang sudah kamu buat ke dalam halaman `wireframes.html` dalam website kamu. Kemudian commit dan push ke GitHub.
+- ▢ Kumpulkan hasil wireframe yang sudah kamu buat ke dalam satu folder.

@@ -2,14 +2,15 @@
 
 ## Objectives
 
-Mengidentifikasi berbagai nilai inti yang kamu miliki dapat meningkatkan kesempatanmu untuk dapat segera sukses, baik dalam hidup maupun karir.
+- ▢ Mengidentifikasi berbagai nilai inti yang kamu miliki dapat meningkatkan kesempatanmu untuk dapat segera sukses, baik dalam hidup maupun karir.
 
 ## Directions
+
+Buatlah sebuah halaman `core-values.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
 
 - ▢ Pilihlah berbagai nilai di bawah berikut yang kamu pikirkan ataupun rasakan saat kamu sedang dalam keadaan paling bahagia, bangga, puas, atau tenang. Tambahkan yang lain jika perlu.
 - ▢ Tulislah kalimat atau paragraf yang mengandung nilai-nilai yang kamu pilih. Jelaskan mengapa nilai tersebut berarti bagimu.
 - ▢ Ceritakan topik yang orang lain sering atau baru saja tanyakan atau minta saran kepadamu.
-- ▢ Buatlah halaman khusus untuk tulisan ini (misalnya `core-values.html`). Kemudian commit ke website kamu.
 
 Adil
 Aktivisme

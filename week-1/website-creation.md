@@ -9,7 +9,7 @@
 
 ## Directions
 
-### Pelajari lebih dalam tentang desain web dan tools yang tersedia
+### 1. Pelajari lebih dalam tentang desain web dan tools yang tersedia
 
 Cukup sekilas untuk mengetahui dan mempelajari gambaran umumnya dari berbagai referensi berikut.
 
@@ -49,7 +49,7 @@ Cukup sekilas untuk mengetahui dan mempelajari gambaran umumnya dari berbagai re
 - ▢ [Google Web Fonts](http://google.com/fonts)
 - ▢ [Colour Lovers](http://colourlovers.com)
 
-### Dapatkan inspirasi dari orang lain
+### 2. Dapatkan inspirasi dari orang lain
 
 Berikut berbagai contoh dan inspirasi personal website.
 
@@ -73,7 +73,7 @@ Berikut berbagai contoh dan inspirasi personal website.
 
 ![](assets/slawek.png)
 
-### Rancanglah website pribadi kamu
+### 3. Rancanglah website pribadi kamu
 
 Tiba saatnya dalam hal favorit yang paling dinantikan oleh semua web developer: membuat website untuk pribadi! Beberapa orang melakukannya sebagai hobi yang seru, karena kita bisa mengekspresikan diri sekaligus bereksperimen dengan berbagai teknologi web. Sertakan minimal nama dan hal-hal favoritmu! Kreasikan dirimu. Buat ulang website kamu yang terdapat di `[USERNAME].github.io` dengan lebih baik. Ingat juga untuk link semua halaman hasil aktivitas buatanmu.
 
