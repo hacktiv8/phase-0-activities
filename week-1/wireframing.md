@@ -31,4 +31,4 @@ Buatlah sebuah halaman `wireframes.html` dalam website kamu, lalu jabarkan perta
 
 - ▢ Jabarkan masalah apa yang halaman web tersebut ingin pecahkan melalui tampilan visual?
 - ▢ Buatlah wireframe tiap halaman yang sudah dipilih. Kamu bisa menggunakan kertas dan pulpen saja (yang kemudian nanti difoto), maupun tool wireframing digital (yang bisa di-export atau screenshot).
-- ▢ Kumpulkan hasil wireframe yang sudah kamu buat ke dalam satu folder.
+- ▢ Kumpulkan hasil wireframe yang sudah kamu buat ke dalam satu folder. Tampilkan pada halaman.
