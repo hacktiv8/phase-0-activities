@@ -22,7 +22,7 @@ Kamu juga dapat menggunakan teknik shorthand untuk mengeset value untuk beberapa
 - ▢ Memahami box model (padding, margin, border) pada HTML dan CSS.
 - ▢ Memahami dasar display dan positioning pada HTML dan CSS (inline, inline-block, float, absolute, relative, fixed, dll).
 
-Pelajari lagi berbagai dasar CSS dari referensi yang disertakan.
+Perkuatan pemahaman dasar CSS dari berbagai referensi yang disertakan.
 
 ### 2. Menggayakan file HTML yang sudah dibuat
 

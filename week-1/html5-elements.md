@@ -20,12 +20,12 @@ Menggunakan berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 
 ### 1. Pastikan kamu sudah mengenal pondasi HTML
 
-- ▢ Mengidentifikasi tag pembuka (opening) dan penutup (closing)
-- ▢ Menentukan kapan harus menggunakan berbagai tag HTML tertentu
-- ▢ Meng-indent code HTML sesuai dengan aturan yang baik
-- ▢ Mengidentifikasi elemen parent atau child dalam HTML
+- ▢ Mengidentifikasi tag pembuka (opening) dan penutup (closing).
+- ▢ Menentukan kapan harus menggunakan berbagai tag HTML tertentu.
+- ▢ Meng-indent code HTML sesuai dengan aturan yang baik.
+- ▢ Mengidentifikasi elemen parent atau child dalam HTML.
 
-Pelajari lagi berbagai dasar HTML dari referensi yang disertakan.
+Perkuatan pemahaman dasar HTML dari berbagai referensi yang disertakan.
 
 ### 2. Persiapkan struktur folder untuk berbagai kebutuhan
 
@@ -75,9 +75,6 @@ Sehingga sekarang struktur foldernya menjadi:
 - [Belajar HTML dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html-dari-dasar)
 - [Belajar HTML5, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html5)
 - [HTML5 Doctor](http://html5doctor.com)
-
-**Extra**
-
 - [The Best Way to Learn HTML, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)
 - [HTML Tag Cheatsheet, by Skillcrush](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
 - [DevDocs HTML Documentation](http://devdocs.io/html)

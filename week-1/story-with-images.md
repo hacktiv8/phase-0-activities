@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Membuat halaman karangan cerita yang menyertakan gambar.
+- ▢ Membuat halaman karangan cerita yang menyertakan gambar.
 
 Berikut contoh cerita yang terdapat beberapa bagian serta gambar-gambar yang ditampilkan dengan HTML dan CSS.
 
@@ -45,6 +45,6 @@ Berikut contoh cerita yang terdapat beberapa bagian serta gambar-gambar yang dit
 
 ## References
 
-- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/building-forms)
+- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css)
 - [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
 - [DevDocs HTML Documentation](http://devdocs.io/html)

@@ -57,7 +57,7 @@ Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah ka
 - ▢ Buka terminal atau command prompt. Khusus di Windows, buka "Git Bash"
 - ▢ [Ikuti petunjuk "Generating a new SSH key"](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key)
 
-Setelah semua persiapan sudah selesai, kita bisa lanjut membuat website sederhana dan menaruhnya gratis dengan GitHub Pages!
+Setelah semua persiapan sudah selesai, kita akan bisa lanjut membuat website sederhana dan menaruhnya gratis dengan GitHub Pages!
 
 ## References
 

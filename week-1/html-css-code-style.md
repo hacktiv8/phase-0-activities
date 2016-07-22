@@ -23,8 +23,8 @@ Modern ini terdapat meta data yang sangat bermanfaat bagi kita dan pengguna agar
 Contoh umum menggunakan meta data `title`, `description`, `author`, `icon`.
 
 ```html
-<title>Hacktiv8 - Menjadi Full Stack Javascript Web Developer</title>
-<meta name="description" content="Hacktiv8 adalah sebuah pelatihan coding fulltime di Jakarta.">
+<title>Hacktiv8 - Menjadi Full Stack Web Developer</title>
+<meta name="description" content="Hacktiv8 adalah sebuah pelatihan coding fulltime di Jakarta yang membantu pemula untuk menjadi fullstack developer dalam 12 minggu.">
 <meta name="keywords" content="hacktiv8, coding, bootcamp, javascript, web, developer">
 <meta name="author" content="Hacktiv8 Team">
 <link rel="icon" href="//favicon.ico" type="image/x-icon"/>

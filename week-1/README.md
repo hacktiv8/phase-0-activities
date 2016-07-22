@@ -30,14 +30,14 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 
 - ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./cli-git-github-practice.md)
 - ▢ [Mempelajari dasar HTML5](./html5-basics.md)
-- ▢ [Mempelajari dasar HTML5 Forms](./html5-forms-basics.md)
-- ▢ [Menggunakan berbagai elemen dasar HTML5 yang perlu kamu ketahui dan kuasai](./html5-elements.md)
+- ▢ [Mempelajari dasar HTML5 forms](./html5-forms-basics.md)
+- ▢ [Menggunakan berbagai elemen dasar HTML5](./html5-elements.md)
 
 ## Wednesday
 
 - ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](./internet-web.md)
 - ▢ [Mempelajari dasar CSS3](./css3-basics.md)
-- ▢ [Menggunakan aturan dasar CSS3](./css3-rules.md)
+- ▢ [Menggunakan berbagai aturan dasar CSS3](./css3-rules.md)
 - ▢ [Membuat transformasi dan animasi dengan CSS3](./css3-advanced.md)
 
 ## Thursday

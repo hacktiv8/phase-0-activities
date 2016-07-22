@@ -306,7 +306,7 @@ Dengan HTML, kita dapat menyertakan HTML di dalam HTML! Seringkali disebut frami
 <iframe src="https://google.com" height="300" width="800"></iframe>
 ```
 
-### Tabel (Table) [bukan meja]
+### Tabel (Table)
 
 Mari kita menyajikan atau menunjukkan data dan informasi dalam dua dimensi! Gunakan `table` untuk melakukannya. Berhati-hatilah bahwa table bukan untuk digunakan sebagai layout atau memposisikan sebuah halaman, namun sebaiknya hanya untuk menyajikan data saja. Gunakan kombinasi `table` dengan `caption`, `thead`, `tbody`, `tfoot`, `tr`, `th`, `td`, `col`, `colgroup`.
 
@@ -340,3 +340,15 @@ Mari kita menyajikan atau menunjukkan data dan informasi dalam dua dimensi! Guna
 ### Penempatan Elemen
 
 Elemen HTML pada umumnya bisa berupa elemen dengan level/tingkat `block` atau `inline`. Jika jenisnya `block` maka penempatan antar elemen pada saat ditambahkan akan membentuk baris baru, atau menumpuk, atau mengambil lebar yang masih tersedia. Contohnya elemen yang berbentuk penting atau besar seperti div, heading, paragraf, dll. Kemudian jika jenisnya `inline` maka penempatan antar elemen tidak membentuk baris baru, mengalir begitu saja. Contohnya elemen yang bentuknya kecil seperti strong, emphasis, span, dll.
+
+## References
+
+**Basics**
+
+- [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
+- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css) (lesson 1 and 2)
+- [Intro to HTML & CSS Online Course, by Udacity](https://udacity.com/course/intro-to-html-and-css--ud304)
+- [Belajar HTML dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html-dari-dasar)
+- [Belajar HTML5, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html5)
+- [The Best Way to Learn HTML, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)
+- [HTML Tag Cheatsheet, by Skillcrush](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)

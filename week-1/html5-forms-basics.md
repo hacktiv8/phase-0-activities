@@ -2,11 +2,9 @@
 
 ## Objectives
 
-TODO
+- ▢ Mengulas dasar-dasar HTML forms.
 
 ## Learnings
-
-Secara istimewa dalam pedoman HTML ini, kita akan mencakup bagaimana membuat formulir kontak yang sederhana (simple contact form). Kita memisahkan hal ini dengan elemen-elemen HTML dasar karena pengetahuan ini sebenarnya juga memerlukan kita untuk coding lebih banyak. Kadangkala juga memerlukan kita untuk mengetahui `id` dan `class` pada CSS.
 
 Form pada HTML adalah satu dari banyak cara untuk berinteraksi di sebuath website atau web app dengan pengguna (users). Dengan cara ini, pengguna dapat memasukkan (input) beberapa teks atau data/informasi yang dibutuhkan oleh pemilik website, kemudian diproses atau diterima oleh form tersebut, yang pada akhirna dikirim ke server. Sering juga dapat menghasilkan keluaran (output) yang dihasilkan oleh server dan form secara bersamaan. Kadang data tesebut bisa diatur oleh form tanpa bantuan server.
 
@@ -109,3 +107,11 @@ Inilah beberapa contoh kode yang dapat membantu Anda membuat formulir kontak.
   <input type="button" value="Submit">
 </form>
 ```
+
+## References
+
+- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/building-forms) (lesson 10: Building Forms)
+- [Forms in HTML, by MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
+- [HTML5 forms introduction and new attributes, on HTML5 Doctor](http://html5doctor.com/html5-forms-introduction-and-new-attributes)
+- [Making Forms Fabulous with HTML5, on HTML5 Rocks](http://www.html5rocks.com/en/tutorials/forms/html5forms)
+- [HTML5 - Web Forms 2.0, on TutorialsPoint](http://www.tutorialspoint.com/html5/html5_web_forms2.htm)

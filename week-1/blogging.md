@@ -11,6 +11,8 @@ Agar dapat melatih kemampuan menulis, kita dianjurkan untuk melakukan pencatatan
 - ▢ Membuat website blog atau mendaftar sebuah akun blog jika belum.
 - ▢ Sertakan link blog tersebut di halaman GitHub Pages atau website yang telah kamu buat.
 
+Kamu juga bisa memanfaatkan GitHub Pages sebagai tempat kamu blogging.
+
 ### 2. Buat sebuah blog post minimal satu setiap pekan
 
 - ▢ Dari sudut pandang kamu, apa saja yang sudah kamu pahami dan pelajari?

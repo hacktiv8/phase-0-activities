@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Mempraktekkan pengetahuan HTML5 untuk membuat sebuah artikel berita sederhana.
+- ▢ Mempraktekkan pengetahuan HTML5 untuk membuat sebuah artikel berita sederhana.
 
 Berikut contoh artikel berita sederhana dengan HTML dan CSS.
 
@@ -40,6 +40,6 @@ Berikut contoh artikel berita sederhana dengan HTML dan CSS.
 
 ## References
 
-- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/building-forms)
+- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css)
 - [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
 - [DevDocs HTML Documentation](http://devdocs.io/html)

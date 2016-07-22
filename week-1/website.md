@@ -2,11 +2,11 @@
 
 ## Objectives
 
-Pastikan kamu sudah memahami istilah dasar dan berbagai cara untuk mempelajari pengembangan website.
+- ▢ Memastikan kamu sudah memahami istilah dasar penyusun website.
 
 ## Learnings
 
-Pengembangan website untuk pekan awal ini hanya membutuhkan pengetahuan HTML dan CSS.
+Pengembangan website untuk pembelajaran awal hanya membutuhkan pengetahuan HTML dan CSS.
 
 HTML (HyperText Markup Language) memberikan struktur konten dan arti/makna dengan cara mendefinisikan jenis konten tersebut seperti header/heading, paragraf, atau gambar.
 
