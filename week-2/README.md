@@ -37,7 +37,6 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 - ▢ [Mengenal Web Literacy](./web-literacy.md)
 - ▢ [Memahami open source dan fenomenanya](./open-source.md)
-- ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)
 
 ![Footer](assets/footer.png)

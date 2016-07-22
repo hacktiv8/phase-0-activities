@@ -6,7 +6,8 @@ TODO
 
 ## Directions
 
-### 1.
+- Membuat cerita petualangan interaktif.
+- ...
 
 - ▢
 - ▢
