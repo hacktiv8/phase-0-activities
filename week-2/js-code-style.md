@@ -14,7 +14,7 @@ Seperti yang tertera pada bagian referensi pekan ini, ada beberapa hal yang perl
   - [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
   - [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
 
-### 2. Ingat untuk menggunakan tiap bahasa sesuai kegunaan terbaiknya
+### 2. Menggunakan tiap bahasa sesuai fungsi utamanya
 
 Ini saran klasik yang sudah seharusnya diketahui semua developer. Tiap bahasa yang sudah kita ketahui saja misalnya:
 
@@ -24,7 +24,7 @@ Ini saran klasik yang sudah seharusnya diketahui semua developer. Tiap bahasa ya
 
 Maka dari itu misalnya jangan paksakan JavaScript untuk mengubah style halaman web dengan fungsi yang mirip dan sebenarnya CSS sudah bisa lakukan. Ketahuilah kehandalan masing-masing bahasa agar tujuan kita bisa tercapai dengan tepat.
 
-### 3. Menyadari kode program yang mudah dibaca
+### 3. Membuat kode program yang mudah dibaca
 
 Kode yang baik sederhananya adalah kode yang mudah dibaca oleh manusia. Termasuk penamaan variable maupun function yang mudah dibaca dan digunakan.
 
