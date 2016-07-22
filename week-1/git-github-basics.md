@@ -38,18 +38,18 @@ Jika nanti kamu melihat `[USERNAME]`, artinya perlu diganti dengan username-kamu
 Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah kamu paham mengapa menggunakan, bagaimana cara pakai, dan apa itu VCS/SCM serta Git dan GitHub.
 
 - Membaca berbagai artikel berikut:
-  - ▢ [Version Control, by Skillcrush](http://skillcrush.com/2013/02/11/version-control)
-  - ▢ [Git, by Skillcrush](http://skillcrush.com/2013/02/18/git)
-  - ▢ [Get started working with Git, by Skillcrush](http://skillcrush.com/2013/02/20/get-started-working-with-git)
-  - ▢ [Is Git the Same Thing as Github!?, by Andrew McWilliams](https://jahya.net/blog/git-vs-github)
+  - [Version Control, by Skillcrush](http://skillcrush.com/2013/02/11/version-control)
+  - [Git, by Skillcrush](http://skillcrush.com/2013/02/18/git)
+  - [Get started working with Git, by Skillcrush](http://skillcrush.com/2013/02/20/get-started-working-with-git)
+  - [Is Git the Same Thing as Github!?, by Andrew McWilliams](https://jahya.net/blog/git-vs-github)
 - Menonton salah satu playlist video berikut:
-  - ▢ [Playlist GitHub Quick Looks, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD17rhrz2BJWAPJMjR71B3IDx)
-  - ▢ [Playlist Git Basics, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
-  - ▢ [Playlist GitHub & Git Foundations, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
-  - ▢ [Playlist Belajar Git Version Control System, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXATLIO3kp405u6TyFPQ9Kjy)
-  - ▢ [Playlist Apa Itu GitHub, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5)
+  - [Playlist GitHub Quick Looks, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD17rhrz2BJWAPJMjR71B3IDx)
+  - [Playlist Git Basics, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
+  - [Playlist GitHub & Git Foundations, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
+  - [Playlist Belajar Git Version Control System, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXATLIO3kp405u6TyFPQ9Kjy)
+  - [Playlist Apa Itu GitHub, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5)
 - Mengikuti tutorial interaktif berikut:
-  - ▢ [Try Git: Git Tutorial, by GitHub](http://try.github.io)
+  - [Try Git: Git Tutorial, by GitHub](http://try.github.io)
 
 ### 4. Lakukan instalasi dan konfigurasi Git dan SSH di komputermu
 
