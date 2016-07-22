@@ -1,6 +1,10 @@
-# Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer
+# Understand Developer Ecosystem
+
+- ▢ Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer
 
 ## Objectives
+
+TODO
 
 - GitHub
 - Hacker News
@@ -9,10 +13,12 @@
 
 ## Directions
 
-### .
+TODO
 
 - ▢
 - ▢
 - ▢
 
 ## References
+
+-

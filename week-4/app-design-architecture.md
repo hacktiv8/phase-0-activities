@@ -4,7 +4,7 @@
 
 Dalam mebuat aplikasi yang makin besar dan baik, kita perlu memperhatikan struktur desain/rancangan yang kita gunakan. Hal ini akan berpengaruh terhadap kualitas code, maintainability dari aplikasi, keamanan, kecepatan/performa, kemudahan penggunaan, dan lain-lain.
 
-## Directions
+## Learnings
 
 ### Mengetahui Design Pattern
 

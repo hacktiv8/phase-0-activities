@@ -1,4 +1,4 @@
-#
+# Learn Culture and Teamwork in Software Development
 
 ## Objectives
 

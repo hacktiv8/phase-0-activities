@@ -23,7 +23,7 @@ Selain itu, selama menggunakan Chrome Dev Tools kemungkinan kita kebanyakan hany
 - ▢ Menggunakan DevTools untuk memanipulasi elements yang ada pada DOM.
 - ▢ Mengidentifikasi aset/media yang dapat memperlambat page load.
 
-## Directions
+## Learnings
 
 ### Mengenal DOM
 

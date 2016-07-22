@@ -6,7 +6,7 @@
 - ▢ Mengenal keyword `this`.
 - ▢ Mengelola events dengan model event handler ataupun listener.
 
-## Directions
+## Learnings
 
 ### Mengenal events
 

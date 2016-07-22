@@ -10,7 +10,7 @@ Terkait lebih dalam dan jauh mengenai best practice, berikut pedoman yang didedi
 - ▢ Mengetahui Versioning
 - ▢ Mengetahui Preprocessing dan Templating
 
-## Directions
+## Learnings
 
 ### Mengetahui Berbagai Frontend Library dan Framework
 

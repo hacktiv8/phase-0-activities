@@ -37,4 +37,6 @@ Event listener akan beraksi jika ada klik kanan (`click`/`mousedown`) dan klik k
 
 Di baris sebelum menambah event listener, buatlah fungsi untuk mengganti style dari tulisan, misalnya `makeBold()` dan `makeItalic()`.
 
-### 4. Cobalah untuk klik kanan dan kiri untuk mengubah tulisan tersebut
+### 4. Cek fungsionalitas program
+
+Cobalah untuk klik kanan dan kiri untuk mengubah tulisan tersebut

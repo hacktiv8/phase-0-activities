@@ -1,4 +1,3 @@
-
 # JavaScript Object and JSON
 
 ## Objectives
@@ -6,7 +5,7 @@
 - ▢ Memahami pembuatan dan kegunaan pasangan key-value dalam sebuah object.
 - ▢ Memahami JSON dan perbedaannya dengan object biasa.
 
-## Directions
+## Learnings
 
 ### Object
 

@@ -4,7 +4,7 @@
 
 Secara tersirat, berbagai kegiatan yang sudah kita lakukan tentunya adalah salah satu bentuk "melek teknologi dan Web". Istilah ini bisa juga disebut "Web Literacy", berbagai kemampuan dan kompetensi dasar yang dibutuhkan untuk membaca, menulis, dan berpartisipasi di Web. Pengguna Web dianjurkan untuk tidak hanya menggunakan dan mengetahui website, tapi juga dapat membuat website.
 
-## Directions
+## Learnings
 
 Bacalah dan cari tahu apa saja yang terdapat pada web literacy lebih detail.
 

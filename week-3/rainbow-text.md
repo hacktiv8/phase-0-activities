@@ -19,11 +19,11 @@ Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HT
 
 ### 1. Buatlah tulisan paragraf awal
 
-Masing-masing kata dalam paragraf terpisah menggunakan elemen `span`.
+Masing-masing kata dalam paragraf terpisah menggunakan element `span`.
 
-### 2. Dapatkan semua elemen `span` dalam paragraf tersebut
+### 2. Dapatkan semua element `span` dalam paragraf tersebut
 
-### 3. Iterasi tiap elemen span agar memiliki `style.color` yang beragam
+### 3. Iterasi tiap element span agar memiliki `style.color` yang beragam
 
 Ragam warna dapat dibuat sebelumnya yang disimpan ke dalam array, ataupun di-generate saat itu juga pada saat melakukan iterasi.
 

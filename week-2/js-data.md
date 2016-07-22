@@ -17,7 +17,7 @@ Standar ECMAScript terbaru mendefinisikan tipe data berikut:
 
 Kita harus senantiasa memahami perbedaan kegunaan antara tipe data tersebut sesuai keadaan dan kebutuhan.
 
-## Directions
+## Learnings
 
 ### Angka (Number)
 

@@ -1,6 +1,6 @@
 # Phase 0 Week 2: Wrangling with Logic and Data
 
-![Header](images/header.png)
+![Header](assets/header.png)
 
 Halo ${student-first-name},
 
@@ -41,11 +41,11 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 - ▢ [Membuat cerita petualangan interaktif](./story-interactive.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)
 
-![Footer](images/footer.png)
+![Footer](assets/footer.png)
 
 Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w2) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
-![Hacktiv8 Banner](images/hacktiv8-banner.png)
+![Hacktiv8 Banner](assets/hacktiv8-banner.png)

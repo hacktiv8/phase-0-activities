@@ -6,7 +6,7 @@
 - ▢ Mendeskripsikan percabangan (branching) atau alur kendali (control flow) menggunakan `if`, `else if`, dan `else`.
 - ▢ Mendeskripsikan iterasi atau perulangan (loop) dan menjelaskan bagaimana beberapa perulangan yang berbeda bekerja untuk `for`, `while`, dan `do`.
 
-## Directions
+## Learnings
 
 ### Pengkondisian (Conditionals)
 

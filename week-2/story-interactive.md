@@ -1,12 +1,12 @@
-#
+# Create an Interactive Adenture Story
 
 ## Objectives
 
-TODO
+
 
 ## Directions
 
-TODO
+### 1.
 
 - ▢
 - ▢

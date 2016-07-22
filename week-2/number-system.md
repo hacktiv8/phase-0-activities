@@ -8,8 +8,9 @@
 - ▢ Membandingkan bit dan byte
 - ▢ Memahami floating point
 
+## Directions
 
-
+TODO
 
 ## References
 

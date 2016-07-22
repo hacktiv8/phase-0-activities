@@ -1,6 +1,6 @@
 # Phase 0 Week 4: Valuable Advice for Our Journey
 
-![Header](images/header.png)
+![Header](assets/header.png)
 
 Halo ${student-first-name},
 
@@ -19,7 +19,7 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 ## Monday
 
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
-- ▢ [Membuat program yang sudah ditranspilasi menjadi ES2015](./js-transpiled.md)
+- ▢ [Membuat program yang ditranspilasi menjadi ES2015](./js-transpilation.md)
 
 ## Tuesday
 
@@ -30,15 +30,14 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 ## Wednesday
 
 - ▢ [Mengeksplorasi berbagai best practice dalam pembuatan aplikasi web](./best-practice.md)
-- ▢ [Menggunakan jQuery](./jquery.md)
-- ▢ [Menggunakan Bootstrap](./bootstrap.md)
-- ▢ [Menggunakan HTML5 boilerplate](./html5-boilerplate.md)
+- ▢ [Mencoba menggunakan jQuery](./jquery.md)
+- ▢ [Mencoba menggunakan Bootstrap](./bootstrap.md)
+- ▢ [Mecoba menggunakan HTML5 boilerplate](./html5-boilerplate.md)
 
 ## Thursday
 
 - ▢ [Mengenal teknologi database](./database.md)
 - ▢ [Mengenal desain dan arsitektur aplikasi](./app-design-architecture.md)
-- ▢ [Melatih modularisasi pengembangan aplikasi dan website](./modularization.md)
 - ▢ [Membuat rancangan website yang modular](./modular-design.md)
 
 ## Friday
@@ -46,14 +45,13 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 - ▢ [Mengecek kualitas code dengan hinting/linting](./hinting-linting.md)
 - ▢ [Melihat performa kecepatan website dengan online tools](./website-speed.md)
 - ▢ [Menghemat aset website dengan kompresi](./assets-compression.md)
-- ▢ [Membuat website profil pribadi kita sendiri](./website-profile.md)
+- ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)
 
-![Footer](images/footer.png)
+![Footer](assets/footer.png)
 
-Selamat berpetualang dengan istilah dan pemahaman baru yang makin seru!
-Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w4) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan istilah dan pemahaman baru yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
-![Hacktiv8 Banner](images/hacktiv8-banner.png)
+![Hacktiv8 Banner](assets/hacktiv8-banner.png)

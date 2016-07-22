@@ -4,7 +4,7 @@
 
 Mari kita mengetahui hal-hal dasar tentang JavaScript yang diperlukan agar kita bisa memprogram sesuatu. Yang pada ujungnya adalah kita bisa tahu bagaimana cara memberi interaksi pada website yang berisi HTML dan CSS.
 
-Di sini kita mulai ada sesi pemrograman (programming session) dengan JavaScript yang juga secara tersirat mulai menggunakan struktur data. Pedoman ini ditujukan untuk sangat pemula, bahkan tidak perlu pengetahuan HTML dan CSS. Jadi hal ini bisa dipelajari secara terpisah, dan juga kita bisa lebih fokus ke JavaScript saja agak tidak terlalu membebani.
+Di sini kita mulai ada sesi pemrograman (programming session) sesungguhnya dengan JavaScript yang juga secara tersirat mulai menggunakan struktur data. Pedoman ini didesain agar tidak perlu melibatkan banyak HTML dan CSS dahulu. Sehingga kita bisa lebih fokus ke JavaScript saja agak tidak terlalu membebani.
 
 Berikut adalah beberapa hal yang kamu perlu cek saat mengikuti pedoman ini beserta referensi lainnya.
 

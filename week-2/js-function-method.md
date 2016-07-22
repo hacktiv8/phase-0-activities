@@ -8,7 +8,7 @@
 - ▢ Melakukan type conversion
 - ▢ Memahami exception and error handling
 
-## Directions
+## Learnings
 
 ### Fungsi (Function)
 

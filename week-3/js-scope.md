@@ -4,7 +4,7 @@
 
 - ▢ Mengulas kembali dan memahami scope lebih lanjut.
 
-## Directions
+## Learnings
 
 Cakupan atau scope pada JavaScript berhubungan erat dengan konsep global dan local. Global dan local ini dipengaruhi oleh lokasi saat kita deklarasikan. Variabel local bisa saja memiliki identifier yang sama dengan variabel global, tapi konteksnya berbeda. Jika kita ganti nilai suatu variabel yang namanya sama namun konteksnya berbeda, pengaruh hanya terjadi pada variabel dalam konteks yang kita perlakukan.
 

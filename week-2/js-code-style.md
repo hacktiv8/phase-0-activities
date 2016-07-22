@@ -4,7 +4,7 @@
 
 Seperti yang tertera pada bagian referensi pekan ini, ada beberapa hal yang perlu kita perhatikan agar praktik code dan hasil kerja kita baik dan berkualitas.
 
-## Directions
+## Learnings
 
 ### 1. Memahami cara penulisan JavaScript yang baik
 

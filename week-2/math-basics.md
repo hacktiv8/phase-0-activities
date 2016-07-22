@@ -12,7 +12,7 @@ Membuat berbagai fungsi matematika dasar.
 
 ## Directions
 
-Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
+Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu. Masing-masing function yang akan dibuat berikut merupakan program yang berbeda-beda.
 
 ### 1. Buatlah fungsi pangkat angka agar kode berikut dapat berjalan
 
