@@ -33,7 +33,6 @@ Coba lihat beberapa contoh nyata fantastis yang lain:
 - [Here is Today](http://hereistoday.com)
 - [IBM Design](http://ibm.com/design)
 - [Run4Tiger](http://run4tiger.com)
-- [Solar System of JS](https://shaunlebron.github.io/solar-system-of-js)
 
 Aturan standar untuk JavaScript aslinya bernama ECMAScript atau ES. Dimulai pada 2009, hingga pada 2012 semua browser modern sepenuhnya mendukung ES versi 5 atau ES5. Lalu yang paling signifikan, pada 17 Juni 2015, ECMA International yang merupakan badan standarnya, mempublikasikan versi 6 dari ES yang secara resmi dinamai ECMAScript 2015, walaupun secara umum lebih dikenal sebagai ECMAScript 6 atau ES6. Diekspektasikan standar tersebut dirilis secara berkala tahunan. Penting untuk diketahui beberapa fitur ES2015/ES6 belum diimplementasikan di beberapa platform/browser.
 

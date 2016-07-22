@@ -142,6 +142,7 @@ Dapat kita lihat jadi sebenarnya transpilasi sesederhana menambahkan secara otom
 **JavaScript/ECMAScript**
 
 - [A re-introduction to JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [Solar System of JS](https://shaunlebron.github.io/solar-system-of-js)
 - [State of the Union.js](https://medium.com/@matthiasak/state-of-the-union-js-d664bdbffd14)
 - [JavaScript Best Practices](http://www.w3schools.com/js/js_best_practices.asp)
 - [24 JavaScript Best Practices for Beginners](http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
