@@ -1,4 +1,4 @@
-# Mastering Decimal, Binary, Hexadecimal, and Other Number System
+# Learn Decimal, Binary, Octal, Hexadecimal, and Other Number System
 
 ## Objectives
 
@@ -8,11 +8,9 @@
 - ▢ Membandingkan bit dan byte
 - ▢ Memahami floating point
 
-## Directions
+## Learnings
 
-TODO
-
-## References
+Pelajari ulang berbagai hal terkait sistem angka dari referensi berikut.
 
 - [Decimal, article on Wikipedia](https://en.wikipedia.org/wiki/Decimal)
 - [Binary, Decimal and Hexadecimal Numbers, guide on MathsIsFun.com](http://www.mathsisfun.com/binary-decimal-hexadecimal.html)
