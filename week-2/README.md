@@ -18,7 +18,6 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 - ▢ [Memahami budaya dan team work dalam pengembangan software](./software-culture-teamwork.md)
 - ▢ [Mengenal pair programming](./pair-programming.md)
 - ▢ [Memahami dan menggunakan object dan JSON di JavaScript](./js-object-json.md)
-- ▢ [Mengenal debugging untuk menyelesaikan masalah code](./debugging.md)
 
 ## Wednesday
 

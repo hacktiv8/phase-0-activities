@@ -9,10 +9,10 @@ Seperti yang tertera pada bagian referensi pekan ini, ada beberapa hal yang perl
 ### 1. Memahami cara penulisan JavaScript yang baik
 
 - ▢ Pahami berbagai aturan penulisan JavaScript di sini:
-- Cek berbagai pedoman penulisan code berikut:
-  - ▢ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-  - ▢ [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-  - ▢ [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
+- ▢ Cek berbagai pedoman penulisan code berikut:
+  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  - [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+  - [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
 
 ### 2. Ingat untuk menggunakan tiap bahasa sesuai kegunaan terbaiknya
 
@@ -74,7 +74,7 @@ Dalam penulisan code apalagi JavaScript, akan ada sangat banyak variasi cara dan
 
 Berikut beberapa hinter/linter yang paling populer:
 
-- [JSLint: The JavaScript Code Quality Tool](http://www.jslint.com)
+- [JSLint: The JavaScript Code Quality Tool](http://jslint.com)
 - [JSHint: A JavaScript Code Quality Tool](http://jshint.com)
 - [JSCS: Code style linter and formatter for your style guide](http://jscs.info)
 - [ESLint: Pluggable JavaScript linter](http://eslint.org)
