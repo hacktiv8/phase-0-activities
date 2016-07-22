@@ -5,10 +5,10 @@
 Menggunakan berbagai pondasi dan aturan CSS3 yang berfungsi untuk:
 
 - Mengikutkannya ke dalam HTML
-- Comments or Documentation
-- Selector and Properties
+- Komentar atau dokumentasi
+- Selector, properties, dan value
 - Positioning
-- Box model
+- Box model (padding, border, margin)
 
 Kamu juga dapat menggunakan teknik shorthand untuk mengeset value untuk beberapa property khusus.
 

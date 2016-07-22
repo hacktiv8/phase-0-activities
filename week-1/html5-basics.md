@@ -2,7 +2,7 @@
 
 ## Objectives
 
-TODO
+- ▢ Mengulas dasar-dasar HTML.
 
 ## Learnings
 
@@ -35,11 +35,11 @@ Sintaks atau cara penulisan HTML biasanya terlihat seperti ini:
 
 yang akan menghasilkan halaman web seperti ini jika di JSBin:
 
-![Contoh HTML di JSBin](images/html-jsbin.png)
+![Contoh HTML di JSBin](assets/html-jsbin.png)
 
 atau seperti ini jika di CodePen:
 
-![Contoh HTML di Codepen](images/html-codepen.png)
+![Contoh HTML di Codepen](assets/html-codepen.png)
 
 Cobalah untuk mengetikkan contoh kode tersebut di dalam JSBin atau CodePen. Lihatlah secara langsung hasilnya di situ. Berikutnya kami akan menunjukkan hasilnya yang dihasilkan di JSBin saja.
 
@@ -70,7 +70,7 @@ Dari contoh sebelumnya, beberapa teks terdapat di antara tag pembuka dan penutup
 
 Inilah ilustrasi atau visualisasi yang HTML strukturkan:
 
-![HTML Visualization](images/html-visual.png)
+![HTML Visualization](assets/html-visual.png)
 
 Kita bisa menggabungkan atau mengumpulkan berbagai tag HTML yang berbeda di dalam satu sama lain. Dalam HTML, penyusunan tag sangat fleksibel.
 
@@ -100,7 +100,7 @@ Beberapa tag HTML dapat memiliki atribut, seperti `href`, `src`, `alt`, dll:
 
 Ada cara lain untuk melihat berbagai contoh yang ada di berbagai website. Kita dapat melihat sumber halaman (page source) dari sebuah website (coba kunjungi http://hacktiv8.com misalnya), lalu klik kanan halaman tersebut, biasanya bekerja baik di area yang kosong (white space) atau bukan sebuah elemen HTML, lalu pilih "View page source"; atau bisa juga menggunakan shortcut `Ctrl+U`. Cara lain yang lebih lanjut juga dapat menggunakan "Inspect Element" (`Ctrl+Shift+I`) pada elemen apapun di layar.
 
-![Chrome Dev Tools](images/chrome-dev-tools.png)
+![Chrome Dev Tools](assets/chrome-dev-tools.png)
 
 Untuk melatih kemampuan menulis HTML, cobalah gunakan JSBin atau CodePen sambil mendaftar sebuah akun, agar progress dapat disimpan secara online, bahkan juga dapat dibagikan ke siapapun.
 
@@ -263,7 +263,7 @@ Sebuah gambar bermakna ribuan kata. Namun bukan hanya untuk gambar, figur dapat 
 
 ```html
 <figure>
-  <img src="images/my-photo.jpg" alt="My Photo" width="100px" height="200px">
+  <img src="assets/my-photo.jpg" alt="My Photo" width="100px" height="200px">
   <figcaption>My latest photo.</figcaption>
 </figure>
 ```
@@ -291,7 +291,7 @@ Menggunakan audio:
 Tidak apa-apa menggunakan elemen-elemen tersebut tanpa `figure` jika tidak terlalu dibutuhkan.
 
 ```html
-<img src="images/my-photo.jpg">
+<img src="assets/my-photo.jpg">
 <video src="video.mp4" controls>
 <audio src="music.mp3" controls>
 ```

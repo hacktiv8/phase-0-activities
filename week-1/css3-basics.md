@@ -2,7 +2,7 @@
 
 ## Objectives
 
-TODO
+- ▢ Mengulas dasar-dasar CSS.
 
 ## Learnings
 
