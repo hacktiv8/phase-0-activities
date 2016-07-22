@@ -25,7 +25,7 @@ Selain itu, selama menggunakan Chrome Dev Tools kemungkinan kita kebanyakan hany
 
 ## Learnings
 
-### Mengenal DOM
+### 1. Mengenal DOM
 
 Document Object Model (DOM) merupakan antarmuka pemrograman untuk dokumen HTML dan XML (juga SVG) terkait. Dengan DOM, kita bisa mengetahui dan mengatur struktur representasi dokumen melalui program terutama JavaScript. Program dapat mengolah struktur, style, dan isi dari dokumen tersebut. Maka dari itu DOM membutuhkan dan menghubungkan antara dokumen dan kode pemrograman.
 
@@ -58,7 +58,7 @@ Mirip dengan cara mencetak JavaScript ke halaman web!
 document.write("Hello!");
 ```
 
-### Mengenal DevTools lebih jauh
+### 2. Mengenal DevTools lebih jauh
 
 Sebelum lanjut mempelajari DOM lebih jauh, kita perlu bantuan DevTools.
 
@@ -70,7 +70,7 @@ Setelah kamu lebih memahami penggunaan DevTools...
 - ▢ Modifikasi atau eksperimenlah CSS pada website kamu dengan DevTools.
 - ▢ Kunjungi website apapun yang kamu suka. Lalu lihat DOM code-nya. Apa bedanya dengan HTML dan CSS biasa?
 
-### Menjelajahi DOM (DOM Traversing)
+### 3. Menjelajahi DOM (DOM Traversing)
 
 Bayangkan rangkaian kaitan DOM seperti sebuah pohon yang terbalik. Pada dasarnya HTML dimulai dari node `html` sebagai ujung/akar paling awal (root), kemudian lanjut ke cabang lainnya seperti `head` (masuk ke `title`, `link`, dll) yang bersebelahan dengan `body` yang di dalamnya terdapat berbagai elemen umum seperti `div`, `h1`, `p`, `ul` (yang bisa berisi `li`), `table` (berisi `tr`, `td`), serta lain sebagainya.
 
@@ -155,7 +155,7 @@ Beberapa property dan attribute yang kita butuhkan biasanya terdapat pada elemen
 
 Untuk lebih mudah dan tidak membingungkan, kita hindari penggunaan attribute, gunakan property saja.
 
-### Pengubahan DOM (DOM Manipulation)
+### 4. Pengubahan DOM (DOM Manipulation)
 
 Pengubahan ataupun modifikasi bisa dilakukan sesederhana meng-assign value baru pada sebuah property.
 
@@ -211,7 +211,7 @@ document.forms.contact.elements.submit.value;
 document.forms.contact.elements["favorite"].options[0];
 ```
 
-### DOM Style
+### 5. DOM Style
 
 Terdapat berbagai property dan method DOM yang berkaitan dengan CSS:
 
