@@ -52,3 +52,7 @@ Untuk menjaga kesederhanaan, jika indeks sedang berada di ujung awal atau akhir,
 ### 8. Cek fungsionalitas program
 
 Cek kembali bahwa fungsi sudah terpasang pada event listener kedua button yang akan kita pakai.
+
+## Submissions
+
+Buatlah sebuah halaman `gallery-slide.html` dalam repo website kamu. Kemudian commit dan push ke GitHub.

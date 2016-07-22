@@ -13,20 +13,26 @@ Membuat simulasi daftar kontak sederhana yang dapat menyimpan nama, email, telep
 
 Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
 
-### 1. Buatlah agar objek `DaftarKontak` berisi array kosong, yang nantinya akan memiliki beberapa objek lain.
+### 1. Buat array untuk daftar Kontak
+
+Buatlah agar objek `DaftarKontak` berisi array kosong, yang nantinya akan memiliki beberapa objek lain.
 
 ```javascript
 DaftarKontak
 // []
 ```
 
-### 2. Buatlah objek `Program` memiliki fungsi untuk mengolah `DaftarKontak` berikut walau belum ada isi logic-nya:
+### 2. Siapkan berbagai kerangka function dasar
+
+Buatlah objek `Program` memiliki fungsi untuk mengolah `DaftarKontak` berikut walau belum ada isi logic-nya:
 
 - `tambahKontak(nama, email, telepon)`: menambahkan objek baru dengan properti di parameter
 - `lihatSemua()`: menampilkan semua objek yang ada
 - `cariKontak(nama)`: menampilkan objek sesuai yang punya nama di parameter
 
-### 3. Mulailah membuat logic dalam fungsi `tambahKontak` dimana akan dibuat sebuah objek dengan properties sesuai parameter tersebut.
+### 3. Implementasikan function untuk menambahkan kontak
+
+Mulailah membuat logic dalam fungsi `tambahKontak` dimana akan dibuat sebuah objek dengan properties sesuai parameter tersebut.
 
 ```javascript
 Program.tambahKontak("Ruben", "ruben@gmail.com", "021777555");
@@ -55,7 +61,9 @@ console.log(DaftarKontak);
 
 ![tambah kontak](assets/contact-tambahkontak.png)
 
-### 4. Menggunakan `console.log(DaftarKontak);` setiap ingin melihat semua daftar kontak yang ada agak terlihat jelek. Mari kita buat logic `lihatSemua()` agar dapat menampilkan semuanya dengan bagus.
+### 4. Implementasikan function untuk melihat berbagai kontak yang ada
+
+Menggunakan `console.log(DaftarKontak);` setiap ingin melihat semua daftar kontak yang ada agak terlihat jelek. Mari kita buat logic `lihatSemua()` agar dapat menampilkan semuanya dengan bagus.
 
 ```javascript
 Program.lihatSemua();
@@ -70,7 +78,9 @@ Program.lihatSemua();
 
 ![lihat semua](assets/contact-lihatsemua.png)
 
-### 5. Bagaimana jika kita tau nama orang dan kita ingin tau nomor teleponnya? Buatlah agar `cariKontak(nama)` agar dapat mencari hal tersebut.
+### 5. (Opsional) Implementasikan pencari detail kontak dengan parameter `nama`
+
+Bagaimana jika kita tau nama orang dan kita ingin tau nomor teleponnya? Buatlah agar `cariKontak(nama)` agar dapat mencari hal tersebut.
 
 ```javascript
 // ---Kontak Ruben ditambahkan---
@@ -84,4 +94,10 @@ Program.cariKontak("Ruben");
 
 ![cari nama](assets/contact-carikontak.png)
 
-### 6. (Opsional) Function `cariKontak` juga bisa dibuat parameter kedua untuk menampilkan data spesifik yang ditampilkan. Misalnya hanya mengembalikan/menampilkan `email` tanpa `nama` dan `telepon`. Begitupun seterusnya.
+### 6. (Opsional) Variasikan implementasi pencari detail kontak
+
+Function `cariKontak` juga bisa dibuat parameter kedua untuk menampilkan data spesifik yang ditampilkan. Misalnya hanya mengembalikan/menampilkan `email` tanpa `nama` dan `telepon`. Begitupun seterusnya.
+
+## Submissions
+
+Buatlah sebuah file `contact-list.js` dalam repo website kamu. Kemudian commit dan push ke GitHub.

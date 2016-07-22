@@ -42,3 +42,7 @@ Pergantian warna hanya akan dilakukan pada saat tombol ditekan saja.
 ### 5. (Opsional) Buat input form yang dapat memuat berbagai teks
 
 Saat di-submit dengan button, teks tersebut akan dipecah-pecah per-kata, lalu dicetak ke layar dokumen sekaligus diubah warnanya per-kata.
+
+## Submissions
+
+Buatlah sebuah halaman `rainbow-text.html` dalam repo website kamu. Kemudian commit dan push ke GitHub.

@@ -36,7 +36,7 @@ Berikut contoh artikel berita sederhana dengan HTML dan CSS.
   - `git add news/first-news.html`
   - `git commit -m "Create the first news article"`
   - `git push`
-- ▢ Cek halaman berita yang sudah dibuat
+- ▢ Cek halaman berita yang sudah dibuat\
 
 ## References
 

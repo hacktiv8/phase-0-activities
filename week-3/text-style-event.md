@@ -40,3 +40,7 @@ Di baris sebelum menambah event listener, buatlah fungsi untuk mengganti style d
 ### 4. Cek fungsionalitas program
 
 Cobalah untuk klik kanan dan kiri untuk mengubah tulisan tersebut
+
+## Submissions
+
+Buatlah sebuah halaman `text-style-event.html` dalam repo website kamu. Kemudian commit dan push ke GitHub.

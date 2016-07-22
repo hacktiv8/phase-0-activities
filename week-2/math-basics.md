@@ -59,3 +59,7 @@ hipotenusa(3, 4) // akar dari (3^2 + 4^2)
 luasLingkaran(7) // pi * r^2
 // menghasilkan "154 cm"
 ```
+
+## Submissions
+
+Buatlah sebuah file `math-basics.js` dalam repo website kamu. Kemudian commit dan push ke GitHub.

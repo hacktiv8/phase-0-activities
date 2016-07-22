@@ -37,3 +37,7 @@ var lawan = pilihanLawan() // lawan mengacak angka antara 0 hingga 1
 bertarung(pengguna, lawan)
 // menghasilkan string "Pemenangnya adalah: Pengguna" atau "Pemenangnya adalah: Komputer"
 ```
+
+## Submissions
+
+Buatlah sebuah file `rock-paper-scissors.js` dalam repo website kamu. Kemudian commit dan push ke GitHub.
