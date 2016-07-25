@@ -62,4 +62,4 @@ luasLingkaran(7) // pi * r^2
 
 ## Submissions
 
-Buatlah sebuah file `math-basics.js` dalam repo website kamu. Kemudian commit dan push ke GitHub.
+Buatlah berbagai program tersebut dalam file `math-basics.js` (boleh juga dipisah-pisah sesuai tujuannya) pada repo website kamu. Kemudian commit dan push ke GitHub.

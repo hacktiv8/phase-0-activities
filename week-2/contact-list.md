@@ -100,4 +100,4 @@ Function `cariKontak` juga bisa dibuat parameter kedua untuk menampilkan data sp
 
 ## Submissions
 
-Buatlah sebuah file `contact-list.js` dalam repo website kamu. Kemudian commit dan push ke GitHub.
+Buatlah sebuah file `contact-list.js` pada repo website kamu. Kemudian commit dan push ke GitHub.

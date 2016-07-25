@@ -45,4 +45,4 @@ Saat di-submit dengan button, teks tersebut akan dipecah-pecah per-kata, lalu di
 
 ## Submissions
 
-Buatlah sebuah halaman `rainbow-text.html` dalam repo website kamu. Kemudian commit dan push ke GitHub.
+Buatlah aplikasi tersebut dalam halaman `rainbow-text.html` pada repo website kamu. Kemudian commit dan push ke GitHub.

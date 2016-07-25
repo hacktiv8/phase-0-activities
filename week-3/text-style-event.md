@@ -43,4 +43,4 @@ Cobalah untuk klik kanan dan kiri untuk mengubah tulisan tersebut
 
 ## Submissions
 
-Buatlah sebuah halaman `text-style-event.html` dalam repo website kamu. Kemudian commit dan push ke GitHub.
+Buatlah aplikasi tersebut dalam halaman `text-style-event.html` pada repo website kamu. Kemudian commit dan push ke GitHub.

@@ -3,7 +3,7 @@
 ## Objectives
 
 - ▢ Memahami pembuatan dan kegunaan pasangan key-value dalam sebuah object.
-- ▢ Memahami JSON dan perbedaannya dengan object biasa.
+- ▢ Mengenal JSON dan perbedaannya dengan object biasa.
 
 ## Learnings
 

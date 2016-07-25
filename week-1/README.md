@@ -32,6 +32,7 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 - ▢ [Mempelajari dasar HTML5](./html5-basics.md) `TODO`
 - ▢ [Mempelajari dasar HTML5 forms](./html5-forms-basics.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5](./html5-elements.md)
+- ▢ [Mempelajari Markdown](./markdown.md)
 
 ## Wednesday
 

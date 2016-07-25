@@ -1,10 +1,10 @@
-# Learn Decimal, Binary, Octal, Hexadecimal, and Other Number System
+# Learn Various Number Systems (Decimal, Binary, Octal, Hexadecimal)
 
 ## Objectives
 
-- ▢ Memahami bagaimana cara berhitung dalam sistem bilangan desimal.
+- ▢ Memahami bagaimana cara berhitung dalam sistem bilangan desimal, biner, oktal, heksadesimel.
 - ▢ Mengetahui asalan mengapa komputer menggunakan sistem bilangan biner.
-- ▢ Mengetahui manfaat mengetahui sistem bilangan heksadesimal.
+- ▢ Mengetahui manfaat mengetahui berbagai sistem bilangan.
 - ▢ Memahami perbandingan bit dan byte.
 - ▢ Memahami floating point.
 

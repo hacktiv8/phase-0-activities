@@ -2,17 +2,15 @@
 
 ## Objectives
 
-TODO
+- ▢ Melatih kreatifitas dalam pembuatan program.
 
 ## Directions
 
-- Membuat cerita petualangan interaktif.
+Buatlah sebuah program yang memiliki salah satu dari berbagai tujuan berikut:
+
+- Cerita petualangan interaktif.
 - ...
 
-- ▢
-- ▢
-- ▢
+## Submssions
 
-## References
-
--
+Buatlah program tersebut dalam file `myapp.js` atau apapun yang relevan, pada repo website kamu. Kemudian commit dan push ke GitHub.

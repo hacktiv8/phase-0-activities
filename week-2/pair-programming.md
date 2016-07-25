@@ -2,15 +2,19 @@
 
 ## Objectives
 
-Esensi pemrograman berpasangan (pair programming) berkaitan dengan programming bersama-sama dalam team. Namun kegiatan ini fokus untuk mengerjakan source code atau code base yang sama, dikerjakan oleh dua orang dalam waktu yang sama.
+Esensi pemrograman berpasangan (pair programming) berkaitan dengan programming bersama-sama dalam team. Kegiatan ini fokus untuk mengerjakan suatu tugas yang umumnya adalah source code atau code base yang sama, dikerjakan oleh dua orang dalam waktu yang sama.
 
 ## Directions
 
 ### 1. Memahami teknik pair programming
 
-- ▢ [Tontonlah video YouTube ini](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
+- ▢ Pelajari maksud dan kegunaannya dari berbagai referensi berikut:
+  - [Agile in Practice: Pair Programming, by Agile Academy](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
+  - [How to pair program, by Carl Tashian](https://medium.com/@tashian/how-to-pair-program-df7ecbfcacb)
+  - [Effective Navigation in Pair Programming, on ThoughtWorks](https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming)
+  - [Pair Programming: A (Semi-) Definitive Guide, by Rob Isenberg](https://medium.com/@robisenberg/pair-programming-a-semi-definitive-guide-44bab1c9c1de)
 
-Pair programming juga digunakan untuk kegunaan yang lain seperti pengembangan (development), engineering, bahkan desain. Metode ini adalah dimana dua orang ditugaskan ke dalam dua peran:
+Pair programming dapat digunakan untuk berbagai kegunaan yang berhubungan dengan pengembangan (development), engineering (rekayasa), bahkan desain. Metode ini adalah dimana dua orang ditugaskan ke dalam dua peran:
 
 - pengendali (driver), yang menulis/mengetik kode.
 - navigator, yang mengkoordinasikan dan menemukan masalah.
@@ -26,11 +30,11 @@ Terdapat tool online untuk melakukan pair programming dengan aplikasi online yan
 - [Floobits](https://floobits.com)
 - [MadEye](https://madeye.io)
 - [Screenhero](https://screenhero.com)
-- [tmate](http://tmate.io).
+- [tmate](http://tmate.io)
 
 Bahkan dengan kemampuan cloud application yang real time seperti JSBin, secara tersirat kita bisa melakukan pair programming.
 
-Terdapat juga integrated development environment (IDE) online seperti:
+Terdapat juga real-time integrated development environment (IDE) online seperti:
 
 - [Plunker](http://plnkr.co)
 - [Codeanywhere](https://codeanywhere.com)

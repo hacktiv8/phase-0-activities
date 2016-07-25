@@ -1,8 +1,8 @@
-# Know About Web Literacy
+# Know About Web Literacy and Digital Skills
 
 ## Objectives
 
-Secara tersirat, berbagai kegiatan yang sudah kita lakukan tentunya adalah salah satu bentuk "melek teknologi dan Web". Istilah ini bisa juga disebut "Web Literacy", berbagai kemampuan dan kompetensi dasar yang dibutuhkan untuk membaca, menulis, dan berpartisipasi di Web. Pengguna Web dianjurkan untuk tidak hanya menggunakan dan mengetahui website, tapi juga dapat membuat website.
+Secara tersirat, berbagai kegiatan yang sudah kita lakukan tentunya adalah salah satu bentuk "melek teknologi dan Web". Istilah ini bisa juga disebut "Web Literacy" serta "Digital Skills", berbagai kemampuan dan kompetensi dasar yang dibutuhkan untuk membaca, menulis, dan berpartisipasi di dunia digital dan Web. Pengguna media digital dan Web dianjurkan untuk tidak hanya menggunakan dan mengetahui, tapi juga dapat memahami dan membuat berbagai hal yang ada di dalamnya.
 
 ## Learnings
 

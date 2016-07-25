@@ -1,9 +1,11 @@
-# Learn Culture and Teamwork in Software Development
+# Learn Process, Culture, and Teamwork in Software Development
 
 ## Objectives
 
-- ▢ Mengenal urutan tipikal dari software development life cycle (SDLC)
-- ▢ Memahami berbagai teknik atau model SDLC
+Berjalannya proses, budaya, dan kerja sama dalam pengembangan software maupun web merupakan hal yang sangat harus diperhatikan dalam dunia profesional.
+
+- ▢ Mengenal urutan tipikal dari software development life cycle (SDLC).
+- ▢ Memahami berbagai teknik atau model SDLC.
 
 ## Learnings
 
@@ -12,8 +14,11 @@
 - [SDLC Tutorial on TutorialsPoint](http://www.tutorialspoint.com/sdlc)
 - [Systems development life cycle, on Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 - [Software development process, on Wikipedia](https://en.wikipedia.org/wiki/Software_development_process)
--
 
-## References
+**Software Culture**
 
--
+- []()
+
+**Teamwork**
+
+- []()

@@ -11,11 +11,11 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 - ▢ [Berpikir dan berkembang secara lebih efektif dan efisien, dengan growth mindset](./thinking.md)
 - ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](./js-basics.md) `TODO`
 - ▢ [Memahami dan menggunakan struktur dan tipe data di JavaScript](./js-data.md)
-- ▢ [Memahami sistem angka decimal, binary, hexadecimal, dan lainnya](./number-system.md)
+- ▢ [Memahami berbagai sistem angka](./number-system.md)
 
 ## Tuesday
 
-- ▢ [Memahami budaya dan team work dalam pengembangan software](./software-culture-teamwork.md)
+- ▢ [Memahami proses, budaya, dan kerja sama dalam pengembangan software](./software-culture-teamwork.md) `TODO`
 - ▢ [Mengenal pair programming](./pair-programming.md)
 - ▢ [Memahami dan menggunakan object dan JSON di JavaScript](./js-object-json.md)
 
@@ -28,7 +28,7 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 ## Thursday
 
-- ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md)
+- ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](./js-world.md) `TODO`
 - ▢ [Membuat fungsi matematika dasar](./math-basics.md)
 - ▢ [Membuat permainan suit jepang](./rock-paper-scissors.md)
 - ▢ [Membuat daftar kontak sederhana](./contact-list.md)
@@ -36,7 +36,7 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 ## Friday
 
 - ▢ [Mengenal Web Literacy](./web-literacy.md)
-- ▢ [Memahami open source dan fenomenanya](./open-source.md)
+- ▢ [Memahami open source dan fenomenanya](./open-source.md) `TODO`
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)
 
 ![Footer](assets/footer.png)

@@ -15,7 +15,6 @@ Seperti yang tertera pada bagian referensi pekan ini, ada beberapa hal yang perl
   - [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
   - [The Zen Approach: JavaScript Styleguide](https://github.com/nijikokun/the-zen-approach)
 
-
 ### 2. Menggunakan tiap bahasa sesuai fungsi utamanya
 
 Ini saran klasik yang sudah seharusnya diketahui semua developer. Tiap bahasa yang sudah kita ketahui saja misalnya:

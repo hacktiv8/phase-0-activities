@@ -2,22 +2,16 @@
 
 ## Objectives
 
-TODO
+`TODO`
 
 ## Learnings
+
+Pelajari maksud dan makna open source dari berbagai referensi berikut:
 
 - [What is open source software?](https://opensource.com/resources/what-open-source)
 - [What is Linux?](https://opensource.com/resources/what-is-linux)
 - [What is open hardware?](https://opensource.com/resources/what-open-hardware)
 - [The open source way](https://opensource.com/open-source-way)
-
-## Directions
-
-TODO
-
-- ▢
-- ▢
-- ▢
 
 ## References
 

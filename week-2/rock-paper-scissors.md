@@ -40,4 +40,4 @@ bertarung(pengguna, lawan)
 
 ## Submissions
 
-Buatlah sebuah file `rock-paper-scissors.js` dalam repo website kamu. Kemudian commit dan push ke GitHub.
+Buatlah program tersebut dalam file `rock-paper-scissors.js` pada repo website kamu. Kemudian commit dan push ke GitHub.

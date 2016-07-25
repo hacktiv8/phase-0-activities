@@ -46,7 +46,7 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 **Learning**
 
 - [Ramsey Musallam: 3 Rules to Spark Learning](https://youtu.be/YsYHqfk0X2A) (TED on YouTube video)
-- [Angela Lee Duckworth: The Key To Success? Grit](https://youtu.be/H14bBuluwB8)
+- [Angela Lee Duckworth: The Key To Success? Grit](https://youtu.be/H14bBuluwB8) (TED on YouTube video)
 - [VARK questionnaire on learning style](http://vark-learn.com/the-vark-questionnaire)
 - [10 Habits That Help You Learn Twice as Fast, by Chris W. Dunn on Entrepreneur.com](https://www.entrepreneur.com/article/278278)
 - [5 Simple Tricks to Remember Everything You Learn, by Erin Brodwin on Inc.com](http://www.inc.com/business-insider/5-simple-memory-tricks-remember-everything-learn-successfully.html)
