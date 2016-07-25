@@ -29,6 +29,7 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 ### CLI
 
 - [A Command Line Primer for Beginners, article on Lifehacker](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
+- [Switching From Windows to Nix or a Newbie to Linux – 20 Useful Commands for Linux Newbies, on Techmint](http://www.tecmint.com/useful-linux-commands-for-newbies)
 - [Learn Enough Command Line to Be Dangerous, by Michael Hartl](https://learnenough.com/command-line-tutorial)
 - [Learn CLI the hard way](http://cli.learncodethehardway.org/book)
 
@@ -39,3 +40,4 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 - [Official website of Git SCM](https://git-scm.com)
 - [Learn Git Branching](http://learngitbranching.js.org)
 - [Git on Bento](https://bento.io/git)
+- [Git-Game](https://www.git-game.com)

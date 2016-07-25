@@ -74,6 +74,7 @@ Untuk memperkuat pemahaman kamu, bacalah referensi yang disertakan berikut.
 - [JavaScript Scope, on W3Schools](http://www.w3schools.com/js/js_scope.asp)
 - [Everything you wanted to know about JavaScript scope, by Todd Motto](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope)
 - [Demystifying JavaScript Variable Scope and Hoisting, by Ivaylo Gerchev on SitePoint](https://sitepoint.com/demystifying-javascript-variable-scope-hoisting)
+- [JavaScript variables hoisting in details, by Dmitri Pavlutin](https://rainsoft.io/javascript-hoisting-in-details)
 - [Understand JavaScript’s “this” With Clarity, and Master It - JavaScript.isSexy](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it)
 - [JavaScript Variable Scope and Hoisting Explained - JavaScript.isSexy](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained)
 - [16 JavaScript Concepts JavaScript Professionals Must Know Well - JavaScript.isSexy](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well)

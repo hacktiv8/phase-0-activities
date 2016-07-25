@@ -3,6 +3,7 @@
 ## Objectives
 
 - ▢ Mempraktekkan pengetahuan HTML5 forms untuk membuat formulir kontak dengan email sederhana.
+- ▢ Mempraktekkan pembuatan formulir yang baik.
 
 Berbagai element yang bisa dipakai adalah sebagai berikut:
 
@@ -44,3 +45,5 @@ Berikut contoh formulir kontak dengan email dan berbagai input lain sederhana de
 - [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/building-forms) (lesson 10)
 - [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
 - [DevDocs HTML Documentation](http://devdocs.io/html)
+- [Design Better Forms, by Andrew Coyle on UXDesign.cc](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+- 

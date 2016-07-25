@@ -184,7 +184,9 @@ finally {
 
 ### References
 
+- [Six ways to declare JavaScript functions by Dmitri Pavlutin](https://rainsoft.io/6-ways-to-declare-javascript-functions)
 - [Learn JavaScript in Y Minutes](http://learnxinyminutes.com/docs/javascript)
 - [JavaScript cheat sheet, by Marijn Haverbeke](http://marijnhaverbeke.nl/js-cheatsheet.html)
 - [Javascript Cheat Sheet on OverAPI](http://overapi.com/javascript)
 - [DevDocs JavaScript API Documentation](http://devdocs.io/javascript)
+- [Understanding Asynchronous JavaScript Callbacks Through Household Chores, by Stephen Mayeux](https://medium.freecodecamp.com/understanding-asynchronous-javascript-callbacks-through-household-chores-e3de9a1dbd04)

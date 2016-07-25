@@ -36,3 +36,4 @@ Gunakan method-method yang dapat menggantikan API JavaScript standard seperti:
 - [jQuery Learning Center](http://learn.jquery.com)
 - [jQuery Course on Codecademy](https://www.codecademy.com/learn/jquery)
 - [Try jQuery course, by Code School](http://try.jquery.com)
+- [Belajar jQuery Untuk Pemula, oleh Amir Bintang di BangsaCerdas](https://bangsacerdas.com/course/belajar-jquery-untuk-pemula/22)

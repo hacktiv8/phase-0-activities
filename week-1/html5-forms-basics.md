@@ -115,3 +115,4 @@ Inilah beberapa contoh kode yang dapat membantu Anda membuat formulir kontak.
 - [HTML5 forms introduction and new attributes, on HTML5 Doctor](http://html5doctor.com/html5-forms-introduction-and-new-attributes)
 - [Making Forms Fabulous with HTML5, on HTML5 Rocks](http://www.html5rocks.com/en/tutorials/forms/html5forms)
 - [HTML5 - Web Forms 2.0, on TutorialsPoint](http://www.tutorialspoint.com/html5/html5_web_forms2.htm)
+- [Design Better Forms, by Andrew Coyle on UXDesign.cc](https://uxdesign.cc/design-better-forms-96fadca0f49c)

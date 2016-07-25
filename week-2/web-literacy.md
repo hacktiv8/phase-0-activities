@@ -12,5 +12,6 @@ Bacalah dan cari tahu apa saja yang terdapat pada web literacy lebih detail.
 - [Web Literacy 2.0 Whitepaper](http://mozilla.github.io/content/web-lit-whitepaper)
 - ["Why Web Literacy Matters, Too" by Mark Surman](https://medium.com/bright/why-web-literacy-matters-too-eedfd902ab07)
 - [Why Web Literacy Should Be Part of Every Education, on Co.Exist](http://www.fastcoexist.com/1680264/why-web-literacy-should-be-part-of-every-education)
+- [8 digital skills we must teach our children](https://www.weforum.org/agenda/2016/06/8-digital-skills-we-must-teach-our-children)
 
 Seiring waktu, kita dapat mengimplementasikan berbagai kemampuan dasar ini dalam kehidupan sehari-hari.

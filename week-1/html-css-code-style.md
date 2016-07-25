@@ -55,3 +55,7 @@ Harap menyadari cara dan hasil penulisan code kamu. Pada berbagai kegiatan berik
   - `git commit -m "Tidy up my code"`
   - `git push`
 - ▢ Cek halaman dan source code kamu yang sudah lebih rapi
+
+## References
+
+- [The Essential Meta Tags for Social Media, on CSS Tricks](https://css-tricks.com/essential-meta-tags-social-media)

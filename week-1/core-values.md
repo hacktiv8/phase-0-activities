@@ -105,3 +105,7 @@ Wawasan
 
 - [What Are Core Values? Here's a Workbook to Help You Discover Yours, via Living Moxie](http://dawnbarclay.com/core-values)
 - [How to Live With Purpose, Identify Your Values and Improve Your Leadership, by Anne Loehr on Huffington Post](http://www.huffingtonpost.com/anne-loehr/how-to-live-with-purpose-_b_5187572.html)
+- [It’s Fine. Don’t Fight It. Six Steps to Programmer’s Zen. by Tomek Rusilko on Lunar Logic](http://blog.lunarlogic.io/2016/six-steps-to-programmers-zen)
+- [Unmasking Impostor Syndrome: 7 Ways to Boost Your Confidence at Work, by Emily Bonnie on Wrike](https://www.wrike.com/blog/unmasking-impostor-syndrome-7-ways-boost-confidence-work)
+- [Feel like an impostor? You’re not alone - Andrea Ayres on Crew.co](https://crew.co/backstage/blog/feel-like-an-impostor-youre-not-alone)
+- [Everyone Suffers from Imposter Syndrome — Here’s How to Handle It, by Andy Molinsky on HBR](https://hbr.org/2016/07/everyone-suffers-from-imposter-syndrome-heres-how-to-handle-it)

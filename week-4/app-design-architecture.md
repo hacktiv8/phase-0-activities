@@ -35,6 +35,7 @@ Kita akan bahas ini lain kali. Namun sekarang cukup tahu terlebih dahulu saja, b
 
 ## References
 
+- [Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar, by Kevin Kononenko](https://medium.freecodecamp.com/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - [Applications architecture - Wikipedia](https://en.wikipedia.org/wiki/Applications_architecture)
 - [What is Software Architecture? - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/ee658098.aspx)

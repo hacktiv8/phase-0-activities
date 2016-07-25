@@ -83,4 +83,6 @@ puts c
 
 - [What is a computer algorithm? on HowStuffWorks](http://computer.howstuffworks.com/question717.htm)
 - [Algorithm, on Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+- [Algorithms Course on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Sorting Algorithm Animations](http://sorting-algorithms.com)
+- [VisuAlgo: Visualising data structures and algorithms through animation](http://visualgo.net)

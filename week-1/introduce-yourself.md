@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun profesional di [Slack group "Hacktiv8 Class"](http://hacktiv8-class.slack.com) yang mana kamu telah kami undang. Tiap batch akan masuk ke dalam channel khusus sesuai urutan batch (misalnya `#batch-1`). Untuk yang tidak berhubungan langsung dengan pembelajaran, kamu tetap bisa tanya jawab di grup Facebook "Hacktiv8 Help" sebelumnya. Di dunia nyata, kamu juga akan berlatih untuk bersosialisasi dengan developer lainnya, dalam berbagai acara komunitas, seminar, maupun conference.
+Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun profesional di [Slack group "Hacktiv8 Course"](http://hacktiv8-course.slack.com) yang mana kamu telah kami undang. Tiap batch akan masuk ke dalam channel khusus sesuai urutan batch (misalnya `#batch-1`). Untuk yang tidak berhubungan langsung dengan pembelajaran, kamu tetap bisa tanya jawab di grup Facebook "Hacktiv8 Help" sebelumnya. Di dunia nyata, kamu juga akan berlatih untuk bersosialisasi dengan developer lainnya, dalam berbagai acara komunitas, seminar, maupun conference.
 
 ## Directions
 
@@ -12,7 +12,7 @@ Komunikasi kelas dan tim yang lebih baik menggunakan Slack. Tiada email atau lam
 
 - ▢ [Tontonlah video YouTube tentang Slack ini](https://www.youtube.com/watch?v=B6zVzWU95Sw)
 - ▢ Cek membership melalui email konfirmasi.
-- ▢ Kamu akan masuk ke Slack kelas kita dengan URL <http://hacktiv8-class.slack.com>.
+- ▢ Kamu akan masuk ke Slack kelas kita dengan URL <http://hacktiv8-course.slack.com>.
 - ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`).
 - ▢ Tentukan password kamu yang kuat namun mudah diingat.
 - ▢ [Isi profil lengkap dan upload foto profil melalui "Edit Profile"](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)

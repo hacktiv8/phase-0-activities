@@ -1,4 +1,4 @@
-# Thinking and Progressing More Efficiently and Effectively, with Growth Mindset
+# Thinking, Learning, and Progressing More Efficiently and Effectively
 
 ## Objectives
 
@@ -21,8 +21,8 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 **Habits and Behaviors**
 
-- [Create a Habit, YouTube video](http://www.youtube.com/watch?v=C8XG02das-A)
-- [Tiny Habits, YouTube video](http://www.youtube.com/watch?v=AdKUJxjn-R8)
+- [Create a Habit](http://www.youtube.com/watch?v=C8XG02das-A) (YouTube video)
+- [Tiny Habits](http://www.youtube.com/watch?v=AdKUJxjn-R8) (YouTube video)
 - [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
 - [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
 - [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com/)
@@ -30,7 +30,8 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 **Mindset**
 
-- [Growth vs Fixed Mindset, YouTube video by Matthew Metoyer](https://www.youtube.com/watch?v=brpkjT9m2Oo)
+- [Carol Dweck: The Power of Believing That You Can Improve](https://youtu.be/_X0mgOOSpLU) (TED on YouTube video)
+- [Growth vs Fixed Mindset, by Matthew Metoyer](https://www.youtube.com/watch?v=brpkjT9m2Oo) (TED on YouTube video)
 - [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives, article on Brain Pickings](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset)
 - [Fixed Mindset vs. Growth Mindset: Which One Are You?, article by Michael G.R.](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you)
 - [Fixed mindset vs Growth mindset, article by Derek Sivers](https://sivers.org/mindset)
@@ -39,11 +40,19 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 - [Counter-intuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
 - [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
+- [5 Easy Steps to Find Your Flow Every Single Day, by Matther Jones on Inc.com](http://www.inc.com/matthew-jones/5-easy-steps-to-find-your-flow-every-single-day.html)
 - [Flow (psychology), on Wikipedia](http://en.wikipedia.org/wiki/Flow_(psychology))
 
-**Learning Style**
+**Learning**
 
+- [Ramsey Musallam: 3 Rules to Spark Learning](https://youtu.be/YsYHqfk0X2A) (TED on YouTube video)
 - [VARK questionnaire on learning style](http://vark-learn.com/the-vark-questionnaire)
+- [10 Habits That Help You Learn Twice as Fast, by Chris W. Dunn on Entrepreneur.com](https://www.entrepreneur.com/article/278278)
+- [5 Simple Tricks to Remember Everything You Learn, by Erin Brodwin on Inc.com](http://www.inc.com/business-insider/5-simple-memory-tricks-remember-everything-learn-successfully.html)
+
+**Passion and Purpose**
+
+- [Angela Lee Duckworth: The Key To Success? Grit](https://youtu.be/H14bBuluwB8)
 
 ## Directions
 
@@ -54,3 +63,9 @@ Buatlah sebuah halaman `thinking.html` atau `learning.html` dalam website kamu, 
 - ▢ Apa rencana atau strategi keseluruhan yang sudah kamu rancang untuk menghadapi berbagai kegiatan berikut?
 - ▢ Apakah kamu sudah memiliki growth mindset? Ceritakanlah keadaan mindset kamu sekarang.
 - ▢ Apakah kamu pikir atau rasakan bahwa kamu sudah memiliki cara belajar yang terbaik? Jika sudah atau belum, ceritakanlah alasanmu.
+
+## References
+
+- [How Can Schools Prioritize For The Best Ways Kids Learn? on MindShift](https://ww2.kqed.org/mindshift/2016/07/18/how-can-schools-prioritize-for-the-best-ways-kids-learn)
+- [When Kids Have Structure for Thinking, Better Learning Emerges, on MindShift](http://ww2.kqed.org/mindshift/2016/03/31/when-kids-have-structure-for-thinking-better-learning-emerges)
+- [How To Weave Growth Mindset Into School Culture, on MindShift](http://ww2.kqed.org/mindshift/2015/10/02/how-to-weave-growth-mindset-into-school-culture)

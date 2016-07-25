@@ -14,14 +14,17 @@ Berpikir secara desain (design thinking) merupakan teknik pemecahan masalah seca
 - [Design thinking, on Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)
 - [Design Thinking... What is That?, on Fast Company](http://www.fastcompany.com/919258/design-thinking-what)
 - [What is Design Thinking?, on Visual.ly](http://visual.ly/what-design-thinking)
+- [How to apply a design thinking, HCD, UX or any creative process from scratch, by Dan Nessler on Digital Experience Design](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
 
 ### 2. Mengenal wireframing
 
 Pelajari dari referensi berikut:
 
 - [A Beginner’s Guide to Wireframing, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
+- [Learning to Wireframe: 10 Best Practices, by Dana Larson on Digital Telepathy](http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices)
 - [Beyond Wireframing: The Real-Life UX Design Process, by Marcin Treder on Smashing Magazine](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process)
 - [How to wireframe a website, YouTube video by Charli Marie](https://www.youtube.com/watch?v=PmmQjLqJQlY)
+- [Some things can’t be wireframed, by Des Traynor on Intercom](https://blog.intercom.io/things-cant-wireframed)
 
 ### 3. Merekayasa ulang website yang sudah dievaluasi
 
@@ -32,3 +35,7 @@ Buatlah sebuah halaman `wireframes.html` dalam website kamu, lalu jabarkan perta
 - ▢ Jabarkan masalah apa yang halaman web tersebut ingin pecahkan melalui tampilan visual?
 - ▢ Buatlah wireframe tiap halaman yang sudah dipilih. Kamu bisa menggunakan kertas dan pulpen saja (yang kemudian nanti difoto), maupun tool wireframing digital (yang bisa di-export atau screenshot).
 - ▢ Kumpulkan hasil wireframe yang sudah kamu buat ke dalam satu folder. Tampilkan pada halaman.
+
+## References
+
+- [Design For Programmers, by Ria Carmin (LoveUX)](http://loveux.co/design/design-for-programmers)

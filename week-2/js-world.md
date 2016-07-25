@@ -148,13 +148,16 @@ Dapat kita lihat jadi sebenarnya transpilasi sesederhana menambahkan secara otom
 - [24 JavaScript Best Practices for Beginners](http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
 - [JavaScript Best Practices Part 1 · Thinkful Programming Guides](https://www.thinkful.com/learn/javascript-best-practices-1)
 - [JavaScript Best Practices Part 2 · Thinkful Programming Guides](https://www.thinkful.com/learn/javascript-best-practices-2)
+- [5 New Possibilities With JavaScript, by Daniel Borowski on Code School](https://www.codeschool.com/blog/2016/02/01/5-new-possibilities-javascript)
 - [Superhero.js: Collection of the best articles, videos, and presentations about JavaScript](http://superherojs.com)
+- [Circular dependencies in JavaScript a.k.a. Coding is not a rock-paper-scissors game, by Piotr Jasiun](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
 - [JS: The Right Way](http://jstherightway.org)
 - [JavaScript for Cats](http://jsforcats.com)
 - [es6features](https://git.io/es6features)
 - [ECMAScript 6: New Features: Overview and Comparison](http://es6-features.org)
 - [Learn ES2015 - Babel](http://babeljs.io/docs/learn-es2015)
 - [The ESTree Spec](https://github.com/estree/estree)
+- [How to Use Arguments and Parameters in ECMAScript 6, by Faraz Kelhini on Smashing Magazine](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6)
 
 **Node.js**
 
