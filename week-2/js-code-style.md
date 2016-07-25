@@ -13,6 +13,8 @@ Seperti yang tertera pada bagian referensi pekan ini, ada beberapa hal yang perl
   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
   - [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
   - [Code Conventions for the JavaScript, by Douglas Crockford](http://javascript.crockford.com/code.html)
+  - [The Zen Approach: JavaScript Styleguide](https://github.com/nijikokun/the-zen-approach)
+
 
 ### 2. Menggunakan tiap bahasa sesuai fungsi utamanya
 

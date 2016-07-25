@@ -9,10 +9,10 @@ Dalam menulis code yang profesional, diperlukan berbagai aturan atau standar yan
 ### 1. Memahami cara penulisan HTML dan CSS yang baik
 
 - ▢ Pahami berbagai aturan penulisan HTML dan CSS di ini: [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code)
-- Cek berbagai pedoman penulisan code berikut:
-  - ▢ [Code Guide by @mdo](http://codeguide.co)
-  - ▢ [CSS Style Guides, on CSS Tricks](https://css-tricks.com/css-style-guides)
-  - ▢ [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+- ▢ Cek berbagai pedoman penulisan code berikut:
+  - [Code Guide by @mdo](http://codeguide.co)
+  - [CSS Style Guides, on CSS Tricks](https://css-tricks.com/css-style-guides)
+  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 
 ### 2. Memperhatikan meta data lebih lanjut
 

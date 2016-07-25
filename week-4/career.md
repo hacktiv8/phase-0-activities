@@ -1,15 +1,14 @@
-#
+# Prepare Your Career to be a True Developer
 
 ## Objectives
 
-TODO
+- ▢ Mengenal berbagai
 
 ## Learnings
 
-- [Sam Richards: A Radical Experiment in Empathy](https://youtu.be/9IgOVOPLTYI)
-
 **Being a Developer and Engineer**
 
+- [Developers Best Practices on TutorialsPoint](http://www.tutorialspoint.com/developers_best_practices)
 - [Learn to Code: 13 Tips that Could Save You Years of Effort by Eric Elliott](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
 - [The Myth of the Full-stack Developer, by Andy Shora](http://andyshora.com/full-stack-developers.html)
 - [Being A Developer After 40 by Adrian Kosmaczewski](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)

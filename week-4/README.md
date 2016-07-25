@@ -10,17 +10,17 @@ Pengetahuan yang sudah kita miliki tentang HTML, CSS, dan JavaScript sekarang se
 
 - Apakah yakin bahwa kita membuatnya dengan kualitas yang baik?
 - Apa itu ES2015/ES6? Saya dengar sedang populer?
-- Bagaimana tentang implementasi paradigma pemrograman terutama OOP?
+- Bagaimana tentang paradigma pemrograman terutama OOP?
 - Kita bisa mendesain aplikasi dengan lebih rapi?
-- Cara mengukur performa maupun kecepatan website kita?
+- Adakah cara mengukur performa maupun kecepatan website kita?
 
-Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web application developer memerlukan peningkatan terus-menerus seiring waktu. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
+Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web developer memerlukan peningkatan terus-menerus seiring waktu. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
 
 ## Monday
 
-- ▢ [Mempersiapkan dirimu untuk menjadi developer sejati](./career.md)
+- ▢ [Mempersiapkan karirmu untuk menjadi developer sejati](./career.md)
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md)
-- ▢ [Membuat program yang ditranspilasi menjadi ES2015](./js-transpilation.md)
+- ▢ [Membuat program JavaScript yang ditranspilasi menjadi ES2015](./js-transpilation.md)
 
 ## Tuesday
 
@@ -30,7 +30,7 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 
 ## Wednesday
 
-- ▢ [Mengeksplorasi berbagai best practice dalam pembuatan aplikasi web](./best-practice.md)
+- ▢ [Mengeksplorasi berbagai tooling dalam pembuatan aplikasi web](./tooling.md)
 - ▢ [Mencoba menggunakan jQuery](./jquery.md)
 - ▢ [Mencoba menggunakan Bootstrap](./bootstrap.md)
 - ▢ [Mecoba menggunakan HTML5 boilerplate](./html5-boilerplate.md)

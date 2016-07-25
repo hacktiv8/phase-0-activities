@@ -1,8 +1,8 @@
-# Explore Best Practices on Web Development
+# Explore Various Tooling on Web Development
 
 ## Objectives
 
-Terkait lebih dalam dan jauh mengenai best practice, berikut pedoman yang didedikasikan untuk menyertakan hal-hal apa saja yang membantu kita mencapai kualitas website, kode program, dan aplikasi yang baik.
+Terkait lebih dalam dan jauh mengenai tooling yang bermanfaat, pedoman ini didedikasikan untuk menyertakan hal-hal apa saja yang membantu kita mencapai kualitas website, kode program, dan aplikasi yang baik.
 
 - ▢ Mengetahui Frontend Library dan Framework
 - ▢ Mengetahui Frontend Application Library dan Framework

@@ -9,7 +9,7 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 ## Monday
 
 - ▢ [Berpikir dan berkembang secara lebih efektif dan efisien, dengan growth mindset](./thinking.md)
-- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](./js-basics.md)
+- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](./js-basics.md) `TODO`
 - ▢ [Memahami dan menggunakan struktur dan tipe data di JavaScript](./js-data.md)
 - ▢ [Memahami sistem angka decimal, binary, hexadecimal, dan lainnya](./number-system.md)
 

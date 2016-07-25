@@ -10,7 +10,7 @@
 
 ## Learnings
 
-Pelajari ulang berbagai hal terkait sistem angka dari referensi berikut. Apabila kamu telah mempelajari hal-hal berikut di fase briefing, silakan lanjutkan ke bagian berikutnya.
+Pelajari ulang berbagai hal terkait sistem angka dari referensi berikut. Lewati jika kamu sudah cukup paham.
 
 - [Decimal, article on Wikipedia](https://en.wikipedia.org/wiki/Decimal)
 - [Binary, article on Wikipedia](https://en.wikipedia.org/wiki/Binary)

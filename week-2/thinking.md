@@ -4,9 +4,9 @@
 
 Karena sekarang kita dalam situasi online atau remote, kebanyakan hal harus kita kerjakan sendirian. Akan jadi tantangan yang lumayan, apalagi bagi orang yang sukanya belajar bersama. Untuk itu, perlu kita pelajari juga bagaimana mengatur waktu (time management), meningkatkan produktifitas (productivity booster), dan menyadari keadaan diri kita (mindfulness). Coba juga untuk mencari tahu secara mandiri apa saja yang kamu butuhkan agar kamu dapat lebih baik dalam belajar dan mengerjakan aktivitas. Selain itu kamu juga harus mengenal dirimu lebih baik.
 
+- ▢ Memahami dan menggunakan berbagai cara berpikir dan belajar.
 - ▢ Meriset tentang time management, productivity, dan mindfulness.
 - ▢ Merancang rencana untuk lebih efektif dan efisien dalam mengerjakan kegiatan.
-- ▢ Memahami dan menggunakan time boxing.
 - ▢ Memahami perbedaan antara pemikiran yang bertumbuh (growth) dan tetap (fixed).
 - ▢ Mengetahui bagaimana bagaimana cara kamu belajar yang terbaik.
 
@@ -25,7 +25,7 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 - [Tiny Habits](http://www.youtube.com/watch?v=AdKUJxjn-R8) (YouTube video)
 - [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
 - [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
-- [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com/)
+- [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com)
 - [Fogg Method](http://foggmethod.com)
 
 **Mindset**
@@ -46,13 +46,10 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 **Learning**
 
 - [Ramsey Musallam: 3 Rules to Spark Learning](https://youtu.be/YsYHqfk0X2A) (TED on YouTube video)
+- [Angela Lee Duckworth: The Key To Success? Grit](https://youtu.be/H14bBuluwB8)
 - [VARK questionnaire on learning style](http://vark-learn.com/the-vark-questionnaire)
 - [10 Habits That Help You Learn Twice as Fast, by Chris W. Dunn on Entrepreneur.com](https://www.entrepreneur.com/article/278278)
 - [5 Simple Tricks to Remember Everything You Learn, by Erin Brodwin on Inc.com](http://www.inc.com/business-insider/5-simple-memory-tricks-remember-everything-learn-successfully.html)
-
-**Passion and Purpose**
-
-- [Angela Lee Duckworth: The Key To Success? Grit](https://youtu.be/H14bBuluwB8)
 
 ## Directions
 
@@ -66,6 +63,6 @@ Buatlah sebuah halaman `thinking.html` atau `learning.html` dalam website kamu, 
 
 ## References
 
-- [How Can Schools Prioritize For The Best Ways Kids Learn? on MindShift](https://ww2.kqed.org/mindshift/2016/07/18/how-can-schools-prioritize-for-the-best-ways-kids-learn)
-- [When Kids Have Structure for Thinking, Better Learning Emerges, on MindShift](http://ww2.kqed.org/mindshift/2016/03/31/when-kids-have-structure-for-thinking-better-learning-emerges)
-- [How To Weave Growth Mindset Into School Culture, on MindShift](http://ww2.kqed.org/mindshift/2015/10/02/how-to-weave-growth-mindset-into-school-culture)
+- [How Can Schools Prioritize For The Best Ways Kids Learn? | MindShift](https://ww2.kqed.org/mindshift/2016/07/18/how-can-schools-prioritize-for-the-best-ways-kids-learn)
+- [When Kids Have Structure for Thinking, Better Learning Emerges | MindShift](http://ww2.kqed.org/mindshift/2016/03/31/when-kids-have-structure-for-thinking-better-learning-emerges)
+- [How To Weave Growth Mindset Into School Culture | MindShift](http://ww2.kqed.org/mindshift/2015/10/02/how-to-weave-growth-mindset-into-school-culture)

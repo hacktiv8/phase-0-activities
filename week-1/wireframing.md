@@ -1,8 +1,8 @@
-# Learn to Use Wireframing
+# Learn to Use Design Process and Wireframing
 
 ## Objectives
 
-Desain web sangat penting dan berpengaruh bagi para pengguna website bahkan juga bisnis. Pengetahuan dasar ini penting agar kita bisa bekerja lebih baik dengan tim lainnya di organisasi. Salah satu cara awal pembuatan web adalah membuat wireframe-nya. Proses ini merupakan pembelajaran untuk memisahkan perbedaan bagian website yang saling melengkapi (desain & konten, HTML & CSS, interface & experience) serta proses pengembangan website secara visual.
+Proses dan hasil desain web sangat penting dan berpengaruh bagi para pengguna website bahkan juga bisnis. Pengetahuan dasar ini penting agar kita bisa bekerja lebih baik dengan tim lainnya di organisasi. Salah satu cara awal pembuatan web adalah membuat wireframe-nya. Proses ini merupakan pembelajaran untuk memisahkan perbedaan bagian website yang saling melengkapi (desain & konten, HTML & CSS, interface & experience) serta proses pengembangan website secara visual.
 
 ## Directions
 
