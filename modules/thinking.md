@@ -21,12 +21,12 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 **Habits and Behaviors**
 
-- [Create a Habit](http://www.youtube.com/watch?v=C8XG02das-A) (YouTube video)
-- [Tiny Habits](http://www.youtube.com/watch?v=AdKUJxjn-R8) (YouTube video)
-- [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
-- [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
-- [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com)
-- [Fogg Method](http://foggmethod.com)
+- [How to create a habit: with Charles Duhigg and Ramit Sethi](http://www.youtube.com/watch?v=C8XG02das-A) (YouTube video)
+- [BJ Fogg at TEDxFremont: Forget big change, start with a tiny habit](http://www.youtube.com/watch?v=AdKUJxjn-R8) (TED on YouTube video)
+- [Fogg Method: 3 steps to changing behavior](http://foggmethod.com)
+- [Pomodoro Technique: Focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com)
+- [Habits & Growth Mindset, on Buffer](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
+- [Make it big by starting small, on Buffer](http://blog.bufferapp.com/make-it-big-by-starting-small)
 
 **Mindset**
 
@@ -38,8 +38,8 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 **Productivity**
 
-- [Counter-intuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
-- [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
+- [Seven Counterintuitive Ways to Be Insanely Productive](http://paidtoexist.com/counterintuitive-productivity)
+- [The Best Tricks for Getting in the Zone at Work](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
 - [5 Easy Steps to Find Your Flow Every Single Day, by Matther Jones on Inc.com](http://www.inc.com/matthew-jones/5-easy-steps-to-find-your-flow-every-single-day.html)
 - [Flow (psychology), on Wikipedia](http://en.wikipedia.org/wiki/Flow_(psychology))
 

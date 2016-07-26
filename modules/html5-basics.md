@@ -100,7 +100,7 @@ Beberapa tag HTML dapat memiliki atribut, seperti `href`, `src`, `alt`, dll:
 
 Ada cara lain untuk melihat berbagai contoh yang ada di berbagai website. Kita dapat melihat sumber halaman (page source) dari sebuah website (coba kunjungi http://hacktiv8.com misalnya), lalu klik kanan halaman tersebut, biasanya bekerja baik di area yang kosong (white space) atau bukan sebuah elemen HTML, lalu pilih "View page source"; atau bisa juga menggunakan shortcut `Ctrl+U`. Cara lain yang lebih lanjut juga dapat menggunakan "Inspect Element" (`Ctrl+Shift+I`) pada elemen apapun di layar.
 
-![Chrome Dev Tools](assets/chrome-dev-tools.png)
+![Chrome Dev Tools](assets/chrome-devtools.png)
 
 Untuk melatih kemampuan menulis HTML, cobalah gunakan JSBin atau CodePen sambil mendaftar sebuah akun, agar progress dapat disimpan secara online, bahkan juga dapat dibagikan ke siapapun.
 

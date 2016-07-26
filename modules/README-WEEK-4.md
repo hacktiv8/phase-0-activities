@@ -19,7 +19,7 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 ## Monday
 
 - ▢ [Mempersiapkan karirmu untuk menjadi developer sejati](./career.md)
-- ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md) `TODO`
+- ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md) TODO
 - ▢ [Membuat program JavaScript yang ditranspilasi menjadi ES2015](./js-transpilation.md)
 
 ## Tuesday

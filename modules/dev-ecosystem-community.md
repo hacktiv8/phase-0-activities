@@ -6,7 +6,7 @@
 
 ## Objectives
 
-`TODO`
+TODO
 
 - GitHub
 - Hacker News
@@ -30,4 +30,4 @@ Walaupun ada kamu yang bukan lulusan IT, yang jelas dalam bootcamp ini dan begit
 
 ## References
 
-- `TODO`
+- 
