@@ -43,7 +43,7 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 
 Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w2) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
-Salam,
+Salam,  
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
