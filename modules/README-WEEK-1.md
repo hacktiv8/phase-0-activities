@@ -62,7 +62,7 @@ Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan sar
 
 Selamat memulai petualanganmu yang sebenarnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
-Salam,
+Salam,  
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)

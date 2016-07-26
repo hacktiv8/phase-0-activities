@@ -52,7 +52,7 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 
 Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w4) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan istilah dan pemahaman baru yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
-Salam,
+Salam,  
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
