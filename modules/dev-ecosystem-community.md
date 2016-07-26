@@ -1,19 +1,20 @@
 # Understand Developer Ecosystem
 
+## Objectives
+
 - ▢ Mengenali keadaan lingkungan IT dan developer zaman sekarang.
 - ▢ Mengevaluasi posisi kamu sebagai developer atau orang yang sedang belajar pemrograman.
 - ▢ Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer.
+- [ ] Berkontribusi dalam ekosistem developer
 
-## Objectives
 
-TODO
+## Directions
+
+Kunjugi, eksplor dan berkontribusi lah di beberapa website berikut:
 
 - GitHub
 - Hacker News
 - Stack Overflow
-- Toptal
-
-## Directions
 
 ## Mengetahui keadaan lingkungan IT sekarang
 
@@ -25,9 +26,8 @@ Walaupun ada kamu yang bukan lulusan IT, yang jelas dalam bootcamp ini dan begit
 ## Mengevaluasi
 
 - ▢ Ikuti kuis "[Are You a Bad or Good Developer?](https://www.codementor.io/learn-programming/bad-developer-vs-good-developer) di Codementor
-- ▢
-- ▢
+- ▢ Ikuti kuis [16 Personalities](https://www.16personalities.com/) dan
+  tunjukkan hasilnya di channel slack terkait
 
 ## References
 
-- 
