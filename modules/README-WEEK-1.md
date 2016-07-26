@@ -53,16 +53,16 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./web-dev-process.md)
 - ▢ [Mempelajari dan menggunakan teknik wireframing](./wireframing.md)
 - ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
-- ▢ [Mengenal adaptive web design dan Responsive Web Design (RWB)](./web-design.md)
+- ▢ [Mengenal adaptive web design dan responsive web design (RWB)](./web-design.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](./core-values.md)
 
 ![Footer](assets/footer.png)
 
-Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w1) sebelum hari Minggu ini jam 9 malam. Kamu akan menyertakan link website, link profil dan repositori GitHub kamu, serta berbagai blog post yang sudah kamu tulis.
+Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w1) sebelum hari Minggu ini jam 9 malam. Kamu akan menyertakan link website, link profil, dan repositori GitHub kamu, serta berbagai blog post yang sudah kamu tulis.
 
-Selamat memulai petualanganmu yang sebenarnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
-Salam,  
+Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
