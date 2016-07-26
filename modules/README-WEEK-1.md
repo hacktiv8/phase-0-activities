@@ -10,7 +10,7 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 **Bagaimana Phase 0 ini akan berjalan?** Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 4 email (termasuk email ini) yang akan dikirim tiap pekannya. Masing-masing pekan menargetkan kita untuk selalu membuat web maupun aplikasi, sesuai dengan skill set yang sudah didapat. Mantap!
 
-![Let's get ready](assets/ready.png)
+![Let's get ready](assets/objectives.png)
 
 **Oke, siap untuk memulai Phase 0 kita di Hacktiv8?** Kami yakin bahwa kamu akan mengalami petualangan yang makin sangat seru! Pada waktu di antara berakhirnya Phase 0 dan sebelum dimulainya Phase 1, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
 
@@ -65,4 +65,4 @@ Selamat memulai petualanganmu yang sebenarnya! Jika ada hal yang perlu ditanyaka
 Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
-![Hacktiv8 Banner](assets/hacktiv8-banner.png)
+![Hacktiv8 Banner](assets/banner.png)

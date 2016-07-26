@@ -46,4 +46,4 @@ Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan sar
 Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
-![Hacktiv8 Banner](assets/hacktiv8-banner.png)
+![Hacktiv8 Banner](assets/banner.png)
