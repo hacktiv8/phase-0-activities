@@ -2,7 +2,10 @@
 
 ## Objectives
 
-TODO
+Untuk memahami dan mengerti salah satu lisensi yang paling populer se-jagad
+raya. Dan yang paling penting adalah bagaimana menggunakan produk-produk
+open-source untuk meningkatkan produktifitas dan performa kamu serta meraih
+keuntungan dengan memanfaatkan produk-produk open-source.
 
 ## Learnings
 
