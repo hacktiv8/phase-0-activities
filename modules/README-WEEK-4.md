@@ -16,6 +16,8 @@ Pengetahuan yang sudah kita miliki tentang HTML, CSS, dan JavaScript sekarang se
 
 Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web developer memerlukan peningkatan terus-menerus seiring waktu. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
 
+![Let's start!](assets/start.png)
+
 ## Monday
 
 - ▢ [Mempersiapkan karirmu untuk menjadi developer sejati](./career.md)
@@ -48,11 +50,13 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 - ▢ [Menghemat aset website dengan kompresi](./assets-compression.md)
 - ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)
 
-![Footer](assets/footer.png)
+## Saturday and Sunday
 
-Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w4) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan istilah dan pemahaman baru yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+- ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w4) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
 
-Salam,  
+Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+
+Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)

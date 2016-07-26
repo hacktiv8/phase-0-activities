@@ -6,6 +6,8 @@ Halo ${student-first-name},
 
 Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kemampuan logika dan pengolahan data dalam programming.
 
+![Let's start!](assets/start.png)
+
 ## Monday
 
 - ▢ [Berpikir dan berkembang secara lebih efektif dan efisien, dengan growth mindset](./thinking.md)
@@ -39,11 +41,13 @@ Selamat sudah menyelesaikan pekan pertama! Pekan kedua ini kita akan melatih kem
 - ▢ [Memahami open source dan fenomenanya](./open-source.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](./js-application.md)
 
-![Footer](assets/footer.png)
+## Saturday and Sunday
 
-Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w2) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+- ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w2) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
 
-Salam,  
+Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+
+Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
