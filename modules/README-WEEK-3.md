@@ -1,6 +1,6 @@
 # Phase 0 Week 3: The World of DOM, Events, and Scope
 
-![Header](assets/header.png)
+![Header](assets/header-w3.jpg)
 
 Halo ${student-first-name},
 

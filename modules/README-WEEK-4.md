@@ -1,6 +1,6 @@
 # Phase 0 Week 4: Valuable Advice for Our Journey
 
-![Header](assets/header.png)
+![Header](assets/header-w4.jpg)
 
 Halo ${student-first-name},
 

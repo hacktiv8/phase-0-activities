@@ -1,6 +1,6 @@
 # Phase 0 Week 1: Ready, Get Creative!
 
-![Header](assets/header.png)
+![Header](assets/header-w1.jpg)
 
 Halo ${student-first-name},
 

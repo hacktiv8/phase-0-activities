@@ -1,6 +1,6 @@
 # Phase 0 Week 2: Wrangling with Logic and Data
 
-![Header](assets/header.png)
+![Header](assets/header-w2.jpg)
 
 Halo ${student-first-name},
 
