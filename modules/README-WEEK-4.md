@@ -4,17 +4,7 @@
 
 Halo ${student-first-name},
 
-Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan mendapat berbagai petuah yang sangat berharga dalam perjalanan kita sebagai web developer.
-
-Pengetahuan yang sudah kita miliki tentang HTML, CSS, dan JavaScript sekarang sebenarnya sudah cukup banyak. Namun mulai muncul berbagai pertanyaan seperti:
-
-- Apakah yakin bahwa kita membuatnya dengan kualitas yang baik?
-- Apa itu ES2015/ES6? Saya dengar sedang populer?
-- Bagaimana tentang paradigma pemrograman terutama OOP?
-- Kita bisa mendesain aplikasi dengan lebih rapi?
-- Adakah cara mengukur performa maupun kecepatan website kita?
-
-Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web developer memerlukan peningkatan terus-menerus seiring waktu. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
+Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan mendapat berbagai petuah yang sangat berharga dalam perjalanan kita sebagai web developer. Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web developer memerlukan peningkatan terus-menerus seiring waktu dan zaman. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
 
 ![Let's start!](assets/start.png)
 
