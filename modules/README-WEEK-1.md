@@ -63,6 +63,7 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
-${sender-name}, dari segenap tim Hacktiv8
+
+Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)

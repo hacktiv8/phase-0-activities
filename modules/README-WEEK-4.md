@@ -57,6 +57,7 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
-${sender-name}, dari segenap tim Hacktiv8
+
+Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
