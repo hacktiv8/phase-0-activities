@@ -26,14 +26,14 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 
 ## Thursday
 
-- ▢ [Mengenal SVG](./svg.md) `TODO`
-- ▢ [Mengenal dan melakukan code refactoring](./refactoring.md) `TODO`
-- ▢ [Membuat permainan tebak angka](./number-guess.md) `TODO`
+- ▢ [Mengenal SVG](./svg.md)
+- ▢ [Mengenal dan melakukan code refactoring](./refactoring.md)
+- ▢ [Membuat permainan tebak angka](./number-guess.md)
 
 ## Friday
 
-- ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](./dev-ecosystem-community.md) `TODO`
-- ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](./web-interactive.md) `TODO`
+- ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](./dev-ecosystem-community.md)
+- ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](./web-interactive.md)
 
 ![Footer](assets/footer.png)
 

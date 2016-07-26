@@ -29,7 +29,7 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 ## Tuesday
 
 - ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./cli-git-github-practice.md)
-- ▢ [Mempelajari dasar HTML5](./html5-basics.md) `TODO`
+- ▢ [Mempelajari dasar HTML5](./html5-basics.md)
 - ▢ [Mempelajari dasar HTML5 forms](./html5-forms-basics.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5](./html5-elements.md)
 - ▢ [Mempelajari Markdown](./markdown.md)
@@ -37,7 +37,7 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 ## Wednesday
 
 - ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](./internet-web.md)
-- ▢ [Mempelajari dasar CSS3](./css3-basics.md) `TODO`
+- ▢ [Mempelajari dasar CSS3](./css3-basics.md)
 - ▢ [Menggunakan berbagai aturan dasar CSS3](./css3-rules.md)
 - ▢ [Membuat transformasi dan animasi dengan CSS3](./css3-advanced.md)
 

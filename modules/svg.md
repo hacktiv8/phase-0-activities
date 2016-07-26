@@ -4,6 +4,7 @@
 
 - ▢ Ketahui perbedaan dasar gambar raster dan vector.
 - ▢ Ketahui perbedaan dasar JPG/PNG dengan SVG.
+- `TODO`
 
 ## Directions
 

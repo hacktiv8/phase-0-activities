@@ -20,13 +20,13 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 
 - ▢ [Mempersiapkan karirmu untuk menjadi developer sejati](./career.md)
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](./code-documentation.md) `TODO`
-- ▢ [Membuat program JavaScript yang ditranspilasi menjadi ES2015](./js-transpilation.md) `TODO`
+- ▢ [Membuat program JavaScript yang ditranspilasi menjadi ES2015](./js-transpilation.md)
 
 ## Tuesday
 
-- ▢ [Mengenal berbagai macam paradigma pemrograman](./programming-paradigm.md) `TODO`
-- ▢ [Mengenal Object-Oriented Programming](./oop-basics.md) `TODO`
-- ▢ [Membuat rancangan relasi objek untuk persiapan OOP](./oop-design.md) `TODO`
+- ▢ [Mengenal berbagai macam paradigma pemrograman](./programming-paradigm.md)
+- ▢ [Mengenal Object-Oriented Programming](./oop-basics.md)
+- ▢ [Membuat rancangan relasi objek untuk persiapan OOP](./oop-design.md)
 
 ## Wednesday
 
@@ -37,15 +37,15 @@ Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa men
 
 ## Thursday
 
-- ▢ [Mengenal teknologi database](./database.md) `TODO`
+- ▢ [Mengenal teknologi database](./database.md)
 - ▢ [Mengenal desain dan arsitektur aplikasi](./app-design-architecture.md)
-- ▢ [Membuat rancangan website yang modular](./modular-design.md) `TODO`
+- ▢ [Membuat rancangan website yang modular](./modular-design.md)
 
 ## Friday
 
-- ▢ [Mengecek kualitas code dengan hinting/linting](./hinting-linting.md) `TODO`
+- ▢ [Mengecek kualitas code dengan hinting/linting](./hinting-linting.md)
 - ▢ [Melihat performa kecepatan website dengan online tools](./website-speed.md)
-- ▢ [Menghemat aset website dengan kompresi](./assets-compression.md) `TODO`
+- ▢ [Menghemat aset website dengan kompresi](./assets-compression.md)
 - ▢ [Berkreasi membuat website sesuka hati](./website-creation.md)
 
 ![Footer](assets/footer.png)

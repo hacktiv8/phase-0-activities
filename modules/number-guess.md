@@ -2,11 +2,9 @@
 
 ## Objectives
 
-TODO
+`TODO`
 
 ## Directions
-
-TODO
 
 - ▢
 - ▢

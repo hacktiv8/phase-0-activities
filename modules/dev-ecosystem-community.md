@@ -1,12 +1,12 @@
 # Understand Developer Ecosystem
 
-- Mengenali keadaan lingkungan IT dan developer zaman sekarang
-- ▢ Mengevaluasi posisi kamu sebagai developer atau orang yang sedang belajar pemrograman
-- ▢ Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer
+- ▢ Mengenali keadaan lingkungan IT dan developer zaman sekarang.
+- ▢ Mengevaluasi posisi kamu sebagai developer atau orang yang sedang belajar pemrograman.
+- ▢ Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer.
 
 ## Objectives
 
-TODO
+`TODO`
 
 - GitHub
 - Hacker News
@@ -30,4 +30,4 @@ Walaupun ada kamu yang bukan lulusan IT, yang jelas dalam bootcamp ini dan begit
 
 ## References
 
--
+- `TODO`
