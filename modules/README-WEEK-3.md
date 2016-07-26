@@ -6,6 +6,8 @@ Halo ${student-first-name},
 
 Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope.
 
+![Let's start!](assets/start.png)
+
 ## Monday
 
 - ▢ [Bermain Blockly Games untuk pemanasan](./blockly-games.md)
@@ -35,11 +37,13 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 - ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](./dev-ecosystem-community.md)
 - ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](./web-interactive.md)
 
-![Footer](assets/footer.png)
+## Saturday and Sunday
 
-Setelah kamu menyelesaikan semua kegiatan, [isilah form laporan kegiatan dan saran ini](http://bit.ly/h8-p0-w3) sebelum hari Minggu jam 9 malam. Selamat berpetualang dengan dunia DOM dan JavaScript lebih lanjut! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+- ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w3) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
 
-Salam,  
+Selamat berpetualang dengan dunia DOM dan JavaScript lebih lanjut! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+
+Salam,
 ${sender-name}, dari segenap tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)

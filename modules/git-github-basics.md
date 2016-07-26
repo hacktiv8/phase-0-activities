@@ -27,13 +27,18 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
 ### 2. Buat akun GitHub
 
 - ▢ [Bergabung ke GitHub di sini](https://github.com/join)
+- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`). Kalau bisa, samakan dengan username di Slack.
 - ▢ Konfirmasi email akun GitHub di inbox kamu.
 - ▢ Kunjungi <https://github.com/settings/profile> lalu lengkapi profil kamu.
 - ▢ "Update profile" kamu.
 
 Jika nanti kamu melihat `[USERNAME]`, artinya perlu diganti dengan username-kamu. Misalnya username kamu adalah `andiruben`, berarti `github.com/[USERNAME]` menjadi `github.com/andiruben`.
 
-### 3. Pelajari manfaat Git dan GitHub
+### 3. Beritahu profil GitHub kamu
+
+- ▢ Kirimlah pesan di grup Slack yang memberi tahu kamu sudah punya profil GitHub dengan URL `https://github.com/[USERNAME]`
+
+### 4. Pelajari manfaat Git dan GitHub
 
 Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah kamu paham mengapa menggunakan, bagaimana cara pakai, dan apa itu VCS/SCM serta Git dan GitHub.
 
