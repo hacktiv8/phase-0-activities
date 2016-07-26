@@ -16,7 +16,7 @@ mengukur performa dari aplikasi kita. Bagaimana kita tahu aplikasi kita
 cepat atau lola a.k.a loading lama? :)
 
 Dan untuk mengukur performa, silakan menuju ke [materi sebelumnya tentang
-kecepatan website](./website-speed.md)
+kecepatan website](./website-speed.md).
 
 ### 1. Memahami dan mengoptimalisasi HTTP Request
 
@@ -39,15 +39,24 @@ Berikut beberapa langkah yang dapat ditempuh untuk mengoptimalkan gambar
 dalam sebuah aplikasi web:
 
 * Sebaiknya gunakan format SVG. Format gambar SVG relatif lebih kecil dalam
-  ukuran dibandingkan format lainnya.
+  ukuran dibandingkan format lainnya. Kita sudah mempelajari tentang [SVG
+  ini di topik minggu ke-tiga](./svg.md).
 * Ubah ukuran (*resize*) dan lakukan kompresi gambar. Gambar yang digunakan
   sebaiknya sudah di *resize* dan di kompresi terlebih dahulu.
 
+### 3. Optimalisasi CSS
+
+Ada beberapa pedoman dan teknik untuk mengoptimalkan CSS. Yang paling umum
+dan ampuh digunakan adalah dua teknik berikut:
+
+1. [Hindari penggunaan `@import`](https://developers.google.com/speed/pagespeed/service/FlattenCssImports) di dalam CSS. Karena penggunaan `@import` akan menyebabkan browser melakukan beberapa request ke server.
+2. Gunakan *service hosting* yang memiliki spesialisasi dan kecepatan yang lebih baik, terutama untuk penggunaan *custom font*. Service seperti ini contohnya [Google fonts](https://fonts.google.com/). Dengan menggunakan [Google fonts](https://fonts.google.com/), kita mendapatkan kecepatan dan kehandalan dari Google dalam konteks penggunaan dan *loading custom font*. Alternatif lainnya, seperti [TypeKit](https://typekit.com/).
+
 TODO
 
-- ▢
-- ▢
-- ▢
+- [ ] Mampu mengukur kecepatan dari sebuah website menggunakan DevTools
+- [ ] Mampu 
+- [ ]
 
 ## References
 
