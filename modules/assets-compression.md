@@ -99,6 +99,6 @@ adalah sebagai berikut:
 
 TODO
 
-- [ ] Mampu mengukur kecepatan dari sebuah website menggunakan DevTools
-- [ ] Mampu mengoptimalkan proses *loading* JavaScript
-- [ ] Memahami alasan mengapa kita butuh metode *minifying* dan *combining*.
+- ▢ Mampu mengukur kecepatan dari sebuah website menggunakan DevTools
+- ▢ Mampu mengoptimalkan proses *loading* JavaScript
+- ▢ Memahami alasan mengapa kita butuh metode *minifying* dan *combining*.
