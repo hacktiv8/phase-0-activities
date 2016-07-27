@@ -86,3 +86,5 @@ puts c
 - [Algorithms Course on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Sorting Algorithm Animations](http://sorting-algorithms.com)
 - [VisuAlgo: Visualising data structures and algorithms through animation](http://visualgo.net)
+- [Notes on Algorithms, Pseudocode, and Flowcharts - Dr. Burford J. Furman](http://www.engr.sjsu.edu/bjfurman/courses/ME30/ME30pdf/Notes_on_Algorithms.pdf)
+- [Pseudocode Standard - Dr. John Dalbey](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html)

@@ -50,3 +50,4 @@
 **Danger: More Advanced Readings**
 
 - [Surviving the IT talent crisis, by Harvard Business Review Analytic Services (PDF)](https://enterprisersproject.com/sites/default/files/it_talent_crisis_proven_advice_from_cios_and_hr_leaders.pdf)
+- [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams - Book by Yevgeniy Brikman](http://www.hello-startup.net)
