@@ -15,6 +15,7 @@ Berjalannya proses, budaya, dan kerja sama dalam pengembangan software maupun we
 - [SDLC Tutorial on TutorialsPoint](http://www.tutorialspoint.com/sdlc)
 - [Systems development life cycle, on Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 - [Software development process, on Wikipedia](https://en.wikipedia.org/wiki/Software_development_process)
+- [Getting Real: The smarter, faster, easier way to build a successful web application](https://gettingreal.37signals.com)
 
 **Software Culture and Teamwork**
 

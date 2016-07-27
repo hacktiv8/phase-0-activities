@@ -1,4 +1,4 @@
-# Learn Website Development Process
+# Learn Process of Website Development
 
 ## Objectives
 
@@ -11,7 +11,7 @@ Yuk kita kenali teknik perencanaan, proses, dan manajemen pengembangan web. Agar
 - Menonton berbagai video berikut:
   - [Website Design and Development Process, by Webociti](https://www.youtube.com/watch?v=gQRsgFw7tcg)
   - [Starting and Planning a Website, by GoDaddy](https://www.youtube.com/watch?v=j2SI66_gavY)
-- Membaca berbagai artikel berikut:
+- Membaca berbagai resource berikut:
   - [A Comprehensive Website Planning Guide, article by Ben Seigel on Smashing Magazine](https://www.smashingmagazine.com/2011/06/a-comprehensive-website-planning-guide)
   - [When it comes to your website, get your priorities straight, by Paul Boag](https://boagworld.com/usability/when-it-comes-to-your-website-get-your-priorities-straight)
 
