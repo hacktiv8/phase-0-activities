@@ -23,17 +23,14 @@ Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan m
 - ▢ [Mengeksplorasi berbagai tooling dalam pembuatan aplikasi web](modules/tooling.md)
 - ▢ [Mencoba menggunakan jQuery](modules/jquery.md)
 - ▢ [Mencoba menggunakan Bootstrap](modules/bootstrap.md)
-- ▢ [Mecoba menggunakan HTML5 boilerplate](modules/html5-boilerplate.md)
 
 ## Thursday
 
 - ▢ [Mengenal teknologi database](modules/database.md)
 - ▢ [Mengenal desain dan arsitektur aplikasi](modules/app-design-architecture.md)
-- ▢ [Membuat rancangan website yang modular](modules/modular-design.md)
 
 ## Friday
 
-- ▢ [Mengecek kualitas code dengan hinting/linting](modules/hinting-linting.md)
 - ▢ [Melihat performa kecepatan website dengan online tools](modules/website-speed.md)
 - ▢ [Menghemat aset website dengan kompresi](modules/assets-compression.md)
 - ▢ [Berkreasi membuat website sesuka hati](modules/website-creation.md)
