@@ -2,11 +2,11 @@
 
 ## Objectives
 
-TODO
+JavaScript modern ini bukan hanya sebatas bahasa pemrograman biasa saja, namun sudah banyak berevolusi menjadi sebuah dunia atau alam teknologi yang luar biasa besarnya. Untuk itu, kita harus senantiasa mengikuti perkembangannya, terutama menyadari adanya:
 
-- package manager and npm
-- Class and Object
-- Transpilation and Babel
+- Versi dan fitur JavaScript terbaru
+- JavaScript platform bernama Node.js dan package manager-nya yaitu npm
+- Transpilation dengan tool seperti Babel
 
 ## Learnings
 
@@ -41,27 +41,6 @@ Lalu terdapat berbagai fitur baru yang ada pada ES6 antara lain:
 - dan masih banyak lainnya
 
 Support atau dukungan terhadap ES6 sudah ada untuk beberapa browser modern seperti Chromium/Chrome dan Firefox, namun belum hingga 100%. Untuk sekarang, kita cukup tahu saja, belum harus digunakan sekarang. Bahkan untuk mencobanya pada periode sekarang pun, kita mesti [mengetahui tentang transpilation](#transpilation-dan-transpiler) terlebih dahulu.
-
-### Mengenal Class dan Object
-
-Berikut sekilas kita ulas sebagai preview saja, bagaimana membuat objek yang berbasiskan akan paradigma pemrograman berbasis objek (Object-Oriented Programming atau OOP). Class dan object di sini bukan untuk disamakan/dipusingkan caranya dengan tipe data objek (`{}`), karena lebih mirip seperti membuat blueprint atau rencana yang bisa dipakai berkali-kali untuk membuat satuan objek.
-
-Sintaksnya seperti berikut.
-
-```javascript
-class Square {
-  constructor(height, width) {
-    this.height = height;
-    this.width = width;
-  }
-}
-
-var kotak = new Square(100, 200);
-var kotakLain = new Square(300, 400);
-
-// kotak.height === 100
-// kotakLain.width === 400
-```
 
 ### Mengenal Node.js
 

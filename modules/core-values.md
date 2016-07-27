@@ -12,6 +12,8 @@ Buatlah sebuah halaman `core-values.html` dalam website kamu, lalu jabarkan pert
 - ▢ Tulislah kalimat atau paragraf yang mengandung nilai-nilai yang kamu pilih. Jelaskan mengapa nilai tersebut berarti bagimu.
 - ▢ Ceritakan topik yang orang lain sering atau baru saja tanyakan atau minta saran kepadamu.
 
+**Kumpulan nilai yang kamu bisa pilih:**
+
 Adil
 Aktivisme
 Akuntabilitas

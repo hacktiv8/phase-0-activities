@@ -38,7 +38,7 @@ Selamat sudah menyelesaikan kegiatan pekan pertama! Pekan kedua ini kita akan me
 ## Friday
 
 - ▢ [Mengenal Web Literacy](modules/web-literacy.md)
-- ▢ [Memahami open source dan fenomenanya](modules/open-source.md)
+- ▢ [Memahami open source, licensing, dan fenomenanya](modules/open-source.md)
 - ▢ [Berkreasi membuat aplikasi dengan JavaScript](modules/js-application.md)
 
 ## Saturday and Sunday

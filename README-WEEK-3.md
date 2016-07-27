@@ -29,13 +29,12 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 ## Thursday
 
 - ▢ [Mengenal SVG](modules/svg.md)
-- ▢ [Mengenal dan melakukan code refactoring](modules/refactoring.md)
 - ▢ [Membuat permainan tebak angka](modules/number-guess.md)
 
 ## Friday
 
 - ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](modules/dev-ecosystem-community.md)
-- ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](modules/web-interactive.md)
+- ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](modules/website-interactive.md)
 
 ## Saturday and Sunday
 
