@@ -1,4 +1,4 @@
-# Learn Web Development Process
+# Learn Website Development Process
 
 ## Objectives
 
@@ -6,7 +6,7 @@ Yuk kita kenali teknik perencanaan, proses, dan manajemen pengembangan web. Agar
 
 ## Directions
 
-### 1. Mempelajari dasar teknik pengembangan web
+### 1. Mempelajari dasar teknik pengembangan website
 
 - Menonton berbagai video berikut:
   - [Website Design and Development Process, by Webociti](https://www.youtube.com/watch?v=gQRsgFw7tcg)
@@ -20,7 +20,7 @@ Yuk kita kenali teknik perencanaan, proses, dan manajemen pengembangan web. Agar
 - [The Site Development Process on Web Style Guide](http://webstyleguide.com/wsg3/1-process/7-development-process.html)
 - [Six Phases of the Web Site Design and Development Process, by iDesign Studios](http://www.idesignstudios.com/faq/process)
 
-### 2. Menceritakan perencanaan sederhana web kamu
+### 2. Menceritakan perencanaan sederhana website kamu
 
 Buatlah sebuah halaman `web-dev.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
 

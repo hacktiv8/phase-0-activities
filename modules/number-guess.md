@@ -2,14 +2,12 @@
 
 ## Objectives
 
-TODO
+- ▢ Melatih logika sederhana.
 
 ## Directions
 
-- ▢
-- ▢
-- ▢
-
-## References
-
--
+- ▢ Buat variabel yang akan berisi jawaban dengan angka acak (misalnya antara 1 sampai 10).
+- ▢ Beri batas kesempatan pada pemain untuk menebak angka (misalnya 5 kali).
+- ▢ Setiap tebakan di-submit, beri tahu apakah tebakannya lebih besar atau lebih kecil dari angka jawaban.
+- ▢ Kurangi jumlah kesempatan setiap melakukan tebakan.
+- ▢ Kasih "selamat atas kemenangan" pada pemain jika tebakannya betul. Jika kesempatan sudah habis, beritahu jawabannya sambil bilang bahwa pemain "kurang beruntung".

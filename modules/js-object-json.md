@@ -63,5 +63,7 @@ contoh lain:
 
 ### References
 
+- [JavaScript Objects on W3Schools](http://www.w3schools.com/js/js_objects.asp)
+- [Working with objects, on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 - [JSON.org](http://json.org)
 - [JSON Parser Online](http://json.parser.online.fr)

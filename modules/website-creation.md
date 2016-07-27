@@ -1,4 +1,4 @@
-# Creating Our Own Personal Website
+# Creating or Revamping Our Own Personal Website
 
 ## Objectives
 

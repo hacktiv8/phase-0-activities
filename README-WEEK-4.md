@@ -18,7 +18,6 @@ Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan m
 
 - ▢ [Mengenal berbagai macam paradigma pemrograman](modules/programming-paradigm.md)
 - ▢ [Mengenal Object-Oriented Programming](modules/oop-basics.md)
-- ▢ [Membuat rancangan relasi objek untuk persiapan OOP](modules/oop-design.md)
 
 ## Wednesday
 
