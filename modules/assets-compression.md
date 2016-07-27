@@ -97,7 +97,7 @@ adalah sebagai berikut:
 * [CSS Minifier](http://cssminifier.com/)
 
 
-TODO
+# Directions
 
 - ▢ Mampu mengukur kecepatan dari sebuah website menggunakan DevTools
 - ▢ Mampu mengoptimalkan proses *loading* JavaScript
