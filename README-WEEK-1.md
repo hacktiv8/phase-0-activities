@@ -25,6 +25,7 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 - ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](modules/github-pages.md)
 - ▢ [Melakukan pencatatan pribadi atau blogging](modules/blogging.md)
 - ▢ [Memastikan kamu mengetahui dasar penyusun website](modules/website.md)
+- ▢ [Mempelajari Markdown](modules/markdown.md)
 
 ## Tuesday
 
@@ -32,7 +33,6 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 - ▢ [Mempelajari dasar HTML5](modules/html5-basics.md)
 - ▢ [Mempelajari dasar HTML5 forms](modules/html5-forms-basics.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5](modules/html5-elements.md)
-- ▢ [Mempelajari Markdown](modules/markdown.md)
 
 ## Wednesday
 
