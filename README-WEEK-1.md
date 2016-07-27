@@ -20,41 +20,41 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 
 ## Monday
 
-- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](./introduce-yourself.md)
-- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](./git-github-basics.md)
-- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](./github-pages.md)
-- ▢ [Melakukan pencatatan pribadi atau blogging](./blogging.md)
-- ▢ [Memastikan kamu mengetahui dasar penyusun website](./website.md)
+- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](modules/introduce-yourself.md)
+- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](modules/git-github-basics.md)
+- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](modules/github-pages.md)
+- ▢ [Melakukan pencatatan pribadi atau blogging](modules/blogging.md)
+- ▢ [Memastikan kamu mengetahui dasar penyusun website](modules/website.md)
 
 ## Tuesday
 
-- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](./cli-git-github-practice.md)
-- ▢ [Mempelajari dasar HTML5](./html5-basics.md)
-- ▢ [Mempelajari dasar HTML5 forms](./html5-forms-basics.md)
-- ▢ [Menggunakan berbagai elemen dasar HTML5](./html5-elements.md)
-- ▢ [Mempelajari Markdown](./markdown.md)
+- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](modules/cli-git-github-practice.md)
+- ▢ [Mempelajari dasar HTML5](modules/html5-basics.md)
+- ▢ [Mempelajari dasar HTML5 forms](modules/html5-forms-basics.md)
+- ▢ [Menggunakan berbagai elemen dasar HTML5](modules/html5-elements.md)
+- ▢ [Mempelajari Markdown](modules/markdown.md)
 
 ## Wednesday
 
-- ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](./internet-web.md)
-- ▢ [Mempelajari dasar CSS3](./css3-basics.md)
-- ▢ [Menggunakan berbagai aturan dasar CSS3](./css3-rules.md)
-- ▢ [Membuat transformasi dan animasi dengan CSS3](./css3-advanced.md)
+- ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](modules/internet-web.md)
+- ▢ [Mempelajari dasar CSS3](modules/css3-basics.md)
+- ▢ [Menggunakan berbagai aturan dasar CSS3](modules/css3-rules.md)
+- ▢ [Membuat transformasi dan animasi dengan CSS3](modules/css3-advanced.md)
 
 ## Thursday
 
-- ▢ [Memanfaatkan code style guide untuk HTML dan CSS](./html-css-code-style.md)
-- ▢ [Membuat artikel berita sederhana](./news-article.md)
-- ▢ [Membuat cerita bergambar](./story-with-images.md)
-- ▢ [Membuat contact form pribadi](./contact-form.md)
+- ▢ [Memanfaatkan code style guide untuk HTML dan CSS](modules/html-css-code-style.md)
+- ▢ [Membuat artikel berita sederhana](modules/news-article.md)
+- ▢ [Membuat cerita bergambar](modules/story-with-images.md)
+- ▢ [Membuat contact form pribadi](modules/contact-form.md)
 
 ## Friday
 
-- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./web-dev-process.md)
-- ▢ [Mempelajari dan menggunakan teknik wireframing](./wireframing.md)
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](./website-evaluation.md)
-- ▢ [Mengenal adaptive web design dan responsive web design (RWB)](./web-design.md)
-- ▢ [Mengeksplorasi nilai inti (core values) dirimu](./core-values.md)
+- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](modules/web-dev-process.md)
+- ▢ [Mempelajari dan menggunakan teknik wireframing](modules/wireframing.md)
+- ▢ [Mengevaluasi tampilan dan experience sebuah website](modules/website-evaluation.md)
+- ▢ [Mengenal adaptive web design dan responsive web design (RWB)](modules/web-design.md)
+- ▢ [Mengeksplorasi nilai inti (core values) dirimu](modules/core-values.md)
 
 ## Saturday and Sunday
 
@@ -63,6 +63,7 @@ Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya b
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
-${sender-name}, dari segenap tim Hacktiv8
+
+Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
