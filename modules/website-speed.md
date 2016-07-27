@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ Melihat performa kecepatan website dengan online tools
+- ▢ Melihat performa kecepatan website dengan online tools.
 
 ## Directions
 
