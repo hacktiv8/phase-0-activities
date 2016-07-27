@@ -12,7 +12,6 @@ Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan m
 
 - ▢ [Mempersiapkan karirmu untuk menjadi developer sejati](modules/career.md)
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](modules/code-documentation.md)
-- ▢ [Membuat program JavaScript yang ditranspilasi menjadi ES2015](modules/js-transpilation.md)
 
 ## Tuesday
 
