@@ -1,4 +1,4 @@
-# Phase 0 Week 2: Wrangling with Logic and Data
+# Hacktiv8 Phase 0 Week 2: Wrangling with Logic and Data
 
 ![Header](assets/header-w2.jpg)
 

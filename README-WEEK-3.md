@@ -1,4 +1,4 @@
-# Phase 0 Week 3: The World of DOM, Events, and Scope
+# Hacktiv8 Phase 0 Week 3: The World of DOM, Events, and Scope
 
 ![Header](assets/header-w3.jpg)
 

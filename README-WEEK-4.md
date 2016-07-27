@@ -1,4 +1,4 @@
-# Phase 0 Week 4: Valuable Advice for Our Journey
+# Hacktiv8 Phase 0 Week 4: Valuable Advice for Our Journey
 
 ![Header](assets/header-w4.jpg)
 

@@ -15,4 +15,4 @@ Buatlah sebuah program yang memiliki salah satu dari berbagai tujuan berikut:
 
 ## Submssions
 
-Buatlah program tersebut dalam suatu file `myapp.js` (jadi CLI saja, tidak perlu HTML dan CSS), pada repo website kamu. Kemudian commit dan push ke GitHub.
+Buatlah program tersebut dalam suatu file `myapp.js` (cukup CLI saja, tidak perlu HTML dan CSS), pada repo website kamu. Kemudian commit dan push ke GitHub.
