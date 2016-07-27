@@ -54,3 +54,4 @@ Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Pa
 - [Naming Conventions, PDF guide from Harvard](http://library.harvard.edu/sites/default/files/NamingConventions.pdf)
 - [GitHub Pages](https://pages.github.com)
 - [Publishing your website, BY Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Build A Blog With Jekyll And GitHub Pages, by Barry Clark on Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages)
