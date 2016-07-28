@@ -19,15 +19,41 @@ Layaknya musik yang memiliki genre, bahasa pemrograman juga memiliki
 
 ### Imperative
 
-Paradigma imperatif memiliki karakteristik...
-
 - ▢
 - ▢
 - ▢
 
 ### Procedural
 
-Paradigma prosedural memiliki karakteristik...
+- ▢
+- ▢
+- ▢
+
+### Declarative
+
+- ▢
+- ▢
+- ▢
+
+### Object-Oriented
+
+- ▢
+- ▢
+- ▢
+
+### Functional
+
+- ▢
+- ▢
+- ▢
+
+### Concurrent
+
+- ▢
+- ▢
+- ▢
+
+### Multi-Paradigm
 
 - ▢
 - ▢
@@ -38,6 +64,7 @@ Paradigma prosedural memiliki karakteristik...
 - [Classification of the principal programming paradigms ](https://www.info.ucl.ac.be/~pvr/paradigms.html)
 - [Major Programming Paradigms - Gary T. Leavens](http://www.eecs.ucf.edu/~leavens/ComS541Fall97/hw-pages/paradigms/major.html)
 - [What are Programming Paradigms?](http://www.cs.bham.ac.uk/research/projects/poplog/paradigms_lectures/lecture1.html)
+- [Learn to Code: What's the Best Programming Language to Learn First? - makeawebsitehub.com](http://makeawebsitehub.com/which-programming-language)
 
 **Warning: Advanced Readings**
 

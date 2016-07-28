@@ -285,6 +285,7 @@ Operator pendahulu untuk konsiderasi (precedence) mendeskripsikan sususan/urutan
 - [The Beginner’s Guide to Learning to Program, article by Scott H Young](https://www.scotthyoung.com/blog/2012/09/09/learn-to-program)
 - [Programming 101: The 5 Basic Concepts of any Programming Language, article by Trevor Page](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language)
 - [Programming Concepts: A Brief Tutorial for New Programmers, article by Richard Holowczak](http://holowczak.com/programming-concepts-tutorial-programmers)
+- [Bahasa Pemrograman Apa yang Cocok untuk Dipelajari Pertama Kali? oleh Rian Yulianto W di CodePolitan](https://www.codepolitan.com/bahasa-pemrograman-apa-cocok-dipelajari-pertama-kali)
 
 **JavaScript**
 
