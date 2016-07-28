@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Karena sekarang kita dalam situasi online atau remote, kebanyakan hal harus kita kerjakan sendirian. Akan jadi tantangan yang lumayan, apalagi bagi orang yang sukanya belajar bersama. Untuk itu, perlu kita pelajari juga bagaimana mengatur waktu (time management), meningkatkan produktifitas (productivity booster), dan menyadari keadaan diri kita (mindfulness). Coba juga untuk mencari tahu secara mandiri apa saja yang kamu butuhkan agar kamu dapat lebih baik dalam belajar dan mengerjakan aktivitas. Selain itu kamu juga harus mengenal dirimu lebih baik.
+Karena sekarang kita dalam situasi online atau remote, kebanyakan hal harus kita kerjakan sendirian. Akan jadi tantangan yang lumayan, apalagi bagi orang yang sukanya belajar bersama. Untuk itu, perlu kita pelajari juga bagaimana mengatur waktu (time management), meningkatkan produktifitas (productivity booster), dan menyadari keadaan diri kita (mindfulness). Coba juga untuk mencari tahu secara mandiri apa saja yang kamu butuhkan agar kamu dapat lebih baik dalam belajar dan mengerjakan kegiatan. Selain itu kamu juga harus mengenal dirimu lebih baik.
 
 - ▢ Memahami dan menggunakan berbagai cara berpikir dan belajar.
 - ▢ Meriset tentang time management, productivity, dan mindfulness.

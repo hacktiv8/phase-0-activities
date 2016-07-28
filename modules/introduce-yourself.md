@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun profesional di [Slack group "Hacktiv8 Course"](http://hacktiv8-course.slack.com) yang mana kamu telah kami undang. Tiap batch akan masuk ke dalam channel khusus sesuai nama angkatan (misalnya `#falcon`). Untuk yang tidak berhubungan langsung dengan pembelajaran, kamu tetap bisa tanya jawab di grup Facebook "Hacktiv8 Help" sebelumnya. Di dunia nyata, kamu juga akan berlatih untuk bersosialisasi dengan developer lainnya, dalam berbagai acara komunitas, seminar, maupun conference.
+Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun profesional di [Slack group "Hacktiv8 Course"](http://hacktiv8-course.slack.com) yang mana kamu telah kami undang lewat email. Tiap batch akan masuk ke dalam channel khusus sesuai nama angkatan (misalnya `#falcon`). Untuk yang tidak berhubungan langsung dengan pembelajaran, kamu tetap bisa tanya jawab di grup Facebook "Hacktiv8 Help" sebelumnya. Di dunia nyata, kamu juga akan berlatih untuk bersosialisasi dengan developer lainnya, dalam berbagai acara komunitas, seminar, maupun conference.
 
 ## Directions
 

@@ -26,6 +26,7 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
 
 ### 2. Buat akun GitHub
 
+- ▢ Tonton [How to Create a GitHub Account • A Quick Look](https://www.youtube.com/watch?v=ezxRcdJ8glM)
 - ▢ [Bergabung ke GitHub di sini](https://github.com/join)
 - ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`). Kalau bisa, samakan dengan username di Slack.
 - ▢ Konfirmasi email akun GitHub di inbox kamu.
@@ -40,7 +41,7 @@ Jika nanti kamu melihat `[USERNAME]`, artinya perlu diganti dengan username-kamu
 
 ### 4. Pelajari manfaat Git dan GitHub
 
-Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah kamu paham mengapa menggunakan, bagaimana cara pakai, dan apa itu VCS/SCM serta Git dan GitHub.
+Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah kamu paham mengapa menggunakan, bagaimana cara pakai, dan apa saja terkait VCS/SCM serta Git dan GitHub.
 
 - Membaca berbagai artikel berikut:
   - [Version Control, by Skillcrush](http://skillcrush.com/2013/02/11/version-control)
@@ -48,7 +49,6 @@ Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah ka
   - [Get started working with Git, by Skillcrush](http://skillcrush.com/2013/02/20/get-started-working-with-git)
   - [Is Git the Same Thing as Github!?, by Andrew McWilliams](https://jahya.net/blog/git-vs-github)
 - Menonton salah satu playlist video berikut:
-  - [Playlist GitHub Quick Looks, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD17rhrz2BJWAPJMjR71B3IDx)
   - [Playlist Git Basics, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
   - [Playlist GitHub & Git Foundations, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
   - [Playlist Belajar Git Version Control System, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXATLIO3kp405u6TyFPQ9Kjy)

@@ -8,7 +8,7 @@ Proses dan hasil desain web sangat penting dan berpengaruh bagi para pengguna we
 
 ### 1. Mengenal Design Thinking
 
-Berpikir secara desain (design thinking) merupakan teknik pemecahan masalah secara visual. Kenali istilah dan manfaatnya yang akan bermanfaat untuk mengerjakan aktivitas yang berhubungan dengan desain.
+Berpikir secara desain (design thinking) merupakan teknik pemecahan masalah secara visual. Kenali istilah dan manfaatnya yang akan bermanfaat untuk mengerjakan kegiatan yang berhubungan dengan desain.
 
 - [How It Works: Design Thinking, YouTube video by IBM Think Academy](https://www.youtube.com/watch?v=pXtN4y3O35M)
 - [Design thinking, on Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)
