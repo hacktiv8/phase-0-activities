@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ TODO
+- ▢ Mengetahui salah satu paradigma pemrograman modern
 
 ## Directions
 
