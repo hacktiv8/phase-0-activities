@@ -12,6 +12,10 @@ Beberapa darimu mungkin secara tidak sengaja, sudah mengenal Markdown. Terutama 
   - [Mastering Markdown, on GitHub Guides](https://guides.github.com/features/mastering-markdown)
   - [Markdown Interactive Tutorial](http://markdowntutorial.com)
 
+## Directions
+
+ - ▢ Buatlah sebuah alternatif konten halaman `index.html` dengan format Markdown dalam file `index.md` pada repo website kamu. Kemudian commit dan push ke GitHub.
+
 ## References
 
 - [Markdown, on Wikipedia](https://en.wikipedia.org/wiki/Markdown)
@@ -25,7 +29,3 @@ Beberapa darimu mungkin secara tidak sengaja, sudah mengenal Markdown. Terutama 
 - [Prose.io: beautifully simple content authoring environment for CMS-free websites](http://prose.io)
 - [CommonMark: A strongly defined, highly compatible specification of Markdown](http://commonmark.org)
 - [A reStructuredText Primer](https://getnikola.com/quickstart.html)
-
-## Submissions
-
-Buatlah sebuah alternatif konten halaman `index.html` dengan format Markdown dalam `index.md` pada repo website kamu. Kemudian commit dan push ke GitHub.

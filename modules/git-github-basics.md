@@ -43,18 +43,27 @@ Jika nanti kamu melihat `[USERNAME]`, artinya perlu diganti dengan username-kamu
 
 Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah kamu paham mengapa menggunakan, bagaimana cara pakai, dan apa saja terkait VCS/SCM serta Git dan GitHub.
 
-- Membaca berbagai artikel berikut:
-  - [Version Control, by Skillcrush](http://skillcrush.com/2013/02/11/version-control)
-  - [Git, by Skillcrush](http://skillcrush.com/2013/02/18/git)
-  - [Get started working with Git, by Skillcrush](http://skillcrush.com/2013/02/20/get-started-working-with-git)
-  - [Is Git the Same Thing as Github!?, by Andrew McWilliams](https://jahya.net/blog/git-vs-github)
-- Menonton salah satu playlist video berikut:
-  - [Playlist Git Basics, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
-  - [Playlist GitHub & Git Foundations, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
-  - [Playlist Belajar Git Version Control System, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXATLIO3kp405u6TyFPQ9Kjy)
-  - [Playlist Apa Itu GitHub, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5)
-- Mengikuti tutorial interaktif berikut:
-  - [Try Git: Git Tutorial, by GitHub](http://try.github.io)
+Membaca beberapa resource berikut:
+
+- [Version Control, by Skillcrush](http://skillcrush.com/2013/02/11/version-control)
+- [Git, by Skillcrush](http://skillcrush.com/2013/02/18/git)
+- [Get started working with Git, by Skillcrush](http://skillcrush.com/2013/02/20/get-started-working-with-git)
+- [Git Beginner's Guide for Dummies, on Backlog](https://backlogtool.com/git-guide/en)
+- [git - the simple guide](http://rogerdudler.github.io/git-guide)
+- [GitHub For Beginners: Don’t Get Scared, Get Started - ReadWrite](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
+- [GitHub For Beginners: Commit, Push And Go - ReadWrite](http://readwrite.com/2013/10/02/github-for-beginners-part-2)
+- [Is Git the Same Thing as Github!?, by Andrew McWilliams](https://jahya.net/blog/git-vs-github)
+
+Menonton salah satu playlist video berikut:
+
+- [Playlist Git Basics, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
+- [Playlist GitHub & Git Foundations, by GitHub](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
+- [Playlist Belajar Git Version Control System, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXATLIO3kp405u6TyFPQ9Kjy)
+- [Playlist Apa Itu GitHub, oleh Sekolah Koding](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5)
+
+Mengikuti tutorial interaktif berikut:
+
+- [Try Git: Git Tutorial, by GitHub](http://try.github.io)
 
 ### 4. Lakukan instalasi dan konfigurasi Git dan SSH di komputermu
 
@@ -77,5 +86,6 @@ Setelah semua persiapan sudah selesai, kita akan bisa lanjut membuat website sed
 - [GitHub website](https://github.com)
 - [How to Use Git and GitHub, interactive course on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Git Tutorials and Training, by Atlassian](https://www.atlassian.com/git/tutorials)
+- [A Beginner’s Git and GitHub Tutorial, on Udacity](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 - [Git Tracks on Bento.io](https://bento.io/git)
 - [A Guide to Developer Collaboration with GitHub (Ebook)](https://smartbear.com/ppc/ebooks/guide-to-developer-collaboration-with-github)
