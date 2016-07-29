@@ -1,8 +1,8 @@
-#
+# Get to Know Object-Oriented Programming (OOP)
 
 ## Objectives
 
-- ▢ Mengetahui salah satu paradigma pemrograman modern
+- ▢ Mengetahui salah satu paradigma pemrograman modern yang intuitif dengan dunia nyata.
 
 ## Directions
 
