@@ -50,11 +50,12 @@ Harap menyadari cara dan hasil penulisan code kamu. Pada berbagai kegiatan berik
 
 ### 4. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push perubahan ke GitHub
+- ▢ Add, commit, dan push perubahan ke GitHub.
   - `git add -A`
   - `git commit -m "Tidy up my code"`
   - `git push`
-- ▢ Cek halaman dan source code kamu yang sudah lebih rapi
+- ▢ Cek halaman dan source code kamu yang sudah lebih rapi.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

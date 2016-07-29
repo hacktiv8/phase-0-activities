@@ -45,11 +45,12 @@ Sekarang struktur reponya menjadi:
 
 ### 3. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push file CSS ke GitHub
+- ▢ Add, commit, dan push file CSS ke GitHub.
   - `git add styles/index.css`
   - `git commit -m "Create my style"`
   - `git push`
-- ▢ Cek tampilan halaman profil kamu sekarang
+- ▢ Cek tampilan halaman profil kamu sekarang.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

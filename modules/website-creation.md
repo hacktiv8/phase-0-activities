@@ -77,12 +77,17 @@ Berikut berbagai contoh dan inspirasi personal website.
 
 Tiba saatnya dalam hal favorit yang paling dinantikan oleh semua web developer: membuat website untuk pribadi! Beberapa orang melakukannya sebagai hobi yang seru, karena kita bisa mengekspresikan diri sekaligus bereksperimen dengan berbagai teknologi web. Sertakan minimal nama dan hal-hal favoritmu! Kreasikan dirimu. Buat ulang website kamu yang terdapat di `[USERNAME].github.io` dengan lebih baik. Ingat juga untuk link semua halaman hasil kegiatan buatanmu.
 
-- ▢ Rencanakan bentuk website baru kamu. Tulis sebuah rencana kemudian push detail tersebut ke GitHub.
+- ▢ Rencanakan bentuk website baru kamu. Tulis sebuah rencana kemudian commit dan push detail tersebut.
 - ▢ Buatlah wireframe website kamu. Gunakan tools yang kamu prefer.
 - ▢ Kumpulkan berbagai media yang diperlukan. Gambar atau video, kemudian taruh di repositori atau bisa juga upload ke layanan berbagi gambar atau video seperti imgur atau YouTube.
 - ▢ Implementasikan rencana dan wireframe. Code website kamu dengan HTML, CSS, dan JavaScript.
 - ▢ Susun kumpulan media yang ada ke halaman web kamu.
 - ▢ Pastikan semua source code sudah di-push ke GitHub.
+
+Setelah selesai...
+
+- ▢ Commit dan push file tersebut ke GitHub.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

@@ -58,6 +58,8 @@ Mirip dengan cara mencetak JavaScript ke halaman web!
 document.write("Hello!");
 ```
 
+- ▢ Tontonlah video ini jika perlu: [Document Object Model (DOM), by Think Vitamin](https://www.youtube.com/watch?v=aPW_wQEFvek&list=PL18600E7CA651B16B)
+
 ### 2. Mengenal DevTools lebih jauh
 
 Sebelum lanjut mempelajari DOM lebih jauh, kita perlu bantuan DevTools.

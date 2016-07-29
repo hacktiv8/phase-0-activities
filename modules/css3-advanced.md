@@ -42,6 +42,7 @@ Selalu gunakan selector `id` dan `class` untuk berbagai element.
   - `git commit -m "Enhance my style"`
   - `git push`
 - ▢ Cek tampilan halaman yang terbaru
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

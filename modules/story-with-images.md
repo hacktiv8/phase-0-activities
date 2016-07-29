@@ -37,11 +37,12 @@ Berikut contoh cerita yang terdapat beberapa bagian serta gambar-gambar yang dit
 
 ### 2. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push file HTML ke GitHub
+- ▢ Add, commit, dan push file HTML ke GitHub.
   - `git add blog/*.html`
   - `git commit -m "Create the first blog post"`
   - `git push`
-- ▢ Cek halaman cerita atau blog post yang sudah dibuat
+- ▢ Cek halaman cerita atau blog post yang sudah dibuat.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

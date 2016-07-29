@@ -32,11 +32,12 @@ Berikut contoh artikel berita sederhana dengan HTML dan CSS.
 
 ### 2. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push file HTML ke GitHub
+- ▢ Add, commit, dan push file HTML ke GitHub.
   - `git add news/first-news.html`
   - `git commit -m "Create the first news article"`
   - `git push`
-- ▢ Cek halaman berita yang sudah dibuat\
+- ▢ Cek halaman berita yang sudah dibuat.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

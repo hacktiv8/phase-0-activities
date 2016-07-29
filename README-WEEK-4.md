@@ -37,8 +37,8 @@ Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan m
 
 ## Saturday and Sunday
 
-- ▢ [Refleksi kegiatan pekan ini](modules/reflection-week-4.md)
-- ▢ [Blogging teknikal terkait skill pekan ini](modules/blog-week-4.md)
+- ▢ [Refleksi kegiatan pekan ini](modules/reflection.md)
+- ▢ [Blogging teknikal terkait skill pekan ini](modules/blog.md)
 - ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w4) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
 
 Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.

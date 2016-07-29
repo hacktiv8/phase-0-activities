@@ -25,7 +25,7 @@ Kamu juga bisa memanfaatkan GitHub Pages sebagai tempat kamu blogging.
 
 ### 4. (Opsional) Berbagi informasi yang kamu punya
 
-- ▢ Jika ada, bagilah informasi atau artikel bermanfaat yang ada di blog kamu ke grup Slack.
+- ▢ Jika ada, bagilah informasi atau artikel bermanfaat lainnya yang ada di blog kamu di Slack.
 
 ## References
 

@@ -58,11 +58,12 @@ Sehingga sekarang struktur foldernya menjadi:
 
 ### 3. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push file HTML ke GitHub
+- ▢ Add, commit, dan push file HTML ke GitHub.
   - `git add index.html`
   - `git commit -m "Create my profile"`
   - `git push`
-- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io`
+- ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io`.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

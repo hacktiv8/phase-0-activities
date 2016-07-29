@@ -34,15 +34,16 @@ Berikut contoh formulir kontak dengan email dan berbagai input lain sederhana de
 
 ### 2. Kirim berbagai perubahan yang ada ke website kamu
 
-- ▢ Add, commit, dan push perubahan ke GitHub
+- ▢ Add, commit, dan push perubahan ke GitHub.
   - `git add index.html`
   - `git commit -m "Add a contact form"`
   - `git push`
-- ▢ Cek halaman profil kamu yang terbaru
+- ▢ Cek halaman profil kamu yang terbaru.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 
 - [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/building-forms) (lesson 10)
 - [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
 - [DevDocs HTML Documentation](http://devdocs.io/html)
-- [Design Better Forms, by Andrew Coyle on UXDesign.cc](https://uxdesign.cc/design-better-forms-96fadca0f49c) 
+- [Design Better Forms, by Andrew Coyle on UXDesign.cc](https://uxdesign.cc/design-better-forms-96fadca0f49c)

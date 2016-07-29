@@ -38,8 +38,8 @@ Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan mel
 
 ## Saturday and Sunday
 
-- ▢ [Refleksi kegiatan pekan ini](modules/reflection-week-3.md)
-- ▢ [Blogging teknikal terkait skill pekan ini](modules/blog-week-3.md)
+- ▢ [Refleksi kegiatan pekan ini](modules/reflection.md)
+- ▢ [Blogging teknikal terkait skill pekan ini](modules/blog.md)
 - ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w3) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
 
 Selamat berpetualang dengan dunia DOM dan JavaScript lebih lanjut! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.

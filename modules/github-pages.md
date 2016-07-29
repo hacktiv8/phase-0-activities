@@ -42,7 +42,7 @@ Cek kembali `https://github.com/[USERNAME]/[USERNAME].github.io`, kamu dapat mel
 
 ### 4. Beritahu website kamu
 
-- ▢ Kirimlah pesan di grup Slack yang memberi tahu kamu sudah punya website dengan URL `http://[USERNAME].github.io`
+- ▢ Share hasilnya di grup Slack yang memberi tahu kamu sudah punya website dengan URL `http://[USERNAME].github.io`
 
 ### 5. (Opsional) Generator
 
