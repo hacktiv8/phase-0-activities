@@ -43,6 +43,8 @@ Selamat sudah menyelesaikan kegiatan pekan pertama! Pekan kedua ini kita akan me
 
 ## Saturday and Sunday
 
+- ▢ [Refleksi kegiatan pekan ini](modules/reflection-week-2.md)
+- ▢ [Blogging teknikal terkait skill pekan ini](modules/blog-week-2.md)
 - ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w2) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
 
 Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.

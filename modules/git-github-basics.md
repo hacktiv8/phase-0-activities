@@ -78,3 +78,4 @@ Setelah semua persiapan sudah selesai, kita akan bisa lanjut membuat website sed
 - [How to Use Git and GitHub, interactive course on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Git Tutorials and Training, by Atlassian](https://www.atlassian.com/git/tutorials)
 - [Git Tracks on Bento.io](https://bento.io/git)
+- [A Guide to Developer Collaboration with GitHub (Ebook)](https://smartbear.com/ppc/ebooks/guide-to-developer-collaboration-with-github)
