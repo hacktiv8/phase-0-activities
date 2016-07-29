@@ -28,7 +28,7 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
 
 - ▢ Tonton [How to Create a GitHub Account • A Quick Look](https://www.youtube.com/watch?v=ezxRcdJ8glM)
 - ▢ [Bergabung ke GitHub di sini](https://github.com/join)
-- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`). Kalau bisa, samakan dengan username di Slack.
+- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `andir` atau `aruben`). Kalau bisa, samakan dengan username di Slack.
 - ▢ Konfirmasi email akun GitHub di inbox kamu.
 - ▢ Kunjungi <https://github.com/settings/profile> lalu lengkapi profil kamu.
 - ▢ "Update profile" kamu.

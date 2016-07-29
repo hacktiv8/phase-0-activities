@@ -11,9 +11,9 @@ Mari mengenalkan dirimu lebih jelas dan lengkap, baik secara personal maupun pro
 Komunikasi kelas dan tim yang lebih baik menggunakan Slack. Tiada email atau lampiran (attachment) tradisional, atau bahkan SMS dan WhatsApp. Gunakan Slack untuk berdiskusi dan bertanya di satu tempat.
 
 - ▢ [Tontonlah video YouTube tentang Slack ini](https://www.youtube.com/watch?v=B6zVzWU95Sw)
-- ▢ Cek membership melalui email konfirmasi.
+- ▢ Cek membership melalui email konfirmasi. (Jika ada masalah, bisa juga [kunjungi halaman ini](https://hacktiv8-course.slack.com/x-62733920181-62736440181/signup))
 - ▢ Kamu akan masuk ke Slack kelas kita dengan URL <http://hacktiv8-course.slack.com>.
-- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `aruben`).
+- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `andir` atau `aruben`).
 - ▢ Tentukan password kamu yang kuat namun mudah diingat.
 - ▢ [Isi profil lengkap dan upload foto profil melalui "Edit Profile"](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)
 - ▢ [Download aplikasi Slack](https://slack.com/downloads) ke mobile ataupun desktop.
@@ -29,7 +29,7 @@ Komunikasi kelas dan tim yang lebih baik menggunakan Slack. Tiada email atau lam
 
 **Contoh**
 
-> :wave: Halo salam kenal semuanya, saya Andi. Saya bergabung di Hacktiv8 karena dengan menjadi web software developer yang handal menjadikan kita untuk menciptakan aplikasi bermanfaat yang berkualitas, bagi berbagai orang sekitar.
+> :wave: Halo salam kenal semuanya, saya Andi. Saya bergabung di Hacktiv8 karena dengan menjadi web application developer yang handal menjadikan kita untuk menciptakan software bermanfaat yang berkualitas, bagi berbagai orang di sekitar.
 
 > Saya adalah pengembang robot dan guru di Universitas. Saya bergabung dalam bootcamp/kursus ini untuk meningkatkan kemampuan saya mengintegrasikan hardware dengan teknologi Web.
 
@@ -47,3 +47,4 @@ Komunikasi kelas dan tim yang lebih baik menggunakan Slack. Tiada email atau lam
 
 - [Slack Video Guides](https://slack.com/videoguides)
 - [Onboarding checklist for new users on Slack](https://get.slack.help/hc/en-us/articles/217626328-Onboarding-checklist-for-new-users)
+- [Slack vs Facebook Groups: The problems with Facebook groups and why we moved to Slack for our private community](https://www.thecontentmarketingacademy.co.uk/slack-vs-facebook-groups)

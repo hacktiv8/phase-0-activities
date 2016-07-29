@@ -14,52 +14,52 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 **Oke, siap untuk memulai Phase 0 kita di Hacktiv8?** Kami yakin bahwa kamu akan mengalami petualangan yang makin sangat seru! Pada waktu di antara berakhirnya Phase 0 dan sebelum dimulainya Phase 1 juga, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
 
-**Apa saja yang akan kita lakukan, pahami, dan selesaikan dalam beberapa hari ke depan?** Berikut berbagai kegiatan inti yang telah yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti link pada tiap checklist setiap harinya. Jika ada yang belum selesai, tunda ke hari berikutnya. Secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
+**Apa saja yang akan kita lakukan, pahami, dan selesaikan dalam beberapa hari ke depan?** Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti tiap checklist yang bisa kamu lakukan. Jika ada yang belum selesai, boleh saja ditunda ke hari berikutnya. Yang penting secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
 
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack. Grup Facebook Hacktiv8 Help hanya digunakan untuk Briefing dan tanya jawab di luar pembelajaran inti.
 
 ## Monday
 
-- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](modules/introduce-yourself.md)
-- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](modules/git-github-basics.md)
-- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](modules/github-pages.md)
-- ▢ [Memastikan kamu mengetahui dasar penyusun website](modules/website.md)
+- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
+- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+- ▢ [Memastikan kamu mengetahui dasar penyusun website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website.md)
 
 ## Tuesday
 
-- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](modules/cli-git-github-practice.md)
-- ▢ [Mengetahui teknik bertanya dan searching yang baik](modules/ask-search-smart.md)
-- ▢ [Mempelajari Markdown](modules/markdown.md)
-- ▢ [Mempelajari dasar HTML5](modules/html5-basics.md)
-- ▢ [Mempelajari dasar HTML5 forms](modules/html5-forms-basics.md)
-- ▢ [Menggunakan berbagai elemen dasar HTML5](modules/html5-elements.md)
+- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
+- ▢ [Mengetahui teknik bertanya, mencari, dan membaca yang lebih cerdas](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/ask-search-read-smarter.md)
+- ▢ [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+- ▢ [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
+- ▢ [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
+- ▢ [Menggunakan berbagai elemen dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-elements.md)
 
 ## Wednesday
 
-- ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](modules/internet-web.md)
-- ▢ [Mempelajari dasar CSS3](modules/css3-basics.md)
-- ▢ [Menggunakan berbagai aturan dasar CSS3](modules/css3-rules.md)
-- ▢ [Membuat transformasi dan animasi dengan CSS3](modules/css3-advanced.md)
+- ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
+- ▢ [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
+- ▢ [Menggunakan berbagai aturan dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-rules.md)
+- ▢ [Membuat transformasi dan animasi dengan CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-advanced.md)
 
 ## Thursday
 
-- ▢ [Memanfaatkan code style guide untuk HTML dan CSS](modules/html-css-code-style.md)
-- ▢ [Membuat artikel berita sederhana](modules/news-article.md)
-- ▢ [Membuat cerita bergambar](modules/story-with-images.md)
-- ▢ [Membuat contact form pribadi](modules/contact-form.md)
+- ▢ [Memanfaatkan code style guide untuk HTML dan CSS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html-css-code-style.md)
+- ▢ [Membuat artikel berita sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/news-article.md)
+- ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
+- ▢ [Membuat contact form pribadi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-form.md)
 
 ## Friday
 
-- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](modules/web-dev-process.md)
-- ▢ [Mempelajari dan menggunakan teknik wireframing](modules/wireframing.md)
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](modules/website-evaluation.md)
-- ▢ [Mengenal adaptive web design dan responsive web design (RWB)](modules/web-design.md)
-- ▢ [Mengeksplorasi nilai inti (core values) dirimu](modules/core-values.md)
+- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
+- ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
+- ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website-evaluation.md)
+- ▢ [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
+- ▢ [Mengeksplorasi nilai inti (core values) dirimu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/core-values.md)
 
 ## Saturday and Sunday
 
-- ▢ [Refleksi kegiatan pekan ini](modules/reflection.md)
-- ▢ [Blogging teknikal terkait skill pekan ini](modules/blog.md)
+- ▢ [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
+- ▢ [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 - ▢ [Isilah form laporan kegiatan dan saran ini](http://bit.ly/hacktiv8-report-p0w1) setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam. Kamu akan menyertakan URL GitHub, website, dan blog kamu.
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.

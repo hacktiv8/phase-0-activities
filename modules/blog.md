@@ -20,7 +20,7 @@ Setiap blog post bertujuan untuk:
 - ▢ Sertakan link blog tersebut di halaman GitHub Pages atau website yang telah kamu buat.
 - ▢ Taruh link blog kamu di profil GitHub. Kunjungi <https://github.com/settings/profile> lalu isi URL blog kamu dan "Update profile" kamu.
 
-**Catatan:** Jika kamu menggunakan website pribadi: Buatlah template blog post yang akan kamu gunakan berkali-kali. Misalnya `YYYY-MM-DD_template.html` atau `template.html`, dengan `blog.css` dan `blog.js`.
+**Catatan:** Jika kamu menggunakan website pribadi, buatlah template blog post yang akan kamu gunakan berkali-kali. Misalnya `YYYY-MM-DD_template.html` atau `template.html`, dengan `blog.css` dan `blog.js`.
 
 ### 2. Buat blog post
 
@@ -28,7 +28,7 @@ Setiap blog post bertujuan untuk:
 - ▢ Tulislah blog post yang menceritakan hal apa saja yang sudah kamu pahami dan pelajari.
 - ▢ Sertakan berbagai sumber/URL yang sudah kamu dapat dan temukan.
 
-**Catatan:** Jika ada template: Copy template yang sudah kamu buat, rename sesuai tanggal dan judul yang direncanakan. Misalnya `2016-12-30_hacktiv8-experience-week-1.html` atau `beginning-hacktiv8-adventure.html`.
+**Catatan:** Jika sudah ada template, copy template yang sudah kamu buat, rename sesuai tanggal dan judul yang direncanakan. Misalnya `2016-12-30_hacktiv8-experience-week-1.html` atau `beginning-hacktiv8-adventure.html`.
 
 ### 3. Submit blog post
 
@@ -37,7 +37,7 @@ Setiap blog post bertujuan untuk:
 - ▢ Share hasil kamu di Slack. Bahkan boleh juga di Facebook, Twitter, dan lainnya.
 - ▢ Jika ada, bagilah informasi atau artikel bermanfaat lainnya juga.
 
-**Catatan:** Jika website pribadi: Selalu ingat untuk commit dan push file blog post tersebut ke GitHub.
+**Catatan:** Jika update website pribadi, selalu ingat untuk commit dan push file blog post tersebut ke GitHub.
 
 ## References
 
