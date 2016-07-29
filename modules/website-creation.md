@@ -82,7 +82,6 @@ Tiba saatnya dalam hal favorit yang paling dinantikan oleh semua web developer: 
 - ▢ Kumpulkan berbagai media yang diperlukan. Gambar atau video, kemudian taruh di repositori atau bisa juga upload ke layanan berbagi gambar atau video seperti imgur atau YouTube.
 - ▢ Implementasikan rencana dan wireframe. Code website kamu dengan HTML, CSS, dan JavaScript.
 - ▢ Susun kumpulan media yang ada ke halaman web kamu.
-- ▢ Pastikan semua source code sudah di-push ke GitHub.
 
 Setelah selesai...
 

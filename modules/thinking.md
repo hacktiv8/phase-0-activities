@@ -53,13 +53,18 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 ## Directions
 
-Buatlah sebuah halaman `thinking.html` atau `learning.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
+Buatlah sebuah halaman `thinking.html` atau `learning.html` dalam website kamu, lalu jabarkan isi pertanyaan berikut dan jawaban kamu di dalamnya.
 
 - ▢ Apa saja tantangan utama yang sudah kamu hadapi terkait manajemen waktu?
 - ▢ Bagaimana cara kamu mengatasi tantangan tersebut? Teknik apa yang ingin atau sudah kamu coba?
 - ▢ Apa rencana atau strategi keseluruhan yang sudah kamu rancang untuk menghadapi berbagai kegiatan berikut?
 - ▢ Apakah kamu sudah memiliki growth mindset? Ceritakanlah keadaan mindset kamu sekarang.
 - ▢ Apakah kamu pikir atau rasakan bahwa kamu sudah memiliki cara belajar yang terbaik? Jika sudah atau belum, ceritakanlah alasanmu.
+
+Setelah selesai...
+
+- ▢ Commit dan push file tersebut ke GitHub.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

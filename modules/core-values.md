@@ -6,7 +6,7 @@
 
 ## Directions
 
-Buatlah sebuah halaman `core-values.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Kemudian commit dan push ke GitHub.
+Buatlah sebuah halaman `core-values.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya.
 
 - ▢ Pilihlah berbagai nilai yang tertera dalam kumpulan kata berikut, yang kamu pikirkan ataupun rasakan saat kamu sedang dalam keadaan paling bahagia, bangga, puas, atau tenang. Tambahkan yang lain jika perlu.
 - ▢ Tulislah kalimat atau paragraf yang mengandung nilai-nilai yang kamu pilih. Jelaskan mengapa nilai tersebut berarti bagimu.
@@ -102,6 +102,9 @@ Uang
 Unggul
 Waktu
 Wawasan
+
+- ▢ Commit dan push file tersebut ke GitHub.
+- ▢ Share hasil kamu di Slack.
 
 ## References
 

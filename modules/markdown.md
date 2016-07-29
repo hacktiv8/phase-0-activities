@@ -14,7 +14,7 @@ Beberapa darimu mungkin secara tidak sengaja, sudah mengenal Markdown. Terutama 
 
 ## Directions
 
- - ▢ Buatlah sebuah alternatif konten halaman `index.html` dengan format Markdown dalam file `index.md` pada repo website kamu. Kemudian commit dan push ke GitHub.
+ - ▢ Buatlah sebuah alternatif konten halaman `index.html` dengan format Markdown dalam file `index.md` pada repo website kamu. Kemudian commit dan push ke GitHub. Tidak harus di-share.
 
 ## References
 

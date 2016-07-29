@@ -55,4 +55,6 @@ Cek kembali bahwa fungsi sudah terpasang pada event listener kedua button yang a
 
 ## Submissions
 
-Buatlah aplikasi tersebut dalam halaman `gallery-slide.html` pada repo website kamu. Kemudian commit dan push ke GitHub.
+- ▢ Buatlah aplikasi tersebut dalam halaman `gallery-slide.html` pada repo website kamu.
+- ▢ Commit dan push file tersebut ke GitHub.
+- ▢ Share hasil kamu di Slack.
