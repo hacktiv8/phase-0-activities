@@ -11,14 +11,15 @@ Selamat sudah menyelesaikan kegiatan pekan pertama! Pekan kedua ini kita akan me
 ## Monday
 
 - ▢ [Berpikir, belajar, dan berkembang secara lebih efektif dan efisien, dengan growth mindset](modules/thinking.md)
-- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-basics.md)
-- ▢ [Memahami dan menggunakan struktur dan tipe data di JavaScript](modules/js-data.md)
-- ▢ [Memahami berbagai sistem angka](modules/number-system.md)
+- ▢ [Memahami proses, budaya, dan kerja sama dalam pengembangan software](modules/software-culture-teamwork.md)
+- ▢ [Mengenal pair programming](modules/pair-programming.md)
+
 
 ## Tuesday
 
-- ▢ [Memahami proses, budaya, dan kerja sama dalam pengembangan software](modules/software-culture-teamwork.md)
-- ▢ [Mengenal pair programming](modules/pair-programming.md)
+- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-basics.md)
+- ▢ [Memahami dan menggunakan struktur dan tipe data di JavaScript](modules/js-data.md)
+- ▢ [Memahami berbagai sistem angka](modules/number-system.md)
 - ▢ [Memahami dan menggunakan object dan JSON di JavaScript](modules/js-object-json.md)
 
 ## Wednesday

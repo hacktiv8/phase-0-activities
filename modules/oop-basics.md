@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- ▢ TODO
+- ▢ Mengetahui salah satu paradigma pemrograman modern
 
 ## Directions
 
@@ -35,3 +35,4 @@ var kotakLain = new Square(300, 400);
 ## References
 
 - [Introduction to Object-Oriented JavaScript, on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [Object Oriented JavaScript: Udacity](https://www.udacity.com/course/object-oriented-javascript--ud015)

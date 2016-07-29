@@ -17,47 +17,13 @@ Layaknya musik yang memiliki genre, bahasa pemrograman juga memiliki
   - [Programming Paradigms, by Ray Toal](http://cs.lmu.edu/~ray/notes/paradigms)
   - [Programming Paradigms for Dummies: What Every Programmer Should Know, by Peter Van Roy (PDF)](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
-### Imperative
+Berikut adalah beberapa paradigma yang umum dilakukan:
 
-- ▢
-- ▢
-- ▢
-
-### Procedural
-
-- ▢
-- ▢
-- ▢
-
-### Declarative
-
-- ▢
-- ▢
-- ▢
-
-### Object-Oriented
-
-- ▢
-- ▢
-- ▢
-
-### Functional
-
-- ▢
-- ▢
-- ▢
-
-### Concurrent
-
-- ▢
-- ▢
-- ▢
-
-### Multi-Paradigm
-
-- ▢
-- ▢
-- ▢
+* Imperative - Mengeksekusi kode baris per baris
+* Procedural - Paradigma *imperative* yang menggunakan pengelompokan kode
+* Object-Oriented - Menulis kode dengan analogi objek sebagai alat bantu
+* Functional - Sebuah paradigma yang mengedepankan penggunaan fungsi sebagai transformasi datanya
+* Multi-Paradigm - Kombinasi dari beberapa paradigma
 
 ## References
 
