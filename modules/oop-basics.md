@@ -35,3 +35,4 @@ var kotakLain = new Square(300, 400);
 ## References
 
 - [Introduction to Object-Oriented JavaScript, on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [Object Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
