@@ -23,7 +23,6 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 - ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](modules/introduce-yourself.md)
 - ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](modules/git-github-basics.md)
 - ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](modules/github-pages.md)
-- ▢ [Melakukan pencatatan pribadi atau blogging](modules/blogging.md)
 - ▢ [Memastikan kamu mengetahui dasar penyusun website](modules/website.md)
 
 ## Tuesday
