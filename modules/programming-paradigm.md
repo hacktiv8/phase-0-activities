@@ -19,12 +19,11 @@ Layaknya musik yang memiliki genre, bahasa pemrograman juga memiliki
 
 Berikut adalah beberapa paradigma yang umum dilakukan:
 
-* Imperative
-* Procedural
-* Declarative
-* Object-Oriented
-* Functional
-* Multi-Paradigm
+* Imperative - Mengeksekusi kode baris per baris
+* Procedural - Paradigma *imperative* yang menggunakan pengelompokan kode
+* Object-Oriented - Menulis kode dengan analogi objek sebagai alat bantu
+* Functional - Sebuah paradigma yang mengedepankan penggunaan fungsi sebagai transformasi datanya
+* Multi-Paradigm - Kombinasi dari beberapa paradigma
 
 ## References
 
