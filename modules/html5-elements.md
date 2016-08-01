@@ -43,6 +43,8 @@ Sehingga sekarang struktur foldernya menjadi:
 
 ### 2. Membuat halaman web untuk mengenalkan dirimu
 
+Copy perkenalan yang sudah kamu lakukan di Slack, kemudian...
+
 - ▢ Update file `index.html` menjadi dokumen HTML yang lebih lengkap:
   - Bagian doctype, head, title, and body
   - Satu atau beberapa heading (`h1`-`h6`)
