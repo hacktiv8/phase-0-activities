@@ -13,7 +13,7 @@ memrogram juga akan berbeda-beda. Karena itulah muncul istilah paradigma.
 Layaknya musik yang memiliki genre, bahasa pemrograman juga memiliki
 'genre'. Mari kita bahas beberapa yang umum digunakan.
 
-- ▢ Pelajari fundamental paradigma pemrograman:
+- ▢ Ketahui fundamental paradigma pemrograman:
   - [Programming Paradigms, by Ray Toal](http://cs.lmu.edu/~ray/notes/paradigms)
   - [Programming Paradigms for Dummies: What Every Programmer Should Know, by Peter Van Roy (PDF)](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
