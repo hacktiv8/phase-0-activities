@@ -12,7 +12,6 @@ Saatnya membuat website sederhana yang akan ditaruh/di-host secara gratis dengan
 - ▢ Buat repositori publik baru dengan format nama `[USERNAME].github.io` dan deskripsi sesukamu.
 - ▢ Centang "Initialize this project with a README".
 - ▢ Pilih "Create repository"
-- Selamat, website kosongan kamu sudah dibuat dan dapat diakses di `[USERNAME].github.io`! :tada:
 
 Seperti yang telah kamu pelajari, repositori bersifat distributif, yang berarti bisa ada di berbagai komputer sekaligus. Sekarang repositori tersebut hanya ada di GitHub. Untuk menambahkan dan mengedit file/folder, kamu perlu menduplikasikannya ke komputermu. Hal ini disebut cloning repositori ke local. Repositori local adalah copy yang ada di komputer pribadi, sedangkan repositori remote ada di sebuah komputer lain atau server (misalnya GitHub).
 
