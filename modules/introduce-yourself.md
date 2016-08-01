@@ -13,12 +13,12 @@ Komunikasi kelas dan tim yang lebih baik menggunakan Slack. Tiada email atau lam
 - ▢ [Tontonlah video YouTube tentang Slack ini](https://www.youtube.com/watch?v=B6zVzWU95Sw)
 - ▢ Cek membership melalui email konfirmasi. (Jika ada masalah, bisa juga [kunjungi halaman ini](https://hacktiv8-course.slack.com/x-62733920181-62736440181/signup))
 - ▢ Kamu akan masuk ke Slack kelas kita dengan URL <http://hacktiv8-course.slack.com>.
-- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `andir` atau `aruben`).
+- ▢ Tentukan username kamu yang baik, jelas, mudah diingat dan dibaca; dengan huruf kecil (misalnya `andiruben` atau `andir` atau `aruben`). Jika sudah terlanjur, kamu bisa mengubahnya.
 - ▢ Tentukan password kamu yang kuat namun mudah diingat.
 - ▢ [Isi profil lengkap dan upload foto profil melalui "Edit Profile"](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile)
 - ▢ [Download aplikasi Slack](https://slack.com/downloads) ke mobile ataupun desktop.
 
-### 2. Kenalkan profil dirimu kepada rekan-rekan di Slack
+### 2. Kenalkan profil dirimu kepada rekan-rekan di Slack channel #general
 
 - ▢ Siapa nama panggilanmu?
 - ▢ Mengapa kamu ikut bergabung?
