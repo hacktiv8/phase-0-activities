@@ -2,8 +2,6 @@
 
 ![Header](assets/header-w2.jpg)
 
-Halo ${student-first-name},
-
 Selamat sudah menyelesaikan kegiatan pekan pertama! Pekan kedua ini kita akan melatih kemampuan logika dan pengolahan data dalam programming.
 
 ![Let's start!](assets/start.png)

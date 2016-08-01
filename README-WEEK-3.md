@@ -2,8 +2,6 @@
 
 ![Header](assets/header-w3.jpg)
 
-Halo ${student-first-name},
-
 Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope.
 
 ![Let's start!](assets/start.png)

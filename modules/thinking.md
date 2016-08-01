@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Karena sekarang kita dalam situasi online atau remote, kebanyakan hal harus kita kerjakan sendirian. Akan jadi tantangan yang lumayan, apalagi bagi orang yang sukanya belajar bersama. Untuk itu, perlu kita pelajari juga bagaimana mengatur waktu (time management), meningkatkan produktifitas (productivity booster), dan menyadari keadaan diri kita (mindfulness). Coba juga untuk mencari tahu secara mandiri apa saja yang kamu butuhkan agar kamu dapat lebih baik dalam belajar dan mengerjakan kegiatan. Selain itu kamu juga harus mengenal dirimu lebih baik.
+Karena sekarang kita dalam situasi online atau remote, sebagian besar hal harus kita kerjakan sendirian. Akan jadi tantangan yang lumayan, apalagi bagi orang yang sukanya belajar bersama. Untuk itu, perlu kita pelajari juga bagaimana mengatur waktu (time management), meningkatkan produktifitas (productivity booster), dan menyadari keadaan diri kita (mindfulness). Coba juga untuk mencari tahu secara mandiri apa saja yang kamu butuhkan agar kamu dapat lebih baik dalam belajar dan mengerjakan kegiatan. Selain itu kamu juga harus mengenal dirimu lebih baik.
 
 - ▢ Memahami dan menggunakan berbagai cara berpikir dan belajar.
 - ▢ Meriset tentang time management, productivity, dan mindfulness.
@@ -47,9 +47,10 @@ Pelajarilah dari berbagai referensi berikut, tidak harus semuanya, yang penting 
 
 - [Ramsey Musallam: 3 Rules to Spark Learning](https://youtu.be/YsYHqfk0X2A) (TED on YouTube video)
 - [Angela Lee Duckworth: The Key To Success? Grit](https://youtu.be/H14bBuluwB8) (TED on YouTube video)
-- [VARK questionnaire on learning style](http://vark-learn.com/the-vark-questionnaire)
-- [10 Habits That Help You Learn Twice as Fast, by Chris W. Dunn on Entrepreneur.com](https://www.entrepreneur.com/article/278278)
+- [4 Ways Successful People Learn More, on Inc.com](http://www.inc.com/brian-de-haaff/science-explains-how-successful-people-learn.html)
 - [5 Simple Tricks to Remember Everything You Learn, by Erin Brodwin on Inc.com](http://www.inc.com/business-insider/5-simple-memory-tricks-remember-everything-learn-successfully.html)
+- [10 Habits That Help You Learn Twice as Fast, by Chris W. Dunn on Entrepreneur.com](https://www.entrepreneur.com/article/278278)
+- [VARK questionnaire on learning style](http://vark-learn.com/the-vark-questionnaire)
 
 ## Directions
 

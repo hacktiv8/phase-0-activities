@@ -2,8 +2,6 @@
 
 ![Header](assets/header-w4.jpg)
 
-Halo ${student-first-name},
-
 Selamat sudah menyelesaikan kegiatan pekan ketiga! Pekan keempat ini kita akan mendapat berbagai petuah yang sangat berharga dalam perjalanan kita sebagai web developer. Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web developer memerlukan peningkatan terus-menerus seiring waktu dan zaman. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
 
 ![Let's start!](assets/start.png)
