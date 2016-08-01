@@ -14,6 +14,6 @@
 
 ## Submissions
 
-- ▢ Buatlah aplikasi tersebut dalam halaman `rainbow-text.html` pada repo website kamu.
+- ▢ Buatlah aplikasi tersebut dalam halaman `number-guess.html` atau `number-guess.js` pada repo website kamu.
 - ▢ Commit dan push file tersebut ke GitHub.
 - ▢ Share hasil kamu di Slack.
