@@ -10,4 +10,10 @@
 - ▢ Beri batas kesempatan pada pemain untuk menebak angka (misalnya 5 kali).
 - ▢ Setiap tebakan di-submit, beri tahu apakah tebakannya lebih besar atau lebih kecil dari angka jawaban.
 - ▢ Kurangi jumlah kesempatan setiap melakukan tebakan.
-- ▢ Kasih "selamat atas kemenangan" pada pemain jika tebakannya betul. Jika kesempatan sudah habis, beritahu jawabannya sambil bilang bahwa pemain "kurang beruntung".
+- ▢ Kasih "selamat atas kemenanganmu" pada pemain jika tebakannya betul. Jika kesempatan sudah habis, beritahu jawabannya sambil bilang bahwa pemain "kurang beruntung".
+
+## Submissions
+
+- ▢ Buatlah aplikasi tersebut dalam halaman `rainbow-text.html` pada repo website kamu.
+- ▢ Commit dan push file tersebut ke GitHub.
+- ▢ Share hasil kamu di Slack.

@@ -2,7 +2,9 @@
 
 ![Header](assets/header-w2.jpg)
 
-Selamat sudah menyelesaikan kegiatan pekan pertama! Pekan kedua ini kita akan melatih kemampuan logika dan pengolahan data dalam programming.
+Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih kemampuan logika dan pengolahan data dalam programming.
+
+Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-2.md>
 
 ![Let's start!](assets/start.png)
 

@@ -2,7 +2,9 @@
 
 ![Header](assets/header-w3.jpg)
 
-Selamat sudah menyelesaikan kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope.
+Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope.
+
+Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
 
 ![Let's start!](assets/start.png)
 
