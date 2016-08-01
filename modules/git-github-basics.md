@@ -70,6 +70,8 @@ Mengikuti tutorial interaktif berikut:
 - ▢ [Ikuti petunjuk "Setting up Git"](https://help.github.com/articles/set-up-git/#setting-up-git). Bisa juga langsung [download Git di situs resminya](https://git-scm.com/downloads)
 - ▢ Buka terminal atau command prompt. Khusus di Windows, buka "Git Bash"
 - ▢ [Ikuti petunjuk "Generating a new SSH key"](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key)
+  - Mengapa SSH bukan HTTPS? [Which remote URL should I use?](https://help.github.com/articles/which-remote-url-should-i-use)
+  - Kalau terlalu lama mencoba berkutik dengan SSH masih ada masalah, boleh saja pakai HTTPS.
 
 Setelah semua persiapan sudah selesai, kita akan bisa lanjut membuat website sederhana dan menaruhnya gratis dengan GitHub Pages!
 
