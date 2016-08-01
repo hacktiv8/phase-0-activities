@@ -63,7 +63,7 @@ Sehingga sekarang struktur foldernya menjadi:
   - `git commit -m "Create my profile"`
   - `git push`
 - ▢ Cek halaman profil kamu yang ada di `[USERNAME].github.io`.
-- ▢ Share hasil kamu di Slack.
+- ▢ Share hasil kamu di Slack. Bisa juga sekaligus mengirim screenshot-nya. :star2:
 
 ## References
 
