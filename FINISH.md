@@ -6,5 +6,5 @@ Termasuk juga:
 
 - Showcases
 - Blog Post Collection
-- Challenge Evaluation
-- Prepare for Phase 0 Exam
+- Activity Evaluation
+- Final Activity Evaluation
