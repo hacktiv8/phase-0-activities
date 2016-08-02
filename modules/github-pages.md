@@ -52,5 +52,9 @@ Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Pa
 - [Naming files and folders, short guide by University of Leicester](http://www2.le.ac.uk/services/research-data/organise-data/naming-files)
 - [Naming Conventions, PDF guide from Harvard](http://library.harvard.edu/sites/default/files/NamingConventions.pdf)
 - [GitHub Pages](https://pages.github.com)
+- [Build a Web Portfolio from Scratch with Github Pages](https://dannguyen.github.io/github-for-portfolios)
+
+**Additional**
+
 - [Publishing your website, BY Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [Build A Blog With Jekyll And GitHub Pages, by Barry Clark on Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages)
