@@ -25,7 +25,7 @@ Menggunakan berbagai pondasi dan elemen HTML5 yang berfungsi untuk membuat:
 - ▢ Meng-indent code HTML sesuai dengan aturan yang baik.
 - ▢ Mengidentifikasi elemen parent atau child dalam HTML.
 
-Perkuatan pemahaman dasar HTML dari berbagai referensi yang disertakan.
+Perkuat pemahaman dasar HTML kamu dari berbagai [referensi yang disertakan](#references).
 
 ### 2. Persiapkan struktur folder untuk berbagai kebutuhan
 
