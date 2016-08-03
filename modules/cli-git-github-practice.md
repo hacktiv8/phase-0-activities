@@ -24,6 +24,12 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 - ▢ Ubah isi file yang ada di GitHub langsung di web-nya, kemudian commit.
 - ▢ Dapatkan perubahan yang ada ke local dengan `git pull origin master`.
 
+### 3. Mengatasi conflict jika ada
+
+- ▢ Ikuti pedoman berikut saat kamu mendapat conflict pada saat `pull`:
+  - [Resolving a merge conflict from the command line - GitHub](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line)
+  - [Resolving Conflicts - GitHowTo](https://githowto.com/resolving_conflicts)
+
 ## References
 
 ### CLI
