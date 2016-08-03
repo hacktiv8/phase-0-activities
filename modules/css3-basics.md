@@ -203,3 +203,18 @@ h1 {
   animation: resize 1s alternate infinite ease-in-out;
 }
 ```
+
+## References
+
+**Basics**
+
+- [CSS Tutorials, by TutorialsPoint](http://tutorialspoint.com/css)
+- [Getting started with CSS, by Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+- [Introduction to CSS, by CSS Basics](http://cssbasics.com/introduction-to-css)
+- [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/getting-to-know-css) (lesson 3 to 9)
+- [Learn to Code Advanced HTML & CSS, by Shay Howe](http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning) (lesson 2 and 3)
+- [Meet the Pseudo Class Selectors, on CSS Tricks](https://css-tricks.com/pseudo-class-selectors)
+- [How To Use CSS3 Pseudo-Classes, by Richard Shepherd on Smashing Magazine](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes)
+- [Decoupling HTML From CSS, by Jonathan Snook on Smashing Magazine](https://www.smashingmagazine.com/2012/04/decoupling-html-from-css)
+- [Belajar CSS dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-css-dari-dasar)
+- [Belajar CSS3, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-css3)
