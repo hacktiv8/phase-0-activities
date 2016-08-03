@@ -28,7 +28,7 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 
 - ▢ Ikuti pedoman berikut saat kamu mendapat conflict pada saat `pull`:
   - [Resolving a merge conflict from the command line - GitHub](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line)
-  - [Resolving Conflicts - GitHowTo](https://githowto.com/resolving_conflicts)
+  - [Resolving Conflicts - Git How To](https://githowto.com/resolving_conflicts)
 
 ## References
 
@@ -42,6 +42,7 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 ### Git and GitHub
 
 - [Try Git, interactive tutorial by Code School](https://try.github.io)
+- [Git How To: Guided Git Tutorial](https://githowto.com)
 - [How to Use Git and GitHub, interactive course on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Official website of Git SCM](https://git-scm.com)
 - [Learn Git Branching](http://learngitbranching.js.org)
