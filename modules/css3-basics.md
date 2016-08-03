@@ -43,7 +43,7 @@ Dikarenakan bahasan CSS juga sangat banyak sekali layaknya HTML, di sini kita ha
 
 Ada 4 metode utama untuk menyertakan CSS agar dapat mengubah layout HTML.
 
-1. Embed dalam dokumen HTML
+(1) Embed dalam dokumen HTML
 
 ```html
 <style type="text/css" media="screen">
@@ -51,19 +51,19 @@ selector { property: value; }
 </style>
 ```
 
-2. Link ke file CSS terpisah. Dengan cara menaruh meta data berikut di head HTML.
+(2) Link ke file CSS terpisah. Dengan cara menaruh meta data berikut di head HTML.
 
 ```html
 <link href="mystyles.css" rel="stylesheet" type="text/css" media="screen">
 ```
 
-3. Inline CSS pada elemen/tag HTML
+(3) Inline CSS pada elemen/tag HTML
 
 ```html
 <tag style="color:orange; background:yellow;">isi tag</tag>
 ```
 
-4. Import CSS dalam file CSS, misalnya di dalam `mainfile.css`
+(4) Import CSS dalam file CSS, misalnya di dalam `mainfile.css`
 
 ```css
 @import "otherfile.css";
