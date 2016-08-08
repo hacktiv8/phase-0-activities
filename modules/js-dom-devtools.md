@@ -234,3 +234,4 @@ Silakan coba-coba secara mandiri dengan bantuan Dev Tools Console dan Elements s
 - [DOM Nodes on JavaScript Tutorial](http://javascript.info/tutorial/dom-nodes)
 - [Interactive JavaScript DOM Tutorials, by Neil Fraser of Google](https://dom-tutorials.appspot.com)
 - [DevDocs DOM API Documentation](http://devdocs.io/dom)
+- [Chrome Devtools Cheatsheet by Anti-Code](http://anti-code.com/devtools-cheatsheet)
