@@ -14,7 +14,7 @@ Kunjungi dan eksplorasi berbagai hal di beberapa website berikut:
 
 - [GitHub Explore](https://github.com/explore)
 - [Hacker News](https://news.ycombinator.com)
-- [Stack Exchange](http://stackexchange.com) dan [Stack Overflow](Stack Overflow)
+- [Stack Overflow](http://stackoverflow.com)
 
 ## Mengetahui keadaan lingkungan IT sekarang
 
