@@ -1,4 +1,4 @@
-# Do Your Own Blogging and Submit Your Blog Post
+# Do Your Own Blogging
 
 ## Objectives
 
