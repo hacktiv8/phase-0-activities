@@ -42,7 +42,7 @@ JSON juga merupakan objek biasa yang berisi dua fungsi utama:
 - `parse()`: parse atau translate, untuk menerjemahkan atau menganalisis JSON dalam hal in terms of aturan tata bahasa, mengidentifikasi bagian perkataan, hubungan secara sintaks, dll.
 - `stringify()`: membuat teks JSON.
 
-Dalam JSON, kita bisa gunakan tipe data apapun juga. Kombinasikan String, Number, Array, dan lainnya. Buatlah nama kunci sebaiknya sebagai String. (Catan: Kita akan hilangkan tanda `>` dari sekarang, karena kebanyakan kode akan menjadi beberapa baris)
+Dalam JSON, kita bisa gunakan tipe data apapun juga. Kombinasikan String, Number, Array, dan lainnya. Buatlah nama kunci sebaiknya sebagai String. (Catatan: Kita akan hilangkan tanda `>` dari sekarang, karena kebanyakan kode akan menjadi beberapa baris)
 
 ```javascript
 {
