@@ -33,7 +33,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-world.md)
 - ▢ [Membuat fungsi matematika dasar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/math-basics.md)
-- ▢ [Membuat permainan suit jepang](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rock-paper-scissors.md)
+- ▢ [Membuat permainan suit lokal](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rock-paper-scissors.md)
 - ▢ [Membuat daftar kontak sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-list.md)
 
 ## Friday
