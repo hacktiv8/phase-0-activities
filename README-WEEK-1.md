@@ -42,16 +42,16 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 ## Thursday
 
 - ▢ [Memanfaatkan code style guide untuk HTML dan CSS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html-css-code-style.md)
+- ▢ [Membuat contact form pribadi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-form.md)
 - ▢ [Membuat artikel berita sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/news-article.md)
 - ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
-- ▢ [Membuat contact form pribadi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-form.md)
 
 ## Friday
 
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
-- ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website-evaluation.md)
 - ▢ [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
+- ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website-evaluation.md)
+- ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/core-values.md)
 
 ## Saturday and Sunday
