@@ -9,6 +9,8 @@ Membuat permainan suit lokal yang mengumpamakan jempol, telunjuk, dan kelingking
 - ▢ Memungkinkan pengguna menentukan aksi.
 - ▢ Memungkinkan lawan yaitu komputer menentukan aksi juga dengan acak (random).
 
+**Catatan:** Iya di sini pedomannya permainan suit lokal, tapi boleh juga kamu buat jadi suit Jepang (batu/gunting/kertas).
+
 ## Directions
 
 Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu.
