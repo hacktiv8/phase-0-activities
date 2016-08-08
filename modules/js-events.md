@@ -142,5 +142,6 @@ Gunanya untuk apa? Bisa saja ke depan kita ingin membuat menimpa sifat bawaan da
 ### References
 
 - [JavaScript: Events and Listeners, on I'd Rather Be Writing](http://idratherbewriting.com/events-and-listeners-javascript)
+- [JavaScript Events, on TutorialsPoint](http://www.tutorialspoint.com/javascript/javascript_events.htm)
 - [JavaScript Events, on W3Schools](http://www.w3schools.com/js/js_events.asp)
 - [DevDocs DOM Event API Documentation](http://devdocs.io/dom_events)

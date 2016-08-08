@@ -5,13 +5,12 @@
 - ▢ Mengenali keadaan lingkungan IT dan developer zaman sekarang.
 - ▢ Mengevaluasi posisi kamu sebagai developer atau orang yang sedang belajar pemrograman.
 - ▢ Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer.
-- ▢ Berkontribusi dalam ekosistem developer
 
 ## Directions
 
 ## Eksplorasi berbagai situs komunitas developer
 
-Kunjungi, eksplorasi, dan berkontribusilah di beberapa website berikut:
+Kunjungi dan eksplorasi berbagai hal di beberapa website berikut:
 
 - [GitHub Explore](https://github.com/explore)
 - [Hacker News](https://news.ycombinator.com)
