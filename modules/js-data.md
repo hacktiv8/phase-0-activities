@@ -97,7 +97,7 @@ Namun dengan ES6, kita bisa gunakan template literal untuk membuat literal strin
 > var creature="human", task="coding", days=5
 > `Hello ${creature}, will you be ${task} in ${days} days?`
 > `Good work,
-  dan go beyond!	Yay!`
+  let's go beyond!	Yay!`
 ```
 
 Dapat terlihat kita bisa memasukkan nilai variabel secara langsung dalam string.
