@@ -24,7 +24,7 @@ Berikut contoh formulir kontak dengan email dan berbagai input lain sederhana de
 
 ### 1. Menambahkan bagian formulir
 
-- ▢ Bukalah file `index.html`, kemudian buatlah sebuah formulir di bagian bawahnya:
+- ▢ Bukalah halaman utama kamu yaitu `index.html`, kemudian buatlah sebuah formulir di bagian bawahnya:
   - Mulailah isi dengan element `form` dan `fieldset`.
   - Isilah dengan berbagai elemen pembangun form HTML.
   - Gunakan elemen penting seperti label dan button.

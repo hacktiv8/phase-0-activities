@@ -50,7 +50,7 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - ▢ [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website-evaluation.md)
+- ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
 - ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/core-values.md)
 

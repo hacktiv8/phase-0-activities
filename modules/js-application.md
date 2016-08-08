@@ -12,9 +12,10 @@ Buatlah sebuah program yang memiliki salah satu dari berbagai tujuan berikut:
 - To-do list
 - Quiz atau trivia game
 - Voting dan polling
+- Permainan bebas buatanmu
 
 ## Submssions
 
-- ▢ Buatlah program tersebut dalam suatu file `myapp.js` pada repo website kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup. 
+- ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo website kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup.
 - ▢ Commit dan push file tersebut ke GitHub.
 - ▢ Share hasil kamu di Slack.
