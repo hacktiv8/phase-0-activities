@@ -252,3 +252,4 @@ a.small {
 
 - [HTML, CSS & JS Frameworks and when to use them, by Chris Wharton](https://chriswharton.me/2016/05/html-css-and-js-frameworks-use)
 - [Front-end Hyperpolyglot, by Jeff Carp](https://jeffcarp.github.io/frontend-hyperpolyglot)
+- [What is Semantic Versioning (SemVer)?, by AbdulFattaah Popoola](https://abdulapopoola.com/2015/10/26/what-is-semver)

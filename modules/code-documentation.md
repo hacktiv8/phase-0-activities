@@ -38,14 +38,7 @@ Berikut adalah beberapa alasan penting kenapa dokumentasi code diperlukan:
 
 ## References
 
-**Documentation**
-
 - [Beginners guide to docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 - [Documentation-Driven Development (DDD), by Zach Supalla](https://gist.github.com/zsup/9434452)
 - [DDD Presentation](http://www.slideshare.net/coordt/documentation-driven-development)
 - [DDD Video](http://pyvideo.org/video/441/pycon-2011--documentation-driven-development)
-
-**Versioning**
-
-- [What is Semantic Versioning (SemVer)?, by AbdulFattaah Popoola](https://abdulapopoola.com/2015/10/26/what-is-semver)
-- [Semantic Versioning](http://semver.org)
