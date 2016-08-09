@@ -90,4 +90,8 @@ Setelah selesai...
 
 ## References
 
-- Temukan lebih banyak inspirasi di [One Page Love](https://onepagelove.com)
+- Temukan lebih banyak inspirasi di
+  - [One Page Love](https://onepagelove.com)
+  - [Awwwards Website Awards](http://awwwards.com)
+  - [Codrops](http://tympanus.net/codrops)
+  - [Creative Bloq](http://creativebloq.com)
