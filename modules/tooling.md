@@ -124,7 +124,7 @@ Dikarenakan sebenarnya sulit bagi web developer biasa untuk mengelola aplikasi w
 
 Saat kita merilis kode atau aplikasi kita ke publik bahkan perusahaan sendiri sekalipun, kita harus menandai atau menamai perubahan dan perkembangan yang ada dengan versi (versioning). Penamaan versi sederhananya seperti `v1`, `v2`, dan seterusnya seiring perkembangan kode dan aplikasi yang kita buat. Ada juga yang menamainya sebatas `alpha` dan `beta` saja selanjutnya tidak diberi nama versi, yang walaupun mudah namun pada jangka panjang akan bermasalah.
 
-Karena banyaknya variasi cara yang bisa kita pilih dan sepertinya harus dipikirkan, terdapat pedoman cara versioning populer bernama [Semantic Versioning](http://semver.org) yang bisa kita ikuti kemudian. Semantiv Versioning merupakan sekumpulan aturan dan kebutuhan yang menjelaskan bagaimana kita sebaiknya mengatur angka dan simbol pada versi dengan semantik, memiliki makna dan penjelasan pada tiap versi.
+Karena banyaknya variasi cara yang bisa kita pilih dan sepertinya harus dipikirkan, terdapat pedoman cara versioning populer bernama [Semantic Versioning](http://semver.org) yang bisa kita ikuti kemudian. Semantic Versioning merupakan sekumpulan aturan dan kebutuhan yang menjelaskan bagaimana kita sebaiknya mengatur angka dan simbol pada versi dengan semantik, memiliki makna dan penjelasan pada tiap versi.
 
 ### Mengetahui Berbagai Preprocessing dan Templating
 
