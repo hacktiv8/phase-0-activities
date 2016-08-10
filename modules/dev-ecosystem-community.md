@@ -23,6 +23,8 @@ Ketahui, kunjungi, bahkan berpartisipasilah suatu saat nanti dengan berbagai kom
 - [JakartaJS](http://meetup.com/jakartajs)
   - [JakartaJS Slack](https://jakartajs.slack.com) ([Join Here](http://jakartajs-join.herokuapp.com))
 - [ReactJS Indonesia](http://react.id)
+- [Google Developer Group Indonesia](https://developers.google.com/groups/directory/Indonesia)
+- Free Code Camp
 - dan lainnya yang bisa kamu temukan di [Meetup.com](https://www.meetup.com/find) serta [Facebook Groups](https://www.facebook.com/groups)
 
 ## Mengetahui keadaan lingkungan IT sekarang
