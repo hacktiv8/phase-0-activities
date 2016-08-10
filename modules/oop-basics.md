@@ -10,7 +10,7 @@
 
 - [Object Oriented Analysis & Design Tutorial, on TutorialsPoint](http://www.tutorialspoint.com/object_oriented_analysis_design)
 
-**Catatan:** Cukup sekilas saja
+**Catatan:** Cukup sekilas saja, tidak perlu dibaca semuanya
 
 ### Mengenal Implementasi Class dan Object pada ES6
 

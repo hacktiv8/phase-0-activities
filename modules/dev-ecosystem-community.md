@@ -16,6 +16,15 @@ Kunjungi dan eksplorasi berbagai hal di beberapa website berikut:
 - [Hacker News](https://news.ycombinator.com)
 - [Stack Overflow](http://stackoverflow.com)
 
+## Eksplorasi berbagai komunitas developer lokal
+
+Ketahui, kunjungi, bahkan berpartisipasilah suatu saat nanti dengan berbagai komunitas.
+
+- [JakartaJS](http://meetup.com/jakartajs)
+  - [JakartaJS Slack](https://jakartajs.slack.com) ([Join Here](http://jakartajs-join.herokuapp.com))
+- [ReactJS Indonesia](http://react.id)
+- dan lainnya yang bisa kamu temukan di [Meetup.com](https://www.meetup.com/find) serta [Facebook Groups](https://www.facebook.com/groups)
+
 ## Mengetahui keadaan lingkungan IT sekarang
 
 Walaupun ada kamu yang bukan lulusan IT, yang jelas dalam bootcamp ini dan begitu lulus kamu akan termasuk pelajar dan profesional di bidang IT.
@@ -25,5 +34,4 @@ Walaupun ada kamu yang bukan lulusan IT, yang jelas dalam bootcamp ini dan begit
 
 ## Mengevaluasi kemampuan dan kepribadian diri
 
-- Ikuti kuis "[Are You a Bad or Good Developer?](https://www.codementor.io/learn-programming/bad-developer-vs-good-developer) di Codementor
-- Ikuti kuis [16 Personalities](https://16personalities.com). Lalu tunjukkan hasilnya pada profil kamu di website.
+- Ikuti kuis "[Are You a Bad or Good
