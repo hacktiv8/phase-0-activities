@@ -34,4 +34,5 @@ Walaupun ada kamu yang bukan lulusan IT, yang jelas dalam bootcamp ini dan begit
 
 ## Mengevaluasi kemampuan dan kepribadian diri
 
-- Ikuti kuis "[Are You a Bad or Good
+- Ikuti kuis "[Are You a Bad or Good Developer?](https://www.codementor.io/learn-programming/bad-developer-vs-good-developer) di Codementor
+- Ikuti kuis [16 Personalities](https://16personalities.com). Lalu tunjukkan hasilnya pada profil kamu di website.
