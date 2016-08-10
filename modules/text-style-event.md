@@ -31,7 +31,7 @@ Bisa pakai `h1`, `p`, `span`, ataupun `button`.
 
 ### 2. Buatlah event listener untuk elemen tersebut
 
-Event listener akan beraksi jika ada klik kanan (`click`/`mousedown`) dan klik kiri (`contextmenu`). Bisa juga memberi event listener pada element yang berbeda. Jadi misalnya tombol memiliki event yang dapat mengganti sifat element tulisan.
+Event listener akan beraksi jika ada klik kiri (`click`/`mousedown`) dan klik kanan (`contextmenu`). Bisa juga memberi event listener pada element yang berbeda. Jadi misalnya tombol memiliki event yang dapat mengganti sifat element tulisan.
 
 ### 3. Buat fungsi untuk mengganti style
 
