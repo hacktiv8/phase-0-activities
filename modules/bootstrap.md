@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Pada tantangan ini tidak terdapat tujuan spesifik, tujuannya hanya untuk memberi kesempatan bagi Anda untuk mencoba-coba dan bereksplorasi tanpa bimbingan spesifik.
+Pada tantangan ini tidak terdapat tujuan spesifik, tujuannya hanya untuk memberi kesempatan bagi kamu untuk mencoba-coba dan bereksplorasi tanpa bimbingan spesifik.
 
 - ▢ Memahami kegunaan framework.
 - ▢ Memasang framework Bootstrap pada project.
@@ -13,7 +13,7 @@ Pada tantangan ini tidak terdapat tujuan spesifik, tujuannya hanya untuk memberi
 
 ### 1. Download Bootstrap
 
-[Cek website Bootstrap](http://getbootstrap.com) terlebih dahulu. Lalu [download Bootstrap](http://getbootstrap.com/getting-started/#download), [versi terbaru](https://github.com/twbs/bootstrap/releases/download/v3.3.6/bootstrap-3.3.6-dist.zip). Akan di-download sebuah zip yang kemudian perlu anda ekstrak ke dalam folder yang sama dengan file HTML kita (`try-bootstrap.html` misalnya).
+[Cek website Bootstrap](http://getbootstrap.com) terlebih dahulu. Lalu [download Bootstrap](http://getbootstrap.com/getting-started/#download), [versi terbaru](https://github.com/twbs/bootstrap/releases/download/v3.3.6/bootstrap-3.3.6-dist.zip). Akan di-download sebuah zip yang kemudian perlu kamu ekstrak ke dalam folder yang sama dengan file HTML kita (`try-bootstrap.html` misalnya).
 
 ### 2. Melihat struktur bundle framework
 
@@ -54,4 +54,4 @@ Cobalah untuk [mengambil berbagai contoh/examples yang tersedia](http://getboots
 
 Ubahlah konten dan style template tersebut sesuka hati. Misalnya dengan tujuan memperkenalkan diri Anda. [Silakan baca dokumentasi CSS-nya](http://getbootstrap.com/css) untuk lebih tahu apa saja yang dapat kita gunakan.
 
-Selamat! Anda dapat berhasil membuat website dengan singkat namun dengan layout yang bagus. Terima kasih Bootstrap!
+Selamat! Kamu dapat berhasil membuat website dengan singkat namun dengan layout yang bagus. Terima kasih Bootstrap!

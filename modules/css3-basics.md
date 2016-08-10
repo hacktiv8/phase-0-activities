@@ -37,7 +37,7 @@ atau seperti ini jika di CodePen:
 
 ![Contoh CSS di Codepen](assets/css-codepen.png)
 
-Dikarenakan bahasan CSS juga sangat banyak sekali layaknya HTML, di sini kita hanya membahas sepintas hal-hal yang penting. Sehingga tujuannya mengenalkan seperlunya agar Anda dapat familiar. Silakan lihat [berbagai referensi di bawah](#guides) untuk belajar lebih lanjut.
+Dikarenakan bahasan CSS juga sangat banyak sekali layaknya HTML, di sini kita hanya membahas sepintas hal-hal yang penting. Sehingga tujuannya mengenalkan seperlunya agar kamu dapat familiar. Silakan lihat [berbagai referensi di bawah](#guides) untuk belajar lebih lanjut.
 
 ### Menyertakan CSS untuk HTML
 
@@ -154,7 +154,7 @@ p {
 
 `inline-block` berarti bersifat seperti elemen level `block`, punya berbagai properti box model, namun tetap ditampilkan sebaris (inline) dengan elemen lain, tidak memulai baris baru.
 
-Sehubungan dengan box model, umpamakan setiap elemen HTML seperti kotak yang memiliki beberapa lapisan jarak (`padding`), batas (`border`), pinggiran (`margin`), dan posisi (`position`); diilustrasikan seperti ini, yang bahkan Anda bisa lihat dengan membuka Chrome Dev Tools.
+Sehubungan dengan box model, umpamakan setiap elemen HTML seperti kotak yang memiliki beberapa lapisan jarak (`padding`), batas (`border`), pinggiran (`margin`), dan posisi (`position`); diilustrasikan seperti ini, yang bahkan kamu bisa lihat dengan membuka Chrome Dev Tools.
 
 ![HTML/CSS Box Model](assets/html-css-box-model.png)
 

@@ -43,7 +43,7 @@ Biasanya, form memiliki atribut aksi (action) dan metode (method) agar dapat bek
 </form>
 ```
 
-Inilah beberapa contoh kode yang dapat membantu Anda membuat formulir kontak.
+Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
 
 ### Form dengan fieldset, legend, label, dan berbagai input
 

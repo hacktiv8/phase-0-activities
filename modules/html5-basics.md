@@ -104,7 +104,7 @@ Ada cara lain untuk melihat berbagai contoh yang ada di berbagai website. Kita d
 
 Untuk melatih kemampuan menulis HTML, cobalah gunakan JSBin atau CodePen sambil mendaftar sebuah akun, agar progress dapat disimpan secara online, bahkan juga dapat dibagikan ke siapapun.
 
-Dikarenakan juga bahasan HTML sangat banyak sekali, di sini kita hanya membahas sepintas hal-hal yang penting. Sehingga tujuannya mengenalkan seperlunya agar Anda dapat familiar. Silakan lihat [berbagai referensi di bawah](#references) untuk belajar lebih lanjut.
+Dikarenakan juga bahasan HTML sangat banyak sekali, di sini kita hanya membahas sepintas hal-hal yang penting. Sehingga tujuannya mengenalkan seperlunya agar kamu dapat familiar. Silakan lihat [berbagai referensi di bawah](#references) untuk belajar lebih lanjut.
 
 ### Deklarasi Tipe Dokumen (Document Type declaration)
 
@@ -181,7 +181,7 @@ Untuk sebagian besar bagian teks, kita biasanya memerlukan header yang dapat ber
 
 ### Paragraf dan Varian/Format Teks
 
-Anda sudah melihat paragraf, teks panjang yang berisi sebuah penjelasan atau cerita (apapun!), yang juga dapat terbagi ke beberapa bagian (section). Kita bisa gunakan paragraf untuk menyajikan teks polos apapun.
+Kamu sudah melihat paragraf, teks panjang yang berisi sebuah penjelasan atau cerita (apapun!), yang juga dapat terbagi ke beberapa bagian (section). Kita bisa gunakan paragraf untuk menyajikan teks polos apapun.
 
 ```html
 <p>
