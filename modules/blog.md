@@ -14,7 +14,7 @@ Setiap blog post bertujuan untuk:
 
 ## Directions
 
-### 1. Buat blog kamu
+### 1. Buat blog kamu (jika belum)
 
 - ▢ Mempersiapkan website untuk blog atau mendaftar sebuah akun blog jika belum.
 - ▢ Sertakan link blog tersebut di halaman GitHub Pages atau website yang telah kamu buat.
@@ -37,7 +37,7 @@ Setiap blog post bertujuan untuk:
 - ▢ Share hasil kamu di Slack. Bahkan boleh juga di Facebook, Twitter, dan lainnya.
 - ▢ Jika ada, bagilah informasi atau artikel bermanfaat lainnya juga.
 
-**Catatan:** Jika update website pribadi, selalu ingat untuk commit dan push file blog post tersebut ke GitHub.
+**Catatan:** Jika meng-update website pribadi, selalu ingat untuk commit dan push file blog post tersebut ke GitHub.
 
 ## References
 

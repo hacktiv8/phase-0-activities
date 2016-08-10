@@ -13,7 +13,9 @@ Setiap refleksi bertujuan untuk:
 
 ## Directions
 
-Buatlah sebuah halaman `reflection.html` dalam website kamu, lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Bagilah halaman ke beberapa section pekan yang berbeda (pekan satu/dua/tiga/empat).
+Buatlah sebuah halaman `reflection.html` dalam website kamu. Lalu jabarkan pertanyaan berikut dan jawaban kamu di dalamnya. Bagilah halaman ke beberapa section pekan yang berbeda (pekan satu/dua/tiga/empat).
+
+Jika halaman reflection sudah ada, gunakan halaman tersebut, tempatkan sesuai section pekan saat ini.
 
 - ▢ Materi, konsep, kegiatan, dan bagian apa saja yang berjalan baik? Keberhasilan dan masalah apa yang kamu hadapi?
 - ▢ Hal apa saja yang terpikirkan atau tanyakan saat coding? Referensi lain apa saja yang membantumu menjawabnya?
