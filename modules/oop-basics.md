@@ -8,8 +8,9 @@
 
 ### Mengenal Object-Oriented Programming (OOP)
 
-- ▢ Pelajari dari referensi berikut:
-  - [Object Oriented Programming, on JavaScript Tutorial](http://javascript.info/tutorial/object-oriented-programming)
+- [Object Oriented Analysis & Design Tutorial, on TutorialsPoint](http://www.tutorialspoint.com/object_oriented_analysis_design)
+
+**Catatan:** Cukup sekilas saja
 
 ### Mengenal Implementasi Class dan Object pada ES6
 

@@ -6,10 +6,10 @@
 
 ## Learnings
 
-Pelajari hal terkait database dari referensi-referensi berikut:
+Kenali hal-hal terkait database dari referensi-referensi berikut:
 
-- ▢ [A Guide to Database Technology, on Upwork](https://upwork.com/hiring/data/a-guide-to-database-technology)
-- ▢ [Why NoSQL? on Couchbase](http://couchbase.com/nosql-resources/why-nosql)
+- [A Guide to Database Technology, on Upwork](https://upwork.com/hiring/data/a-guide-to-database-technology)
+- [Why NoSQL? on Couchbase](http://couchbase.com/nosql-resources/why-nosql)
 
 ## References
 

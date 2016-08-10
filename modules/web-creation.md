@@ -80,7 +80,7 @@ Tiba saatnya dalam hal favorit yang paling dinantikan oleh semua web developer: 
 - ▢ Rencanakan bentuk terbaru website baru kamu. Tulis sebuah rencana kemudian commit dan push detail tersebut.
 - ▢ Buatlah wireframe website kamu. Gunakan tools yang kamu prefer.
 - ▢ Kumpulkan berbagai media yang diperlukan. Gambar atau video, kemudian taruh di repositori atau bisa juga upload ke layanan berbagi gambar atau video seperti imgur atau YouTube.
-- ▢ Implementasikan rencana dan wireframe. Code website kamu dengan HTML, CSS, dan JavaScript.
+- ▢ Implementasikan perencanaan dan wireframe. Code website kamu dengan HTML, CSS, dan JavaScript.
 - ▢ Susun kumpulan media yang ada ke halaman web kamu.
 
 Setelah selesai...
