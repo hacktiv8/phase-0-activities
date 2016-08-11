@@ -4,6 +4,8 @@
 
 Saatnya membuat website sederhana yang akan ditaruh/di-host secara gratis dengan GitHub Pages. Kamu akan bisa melakukan clone, add, commit, pull, dan push dari/ke GitHub. Website sederhana ini akan kita update secara berkala seiring waktu, yang juga menjadi pusat mengumpulkan berbagai kegiatan yang sudah kamu kerjakan.
 
+**Catatan:** Perlu diketahui dan diingat selalu bahwa website di GitHub Page ini akan kamu gunakan sebagai salah satu bentuk portofolio atau profil online kamu. Jadi, kamu bisa mulai bayangkan dan rancang sebagai website pribadi.
+
 ## Directions
 
 ### 1. Membuat repositori untuk website di GitHub
