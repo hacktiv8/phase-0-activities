@@ -14,6 +14,8 @@ Membuat berbagai fungsi matematika dasar.
 
 Bukalah Dev Tools, JSBin, atau CodePen bahkan text/code editor untuk mengedit HTML dan JavaScript terlebih dahulu. Masing-masing function yang akan dibuat berikut merupakan program yang berbeda-beda.
 
+Ingat! Buatlah `function` yang menerima parameter agar test code berikut dapat berjalan. Bukan semata-mata hanya menjalankan fungsi berikut.
+
 ### 1. Buatlah fungsi pangkat angka agar kode berikut dapat berjalan
 
 ```javascript
