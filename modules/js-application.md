@@ -14,6 +14,8 @@ Buatlah sebuah program yang memiliki salah satu dari berbagai tujuan berikut:
 - Voting dan polling
 - Permainan bebas buatanmu
 
+**Catatan:** Ingat untuk memberi dokumentasi judul di baris awal agar jelas tujuan utama program kamu buat apa.
+
 ## Submssions
 
 - ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo website kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup.
