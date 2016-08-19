@@ -294,6 +294,7 @@ Operator pendahulu untuk konsiderasi (precedence) mendeskripsikan sususan/urutan
 - [JavaScript.com](http://javascript.com)
 - [JavaScript (Original) on Codecademy](https://www.codecademy.com/en/tracks/javascript-original)
 - [JavaScript on Codecademy](https://www.codecademy.com/learn/javascript)
+- [CS101 Introduction to Computing Principles](https://web.stanford.edu/class/cs101) (Week 1 and 2)
 - [JavaScript Guide, by Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Guide, by Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Belajar javascript untuk pemula, di Sekolah Koding](https://sekolahkoding.com/kelas/belajar-javascript-untuk-pemula)
