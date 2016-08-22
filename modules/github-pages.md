@@ -54,7 +54,7 @@ Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Pa
 - [Naming files and folders, short guide by University of Leicester](http://www2.le.ac.uk/services/research-data/organise-data/naming-files)
 - [Naming Conventions, PDF guide from Harvard](http://library.harvard.edu/sites/default/files/NamingConventions.pdf)
 - [GitHub Pages](https://pages.github.com)
-- [Build a Web Portfolio from Scratch with Github Pages](https://dannguyen.github.io/github-for-portfolios)
+- [Build a Web Portfolio from Scratch with GitHub Pages](https://dannguyen.github.io/github-for-portfolios)
 
 **Additional**
 

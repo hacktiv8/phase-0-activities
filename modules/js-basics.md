@@ -298,3 +298,4 @@ Operator pendahulu untuk konsiderasi (precedence) mendeskripsikan sususan/urutan
 - [JavaScript Guide, by Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Guide, by Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Belajar javascript untuk pemula, di Sekolah Koding](https://sekolahkoding.com/kelas/belajar-javascript-untuk-pemula)
+- [What Makes Javascript Weird...and AWESOME (YouTube videos by LearnCode.academy)](https://www.youtube.com/watch?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_&v=JEq7Ehw-qk8)
