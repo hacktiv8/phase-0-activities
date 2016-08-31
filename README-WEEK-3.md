@@ -2,7 +2,7 @@
 
 ![Header](assets/header-w3.jpg)
 
-Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope.
+Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
 
 Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
 
@@ -13,28 +13,33 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
 - ▢ [Bermain Code Combat dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-combat.md)
 - ▢ [Memahami DOM dan Dev Tools lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
+- ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :rocket:
 
 ## Tuesday
 
 - ▢ [Memahami events pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-events.md)
 - ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 - ▢ [Bermain di Codewars](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codewars.md)
+- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :rocket:
 
 ## Wednesday
 
 - ▢ [Membuat tulisan pelangi menggunakan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rainbow-text.md)
 - ▢ [Mengubah gaya tulisan dengan event listener](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/text-style-event.md)
 - ▢ [Membuat slide galeri gambar sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/gallery-slide.md)
+- ▢ [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :rocket:
 
 ## Thursday
 
 - ▢ [Mengenal SVG](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/svg.md)
 - ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md)
+- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :rocket:
 
 ## Friday
 
 - ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/dev-ecosystem-community.md)
 - ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-interactive.md)
+- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :rocket:
 
 ## Saturday and Sunday
 
