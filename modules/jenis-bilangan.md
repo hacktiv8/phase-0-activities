@@ -15,10 +15,14 @@ JENIS BILANGAN
 ```
 
 ## Expected Output
-Ketika function dipanggil, akan menghasilkan data sbb : 
+Ketika function dipanggil, akan menghasilkan data sbb :
 
 1 adalah bilangan ganjil
+
 2 adalah bilangan prima
+
 3 adalah bilangan prima
+
 4 adalah bilangan genap
+
 ... dan seterusnya sampai 100
