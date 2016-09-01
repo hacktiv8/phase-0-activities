@@ -2,7 +2,9 @@
 
 ![Header](assets/header-w4.jpg)
 
-Selamat sudah menlalui kegiatan pekan ketiga! Pekan keempat ini kita akan mendapat berbagai petuah yang sangat berharga dalam perjalanan kita sebagai web developer. Lebih dari ini dan itu yang akan kita bahas dan jabarkan, ingat selalu bahwa menjadi web developer memerlukan peningkatan terus-menerus seiring waktu dan zaman. Sehingga pasti secara berkala sambil latihan, akan ada juga teknik-teknik dan teknologi baru yang perlu kita pelajari. Semangat berjuang, developer baru!
+Selamat sudah melalui kegiatan pekan ketiga! Ingat selalu bahwa menjadi developer memerlukan peningkatan terus-menerus seiring waktu sehingga pemahaman mengenai materi dan latihan sangat diperlukan.
+
+Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Kembali diingatkan ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena di pekan terakhir ini, challenge coding saling berhubungan dari satu hari ke hari selanjutnya. Good Luck ! :bowtie:
 
 Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-4.md>
 

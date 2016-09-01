@@ -4,7 +4,7 @@
 
 Hari ini kita akan mengembangkan lagi task yang telah dibuat sebelumnya, oleh karena itu, task yang kemarin harus diselesaikan juga :bowtie:.
 
-## Tugas 1
+## Tugas 
 1. Buatlah function baru bernama cc_billing (boleh copy dari function promo_billing kemarin)
 2. Saat ini restaurant memiliki promo tambahan, KHUSUS pembayaran menggunakan credit card, hari senin - jumat semua makanan diskon 25% dan hari sabtu-minggu semua makanan diskon 50% !
   - nasi goreng | makanan | 25000

@@ -4,6 +4,8 @@
 
 Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
 
+Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke phase 1 :bowtie:
+
 Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
 
 ![Let's start!](assets/start.png)

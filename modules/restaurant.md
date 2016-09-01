@@ -4,9 +4,9 @@
 
 Di minggu ke-2 kita sudah mempelajari mengenai array, loop, dan cara membuat function.. di minggu ke 3 pun kita sudah membuat beberapa challenge untuk melatih materi yang didapatkan.
 
-Sebelum melanjutkan minggu ke 4 ini, pastikan kamu sudah paham materi di minggu-minggu sebelumnya.
+Sebelum melanjutkan minggu ke 4 ini, pastikan kamu sudah paham materi di minggu-minggu sebelumnya. Perhatikan bahwa ada 3 tugas yang harus dibuat pada sesi ini.
 
-## Tugas 1
+## :sunny: Tugas 1
 1. Buatlah sebuah variable kosong bernama "menu" untuk menampung data menu restaurant
 2. Buatlah function yang dapat digunakan untuk menambah data menu restaurant, data menu nya adalah sbb :
   - nasi goreng | makanan | 25000
@@ -27,7 +27,7 @@ share with your current instructor
 ketika variable menu dipanggil, akan menampilkan menu restaurant di atas
 
 
-## Tugas 2
+## :sunny: Tugas 2
 1. Buatlah sebuah function bernama tambah_order, fungsinya untuk memasukkan order dari customer
 2. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
@@ -41,7 +41,7 @@ share with your current instructor
 ketika function tambah_order dipanggil, akan menampilkan data pesanan customer secara keseluruhan. Perlu diingat apabila function ini dipanggil sebanyak 3x, maka data pesanan customer harus ada 3.
 
 
-## Tugas 3
+## :sunny: Tugas 3
 1. Buatlah sebuah function bernama billing, fungsinya menghasilkan total dari seluruh order customer di atas !
 2. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
