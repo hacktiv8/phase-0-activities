@@ -13,21 +13,21 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
 - ▢ [Bermain Code Combat dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-combat.md)
 - ▢ [Memahami DOM dan Dev Tools lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
-- ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :rocket:
+- ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :anchor:
 
 ## Tuesday
 
 - ▢ [Memahami events pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-events.md)
 - ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 - ▢ [Bermain di Codewars](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codewars.md)
-- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :rocket:
+- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
 
 ## Wednesday
 
 - ▢ [Membuat tulisan pelangi menggunakan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rainbow-text.md)
 - ▢ [Mengubah gaya tulisan dengan event listener](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/text-style-event.md)
 - ▢ [Membuat slide galeri gambar sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/gallery-slide.md)
-- ▢ [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :rocket:
+- ▢ [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :anchor:
 
 ## Thursday
 
@@ -39,7 +39,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/dev-ecosystem-community.md)
 - ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-interactive.md)
-- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :rocket:
+- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :anchor:
 
 ## Saturday and Sunday
 
