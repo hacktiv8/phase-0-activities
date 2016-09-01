@@ -33,7 +33,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Mengenal SVG](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/svg.md)
 - ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md)
-- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :rocket:
+- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
 
 ## Friday
 
