@@ -7,13 +7,13 @@ Faktor suatu bilangan adalah suatu bilangan yang dapat habis membagi bilangan te
 ## Tugas
 1. Bukalah sebuah tools online untuk menuliskan code JavaScript
 2. Buatlah sebuah function dengan nama bilangan_faktor yang menerima input integer, kemudian olah integer tersebut agar mengembalikan bilangan faktor.
-3. Setelah selesai, kirim hasil code kamu via slack, private message ke instructor kamu yang sedang in charge, dengan format seperti ini :
+3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
-BILANGAN FAKTOR
+title : BILANGAN FAKTOR
+share with your current instructor
 ```
   // YOUR CODE
 ```
-4. Pastikan ketika kamu coba
 
 ## Input
 bilangan apa saja

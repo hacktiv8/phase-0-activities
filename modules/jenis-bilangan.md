@@ -7,9 +7,10 @@ Seperti yang sudah kita ketahui, bahwa ada beberapa jenis bilangan, yaitu : ganj
 ## Tugas
 1. Bukalah sebuah tools online untuk menuliskan code JavaScript
 2. Buatlah sebuah function dengan nama jenis_bilangan untuk menampilkan angka 1 sampai 100 ke bawah, dan di samping nya terdapat keterangan jenis bilangan tersebut.
-3. Setelah selesai, kirim hasil code kamu via slack, private message ke instructor kamu yang sedang in charge, dengan format seperti ini :
+3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
-JENIS BILANGAN
+title : JENIS BILANGAN
+share with your current instructor
 ```
   // YOUR CODE
 ```
