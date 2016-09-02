@@ -10,6 +10,7 @@ Remove duplicate list adalah menghapus list apabila ada lebih dari satu. Contoh 
 3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
 title : REMOVE DUPLICATE LIST
+
 share with your current instructor
 ```
   // YOUR CODE

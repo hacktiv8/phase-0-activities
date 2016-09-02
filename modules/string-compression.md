@@ -10,6 +10,7 @@ String Compression adalah menghitung jumlah huruf yang muncul dalam suatu string
 3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
 title : STRING COMPRESSION
+
 share with your current instructor
 ```
   // YOUR CODE

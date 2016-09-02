@@ -10,10 +10,10 @@ Faktor prima adalah faktor-faktor suatu bilangan berbentuk bilangan prima. Fakto
 3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
 title : FAKTOR PRIMA
+
 share with your current instructor
 ```
   // YOUR CODE
-``` CODE
 ```
 
 ## Input
@@ -26,4 +26,4 @@ Ketika function dipanggil dengan parameter 12, akan menghasilkan data sbb :
 
 3 pangkat 1
 
-Cobalah dengan memasukkan parameter lain, seperti 42, , 84, 200, dll
+Cobalah dengan memasukkan parameter lain, seperti 42, 84, 200, dll

@@ -10,6 +10,7 @@ Seperti yang sudah kita ketahui, bahwa ada beberapa jenis bilangan, yaitu : ganj
 3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
 title : JENIS BILANGAN
+
 share with your current instructor
 ```
   // YOUR CODE

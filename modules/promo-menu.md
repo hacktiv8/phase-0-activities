@@ -16,6 +16,7 @@ Hari ini kita akan melanjutkan task yang telah dibuat sebelumnya, oleh karena it
 3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
 title : PROMO MINUMAN
+
 share with your current instructor
 ```
   // YOUR CODE

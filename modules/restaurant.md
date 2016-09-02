@@ -18,6 +18,7 @@ Sebelum melanjutkan minggu ke 4 ini, pastikan kamu sudah paham materi di minggu-
 3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
 
 title : MENU RESTAURANT
+
 share with your current instructor
 ```
   // YOUR CODE
