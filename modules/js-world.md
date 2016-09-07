@@ -115,33 +115,3 @@ var plusOne = function plusOne(n) {
 ```
 
 Dapat kita lihat jadi sebenarnya transpilasi sesederhana menambahkan secara otomatis fungsi atau fitur yang belum ada di JavaScript versi sebelumnya. Secara wajar, kalau belum ditranspilasi maka kode yang awal tadi tidak dapat bekerja.
-
-## References
-
-**JavaScript/ECMAScript**
-
-- [A re-introduction to JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-- [Solar System of JS](https://shaunlebron.github.io/solar-system-of-js)
-- [State of the Union.js](https://medium.com/@matthiasak/state-of-the-union-js-d664bdbffd14)
-- [JavaScript Best Practices](http://www.w3schools.com/js/js_best_practices.asp)
-- [24 JavaScript Best Practices for Beginners](http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
-- [JavaScript Best Practices Part 1 · Thinkful Programming Guides](https://www.thinkful.com/learn/javascript-best-practices-1)
-- [JavaScript Best Practices Part 2 · Thinkful Programming Guides](https://www.thinkful.com/learn/javascript-best-practices-2)
-- [5 New Possibilities With JavaScript, by Daniel Borowski on Code School](https://www.codeschool.com/blog/2016/02/01/5-new-possibilities-javascript)
-- [Superhero.js: Collection of the best articles, videos, and presentations about JavaScript](http://superherojs.com)
-- [Circular dependencies in JavaScript a.k.a. Coding is not a rock-paper-scissors game, by Piotr Jasiun](https://medium.com/content-uneditable/circular-dependencies-in-javascript-a-k-a-coding-is-not-a-rock-paper-scissors-game-9c2a9eccd4bc)
-- [JS: The Right Way](http://jstherightway.org)
-- [JavaScript for Cats](http://jsforcats.com)
-- [es6features](https://git.io/es6features)
-- [ECMAScript 6: New Features: Overview and Comparison](http://es6-features.org)
-- [Learn ES2015 - Babel](http://babeljs.io/docs/learn-es2015)
-- [The ESTree Spec](https://github.com/estree/estree)
-- [How to Use Arguments and Parameters in ECMAScript 6, by Faraz Kelhini on Smashing Magazine](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6)
-
-**Node.js**
-
-- [Node.js](https://nodejs.org)
-- [npm.js](https://npmjs.com)
-- [OverAPI: Node.js](http://overapi.com/nodejs)
-- [DevDocs: Node.js documentation](http://devdocs.io/node)
-- [DevDocs: Node.js 4 LTS documentation](http://devdocs.io/node~4_lts)

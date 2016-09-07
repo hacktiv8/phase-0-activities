@@ -28,19 +28,24 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Memanfaatkan code style guide untuk JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
 - ▢ [Memahami alur logika di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-logic.md)
 - ▢ [Memahami function dan method di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-method.md)
+- ▢ Register codecademy dan menyelesaikan https://www.codecademy.com/learn/javascript unit 1 dan 2 :anchor:
 
 ## Thursday
-
 - ▢ [Mengenal lebih lanjut dunia JavaScript, Node.js, dan transpilation](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-world.md)
-- ▢ [Membuat fungsi matematika dasar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/math-basics.md)
-- ▢ [Membuat permainan suit lokal](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rock-paper-scissors.md)
-- ▢ [Membuat daftar kontak sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-list.md)
+- ▢ Menyelesaikan codecademy https://www.codecademy.com/learn/javascript unit 3, 4, dan 5  :anchor:
+- ▢ [Membuat Konversi Waktu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/konversi-waktu.md) :anchor:
+- ▢ [Membuat Order String](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/order-string.md) :anchor:
+- ▢ [Membuat function palindrome](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/palindrome.md) :anchor:
+- ▢ [Membuat fungsi matematika dasar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/math-basics.md) :anchor:
+- ▢ [Membuat permainan suit lokal](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rock-paper-scissors.md) :anchor:
 
 ## Friday
 
-- ▢ [Mengenal Web Literacy](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-literacy.md)
-- ▢ [Memahami open source, licensing, dan fenomenanya](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/open-source.md)
-- ▢ [Berkreasi membuat aplikasi dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-application.md)
+- ▢ Menyelesaikan codecademy https://www.codecademy.com/learn/javascript unit 6, 7, dan 8  :anchor:
+- ▢ [Membuat function format huruf](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/format-huruf.md) :anchor:
+- ▢ [Membuat function separate number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/separate-number.md) :anchor:
+- ▢ [Membuat function format angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/format-angka.md) :anchor:
+- ▢ [Membuat daftar kontak sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-list.md) :anchor:
 
 ## Saturday and Sunday
 
