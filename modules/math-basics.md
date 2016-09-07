@@ -65,5 +65,5 @@ luasLingkaran(7) // pi * r^2
 ## Submissions
 
 - ▢ Buatlah berbagai program tersebut dalam file `math-basics.js` (boleh juga dipisah-pisah sesuai tujuannya) pada repo website kamu.
-- ▢ Commit dan push file tersebut ke GitHub.
-- ▢ Share hasil kamu di Slack.
+- ▢ Kirim file tersebut ke Gist.
+- ▢ Share hasil kamu di Slack secara private message ke instructor yang sedang in charge.

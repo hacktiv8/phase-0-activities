@@ -43,5 +43,5 @@ bertarung(pengguna, lawan)
 ## Submissions
 
 - ▢ Buatlah program tersebut dalam file `rock-paper-scissors.js` pada repo website kamu.
-- ▢ Commit dan push file tersebut ke GitHub.
-- ▢ Share hasil kamu di Slack.
+- ▢ Kirim file tersebut ke Gist.
+- ▢ Share hasil kamu di Slack secara private message ke instructor yang sedang in charge.
