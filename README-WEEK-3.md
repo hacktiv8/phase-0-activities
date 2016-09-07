@@ -4,7 +4,7 @@
 
 Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
 
-Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke phase 1 :bowtie:
+Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke phase 1 :bowtie: , dan semua challenge yang bertanda :anchor: ini wajib diselesaikan.
 
 Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
 
@@ -21,7 +21,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Memahami events pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-events.md)
 - ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
-- ▢ [Bermain di Codewars](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codewars.md)
+- ▢ [Menyelesaikan Codecademy unit 1 - 8](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md) :anchor:
 - ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
 
 ## Wednesday
@@ -35,6 +35,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Mengenal SVG](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/svg.md)
 - ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md)
+- ▢ [Bermain di Codewars](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codewars.md)
 - ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
 
 ## Friday
