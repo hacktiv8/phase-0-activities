@@ -21,7 +21,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Memahami events pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-events.md)
 - ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
-- ▢ [Menyelesaikan Codecademy unit 1 - 8](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md) :anchor:
+- ▢ [Menyelesaikan Codecademy unit 1 - 8](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codecademy.md) :anchor:
 - ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
 
 ## Wednesday
