@@ -13,36 +13,41 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Monday
 
 - ▢ [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
-- ▢ [Bermain Code Combat dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-combat.md)
-- ▢ [Memahami DOM dan Dev Tools lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
+- ▢ [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
+- ▢ [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-prima.md) :anchor:
+- ▢ [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md) :anchor:
 - ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :anchor:
+
 
 ## Tuesday
 
-- ▢ [Memahami events pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-events.md)
 - ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
-- ▢ [Challenge-Menyelesaikan Codecademy unit 1 - 8](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codecademy.md) :anchor:
-- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
+- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
+- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :anchor:
+- ▢ [Challenge-Palindrome 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/palindrome-2.md) :anchor:
+
 
 ## Wednesday
 
-- ▢ [Membuat tulisan pelangi menggunakan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/rainbow-text.md)
-- ▢ [Mengubah gaya tulisan dengan event listener](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/text-style-event.md)
-- ▢ [Membuat slide galeri gambar sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/gallery-slide.md)
+- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
+- ▢ [Challenge-Cek String](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-string.md) :anchor:
 - ▢ [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :anchor:
+
 
 ## Thursday
 
-- ▢ [Mengenal SVG](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/svg.md)
-- ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md)
-- ▢ [Bermain di Codewars](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/codewars.md)
-- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
+- ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md) :anchor:
+- ▢ [Challenge-Array 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/array-1.md) :anchor:
+- ▢ [Challenge-Repeated Letter](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/repeated-letter.md) :anchor:
+- ▢ [Challenge-Pergeseran Huruf](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/geser-huruf.md) :anchor:
+
 
 ## Friday
 
-- ▢ [Memahami ekosistem developer dengan eksplorasi berbagai situs dan komunitas developer](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/dev-ecosystem-community.md)
-- ▢ [Berkreasi untuk membuat website kamu jadi lebih interaktif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-interactive.md)
-- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :anchor:
+- ▢ [Challenge-Pola Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/pola-angka.md) :anchor:
+- ▢ [Challenge-Cek Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-angka.md) :anchor:
+- ▢ [Challenge-Konversi Huruf dan Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/konversi-huruf-angka.md) :anchor:
+
 
 ## Saturday and Sunday
 

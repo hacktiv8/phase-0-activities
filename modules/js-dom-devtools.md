@@ -58,21 +58,7 @@ Mirip dengan cara mencetak JavaScript ke halaman web!
 document.write("Hello!");
 ```
 
-- ▢ Tontonlah video ini jika perlu: [Document Object Model (DOM), by Think Vitamin](https://www.youtube.com/watch?v=aPW_wQEFvek&list=PL18600E7CA651B16B)
-
-### 2. Mengenal DevTools lebih jauh
-
-Sebelum lanjut mempelajari DOM lebih jauh, kita perlu bantuan DevTools.
-
-- ▢ [Membaca referensi Chrome DevTools dari Google Developers](https://developers.google.com/web/tools/chrome-devtools)
-- ▢ [Mengeksplorasi dan menguasai Chrome DevTools melalui course dari Code School](http://discover-devtools.codeschool.com). Cukup fokus di Chapter 1 sampai 5 saja.
-
-Setelah kamu lebih memahami penggunaan DevTools...
-
-- ▢ Modifikasi atau eksperimenlah CSS pada website kamu dengan DevTools.
-- ▢ Kunjungi website apapun yang kamu suka. Lalu lihat DOM code-nya. Apa bedanya dengan HTML dan CSS biasa?
-
-### 3. Menjelajahi DOM (DOM Traversing)
+### 2. Menjelajahi DOM (DOM Traversing)
 
 Bayangkan rangkaian kaitan DOM seperti sebuah pohon yang terbalik. Pada dasarnya HTML dimulai dari node `html` sebagai ujung/akar paling awal (root), kemudian lanjut ke cabang lainnya seperti `head` (masuk ke `title`, `link`, dll) yang bersebelahan dengan `body` yang di dalamnya terdapat berbagai elemen umum seperti `div`, `h1`, `p`, `ul` (yang bisa berisi `li`), `table` (berisi `tr`, `td`), serta lain sebagainya.
 
@@ -157,7 +143,7 @@ Beberapa property dan attribute yang kita butuhkan biasanya terdapat pada elemen
 
 Untuk lebih mudah dan tidak membingungkan, kita hindari penggunaan attribute, gunakan property saja.
 
-### 4. Pengubahan DOM (DOM Manipulation)
+### 3. Pengubahan DOM (DOM Manipulation)
 
 Pengubahan ataupun modifikasi bisa dilakukan sesederhana meng-assign value baru pada sebuah property.
 
@@ -213,7 +199,7 @@ document.forms.contact.elements.submit.value;
 document.forms.contact.elements["favorite"].options[0];
 ```
 
-### 5. DOM Style
+### 4. DOM Style
 
 Terdapat berbagai property dan method DOM yang berkaitan dengan CSS:
 
@@ -226,12 +212,3 @@ Terdapat berbagai property dan method DOM yang berkaitan dengan CSS:
 Untuk kali ini bisa dieksplorasi sendiri melalui referensi, mirip dengan cara mengelola property DOM sebelum-sebelumnya.
 
 Silakan coba-coba secara mandiri dengan bantuan Dev Tools Console dan Elements serta referensi DOM API, untuk mengelola HTML DOM dan mengaitkannya dengan JavaScript dan CSS.
-
-### References
-
-- [DOM (Document Object Model) on Skillcrush](http://skillcrush.com/2012/10/17/dom-document-object-model)
-- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-- [DOM Nodes on JavaScript Tutorial](http://javascript.info/tutorial/dom-nodes)
-- [Interactive JavaScript DOM Tutorials, by Neil Fraser of Google](https://dom-tutorials.appspot.com)
-- [DevDocs DOM API Documentation](http://devdocs.io/dom)
-- [Chrome Devtools Cheatsheet by Anti-Code](http://anti-code.com/devtools-cheatsheet)
