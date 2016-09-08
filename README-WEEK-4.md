@@ -12,15 +12,16 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Monday
 
-- ▢ [Mempersiapkan karirmu untuk menjadi developer sejati](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/career.md)
+- ▢ [Mengenal Object-Oriented Programming](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 - ▢ [Mengenal, membaca, dan membuat dokumentasi code](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-documentation.md)
 - ▢ [Challenge-Menu Restaurant](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/restaurant.md) :anchor:
+- ▢ [Challenge-Recursive Range Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/range-angka.md) :anchor:
 
 ## Tuesday
 
 - ▢ [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-- ▢ [Mengenal Object-Oriented Programming](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 - ▢ [Challenge-Promo Menu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-menu.md) :anchor:
+- ▢ [Challenge-Recursive is Even Number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/is-even.md) :anchor:
 
 ## Wednesday
 
@@ -28,6 +29,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Mencoba menggunakan jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
 - ▢ [Mencoba menggunakan Bootstrap](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bootstrap.md)
 - ▢ [Challenge-Promo Credit Card](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-cc.md) :anchor:
+- ▢ [Challenge-Recursive Angka Kuadrat](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/angka-kuadrat.md) :anchor:
 
 ## Thursday
 
