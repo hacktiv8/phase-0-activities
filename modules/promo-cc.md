@@ -11,6 +11,7 @@ Masukan data order sbb : <br>
 1 nasi goreng <br>
 1 teh <br>
 2 jus buah <br>
+3. Buatlah sebuah function yang dapat menerima parameter hari.
 3. Setelah selesai, kirim hasil code kamu dengan gist, dengan nama file : ccBilling.js. Share gist kamu melalui private message slack ke instructor yang sedang in charge.
 
 ## Example
@@ -29,7 +30,15 @@ Ketika code Js kamu di run, akan menghasilkan seperti ini di console :
   "1 nasi goreng"
   "1 teh"
   "2 jus buah"
+  
+```
 
+Apabila hari senin - jumat :
+```
   "total setelah promo weekdays : 73750"
+```
+
+Apabila hari sabtu / minggu :
+```
   "total setelah promo weekend : 67500"
 ```
