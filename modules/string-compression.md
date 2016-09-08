@@ -6,15 +6,8 @@ String Compression adalah menghitung jumlah huruf yang muncul dalam suatu string
 
 ## Tugas
 1. Bukalah sebuah tools online untuk menuliskan code JavaScript
-2. Buatlah sebuah function dengan nama string_compression yang menerima input string, kemudian olah string tersebut agar menghasilkan string compresion
-3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
-
-title : STRING COMPRESSION
-
-share with your current instructor
-```
-  // YOUR CODE
-```
+2. Buatlah sebuah function dengan nama stringCompression yang menerima input string, kemudian olah string tersebut agar menghasilkan string compresion
+3. Setelah selesai, kirim hasil code kamu dengan gist, dengan nama file : stringCompression.js. Share gist kamu melalui private message slack ke instructor yang sedang in charge.
 
 ## Input
 honda beat dan yamaha mio

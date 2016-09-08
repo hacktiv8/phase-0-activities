@@ -7,14 +7,7 @@ Faktor prima adalah faktor-faktor suatu bilangan berbentuk bilangan prima. Fakto
 ## Tugas
 1. Bukalah sebuah tools online untuk menuliskan code JavaScript
 2. Buatlah sebuah function dengan nama faktor_prima yang menerima input integer, kemudian olah integer tersebut agar mengembalikan bilangan faktor.
-3. Setelah selesai, kirim hasil code kamu via slack - snippet, kirim langsung ke instructor kamu yang sedang in charge (jangan di channel !), dengan format seperti ini :
-
-title : FAKTOR PRIMA
-
-share with your current instructor
-```
-  // YOUR CODE
-```
+3. Setelah selesai, kirim hasil code kamu dengan gist, dengan nama file : faktorPrima.js. Share gist kamu melalui private message slack ke instructor yang sedang in charge.
 
 ## Input
 bilangan apa saja
