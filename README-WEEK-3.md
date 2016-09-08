@@ -15,7 +15,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
 - ▢ [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
 - ▢ [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-prima.md) :anchor:
-- ▢ [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md) :anchor:
+- ▢ [Challenge-Index Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md) :anchor:
 - ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :anchor:
 
 
