@@ -1,4 +1,9 @@
-Checklist challenges yang wajib diselesaikan (bertanda :anchor:)
+Berikut adalah list challenges yang wajib diselesaikan karena akan diperhitungkan sebagai completion rate.
+List di bawah ini merupakan summary dari kegiatan week 2 - 4 yang bertanda :anchor:
+Pedoman :
+- https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-2.md
+- https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md
+- https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-4.md
 
 ## Week 2 (13 poin)
 
