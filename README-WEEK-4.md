@@ -21,7 +21,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 - ▢ [Challenge-Promo Menu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-menu.md) :anchor:
-- ▢ [Challenge-Recursive is Even Number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/is-even.md) :anchor:
+- ▢ [Challenge-Recursive Sum Array Number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/sum-array.md) :anchor:
 
 ## Wednesday
 
