@@ -87,6 +87,7 @@ Setelah semua persiapan sudah selesai, kita akan bisa lanjut membuat website sed
 
 - [Official website of Git SCM](https://git-scm.com)
 - [GitHub website](https://github.com)
+- [Let’s Git Started: A Beginner’s Guide to Version Control Software « Flatiron School](http://blog.flatironschool.com/lets-git-started-a-beginners-guide-to-version-control-software)
 - [How to Use Git and GitHub, interactive course on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Git Tutorials and Training, by Atlassian](https://www.atlassian.com/git/tutorials)
 - [A Beginner’s Git and GitHub Tutorial, on Udacity](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
