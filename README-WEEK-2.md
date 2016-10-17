@@ -10,21 +10,30 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Senin
 
-- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+- ▢ [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
+:wrench:
+- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-first-time.md)
 :notebook_with_decorative_cover:
-- ▢ [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
-:anchor:
+- ▢ [Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:notebook_with_decorative_cover:
 
 ## Selasa
 
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
+- ▢ [Mempelajari Logic Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:notebook_with_decorative_cover:
 - ▢ [Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
+- ▢ [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :anchor:
 
 ## Rabu
 
-- ▢ [Tantangan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+- ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
+
+- ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
 ## Kamis
