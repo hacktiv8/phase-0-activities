@@ -24,14 +24,19 @@ Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, ton
 
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack.
 
-## Monday
+## Senin
 
-- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:anchor:
+- ▢ [Bacaan: Mengenal Anatomi dalam Website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:notebook_with_decorative_cover:
+- ▢ [Membuat Form HTML sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:anchor:
 - ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
 - ▢ [Memastikan kamu mengetahui dasar penyusun website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website.md)
 
-## Tuesday
+## Selasa
 
 - ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
 - ▢ [Mengetahui teknik bertanya, mencari, dan membaca yang lebih cerdas](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/ask-search-read-smarter.md)
@@ -40,21 +45,21 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 - ▢ [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-elements.md)
 
-## Wednesday
+## Rabu
 
 - ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
 - ▢ [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - ▢ [Menggunakan berbagai aturan dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-rules.md)
 - ▢ [Membuat transformasi dan animasi dengan CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-advanced.md)
 
-## Thursday
+## Kamis
 
 - ▢ [Memanfaatkan code style guide untuk HTML dan CSS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html-css-code-style.md)
 - ▢ [Membuat contact form pribadi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-form.md)
 - ▢ [Membuat artikel berita sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/news-article.md)
 - ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
 
-## Friday
+## Jumat
 
 - ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - ▢ [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
@@ -62,7 +67,7 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 - ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 - ▢ [Mengeksplorasi nilai inti (core values) dirimu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/core-values.md)
 
-## Saturday and Sunday
+## Sabtu dan Minggu
 
 - ▢ [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 - ▢ [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
