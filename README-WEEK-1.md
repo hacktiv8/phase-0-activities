@@ -24,16 +24,22 @@ Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, ton
 
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack.
 
+Panduan:
+- :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu
+- :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan
+- :rocket: **Rocker** adalah tantangan opsional yang menguji kehebatanmu
+- :dart: **Motivation** adalah motivasi
+
 ## Senin
 
 - ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 - ▢ [Bacaan: Mengenal Anatomi dalam Website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :notebook_with_decorative_cover:
+- ▢ [Menyelesaikan Codecademy Course - HTML Unit 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:anchor:
 - ▢ [Membuat Form HTML sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
-- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
-- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
 - ▢ [Memastikan kamu mengetahui dasar penyusun website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website.md)
 
 ## Selasa
@@ -58,6 +64,8 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 - ▢ [Membuat contact form pribadi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/contact-form.md)
 - ▢ [Membuat artikel berita sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/news-article.md)
 - ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
+- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
+- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
 
 ## Jumat
 
