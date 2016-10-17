@@ -19,6 +19,23 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
+- ▢ [Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
+
+## Rabu
+
+- ▢ [Tantangan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
+
+## Kamis
+
+- ▢ [Tantangan For-loop](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
+
+## Jumat
+
+- ▢ [Tantangan Kombinasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
 
 
 ## Monday
