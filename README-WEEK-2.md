@@ -8,6 +8,19 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
+## Senin
+
+- ▢ [Memahami dan menggunakan dasar pemrograman dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:notebook_with_decorative_cover:
+- ▢ [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:anchor:
+
+## Selasa
+
+- ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:notebook_with_decorative_cover:
+
+
 ## Monday
 
 - ▢ [Berpikir, belajar, dan berkembang secara lebih efektif dan efisien, dengan growth mindset](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/thinking.md)
