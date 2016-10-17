@@ -1,6 +1,7 @@
-# Hacktiv8 Phase 0 Activities
+# HACKTIV8 Phase 0 Activities
 
-Berbagai kegiatan dalam Phase 0 yang berisi berbagai referensi dan tantangan yang lebih lengkap. Sebagai pedoman bagi para murid untuk mempersiapkan diri sebelum masuk ke Phase 1. Dikirimkan indeks kegiatannya melalui email setiap pekannya.
+Ini adalah Phase 0 sebagai pedoman dan tantangan bagi murid untuk mampu mempersiapkan diri untuk masuk
+ke Phase 1 Full-Stack JavaScript Development Course HACKTIV8. 
 
 ### [Week 1](./README-WEEK-1.md)
 ### [Week 2](./README-WEEK-2.md)
