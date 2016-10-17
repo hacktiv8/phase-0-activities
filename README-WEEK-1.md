@@ -1,18 +1,26 @@
-# Hacktiv8 Phase 0 Week 1: Ready, Get Creative!
+# Hacktiv8 Phase 0 Week 1: Membuat Website Pertama Saya
 
 ![Header](assets/header-w1.jpg)
 
-Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens dibanding Briefing. Bertujuan untuk lebih mantap menyetarakan kemampuan para murid, apalagi belum tentu juga semuanya sudah menyelesaikan Briefing. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
+Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu apakah kamu dapat maju ke Phase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
 
-**Apa bedanya Phase 0 dengan online course biasa yang gratis?** Seperti pada Briefing, di sini kami sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun tetap bersifat open-ended path, bisa belajar dari berbagai sumber. Hingga pada saat selesai, kamu sudah punya pondasi yang lebih kuat saat masuk Phase 1, dalam sesi on-site course yang tentunya sangat immersive! Karena biasanya juga, online course yang gratis pedomannya seringkali alurnya masih nanggung. Selain itu di Phase 0 kamu mendapat dukungan dan bimbingan dari para instruktur jika butuh bantuan, baik online maupun langsung di tempat jika kamu ingin datang after office hour. Kita lebih dari sekadar belajar coding, namun juga fundamental ilmu komputer, pemecahan masalah, melatih kemampuan personal dan berkarir, bahkan hingga bergabung dengan developer lainnya.
+**Apa bedanya Phase 0 dengan online course biasa yang gratis?**
 
-**Bagaimana Phase 0 ini akan berjalan?** Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 4 email (termasuk email ini) berisi indeks kegiatan yang akan dikirim tiap pekannya. Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu paling cepat 15-30 jam. Pun kalau kamu sudah bisa berbagai skill yang sudah tertera, bisa saja juga ada beberapa hal esensial dan tambahan yang belum kamu tahu. Tiap akhir pekan, kamu harus mengisi form laporan kegiatan yang link-nya disertakan di bawah.
+Kami sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun tetap bersifat open-ended path, bisa belajar dari berbagai sumber. Hingga pada saat selesai, kamu sudah punya pondasi yang lebih kuat saat masuk Phase 1, dalam sesi on-site course yang tentunya sangat immersive! Karena biasanya juga, online course yang gratis pedomannya seringkali alurnya masih nanggung. Selain itu di Phase 0 kamu mendapat dukungan dan bimbingan dari para instruktur jika butuh bantuan, baik online maupun langsung di tempat jika kamu ingin datang after office hour. Kita lebih dari sekadar belajar coding, namun juga fundamental ilmu komputer, pemecahan masalah, melatih kemampuan personal dan berkarir, bahkan hingga bergabung dengan developer lainnya.
+
+**Bagaimana Phase 0 ini akan berjalan?**
+
+Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 4 email (termasuk email ini) berisi indeks kegiatan yang akan dikirim tiap pekannya. Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu paling cepat 15-30 jam. Pun kalau kamu sudah bisa berbagai skill yang sudah tertera, bisa saja juga ada beberapa hal esensial dan tambahan yang belum kamu tahu. Tiap akhir pekan, kamu harus mengisi form laporan kegiatan yang link-nya disertakan di bawah.
 
 ![Let's start!](assets/start.png)
 
-**Oke, siap untuk memulai Phase 0 kita di Hacktiv8?** Kami yakin bahwa kamu akan mengalami petualangan yang makin sangat seru! Pada waktu di antara berakhirnya Phase 0 dan sebelum dimulainya Phase 1 juga, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
+**Oke, siap untuk memulai Phase 0 kita di Hacktiv8?**
 
-**Apa saja yang akan kita lakukan, pahami, dan selesaikan dalam beberapa hari ke depan?** Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti tiap checklist yang bisa kamu lakukan. Jika ada yang belum selesai, boleh saja ditunda ke hari berikutnya. Yang penting secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
+Kami yakin bahwa kamu akan mengalami petualangan yang makin sangat seru! Pada waktu di antara berakhirnya Phase 0 dan sebelum dimulainya Phase 1 juga, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
+
+**Apa saja yang akan kita lakukan, pahami, dan selesaikan dalam beberapa hari ke depan?**
+
+Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti tiap checklist yang bisa kamu lakukan. Jika ada yang belum selesai, boleh saja ditunda ke hari berikutnya. Yang penting secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
 
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack.
 
