@@ -27,7 +27,7 @@ Untuk saat ini, mari kita gunakan [JSBin](http://jsbin.com?js,console).
 
 Sintaks itu seperti kosa kata (vocabulary) dan tata cara (grammar) pada bahasa pemrograman. Merupakan kata-kata dan perintah (command) pada bahasa yang juga merupakan instruksi untuk disusun menjadi sebuah program yang dibuat atau dikembangkan. Kita gunakan sintaks tertentu untuk membuat statement program, instruksi untuk dijalankan/dieksekusi oleh web browser, compiler, ataupun interpreter. Dalam JavaScript, ada berbagai sintaks yang polanya seperti `alert();`, `console.log();`, `document.write();`, dan masih banyak lagi. Kesimpulannya, sintaks dan statement adalah ekspresi (expression) apapun yang biasanya diikuti dengan titik koma (semicolon `;`) ataupun hal-hal yang bisa dieksekusi oleh penjalan code (executor).
 
-Bukalah [JSBin](http://jsbin.com?console), dan cobalah kode berikut di tab **console**:
+#### Menjalankan JavaScript melalui console
 
 ```javascript
 > "Hello!";
@@ -37,10 +37,13 @@ Bukalah [JSBin](http://jsbin.com?console), dan cobalah kode berikut di tab **con
 > prompt("What is your name?");
 > console.log("Multiline\n text!");
 ```
+Bukalah [JSBin](http://jsbin.com?console), dan cobalah kode berikut di tab **console**
 
-Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode berikut di tab **javascript**:
+#### Menjalankan JavaScript dengan script JavaScript dan menampilkannya pada console
 
 ```javascript
 var tampung = 5
 console.log(tampung)
 ```
+
+Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode berikut di tab **javascript**
