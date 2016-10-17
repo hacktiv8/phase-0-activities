@@ -14,7 +14,7 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 **Apa saja yang akan kita lakukan, pahami, dan selesaikan dalam beberapa hari ke depan?** Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti tiap checklist yang bisa kamu lakukan. Jika ada yang belum selesai, boleh saja ditunda ke hari berikutnya. Yang penting secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
 
-Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack. Grup Facebook Hacktiv8 Help hanya digunakan untuk Briefing dan tanya jawab di luar pembelajaran inti.
+Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack.
 
 ## Monday
 
