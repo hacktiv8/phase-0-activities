@@ -59,6 +59,11 @@ Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab 
 
 Tipe Data adalah...
 
+- Integer
+- Character
+- String
+- Boolean
+
 **Variable**
 
 Variable adalah...
@@ -122,4 +127,58 @@ var jalankanLooping = true;
 while(jalankanLooping) {
   console.log("looping berjalan!");
 }
+```
+
+**Function/Method**
+
+Function adalah...
+
+Contoh fungsi sederhana
+
+```javascript
+function tampilkan() {
+  console.log("tampilkan!")
+}
+
+tampilkan()
+```
+
+Pengiriman argument sebagai parameter
+
+```javascript
+function tampilkanAngka(angka) {
+  console.log(angka)
+}
+
+tampilkan(5)
+```
+
+Pengiriman parameter lebih dari satu
+
+```javascript
+function tampilkanAngka(angkaPertama, angkaKedua) {
+  console.log(angkaPertama + angkaKedua)
+}
+
+tampilkan(5,3)
+```
+
+Inisialisasi parameter dengan nilai default
+
+```javascript
+function tampilkanAngka(angka = 1) {
+  console.log(angka)
+}
+
+tampilkan()
+```
+
+Menampung function sebagai variable dengan anonymous function
+
+```javascript
+var fungsiPerkalian = function(angkaPertama, angkaKedua) {
+  console.log(angkaPertama * angkaKedua)
+}
+
+fungsiPerkalian(2,4)
 ```
