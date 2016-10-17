@@ -6,3 +6,5 @@ Berbagai kegiatan dalam Phase 0 yang berisi berbagai referensi dan tantangan yan
 ### [Week 2](./README-WEEK-2.md)
 ### [Week 3](./README-WEEK-3.md)
 ### [Week 4](./README-WEEK-4.md)
+### [Week 5](./README-WEEK-5.md)
+### [Week 6](./README-WEEK-6.md)
