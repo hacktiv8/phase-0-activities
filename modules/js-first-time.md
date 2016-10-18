@@ -57,16 +57,18 @@ Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab 
 
 **Tipe Data**
 
-Tipe Data adalah...
+Tipe Data adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
-- Integer
-- Character
-- String
-- Boolean
+A data type in a programming language is a set of data with values having predefined characteristics. Examples of data types are: integer, floating point unit number, character, string, and pointer. Usually, a limited number of such data types come built into a language.
+
+- Integer: tipe data dengan nilai berupa angka
+- Character: tipe data dengan nilai berupa sebuah karakter
+- String: tipe data dengan nilai berupa kumpulan atau set dari beberapa karakter
+- Boolean: tipe data dengan nilai berupa `true` atau `false`.  
 
 **Variable**
 
-Variable adalah...
+Variable, atau dalam bahasa Indonesia kita sebut variabel, bisa memegang atau berisi hampir semua tipe data yang tersedia. Variabel memungkinkan kita untuk memuat atau menyimpan nilai data ke dalam sesuatu. Biasanya bersifat sementara saat program dijalankan.
 
 ```javascript
 var tampung = 5;
