@@ -115,7 +115,29 @@ Assignment operator adalah operator yang meng-"assign", atau memberikan nilai. B
 
 ```javascript
 var bilangan
-bilangan = 5; //Contoh assignment value 5 ke sebuah variable
+bilangan = 5; // Contoh assignment value 5 ke sebuah variable
+```
+
+**Comparison Operator**
+Comparison operator adalah operator yang membandingkan satu nilai dengan nilai lainnya. Hasil operasi yang melibatkan comparison operator adalah antara 'true' atau 'false'.
+
+- Equality operator (==)
+
+```javascript
+var angka = 8
+console.log(angka == 8); // true
+console.log(angka == 1); // false
+```
+
+- Strict comparison operator (===)
+
+Sedikit berbeda dengan equality operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
+
+```javascript
+var angkaBeda = "8"
+console.log(angka == 8); // true
+console.log(angka === 8); // false
+console.log(angka === "8"); // true
 ```
 
 ### Conditional
