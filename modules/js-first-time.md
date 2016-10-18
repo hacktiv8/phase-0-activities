@@ -77,7 +77,7 @@ console.log(angkaGanjil); // 1
 console.log(angkaGenap); // 2
 ```
 
-Waspada pemanggilan variable yang tidak bernilai!
+:warning: Waspadai pemanggilan variable yang tidak bernilai!
 ```javascript
 var tampungBaru;
 console.log(tampungBaru); // UNDEFINED
