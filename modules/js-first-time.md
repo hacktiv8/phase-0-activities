@@ -53,9 +53,7 @@ Bukalah [JSBin](http://jsbin.com?console), dan cobalah kode di atas pada tab **c
 
 Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab **javascript**
 
-#### Memulai coding di JavaScript
-
-**Data Type**
+#### Data Type
 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
@@ -77,7 +75,7 @@ console.log(tampung);
 var angkaGanjil = 1, angkaGenap = 2;
 ```
 
-**Operator**
+#### Operator
 
 Operator adalah...
 
@@ -87,7 +85,7 @@ var bilanganKedua = bilanganPertama + 1;
 console.log(bilanganKedua);
 ```
 
-**Conditional**
+#### Conditional
 
 Conditional adalah...
 
@@ -108,7 +106,7 @@ else {
 }
 ```
 
-**Loop/Iteration**
+#### Loop/Iteration
 
 Loop/Iteration adalah...
 
@@ -129,7 +127,7 @@ while(jalankanLooping) {
 }
 ```
 
-**Function/Method**
+#### Function/Method
 
 Function adalah...
 
