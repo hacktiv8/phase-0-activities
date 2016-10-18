@@ -53,7 +53,7 @@ Bukalah [JSBin](http://jsbin.com?console), dan cobalah kode di atas pada tab **c
 
 Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab **javascript**
 
-#### Data Type
+### Data Type
 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
@@ -62,32 +62,141 @@ Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah seku
 - String: tipe data dengan nilai berupa kumpulan atau set dari beberapa karakter
 - Boolean: tipe data dengan nilai berupa `true` atau `false`.  
 
-**Variable**
+### Variable
 
 Variable, atau dalam bahasa Indonesia kita sebut variabel, bisa memegang atau berisi hampir semua tipe data yang tersedia. Variabel memungkinkan kita untuk memuat atau menyimpan nilai data ke dalam sesuatu. Biasanya bersifat sementara saat program dijalankan.
 
 ```javascript
 var tampung = 5;
-console.log(tampung);
+console.log(tampung); // 5
 ```
 
 ```javascript
 var angkaGanjil = 1, angkaGenap = 2;
+console.log(angkaGanjil); // 1
+console.log(angkaGenap); // 2
 ```
 
-#### Operator
+:warning: Waspadai pemanggilan variable yang tidak bernilai!
+```javascript
+var tampungBaru;
+console.log(tampungBaru); // UNDEFINED
+```
 
-Operator adalah...
+### Operator
+
+Operator adalah karakter yang merepresentasikan sebuah tindakan. Kita sering menemukan operator seperti + (tambah),
+ x (kali), dan lain-lain. Namun, di dunia programming, operasi tambah kita gantikan dengan simbol * (asterisk) dan operasi bagi dengan simbol / (slash)
+
+Operator dibagi menjadi beberapa tipe:
+
+**Arithmetic Operator**
+Arithmetic operator adalah operator yang melibatkan operasi matematika, seperti penambahan, pengurangan, perkalian, dan lain-lain.
+
+- Tambah (+)
+- Kurang (-)
+- Kali (\*)
+- Bagi (/)
+- Modulus (%)
+
+Bagi kamu yang baru kali ini mendengar tentang modulus, modulus adalah sisa bagi. Misalkan kita membagi 7 dengan 2. Hasil bagi nya adalah 3, namun sisa dari hasil baginya adalah 1. Bilangan yang memang habis dibagi, sisa hasil baginya adalah 0.
+
+Contoh sederhana penggunaan modulus:
 
 ```javascript
-var bilanganPertama = 5;
-var bilanganKedua = bilanganPertama + 1;
-console.log(bilanganKedua);
+> 4 % 2 // 4 modulus 2
+> 0 // bilangan 4 habis dibagi 2, sehingga 4 modulus 2 menghasilkan nilai 0
+> 5 % 2 // 5 modulus 2
+> 0 // bilangan 5 habis tidak habis dibagi 2, sehingga 5 modulus 2 menghasilkan nilai 1, sisa dari hasil pembagian
 ```
 
-#### Conditional
+**Assignment Operator**
+Assignment operator adalah operator yang meng-"assign", atau memberikan nilai. Biasanya, assignment operator digunakan untuk memberikan nilai kepada sebuah variable.
 
-Conditional adalah...
+```javascript
+var bilangan
+bilangan = 5; // Contoh assignment value 5 ke sebuah variable
+```
+
+**Comparison Operator**
+Comparison operator adalah operator yang membandingkan satu nilai dengan nilai lainnya. Hasil operasi yang melibatkan comparison operator adalah antara 'true' atau 'false'.
+
+- Equality operator (==)
+
+```javascript
+var angka = 8
+console.log(angka == 8); // true
+console.log(angka == 1); // false
+```
+
+- Not Equality operator (==)
+
+```javascript
+var angka = 8
+console.log(angka != 7); // true
+console.log(angka != 8); // false
+```
+
+- Strict Equality operator (===)
+
+Sedikit berbeda dengan equality operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
+
+```javascript
+var angkaBeda = "8"
+console.log(angka == 8); // true
+console.log(angka === 8); // false
+console.log(angka === "8"); // true
+```
+
+- Less Than (<) / Greater Than (>)
+
+operator selanjutnya adalah `<`, yaitu kurang dari sekian, dan `>`, yaitu lebih dari sekian.
+
+```javascript
+var angka = 8
+console.log(angka > 7); // true
+console.log(angka < 6); // false
+console.log(angka <= 8); // true
+```
+
+**Conditional Operator**
+Conditional operator adalah operator yang akan mengevaluasi kebenaran dari nilai yang dikomputasi.
+
+- OR (||): akan menghasilkan nilai `true` jika salah satu premis mengandung `true`
+
+```javascript
+console.log(true || true); // true
+console.log(true || false); // true
+console.log(true || false || false); // true
+console.log(false || false); // false
+```
+
+- AND (&&): akan menghasilkan nilai `true` jika kedua premis `true`.
+
+```javascript
+console.log(true && true); // true
+console.log(true && false); // false
+console.log(false && false); // false
+console.log(false && true && true); // false
+console.log(true && true && true); // false
+```
+
+### Conditional
+
+Kondisional adalah sebuah metode dimana kode akan mengecek apakah sebuah premis benar atau tidak.
+Jika kondisi sesuai, maka kode dalam kondisional akan dijalankan.
+
+```javascript
+if(true) {
+  console.log("Jalankan kode"); // baris kode ini akan di panggil
+}
+```
+
+```javascript
+if(false) {
+  console.log("Jalankan kode"); // baris kode ini tidak di panggil
+}
+```
 
 ```javascript
 var tampung = 5;
@@ -118,7 +227,7 @@ while(jalankanLooping) {
 }
 ```
 
-Waspadai Forever Looping!
+:warning: Waspadai Forever Looping!
 
 ```javascript
 var jalankanLooping = true;
@@ -127,7 +236,7 @@ while(jalankanLooping) {
 }
 ```
 
-#### Function/Method
+### Function/Method
 
 Function adalah...
 
