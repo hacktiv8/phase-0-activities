@@ -68,21 +68,52 @@ Variable, atau dalam bahasa Indonesia kita sebut variabel, bisa memegang atau be
 
 ```javascript
 var tampung = 5;
-console.log(tampung);
+console.log(tampung); // 5
 ```
 
 ```javascript
 var angkaGanjil = 1, angkaGenap = 2;
 ```
 
+Waspada pemanggilan variable yang tidak bernilai!
+```javascript
+var tampungBaru;
+console.log(tampungBaru); // UNDEFINED
+```
+
 #### Operator
 
-Operator adalah...
+Operator adalah karakter yang merepresentasikan sebuah tindakan. Kita sering menemukan operator seperti + (tambah),
+ x (kali), dan lain-lain. Namun, di dunia programming, operasi tambah kita gantikan dengan simbol * (asterisk) dan operasi bagi dengan simbol / (slash)
+
+Operator dibagi menjadi beberapa tipe:
+
+**Arithmetic Operator**
+Arithmetic operator adalah operator yang melibatkan operasi matematika, seperti penambahan, pengurangan, perkalian, dan lain-lain.
+
+- Tambah (+)
+- Kurang (-)
+- Kali (\*)
+- Bagi (/)
+- Modulus (%)
+
+Bagi kamu yang baru kali ini mendengar tentang modulus, modulus adalah sisa bagi. Misalkan kita membagi 7 dengan 2. Hasil bagi nya adalah 3, namun sisa dari hasil baginya adalah 1. Bilangan yang memang habis dibagi, sisa hasil baginya adalah 0.
+
+Contoh sederhana penggunaan modulus:
 
 ```javascript
-var bilanganPertama = 5;
-var bilanganKedua = bilanganPertama + 1;
-console.log(bilanganKedua);
+> 4 % 2 // 4 modulus 2
+> 0 // bilangan 4 habis dibagi 2, sehingga 4 modulus 2 menghasilkan nilai 0
+> 5 % 2 // 5 modulus 2
+> 0 // bilangan 5 habis tidak habis dibagi 2, sehingga 5 modulus 2 menghasilkan nilai 1, sisa dari hasil pembagian
+```
+
+**Assignment Operator**
+Assignment operator adalah operator yang meng-"assign", atau memberikan nilai. Biasanya, assignment operator digunakan untuk memberikan nilai kepada sebuah variable.
+
+```javascript
+var bilangan
+bilangan = 5; //Contoh assignment value 5 ke sebuah variable
 ```
 
 #### Conditional
