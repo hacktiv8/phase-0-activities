@@ -32,12 +32,18 @@ Panduan:
 
 ## Senin (TAMBAHAN)
 
+- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+(15 menit) :anchor:
 - ▢ [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
 :notebook_with_decorative_cover:
 - ▢ [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
 :notebook_with_decorative_cover:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
+(1 jam) :anchor:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
+(1 jam) :anchor:
 - ▢ [Membuat Halaman Form HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-:anchor:
+(30 menit) :anchor:
 
 ## Senin
 
