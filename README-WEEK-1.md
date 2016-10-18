@@ -30,17 +30,41 @@ Panduan:
 - :rocket: **Rocker** adalah tantangan opsional yang menguji kehebatanmu
 - :dart: **Motivation** adalah motivasi
 
+## Senin (TAMBAHAN)
+
+- ▢ [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
+:notebook_with_decorative_cover:
+- ▢ [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
+:notebook_with_decorative_cover:
+- ▢ [Membuat Halaman Form HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:anchor:
+
 ## Senin
 
 - ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 - ▢ [Bacaan: Mengenal Anatomi dalam Website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :notebook_with_decorative_cover:
-- ▢ [Menyelesaikan Codecademy Course - HTML Unit 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:anchor:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 - ▢ [Membuat Form HTML sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 - ▢ [Memastikan kamu mengetahui dasar penyusun website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/website.md)
+
+## Selasa (TAMBAHAN)
+
+- ▢ [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
+:notebook_with_decorative_cover:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+- ▢ [Mengimplementasikan CSS pada Halaman Form Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+:anchor:
 
 ## Selasa
 
@@ -51,12 +75,31 @@ Panduan:
 - ▢ [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
 - ▢ [Menggunakan berbagai elemen dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-elements.md)
 
+## Rabu (TAMBAHAN)
+
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+
 ## Rabu
 
 - ▢ [Mengenali lebih jelas apa itu Internet, the Web, browser, website, dan aplikasi web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
 - ▢ [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - ▢ [Menggunakan berbagai aturan dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-rules.md)
 - ▢ [Membuat transformasi dan animasi dengan CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-advanced.md)
+
+## Kamis (TAMBAHAN)
+
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
+:notebook_with_decorative_cover:
+- ▢ [Pertama kali menggunakan Git](https://www.codecademy.com/learn/learn-html-css)
+:anchor:
+
 
 ## Kamis
 
@@ -66,6 +109,13 @@ Panduan:
 - ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
 - ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+
+## Jumat (TAMBAHAN)
+
+- ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
+:anchor:
+- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+:anchor:
 
 ## Jumat
 
