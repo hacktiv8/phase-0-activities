@@ -55,11 +55,9 @@ Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab 
 
 #### Memulai coding di JavaScript
 
-**Tipe Data**
+**Data Type**
 
-Tipe Data adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
-
-A data type in a programming language is a set of data with values having predefined characteristics. Examples of data types are: integer, floating point unit number, character, string, and pointer. Usually, a limited number of such data types come built into a language.
+Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
 - Integer: tipe data dengan nilai berupa angka
 - Character: tipe data dengan nilai berupa sebuah karakter
