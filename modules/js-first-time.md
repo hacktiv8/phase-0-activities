@@ -227,7 +227,7 @@ while(jalankanLooping) {
 }
 ```
 
-Waspadai Forever Looping!
+:warning: Waspadai Forever Looping!
 
 ```javascript
 var jalankanLooping = true;
