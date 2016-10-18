@@ -8,7 +8,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin
+## Senin - Dunia JavaScript dan Logika
 
 - ▢ [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
 :wrench:
@@ -17,7 +17,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :notebook_with_decorative_cover:
 
-## Selasa
+## Selasa - Functions and Scopes
 
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
@@ -28,7 +28,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :anchor:
 
-## Rabu
+## Rabu - Loops
 
 - ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
