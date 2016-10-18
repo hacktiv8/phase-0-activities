@@ -129,7 +129,15 @@ console.log(angka == 8); // true
 console.log(angka == 1); // false
 ```
 
-- Strict comparison operator (===)
+- Not Equality operator (==)
+
+```javascript
+var angka = 8
+console.log(angka != 7); // true
+console.log(angka != 8); // false
+```
+
+- Strict Equality operator (===)
 
 Sedikit berbeda dengan equality operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
 
@@ -140,9 +148,55 @@ console.log(angka === 8); // false
 console.log(angka === "8"); // true
 ```
 
+- Less Than (<) / Greater Than (>)
+
+operator selanjutnya adalah `<`, yaitu kurang dari sekian, dan `>`, yaitu lebih dari sekian.
+
+```javascript
+var angka = 8
+console.log(angka > 7); // true
+console.log(angka < 6); // false
+console.log(angka <= 8); // true
+```
+
+**Conditional Operator**
+Conditional operator adalah operator yang akan mengevaluasi kebenaran dari nilai yang dikomputasi.
+
+- OR (||): akan menghasilkan nilai `true` jika salah satu premis mengandung `true`
+
+```javascript
+console.log(true || true); // true
+console.log(true || false); // true
+console.log(true || false || false); // true
+console.log(false || false); // false
+```
+
+- AND (&&): akan menghasilkan nilai `true` jika kedua premis `true`.
+
+```javascript
+console.log(true && true); // true
+console.log(true && false); // false
+console.log(false && false); // false
+console.log(false && true && true); // false
+console.log(true && true && true); // false
+```
+
 ### Conditional
 
-Conditional adalah...
+Kondisional adalah sebuah metode dimana kode akan mengecek apakah sebuah premis benar atau tidak.
+Jika kondisi sesuai, maka kode dalam kondisional akan dijalankan.
+
+```javascript
+if(true) {
+  console.log("Jalankan kode"); // baris kode ini akan di panggil
+}
+```
+
+```javascript
+if(false) {
+  console.log("Jalankan kode"); // baris kode ini tidak di panggil
+}
+```
 
 ```javascript
 var tampung = 5;
