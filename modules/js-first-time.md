@@ -53,7 +53,7 @@ Bukalah [JSBin](http://jsbin.com?console), dan cobalah kode di atas pada tab **c
 
 Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab **javascript**
 
-#### Data Type
+### Data Type
 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
@@ -81,7 +81,7 @@ var tampungBaru;
 console.log(tampungBaru); // UNDEFINED
 ```
 
-#### Operator
+### Operator
 
 Operator adalah karakter yang merepresentasikan sebuah tindakan. Kita sering menemukan operator seperti + (tambah),
  x (kali), dan lain-lain. Namun, di dunia programming, operasi tambah kita gantikan dengan simbol * (asterisk) dan operasi bagi dengan simbol / (slash)
@@ -116,7 +116,7 @@ var bilangan
 bilangan = 5; //Contoh assignment value 5 ke sebuah variable
 ```
 
-#### Conditional
+### Conditional
 
 Conditional adalah...
 
@@ -158,7 +158,7 @@ while(jalankanLooping) {
 }
 ```
 
-#### Function/Method
+### Function/Method
 
 Function adalah...
 
