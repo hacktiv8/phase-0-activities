@@ -30,7 +30,7 @@ Panduan:
 - :rocket: **Rocker** adalah tantangan opsional yang menguji kehebatanmu
 - :dart: **Motivation** adalah motivasi
 
-## Senin (TAMBAHAN)
+## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 
 - ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 (15 menit) :anchor:
