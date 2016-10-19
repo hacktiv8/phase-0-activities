@@ -16,7 +16,7 @@ Buatlah sebuah file teks baru dengan nama **index** dengan format **html**.
 
 Perhatikan gambar dibawah ini! Isi konten pada *index.html* seperti pada gambar dibawah. Hanya saja, ganti *MyName* dengan nama panggilan kamu. Have fun!
 
-![Referensi Tugas](/assets/phase0-week1-monday.png)
+![Referensi Tugas](assets/phase0-week1-monday.png)
 
 ### 3. Kumpulkan Tugasmu
 
