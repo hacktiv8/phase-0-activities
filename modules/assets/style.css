@@ -1,0 +1,64 @@
+/*day 3*/
+* {
+  box-sizing: border-box;
+}
+body {  
+    background-color: darkorange;
+    margin: 0;
+    padding: 0;
+}
+h1, h2 {
+    color: crimson;
+    text-transform: uppercase;
+}
+h1 {
+    font-size: 40px;
+    letter-spacing: 10px;
+}
+h2 {
+    font-size: 30px;
+    font-style: italic;
+}
+h3 {
+    text-align: center;
+    text-transform: capitalize;
+    color: firebrick;
+    font-size: 25px;
+}
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+.header { 
+    background-color: yellow;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     /*day 3*/
+    padding-top: 2%;
+    padding-bottom: 2%; 
+    width: 100%;
+    border: 10px dashed black;
+    /*day 3*/
+}
+.body {
+    background-color: white;
+    font-family: serif;
+    /*day 3*/
+    margin: 5%;
+    padding: 5%;
+    border: 2px solid;
+    /*day 3*/
+}
+.comment {
+    background-color: antiquewhite;
+    color: firebrick;
+    font-family: Courier New, Courier, monospace;
+    text-transform: capitalize;
+    /*day 3*/
+    padding: 5%;
+    float: right;
+    border-left: 10px solid black;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    /*day 3*/
+}
