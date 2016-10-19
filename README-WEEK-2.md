@@ -8,7 +8,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin - Dunia JavaScript dan Logika
+## Senin - Dunia JavaScript
 
 - ▢ [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
 :wrench:
@@ -16,32 +16,45 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 :notebook_with_decorative_cover:
 - ▢ [Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :notebook_with_decorative_cover:
+- ▢ [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:anchor:
+- ▢ [Mengenal penggunaan Conditional (If-else) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:anchor:
+- ▢ [Mengenal penggunaan Iteration (For, While) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:anchor:
+- ▢ [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:rocket:
 
-## Selasa - Functions and Scopes
+## Selasa - Mengenal dan Memanfaatkan Functions dan Scope, serta Membuat Pseudocode Sederhana
 
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
 - ▢ [Mempelajari Logic Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
-- ▢ [Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
-:anchor:
 - ▢ [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :anchor:
+- ▢ [Mengenal Penggunaan Functions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+:anchor:
+- ▢ [Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
+- ▢ [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:anchor:
 
-## Rabu - Loops
-
+## Rabu - Arrays
+- ▢ [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:notebook_with_decorative_cover:
 - ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
 - ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
-## Kamis
+## Kamis - Tantangan JavaScript!
 
 - ▢ [Tantangan For-loop](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
-## Jumat
+## Jumat - Tantangan JavaScript!
 
 - ▢ [Tantangan Kombinasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
