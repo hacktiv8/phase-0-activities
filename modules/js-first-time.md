@@ -253,7 +253,7 @@ Kode di atas tidak dapat kita copy-paste kan langsung, melainkan hanya sebuah be
 Sebuah function, umumnya melakukan tindakan dan sebelum function berakhir, function bisa
 mengembalikan nilai dengan cara menambahkan sintaks return.
 
-Contoh fungsi sederhana tanpa return
+**Contoh Function 1:** Contoh fungsi sederhana tanpa return
 
 ```javascript
 function tampilkan() {
@@ -266,6 +266,17 @@ tampilkan();
 Contoh fungsi sederhana dengan return
 
 ```javascript
+function munculkanAngkaDua() {
+  return 2
+}
+
+var tampung = munculkanAngkaDua();
+console.log(tampung)
+```
+
+Pengiriman argument sebagai parameter
+
+```javascript
 function kalikanDua(angka) {
   return angka * 2
 }
@@ -273,16 +284,6 @@ function kalikanDua(angka) {
 var tampung = kalikanDua(2);
 console.log(tampung)
 
-```
-
-Pengiriman argument sebagai parameter
-
-```javascript
-function tampilkanAngka(angka) {
-  console.log(angka)
-}
-
-tampilkan(5)
 ```
 
 Pengiriman parameter lebih dari satu
