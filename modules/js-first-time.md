@@ -238,16 +238,39 @@ while(jalankanLooping) {
 
 ### Function/Method
 
-Function adalah...
+Function adalah sebuah blok kode yang disusun sedemikian rupa untuk menjalankan sebuah tindakan.
+Blok kode ini dibuat untuk dapat bisa digunakan kembali. Cara atau bentuk penulisan function adalah
+sebagai berikut:
 
-Contoh fungsi sederhana
+```javascript
+function nama_function(parameter 1, parameter 2, ...) {
+  [Isi dari function berupa tindakan]
+  return [expression];
+}
+```
+
+Kode di atas tidak dapat kita copy-paste kan langsung, melainkan hanya sebuah bentuk penulisan function.
+Sebuah function, umumnya melakukan tindakan dan sebelum function berakhir, function bisa
+mengembalikan nilai dengan cara menambahkan sintaks return.
+
+Contoh fungsi sederhana tampa return
 
 ```javascript
 function tampilkan() {
-  console.log("tampilkan!")
+  console.log("halo!");
 }
 
-tampilkan()
+tampilkan();
+```
+
+```javascript
+function kalikanDua(angka) {
+  return angka * 2
+}
+
+var tampung = kalikanDua(2);
+console.log(tampung)
+
 ```
 
 Pengiriman argument sebagai parameter
