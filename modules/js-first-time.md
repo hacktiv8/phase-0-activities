@@ -253,7 +253,7 @@ Kode di atas tidak dapat kita copy-paste kan langsung, melainkan hanya sebuah be
 Sebuah function, umumnya melakukan tindakan dan sebelum function berakhir, function bisa
 mengembalikan nilai dengan cara menambahkan sintaks return.
 
-Contoh fungsi sederhana tampa return
+Contoh fungsi sederhana tanpa return
 
 ```javascript
 function tampilkan() {
@@ -262,6 +262,8 @@ function tampilkan() {
 
 tampilkan();
 ```
+
+Contoh fungsi sederhana dengan return
 
 ```javascript
 function kalikanDua(angka) {
