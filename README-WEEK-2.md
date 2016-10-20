@@ -16,9 +16,9 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 :notebook_with_decorative_cover:
 - ▢ [Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :notebook_with_decorative_cover:
-- ▢ [Memahami Kondisional dengan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+- ▢ [Memahami Control Flow: Conditional dan Branching](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :notebook_with_decorative_cover:
-- ▢ [Memahami Iteration dan memanfaatkannya ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+- ▢ [Memahami Control Flow: Iteration atau Looping ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :notebook_with_decorative_cover:
 - ▢ [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :anchor:
@@ -34,6 +34,9 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
 - ▢ [Mempelajari Logic Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+- ▢ [Mempelajari Function atau Method](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-method.md)
+:notebook_with_decorative_cover:
+- ▢ [Mempelajari Scope](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 :notebook_with_decorative_cover:
 - ▢ [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :anchor:
@@ -45,7 +48,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 :anchor:
 
 ## Rabu - Arrays
-- ▢ [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+- ▢ [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md)
 :notebook_with_decorative_cover:
 - ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
@@ -53,13 +56,15 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Tantangan Logic dan Control Flow](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
-## Kamis - Tantangan JavaScript!
-
+## Kamis - Menjadi Programmer JavaScript yang Lebih Baik
+- ▢ [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
+:notebook_with_decorative_cover:
 - ▢ [Tantangan For-loop](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
-## Jumat - Tantangan JavaScript!
-
+## Jumat - Object dan JSON (JavaScript Object Notation)
+- ▢ [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
+:anchor:
 - ▢ [Tantangan Kombinasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 
