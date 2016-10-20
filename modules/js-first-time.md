@@ -254,7 +254,7 @@ while(flag < 10) { // Loop akan terus berjalan selama nilai flag masih dibawah 1
   flag++; // Mengubah nilai flag dengan menambahkan 1
 }
 ```
-Kamu bisa mencoba kode di atas [disini](https://jsbin.com/pahure/1/edit?js,console)
+Kamu bisa mencoba kode di atas <a href="https://jsbin.com/pahure/1/edit?js,console">disini</a>
 
 ```javascript
 var jalankanLooping = true;
