@@ -227,6 +227,7 @@ Untuk melakukan looping/iteration, JavaScript menyediakan beberapa jenis iterati
 - for-loop
 
 **While-loop**
+
 While-loop adalah iterasi yang akan mengulang sebuah proses dengan sebuah kondisi tertentu.
 
 Berikut adalah cara atau struktur penulisan while-loop:
@@ -245,16 +246,35 @@ akan dijalankan. Looping akan terus dilakukan selama kondisi while-loop masih `t
 Untuk mencegah looping berjalan terus-menerus, dilakukan sebuah proses yang akan mengubah kondisi yang sedemikian rupa
 yang bertujuan untuk menghentikan looping dengan menghasilkan kondisi yang `false`.
 
-*Contoh Looping While-loop 1* Looping Angka Sederhana
+**Contoh Looping While-loop 1** Looping Angka Sederhana
 
 ```javascript
 var flag = 1;
 while(flag < 10) { // Loop akan terus berjalan selama nilai flag masih dibawah 10
-  console.log('Iterasi ke-',flag); // Menampilkan nilai flag pada iterasi tertentu
+  console.log('Iterasi ke-' + flag); // Menampilkan nilai flag pada iterasi tertentu
   flag++; // Mengubah nilai flag dengan menambahkan 1
 }
 ```
-Kamu bisa mencoba kode di atas <a href="https://jsbin.com/pahure/1/edit?js,console" target="\_blank">disini</a>
+Kamu bisa mencoba kode di atas [disini](https://jsbin.com/pahure/1/edit?js,console)
+
+**Contoh Looping While-loop 2** Looping Mengembalikan Angka Total
+
+```javascript
+var deret = 5;
+var jumlah = 0;
+while(deret > 0) { // Loop akan terus berjalan selama nilai deret masih di atas 0
+  jumlah += deret; // Menambahkan nilai variable jumlah dengan angka deret
+  deret--; // Mengubah nilai deret dengan mengurangi 1
+  console.log('Jumlah saat ini: ' + jumlah)
+}
+
+console.log(jumlah);
+```
+Kamu bisa mencoba kode di atas [disini](https://jsbin.com/nolocam/edit?js,console)
+
+
+
+
 
 ```javascript
 var jalankanLooping = true;
