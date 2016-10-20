@@ -217,7 +217,44 @@ else {
 
 #### Loop/Iteration
 
-Loop/Iteration adalah...
+Loop/Iteration adalah tindakan mengulang / merepetisi sebuah proses, dengan tujuan untuk mendapatkan
+deret hasil, atau dengan tujuan mendapatkan hasil tertentu dengan repetisi. Setiap proses repetisi
+ini disebut sebagai Iteration atau Looping.
+
+Untuk melakukan looping/iteration, JavaScript menyediakan beberapa jenis iteration, yaitu:
+
+- while-loop
+- for-loop
+
+**While-loop**
+While-loop adalah iterasi yang akan mengulang sebuah proses dengan sebuah kondisi tertentu.
+
+Berikut adalah cara atau struktur penulisan while-loop:
+
+```javascript
+
+while([Kondisi]) { // Kondisi yang menentukan apakah program akan melakukan iterasi. Berupa boolean atau true/false.
+  [Proses] // Merupakan proses yang akan dijalankan dalam satu iterasi
+}
+```
+
+Pada while-loop, statement `while` akan mengambil sebuah nilai `true` atau `false` dari hasil kondisi yang diberikan.
+Apabila statement `while` mendapatkan nilai `true`, maka proses yang berada didalam curly bracket (`{ }`)
+akan dijalankan. Looping akan terus dilakukan selama kondisi while-loop masih `true`.
+
+Untuk mencegah looping berjalan terus-menerus, dilakukan sebuah proses yang akan mengubah kondisi yang sedemikian rupa
+yang bertujuan untuk menghentikan looping dengan menghasilkan kondisi yang `false`.
+
+*Contoh Looping While-loop 1* Looping Angka Sederhana
+
+```javascript
+var flag = 1;
+while(flag < 10) { // Loop akan terus berjalan selama nilai flag masih dibawah 10
+  console.log('Iterasi ke-',flag); // Menampilkan nilai flag pada iterasi tertentu
+  flag++; // Mengubah nilai flag dengan menambahkan 1
+}
+```
+Kamu bisa mencoba kode di atas [disini](https://jsbin.com/pahure/1/edit?js,console)
 
 ```javascript
 var jalankanLooping = true;
