@@ -27,7 +27,7 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 Panduan:
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan
-- :rocket: **Rocker** adalah tantangan opsional yang menguji kehebatanmu
+- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu
 - :dart: **Motivation** adalah motivasi
 
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
@@ -42,45 +42,56 @@ Panduan:
 (1 jam) :anchor:
 - ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
 (1 jam) :anchor:
-- ▢ [Membuat Halaman Form HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- ▢ [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 (30 menit) :anchor:
 
 ## Selasa (TAMBAHAN)
 
 - ▢ [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 :notebook_with_decorative_cover:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
-- ▢ [Mengimplementasikan CSS pada Halaman Form Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- ▢ [Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md) (1 jam)
 :anchor:
 
 ## Rabu (TAMBAHAN)
 
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
+- ▢ [Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md) (1 jam)
+:anchor:
+
 
 ## Kamis (TAMBAHAN)
 
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css) (1 jam)
 :anchor:
+- ▢ [Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md) (1 jam)
+:anchor:
+- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md) (30 nenit)
+:anchor:
+- ▢ [Pertama kali menggunakan Git](https://www.codecademy.com/learn/learn-html-css)
+:notebook_with_decorative_cover:
+
+## Jumat - (TAMBAHAN)
+- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
 :notebook_with_decorative_cover:
-- ▢ [Pertama kali menggunakan Git](https://www.codecademy.com/learn/learn-html-css)
+- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
+:notebook_with_decorative_cover:
+- ▢ [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md) (1 jam)
 :anchor:
-
-## Jumat - Luncurkan Website Pertamamu!
-
-- ▢ [Membuat cerita bergambar](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/story-with-images.md)
+- ▢ [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md) (30 menit)
 :anchor:
-- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+- ▢ [Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md) (30 menit)
 :anchor:
 
 ## Senin
@@ -143,7 +154,7 @@ Panduan:
 
 ## Jumat
 
-- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
+
 - ▢ [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
 - ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
 - ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
