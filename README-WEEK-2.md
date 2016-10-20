@@ -29,7 +29,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :rocket:
 
-## Selasa - Mengenal dan Memanfaatkan Functions dan Scope, serta Membuat Pseudocode Sederhana
+## Selasa - Pseudocode, Functions, dan Scope
 
 - ▢ [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :notebook_with_decorative_cover:
