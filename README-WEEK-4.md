@@ -1,56 +1,63 @@
-# Hacktiv8 Phase 0 Week 4: Valuable Advice for Our Journey
+# Hacktiv8 Phase 0 Week 3: The World of DOM, Events, and Scope
 
-![Header](assets/header-w4.jpg)
+![Header](assets/header-w3.jpg)
 
-Selamat sudah melalui kegiatan pekan ketiga! Ingat selalu bahwa menjadi developer memerlukan peningkatan terus-menerus seiring waktu sehingga pemahaman mengenai materi dan latihan sangat diperlukan.
+Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
 
-Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Kembali diingatkan ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena di pekan terakhir ini, challenge coding saling berhubungan dari satu hari ke hari selanjutnya. Good Luck ! :bowtie:
+Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke phase 1 :bowtie: , dan semua challenge yang bertanda :anchor: ini wajib diselesaikan.
 
-Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-4.md>
+Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
 
 ![Let's start!](assets/start.png)
 
 ## Monday
 
-- ▢ [Mengenal Object-Oriented Programming](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-- ▢ [Mengenal, membaca, dan membuat dokumentasi code](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-documentation.md)
-- ▢ [Challenge-Menu Restaurant](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/restaurant.md) :anchor:
-- ▢ [Challenge-Recursive Range Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/range-angka.md) :anchor:
+- ▢ [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
+- ▢ [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
+- ▢ [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-prima.md) :anchor:
+- ▢ [Challenge-Index Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md) :anchor:
+- ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :anchor:
+
 
 ## Tuesday
 
-- ▢ [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-- ▢ [Challenge-Promo Menu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-menu.md) :anchor:
-- ▢ [Challenge-Recursive Sum Array Number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/sum-array.md) :anchor:
+- ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
+- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
+- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :anchor:
+- ▢ [Challenge-Palindrome 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/palindrome-2.md) :anchor:
+
 
 ## Wednesday
 
-- ▢ [Mengeksplorasi berbagai tooling dalam pembuatan aplikasi web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/tooling.md)
-- ▢ [Mencoba menggunakan jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
-- ▢ [Mencoba menggunakan Bootstrap](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bootstrap.md)
-- ▢ [Challenge-Promo Credit Card](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-cc.md) :anchor:
-- ▢ [Challenge-Recursive Angka Kuadrat](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/angka-kuadrat.md) :anchor:
+- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
+- ▢ [Challenge-Cek String](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-string.md) :anchor:
+- ▢ [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :anchor:
+
 
 ## Thursday
 
-- ▢ [Mengenal teknologi database](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/database.md)
-- ▢ [Mengenal desain dan arsitektur aplikasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/app-design-architecture.md)
+- ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md) :anchor:
+- ▢ [Challenge-Array 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/array-1.md) :anchor:
+- ▢ [Challenge-Repeated Letter](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/repeated-letter.md) :anchor:
+- ▢ [Challenge-Pergeseran Huruf](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/geser-huruf.md) :anchor:
+
 
 ## Friday
 
-- ▢ [Melihat performa kecepatan website dengan online tools](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-speed.md)
-- ▢ [Menghemat aset website dengan kompresi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-assets-compression.md)
-- ▢ [Berkreasi membuat website sesuka hati](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-creation.md)
+- ▢ [Challenge-Pola Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/pola-angka.md) :anchor:
+- ▢ [Challenge-Cek Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-angka.md) :anchor:
+- ▢ [Challenge-Konversi Huruf dan Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/konversi-huruf-angka.md) :anchor:
+
 
 ## Saturday and Sunday
 
 - ▢ [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 - ▢ [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 - ▢ Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
-  - [Arctic Fox 2016](https://airtable.com/shrXseZHwy7gdzqJu)
-  - [Blanford Fox 2016](https://airtable.com/shrgOZg66MzJssyNY)
+  - [Arctic Fox 2016](https://airtable.com/shrLac3o4CKzZGuNn)
+  - [Blanford Fox 2016](https://airtable.com/shr4wXkNEQc2ezCRR)
 
-Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
+Selamat berpetualang dengan dunia DOM dan JavaScript lebih lanjut! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
 Salam,
 

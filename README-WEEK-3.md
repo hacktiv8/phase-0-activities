@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 3: The World of DOM, Events, and Scope
+# Hacktiv8 Phase 0 Week 3: Enter Node JS
 
 ![Header](assets/header-w3.jpg)
 
@@ -9,6 +9,12 @@ Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari 
 Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
 
 ![Let's start!](assets/start.png)
+
+## Senin
+- ▢ [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:notebook_with_decorative_cover:
+- ▢ [Tantangan JavaScript, Dijalankan dengan Node, bukan dari JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:anchor:
 
 ## Monday
 
