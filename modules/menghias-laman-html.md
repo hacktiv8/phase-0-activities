@@ -1,4 +1,4 @@
-#Menghias Laman HTML dengan CSS
+#Menghias Laman HTML dengan CSS 1
 
 ##Objectives
 
@@ -35,3 +35,16 @@ Hiaslah laman html-mu dengan mengacu pada gambar di bawah ini. Isi file *style.c
 >  - font-style 
 >  - text-transform 
 >  - text-align
+
+ **Hints**
+
+```css
+body {
+    background-color: darkorange;
+}
+/*font-family yang digunakan: Arial, Courier, serif*/
+```
+
+## References
+
+* [HTML Color Picker](http://www.w3schools.com/colors/colors_picker.asp)
