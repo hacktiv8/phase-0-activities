@@ -293,7 +293,7 @@ Pada parameter kedua, yaitu kondisi, for-loop akan terus berjalan selama kondisi
 kata lain, mengandung nilai `true`.
 Pada parameter kedua, yaitu incremental/decremental, variabel yang menjadi kontrol terhadap loop ini akan diubah nilainya.
 
-:thumbsup: *Best Practice* 
+:thumbsup: *Best Practice:* 
 Walaupun memang for-loop dapat mengubah kondisi di dalam proses,
 namun best practice dari penggunaan for-loop adalah seluruh kendali atau kontrol dari looping ditentukan
 oleh variable yang diinisialisasi, di increment/decrement, dan juga kondisi for-loop pun menggunakan variable
