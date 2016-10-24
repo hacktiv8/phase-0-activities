@@ -13,7 +13,75 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Senin
 - ▢ [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 :notebook_with_decorative_cover:
-- ▢ [Tantangan JavaScript, Dijalankan dengan Node, bukan dari JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+- ▢ [Week Start Refreshing - Tantangan Rekursif: Bilangan Fibonacci](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:anchor:
+- ▢ [Week Start Refreshing - Tantangan Looping: ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:anchor:
+
+## Selasa
+- ▢ [Menggunakan Fungsi-Fungsi manipulasi array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:notebook_with_decorative_cover:
+- ▢ [Mengerjakan Tantangan Senin dengan Fungsi manipulasi array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:anchor:
+- ▢ [Mengerjakan Tantangan Baru dengan manipulasi array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:anchor:
+
+## Rabu
+- ▢ [Panduan untuk menggunakan Coderbytes](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:notebook_with_decorative_cover:
+- ▢ [Coderbytes Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
+:anchor:
+- ▢ [Coderbytes Looping - First Reverse](https://coderbyte.com/information.php?ct=First%20Reverse)
+:anchor:
+- ▢ [Coderbytes Looping - Time Convert](https://coderbyte.com/information.php?ct=Time%20Convert)
+:anchor:
+- ▢ [Coderbytes Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome)
+:anchor:
+- ▢ [Coderbytes Looping and Conditional - Ex Oh](https://coderbyte.com/information.php?ct=Ex%20Oh)
+:anchor:
+- ▢ [Coderbytes Looping and Conditional - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
+:anchor:
+- ▢ [Coderbytes Looping and Conditional - Word Count](https://coderbyte.com/information.php?ct=Word%20Count)
+:anchor:
+- ▢ [Coderbytes Looping and Conditional - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
+:anchor:
+- ▢ [Coderbytes Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
+:rocket:
+- ▢ [Coderbytes Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals)
+:rocket:
+
+## Kamis
+- ▢ [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+:notebook_with_decorative_cover:
+- ▢ [Coderbytes Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
+:anchor:
+- ▢ [Coderbytes Utilities - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
+:anchor:
+- ▢ [Coderbytes Utilities - AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
+:anchor:
+- ▢ [Coderbytes Utilities - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
+:anchor:
+- ▢ [Coderbytes Utilities and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
+:anchor:
+- ▢ [Coderbytes Utilities and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
+:anchor:
+- ▢ [Coderbytes Utilities and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
+:anchor:
+- ▢ [Coderbytes Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
+:rocket:
+- ▢ [Coderbytes Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition)
+:rocket:
+- ▢ [Coderbytes Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow)
+:rocket:
+
+## Jumat
+- ▢ [Coderbytes Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial)
+:anchor:
+- ▢ [Coderbytes Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
+:anchor:
+- ▢ [Coderbytes Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence)
+:anchor:
+- ▢ [Coderbytes Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
 :anchor:
 
 ## Monday

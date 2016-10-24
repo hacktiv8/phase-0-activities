@@ -45,6 +45,8 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 :anchor:
 - ▢ [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
+- ▢ [Mengubah Pseudocode menjadi kode JavaScript (Hard)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:rocket:
 
 ## Rabu - Arrays
 - ▢ [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md)
@@ -54,6 +56,8 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 - ▢ [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
+:notebook_with_decorative_cover:
+- ▢ [Memahami Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
 :notebook_with_decorative_cover:
 - ▢ [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
 :notebook_with_decorative_cover:
