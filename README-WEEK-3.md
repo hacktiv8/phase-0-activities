@@ -11,15 +11,24 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ![Let's start!](assets/start.png)
 
 ## Senin
+Sebelum memulai minggu yang penuh tantangan, gunakan waktu sejenak untuk berkenalan dengan Node Js,
+sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa
+dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan
+mencoba langsung mengimplementasi kodemu melalui node Js!
+
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
-[Week Start Refreshing - Tantangan Rekursif: Bilangan Fibonacci](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+[Week Start Refreshing - Tantangan Rekursif: Deret Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
-[Week Start Refreshing - Tantangan Looping: ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+[Week Start Refreshing - Tantangan Looping: Deret Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 
 
 ## Selasa
+Kamu telah mencoba membuat kode JavaScript dan menjalankannya dengan Node Js. Hari ini, kamu akan
+melakukan pemasanan dengan melatih kemampuan logikamu dengan berbagai tantangan. Manfaatkan tantangan ini
+untuk mampu mengerjakan tantangan-tantangan yang jauh lebih sulit di beberapa hari ke depan!
+
 - :notebook_with_decorative_cover:
 [Menggunakan Fungsi-Fungsi manipulasi array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
@@ -29,6 +38,10 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 
 ## Rabu
+Hari sesungguhnya dalam tantangan untuk melatih logikamu dimulai! Kami akan memandumu untuk menggunakan
+CoderBytes, tempatmu untuk melatih logikamu dalam JavaScript kan kamu akan mulai mengerjakan soal-soal
+dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
+
 - :notebook_with_decorative_cover:
 [Panduan untuk menggunakan Coderbytes](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
@@ -53,6 +66,8 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 [Coderbytes Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals)
 
 ## Kamis
+Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
+
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
@@ -77,6 +92,8 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 [Coderbytes Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow)
 
 ## Jumat
+Hari baru, tantangan baru! Sekarang, tantang dirimu untuk melatih kemampuanmu dalam menggunakan Recursion!
+
 - :anchor:
 [Coderbytes Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial)
 - :anchor:
