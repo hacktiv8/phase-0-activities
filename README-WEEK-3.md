@@ -103,46 +103,6 @@ Hari baru, tantangan baru! Sekarang, tantang dirimu untuk melatih kemampuanmu da
 - :anchor:
 [Coderbytes Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
 
-
-## Monday
-
-- :anchor: [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
-- :anchor: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
-- :anchor: [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-prima.md)
-- :anchor: [Challenge-Index Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md)
-- :anchor: [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md)
-
-
-## Tuesday
-
-- :anchor: [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
-- :anchor: [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md)
-- :anchor: [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md)
-- :anchor: [Challenge-Palindrome 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/palindrome-2.md)
-
-
-## Wednesday
-
-- :anchor: [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md)
-- :anchor: [Challenge-Cek String](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-string.md)
-- :anchor: [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md)
-
-
-## Thursday
-
-- :anchor: [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md)
-- :anchor: [Challenge-Array 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/array-1.md)
-- :anchor: [Challenge-Repeated Letter](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/repeated-letter.md)
-- :anchor: [Challenge-Pergeseran Huruf](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/geser-huruf.md)
-
-
-## Friday
-
-- :anchor: [Challenge-Pola Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/pola-angka.md)
-- :anchor: [Challenge-Cek Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-angka.md)
-- :anchor: [Challenge-Konversi Huruf dan Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/konversi-huruf-angka.md)
-
-
 ## Saturday and Sunday
 
 - :anchor: [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
