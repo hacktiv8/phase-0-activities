@@ -32,9 +32,9 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 :anchor:
 - ▢ [Belajar Menggunakan Operator Aritmatika pada JavaScript] (modules/anchor-belajar-operator-mtk.md) 
 :anchor:
-- ▢ [Menggunakan `If-Else` pada JavaScript] (modules/anchor-menggunakan-if-else.js) 
+- ▢ [Menggunakan `If-Else` pada JavaScript] (modules/anchor-menggunakan-if-else.md) 
 :anchor:
-- ▢ [Melakukan Perulangan Menggunakan `For`] (modules/anchor-belajar-for-md) 
+- ▢ [Melakukan Perulangan Menggunakan `For`] (modules/anchor-belajar-for.md) 
 :anchor:
 
 ## Selasa - Pseudocode, Functions, dan Scope
