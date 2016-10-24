@@ -36,14 +36,15 @@ Panduan:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
--  [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
-:notebook_with_decorative_cover:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-:anchor:
+- :notebook_with_decorative_cover:
+[Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
+
+- :anchor:
+[Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 
