@@ -47,57 +47,59 @@ Panduan:
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 
--  [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
-:notebook_with_decorative_cover:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-:anchor:
+- :notebook_with_decorative_cover:
+[Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+
 
 ## Rabu - Mendalami Penggunaan CSS
 
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-:anchor:
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
-:anchor:
--  [Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-:anchor:
--  [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
-:notebook_with_decorative_cover:
--  [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
-:notebook_with_decorative_cover:
--  [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
-:anchor:
--  [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
-:anchor:
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- :notebook_with_decorative_cover:
+[Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
+- :notebook_with_decorative_cover:
+[Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
+- :anchor:
+[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+- :anchor:
+[Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 
-## Jumat -
+## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
 
--  [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
-:notebook_with_decorative_cover:
--  [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
-:notebook_with_decorative_cover:
--  [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
-:books:
--  [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
-:books:
--  [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
-:anchor:
--  [Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
-:anchor:
+- :notebook_with_decorative_cover:
+[Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
+- :notebook_with_decorative_cover:
+[Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
+- :books:
+[Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
+- :books:
+[Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
+- :anchor:
+[Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+- :anchor:
+[Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+
 
 ## Sabtu dan Minggu
 
