@@ -64,6 +64,9 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 
 
 ## Rabu - Mendalami Penggunaan CSS
+Mulai merasa mahir dengan HTML dan CSS? Jangan puas dulu! Masih banyak yang bisa kamu perdalam dengan
+ilmu barumu ini. Di hari ini kamu akan lebih rapih lagi dalam menyusun halaman web kamu dengan memanfaatkan
+Box Sizing dan Position.
 
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
@@ -74,6 +77,11 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
+Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
+perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berkenalan dengan Git, sebuah
+tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
+telah punya website kamu sendiri secara online!
+
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -90,6 +98,9 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
+Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
+menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan
+websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
 - :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
