@@ -28,6 +28,14 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 :anchor:
 - ▢ [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :rocket:
+- ▢ [Belajar Menggunakan Variabel pada JavaScript] (modules/anchor-belajar-variabel.md) 
+:anchor:
+- ▢ [Belajar Menggunakan Operator Aritmatika pada JavaScript] (modules/anchor-belajar-operator-mtk.md) 
+:anchor:
+- ▢ [Menggunakan `If-Else` pada JavaScript] (modules/anchor-menggunakan-if-else.js) 
+:anchor:
+- ▢ [Melakukan Perulangan Menggunakan `For`] (modules/anchor-belajar-for-md) 
+:anchor:
 
 ## Selasa - Pseudocode, Functions, dan Scope
 
@@ -46,6 +54,10 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - ▢ [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 :anchor:
 - ▢ [Mengubah Pseudocode menjadi kode JavaScript (Hard)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+:rocket:
+- ▢ [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md)
+:anchor:
+- ▢ [Tantangan Minggu 2](modules/challenge-week2.md)
 :rocket:
 
 ## Rabu - Arrays
