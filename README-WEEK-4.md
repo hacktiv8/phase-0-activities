@@ -10,18 +10,21 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin
+## Senin - Coderbytes
+
+## Selasa - Coderbytes
+
+## Rabu - Coderbytes
+
+## Kamis - Refreshment: DOM
 
 - :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
 
-## Selasa - Manipulasi DOM Dengan JQuery!
+## Jumat - Refreshment: Manipulasi DOM Dengan JQuery!
 
 - :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
 - :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/)
-
-## Jumat - DOM Game!
-- :anchor: [Membuat game dengan jQuery](http://try.jquery.com/)
 
 ## Monday
 

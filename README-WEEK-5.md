@@ -10,35 +10,6 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin - EcmaScript 6 dan Babel
-
-- :notebook_with_decorative_cover:
-[Mengenal ES6 dan Transpilasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-transpilation.md)
-- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-- :anchor:
-[Mengubah Sintaks ES5 ke ES6!](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-- :anchor:
-[Memanfaatkan Sintaks ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-
-## Selasa - Paradigma Object Oriented Programming
-
-- :notebook_with_decorative_cover:
-[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-
-## Rabu - Tantangan Object Oriented Programming
-
-- :notebook_with_decorative_cover:
-[Mengenal OOP pada ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-
-## Kamis - Paradigma Functional Programming
-
-- :notebook_with_decorative_cover:
-[Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-
-## Jumat - Tantangan Functional Programming
-
-- :notebook_with_decorative_cover:
-[Mengenal OOP pada ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
 ## Monday
 
