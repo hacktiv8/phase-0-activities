@@ -31,6 +31,9 @@ Panduan:
 - :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
 
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
+Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lainnya di Slack Group, dan
+membelajari hal paling pertama dalam pembuatan sebuat web, yaitu HTML! Mungkin banyak dari antara kamu
+yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
