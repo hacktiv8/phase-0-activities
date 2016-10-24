@@ -33,7 +33,7 @@ Panduan:
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lainnya di Slack Group, dan
 membelajari hal paling pertama dalam pembuatan sebuat web, yaitu HTML! Mungkin banyak dari antara kamu
-yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
+yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
 
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
@@ -49,6 +49,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
 [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
+Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
 
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
