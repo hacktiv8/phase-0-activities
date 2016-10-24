@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 3: The World of DOM, Events, and Scope
+# Hacktiv8 Phase 0 Week 4: The World of DOM, Events, and Scope
 
 ![Header](assets/header-w3.jpg)
 
@@ -10,50 +10,63 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
+## Senin
+
+- :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+- :notebook_with_decorative_cover: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
+
+## Selasa - Manipulasi DOM Dengan JQuery!
+
+- :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
+- :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/)
+
+## Jumat - DOM Game!
+- :anchor: [Membuat game dengan jQuery](http://try.jquery.com/)
+
 ## Monday
 
-- ▢ [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
-- ▢ [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
-- ▢ [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-prima.md) :anchor:
-- ▢ [Challenge-Index Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md) :anchor:
-- ▢ [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :anchor:
+- :anchor: [Bermain Blockly Games untuk pemanasan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blockly-games.md)
+- :anchor: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
+- :anchor: [Challenge-Cek Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-prima.md) :anchor:
+- :anchor: [Challenge-Index Bilangan Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/index-prima.md) :anchor:
+- :anchor: [Challenge-Jenis Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jenis-bilangan.md) :anchor:
 
 
 ## Tuesday
 
-- ▢ [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
-- ▢ [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
-- ▢ [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :anchor:
-- ▢ [Challenge-Palindrome 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/palindrome-2.md) :anchor:
+- :anchor: [Memahami scope pada JavaScript lebih dalam](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
+- :anchor: [Challenge-Bilangan Faktor](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bilangan-faktor.md) :anchor:
+- :anchor: [Challenge-Faktor Prima](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/faktor-prima.md) :anchor:
+- :anchor: [Challenge-Palindrome 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/palindrome-2.md) :anchor:
 
 
 ## Wednesday
 
-- ▢ [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
-- ▢ [Challenge-Cek String](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-string.md) :anchor:
-- ▢ [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :anchor:
+- :anchor: [Challenge-String Compression](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/string-compression.md) :anchor:
+- :anchor: [Challenge-Cek String](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-string.md) :anchor:
+- :anchor: [Challenge-Remove Duplicate](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/remove-duplication.md) :anchor:
 
 
 ## Thursday
 
-- ▢ [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md) :anchor:
-- ▢ [Challenge-Array 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/array-1.md) :anchor:
-- ▢ [Challenge-Repeated Letter](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/repeated-letter.md) :anchor:
-- ▢ [Challenge-Pergeseran Huruf](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/geser-huruf.md) :anchor:
+- :anchor: [Membuat permainan tebak angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/number-guess.md) :anchor:
+- :anchor: [Challenge-Array 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/array-1.md) :anchor:
+- :anchor: [Challenge-Repeated Letter](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/repeated-letter.md) :anchor:
+- :anchor: [Challenge-Pergeseran Huruf](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/geser-huruf.md) :anchor:
 
 
 ## Friday
 
-- ▢ [Challenge-Pola Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/pola-angka.md) :anchor:
-- ▢ [Challenge-Cek Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-angka.md) :anchor:
-- ▢ [Challenge-Konversi Huruf dan Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/konversi-huruf-angka.md) :anchor:
+- :anchor: [Challenge-Pola Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/pola-angka.md) :anchor:
+- :anchor: [Challenge-Cek Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cek-angka.md) :anchor:
+- :anchor: [Challenge-Konversi Huruf dan Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/konversi-huruf-angka.md) :anchor:
 
 
 ## Saturday and Sunday
 
-- ▢ [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
-- ▢ [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
-- ▢ Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
+- :anchor: [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
+- :anchor: [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
+- :anchor: Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
   - [Arctic Fox 2016](https://airtable.com/shrLac3o4CKzZGuNn)
   - [Blanford Fox 2016](https://airtable.com/shr4wXkNEQc2ezCRR)
 

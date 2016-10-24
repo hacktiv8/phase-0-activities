@@ -10,14 +10,13 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Senin - Dunia JavaScript
 
--  [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
-:wrench:
--  [Memahami dan menggunakan dasar pemrograman dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-first-time.md)
-:notebook_with_decorative_cover:
--  [Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
-:notebook_with_decorative_cover:
--  [Memahami Control Flow: Conditional dan Branching](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
-:notebook_with_decorative_cover:
+- :wrench:
+[JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
+- :notebook_with_decorative_cover:
+[Memahami dan menggunakan dasar pemrograman dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-first-time.md)
+- :notebook_with_decorative_cover:
+[Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+- :notebook_with_decorative_cover: [Memahami Control Flow: Conditional dan Branching](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 -  [Memahami Control Flow: Iteration atau Looping ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 :notebook_with_decorative_cover:
 -  [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
