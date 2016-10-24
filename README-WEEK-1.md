@@ -32,78 +32,78 @@ Panduan:
 
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 
-- ▢ [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-:anchor:
-- ▢ [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
+- :anchor:
+[Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+- :notebook_with_decorative_cover:
+[Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
+-  [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
 :notebook_with_decorative_cover:
-- ▢ [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
-:notebook_with_decorative_cover:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+-  [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 
-- ▢ [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
+-  [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 :notebook_with_decorative_cover:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+-  [Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 
 ## Rabu - Mendalami Penggunaan CSS
 
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+-  [Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
+-  [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
 :anchor:
-- ▢ [Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+-  [Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 :anchor:
-- ▢ [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
+-  [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 :notebook_with_decorative_cover:
-- ▢ [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
+-  [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
 :notebook_with_decorative_cover:
-- ▢ [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+-  [Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
 :anchor:
-- ▢ [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+-  [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 :anchor:
 
 ## Jumat -
 
-- ▢ [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
+-  [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 :notebook_with_decorative_cover:
-- ▢ [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
+-  [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
 :notebook_with_decorative_cover:
-- ▢ [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
+-  [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
 :books:
-- ▢ [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
+-  [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 :books:
-- ▢ [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+-  [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 :anchor:
-- ▢ [Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+-  [Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 :anchor:
 
 ## Sabtu dan Minggu
 
-- ▢ [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
-- ▢ [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
-- ▢ Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
+-  [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
+-  [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
+-  Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
   - [Arctic Fox 2016](https://airtable.com/shrZq6ybnMIuQju4A)
   - [Blanford Fox 2016](https://airtable.com/shr1RF7TJyJiAp7mO)
 
