@@ -39,31 +39,33 @@ untuk mampu mengerjakan tantangan-tantangan yang jauh lebih sulit di beberapa ha
 
 ## Rabu
 Hari sesungguhnya dalam tantangan untuk melatih logikamu dimulai! Kami akan memandumu untuk menggunakan
-CoderBytes, tempatmu untuk melatih logikamu dalam JavaScript kan kamu akan mulai mengerjakan soal-soal
+coderbyte, tempatmu untuk melatih logikamu dalam JavaScript kan kamu akan mulai mengerjakan soal-soal
 dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 
+- :wrench:
+[Coderbyte, platform online untuk berlatih JavaScript](https://coderbyte.com/)
 - :notebook_with_decorative_cover:
-[Panduan untuk menggunakan Coderbytes](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+[Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
-[Coderbytes Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
+[coderbyte Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
 - :anchor:
-[Coderbytes Looping - First Reverse](https://coderbyte.com/information.php?ct=First%20Reverse)
+[coderbyte Looping - First Reverse](https://coderbyte.com/information.php?ct=First%20Reverse)
 - :anchor:
-[Coderbytes Looping - Time Convert](https://coderbyte.com/information.php?ct=Time%20Convert)
+[coderbyte Looping - Time Convert](https://coderbyte.com/information.php?ct=Time%20Convert)
 - :anchor:
-[Coderbytes Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome)
+[coderbyte Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome)
 - :anchor:
-[Coderbytes Looping and Conditional - Ex Oh](https://coderbyte.com/information.php?ct=Ex%20Oh)
+[coderbyte Looping and Conditional - Ex Oh](https://coderbyte.com/information.php?ct=Ex%20Oh)
 - :anchor:
-[Coderbytes Looping and Conditional - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
+[coderbyte Looping and Conditional - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
 - :anchor:
-[Coderbytes Looping and Conditional - Word Count](https://coderbyte.com/information.php?ct=Word%20Count)
+[coderbyte Looping and Conditional - Word Count](https://coderbyte.com/information.php?ct=Word%20Count)
 - :anchor:
-[Coderbytes Looping and Conditional - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
+[coderbyte Looping and Conditional - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
 - :rocket:
-[Coderbytes Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
+[coderbyte Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
 - :rocket:
-[Coderbytes Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals)
+[coderbyte Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals)
 
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
@@ -71,39 +73,39 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :anchor:
-[Coderbytes Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
+[coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
-[Coderbytes Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
+[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
 - :anchor:
-[Coderbytes Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
+[coderbyte Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
 - :anchor:
-[Coderbytes Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
+[coderbyte Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
 - :anchor:
-[Coderbytes Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
+[coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 - :anchor:
-[Coderbytes Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
+[coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
 - :anchor:
-[Coderbytes Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
+[coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
 - :anchor:
-[Coderbytes Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
+[coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
 - :rocket:
-[Coderbytes Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
+[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
 - :rocket:
-[Coderbytes Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition)
+[coderbyte Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition)
 - :rocket:
-[Coderbytes Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow)
+[coderbyte Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow)
 
 ## Jumat
 Hari baru, tantangan baru! Sekarang, tantang dirimu untuk melatih kemampuanmu dalam menggunakan Recursion!
 
 - :anchor:
-[Coderbytes Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial)
+[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial)
 - :anchor:
-[Coderbytes Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
+[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
 - :anchor:
-[Coderbytes Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence)
+[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence)
 - :anchor:
-[Coderbytes Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
+[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
 
 ## Sabtu dan Minggu
 

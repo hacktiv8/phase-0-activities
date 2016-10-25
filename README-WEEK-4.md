@@ -10,11 +10,11 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin - Coderbytes
+## Senin - coderbyte
 
-## Selasa - Coderbytes
+## Selasa - coderbyte
 
-## Rabu - Coderbytes
+## Rabu - coderbyte
 
 ## Kamis - Refreshment: DOM
 
