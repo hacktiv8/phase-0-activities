@@ -16,9 +16,15 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Rabu - coderbyte **AD-TODO**
 
-## Kamis - coderbyte **AD-TODO**
+## Kamis - Refreshment: DOM **AD-TODO**
 
-## Jumat - coderbyte **AD-TODO**
+- :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
+- :notebook_with_decorative_cover: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
+
+## Jumat - Refreshment: Manipulasi DOM Dengan JQuery!
+
+- :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md) **AD-TODO**
+- :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/) **AKBR-TODO**
 
 ## Monday
 
