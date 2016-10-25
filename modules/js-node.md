@@ -23,3 +23,36 @@ Untuk mengetest apakah node.jsmu sudah berjalan dengan benar, masuk ke Terminal 
 ```
 
 Apabila versi node.js mu keluar, berarti kamu telah menginstall node.js dengan benar! Dengan menginstall node.js, kamu juga secara otomatis telah menginstall Node Package Manager, sebuah tools yang digunakan untuk memaintain semua package yang akan berjalan di atas node.js. Kamu bisa abaikan soal NPM untuk sementara, namun ini akan menjadi senjata utama kita di materi HACKTIV8 yang akan mendatang!
+
+### REPL Node.js
+
+REPL adalah sebuah fitur pada node.js yang memiliki kepanjangan adalah Read Eval Print Loop. Kamu bisa menjalankan berbagai operasi javascript pada Node.js melalui REPL. Untuk mencobanya, kamu hanya perlu menjalankan node, dan memasukkan berbagai instruksi operasi yang mau kamu jalankan.
+
+```javascript
+> node
+> 1 + 2
+3
+> 'hello HACKTIV8'
+'hello HACKTIV8'
+> 'node js is ' + 'cool!'
+'node js is cool!'
+```
+
+### Menjalankan file JavaScript melalui Terminal dengan Node.js
+
+Dengan node.js, kamu bisa menjalankan file JavaScript tanpa harus melalui client-side (browser), namun dengan server-side (menggunakan terminal atau command prompt). Untuk menjalankan, kamu tinggal menggunakan node <spasi> nama file javascript yang mau kamu jalankan.
+
+
+**contoh**
+
+test-javascript.js:
+```javascript
+var message = 'hello! I\'m calling JavaScript using node! W00t!'
+console.log(message)
+```
+
+CONSOLE:
+```javascript
+> node test-javascript.js
+'hello! I\'m calling JavaScript using node! W00t!'
+```
