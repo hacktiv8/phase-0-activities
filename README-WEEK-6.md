@@ -30,39 +30,11 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
-## Monday
+## Kamis - Review Phase 0
 
-- ▢ [Mengenal Object-Oriented Programming](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-- ▢ [Mengenal, membaca, dan membuat dokumentasi code](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-documentation.md)
-- ▢ [Challenge-Menu Restaurant](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/restaurant.md) :anchor:
-- ▢ [Challenge-Recursive Range Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/range-angka.md) :anchor:
+## Jumat - Review Phase 0
 
-## Tuesday
-
-- ▢ [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-- ▢ [Challenge-Promo Menu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-menu.md) :anchor:
-- ▢ [Challenge-Recursive Sum Array Number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/sum-array.md) :anchor:
-
-## Wednesday
-
-- ▢ [Mengeksplorasi berbagai tooling dalam pembuatan aplikasi web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/tooling.md)
-- ▢ [Mencoba menggunakan jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
-- ▢ [Mencoba menggunakan Bootstrap](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bootstrap.md)
-- ▢ [Challenge-Promo Credit Card](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-cc.md) :anchor:
-- ▢ [Challenge-Recursive Angka Kuadrat](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/angka-kuadrat.md) :anchor:
-
-## Thursday
-
-- ▢ [Mengenal teknologi database](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/database.md)
-- ▢ [Mengenal desain dan arsitektur aplikasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/app-design-architecture.md)
-
-## Friday
-
-- ▢ [Melihat performa kecepatan website dengan online tools](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-speed.md)
-- ▢ [Menghemat aset website dengan kompresi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-assets-compression.md)
-- ▢ [Berkreasi membuat website sesuka hati](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-creation.md)
-
-## Saturday and Sunday
+## Sabtu dan Minggu
 
 - ▢ [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 - ▢ [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
