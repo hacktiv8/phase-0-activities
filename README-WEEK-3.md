@@ -45,7 +45,7 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 - :wrench:
 [Coderbyte, platform online untuk berlatih JavaScript](https://coderbyte.com/)
 - :notebook_with_decorative_cover:
-[Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+[Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md) **AD-TODO**
 - :anchor:
 [coderbyte Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
 - :anchor:
@@ -71,7 +71,7 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
 - :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md) **AD-TODO**
 - :anchor:
 [coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:

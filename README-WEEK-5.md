@@ -10,6 +10,15 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
+## Senin - coderbyte **AD-TODO**
+
+## Selasa - coderbyte **AD-TODO**
+
+## Rabu - coderbyte **AD-TODO**
+
+## Kamis - coderbyte **AD-TODO**
+
+## Jumat - coderbyte **AD-TODO**
 
 ## Monday
 
