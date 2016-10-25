@@ -15,17 +15,21 @@ Regular Expressions, atau disingkat menjadi Regex, di kalangan programmer, kadan
 
 Kuncinya untuk memahami Regular Expressions adalah mampu menghapal simbol-simbol dibawah ini, beserta kegunaannya. Untuk memudahkanmu, kamu bisa mencatat, membuat semacam cheatsheet, atau membuat jembatan keledai dengan caramu sendiri untuk memudahkanmu.
 
-. - Matches any character, except for line breaks if dotall is false.
-* - Matches 0 or more of the preceding character.
-+ - Matches 1 or more of the preceding character.
-? - Preceding character is optional. Matches 0 or 1 occurrence.
-\d - Matches any single digit
-\w - Matches any word character (alphanumeric & underscore).
+. - Mencocokan karakter apapun, kecuali line breaks(jeda baris/enter).
+* - Mencocokan 0 atau lebih dari karakter terdahulu.
++ - Mencocokan 1 atau lebih dari karakter terdahulu.
+? - Karakter terdahulu menjadi opsional. Mencocokan 0 atau 1.
+\d - Mencocokan digit apapun
+\w - Mencocokan karakter pada sebuah kata (alphanumeric dan underscore/garis bawah).
 [XYZ] - Matches any single character from the character class.
 [XYZ]+ - Matches one or more of any of the characters in the set.
-$ - Matches the end of the string.
-^ - Matches the beginning of a string.
-[^a-z] - When inside of a character class, the ^ means NOT; in this case, match anything that is NOT a lowercase letter.
+$ - Mencocokan ujung dari sebuah string.
+^ - Mencocokan awal dari sebuah string.
+[^a-z] - Ketika didalam sebuah class karakter, tanda ^ artinya NOT; dalam kasus ini, regex akan mencocokan apapun yang bukan karakter lowercase.
+
+### Mengetest Kemampuan Regular Expressions
+
+Ada sebuah platform yang cocok untuk melatih kamu dalam menggunakan regex, yaitu [regexr.com](http://regexr.com/)
 
 ## References
 
