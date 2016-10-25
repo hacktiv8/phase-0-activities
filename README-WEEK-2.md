@@ -65,7 +65,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 
 ## Jumat - Your First JavaScript App!
 
-- :anchor: [Tantangan Kombinasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+- :anchor: [Tantangan Final W2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
 
 ## Sabtu dan Minggu
 
