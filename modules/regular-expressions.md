@@ -82,9 +82,9 @@ console.log(str.split(/\s/));
 Fungsi `replace()` akan mengganti seluruh sebuah blok tertentu dalam sebuah teks, dan menggantinya dengan karakter atau teks lain.
 
 ```javascript
-var stringAwal = 'Hello World';
-stringHasil = stringAwal.replace(/World/, 'HACKTIV8');
-console.log(stringHasil); // mengembalikan nilai "Hello HACKTIV8"
+var stringAwal = 'Regex itu sangat susah!';
+stringHasil = stringAwal.replace(/susah/, 'mudah');
+console.log(stringHasil); // mengembalikan nilai "Regex itu sangat mudah!"
 ```
 
 #### Match
