@@ -1,8 +1,11 @@
-# :rocket: Week 1 Challenge
+# :rocket: Proxytia to Next Level
 
 ## Objectives
 
-> Mengimplementasikan Semua Materi di Week 1
+- Mampu menggunakan variabel dengan benar
+- Mampu melakukan operasi aritmatika pada JavaScript
+- Mampu mengimplimentasikan perulangan menggunakan `for` atau `while`
+- Mampu mengimplimentasikan `if-else if-else` dan mengerti logikanya 
 
 ## Directions
 
