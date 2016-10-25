@@ -25,15 +25,15 @@
 - :anchor: **W2-4** Memahami penggunaan function recursive dalam JavaScript
 - :rocket: **W3** Menguasai penggunaan Regular Expressions
 
-### Programming Logics
-- :anchor: **W3** Mampu mengubah Soal Kasus menjadi Pseudocode
-- :anchor: **W3** Mampu mengubah Pseudocode menjadi JavaScript code
+### Programming Logics and Pseudocodes
+- :anchor: **W2** Mampu mengubah Soal kasus menjadi Pseudocode
+- :anchor: **W2** Mampu mengubah Pseudocode menjadi JavaScript code
+- :anchor: **W3-5** Mampu menggabungkan sintaks JavaScript untuk memecahkan soal logika dengan efisien (by LoC in Coderbyte)
+- :anchor: **W3-5** Mampu memecahkan soal logika dalam JavaScript dengan cepat (by Time in Coderbyte)
 
 ### JavaScript Advanced
 - :anchor: **W3** Memahami penggunaan Object (dan nested object) dan JSON
 - :anchor: **W3-5** Memahami penggunaan built-in functions (length, indexOf, split, join, slice, splice, push, pop, shift, unshift)
-- :anchor: **W3-5** Mampu menggabungkan sintaks JavaScript untuk memecahkan soal logika dengan efisien (LoC Coderbyte)
-- :anchor: **W3-5** Mampu memecahkan soal logika dalam JavaScript dengan cepat (Time Coderbyte)
 - :anchor: **W3-5** Menulis kode JavaScript dengan penamaan variabel, fungsi, dan flow yang baik dan readable
 
 ### DOM Manipulation
