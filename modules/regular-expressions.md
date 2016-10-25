@@ -45,7 +45,12 @@ Fungsi test akan mengembalikan nilai `true` atau `false`.
 
 ```javascript
 var message = 'Regex itu Mudah!';
-console.log(/[A-Za-z_-]+/.test(message)); // mengembalikan nilai true
+console.log(/[A-Z]/.test(message));
+// mengembalikan nilai true karena minimal satu karakter memenuhi pattern A-Z
+
+var messageAllLowerCase = 'regex itu mudah';
+console.log(/[A-Z]/.test(messageAllLowerCase));
+// mengembalikan nilai false karena tidak ada satupun karakter yang memenuhi pattern A-Z
 ```
 
 ### Mengetest Kemampuan Regular Expressions
