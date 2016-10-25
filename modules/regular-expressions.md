@@ -87,7 +87,7 @@ stringHasil = stringAwal.replace(/World/, 'HACKTIV8');
 console.log(stringHasil); // mengembalikan nilai "Hello HACKTIV8"
 ```
 
-### Match
+#### Match
 Fungsi `match()` akan mengembalikan dalam bentuk array setiap kali sebuah kecocokan dengan pattern ditemukan di dalam teks.
 
 **Contoh 1 Penggunaan Match - Mencocokan Karakter**
