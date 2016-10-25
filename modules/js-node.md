@@ -2,6 +2,10 @@
 
 ## Objectives
 
+- ▢ Mengenal node.js
+- ▢ Meninstall node.js di komputer
+- ▢ Memanfaatkan node.js untuk menjalankan JavaScript melalui server-side
+
 ## Learnings
 
 ### Mengenal Node.js
