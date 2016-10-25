@@ -14,9 +14,9 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Selasa - coderbyte **AD-TODO**
 
-## Rabu - coderbyte **AD-TODO**
+## Rabu - Refreshment: Introducing DOM and Events **AD-TODO**
 
-## Kamis - Refreshment: DOM **AD-TODO**
+## Kamis - Refreshment: More about DOM **AD-TODO**
 
 - :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
 - :notebook_with_decorative_cover: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
