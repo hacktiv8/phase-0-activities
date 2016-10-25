@@ -29,6 +29,25 @@ $ // - Mencocokan ujung dari sebuah string.
 [^a-z] // - Ketika didalam sebuah class karakter, tanda ^ artinya NOT; dalam kasus ini, regex akan mencocokan apapun yang bukan karakter lowercase.
 ```
 
+### Penggunaan Regular Expressions dalam JavaScript
+
+#### Menulis Regex
+
+Menulis Regex dalam javascript bisa dalam 2 bentuk, yaitu antara dengan membuat Regex object dengan menggunakan `new RegExp()`, atau menggunakan nilai literal yang diapit oleh karakter flash (/).
+
+```javascript
+var regexContohSatu = new RegExp("abc");
+var regexContohDua = /abc/;
+```
+
+#### Test()
+Fungsi test akan mengembalikan nilai `true` atau `false`.
+
+```javascript
+var message = 'Regex itu Mudah!';
+console.log(/[A-Za-z_-]+/.test(message)); // mengembalikan nilai true
+```
+
 ### Mengetest Kemampuan Regular Expressions
 
 Ada sebuah platform yang cocok untuk melatih kamu dalam menggunakan regex, yaitu [regexr.com](http://regexr.com/)
