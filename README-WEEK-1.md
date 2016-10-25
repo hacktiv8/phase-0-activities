@@ -123,6 +123,10 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 -  Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
   - [Arctic Fox 2016](https://airtable.com/shrZq6ybnMIuQju4A)
   - [Blanford Fox 2016](https://airtable.com/shr1RF7TJyJiAp7mO)
+  - [Cross Fox 2016](https://hacktiv8.com)
+  - [Darwin's Fox 2016](https://airtable.com/shr1RF7TJyJiAp7mO)
+  - [Ethiopian Fox 2017](https://airtable.com/shr1RF7TJyJiAp7mO)
+  - [Fennec Fox 2017](https://airtable.com/shr1RF7TJyJiAp7mO)
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
