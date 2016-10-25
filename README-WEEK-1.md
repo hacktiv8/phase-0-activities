@@ -10,7 +10,7 @@ Kami sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun 
 
 **Bagaimana Phase 0 ini akan berjalan?**
 
-Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 4 email (termasuk email ini) berisi indeks kegiatan yang akan dikirim tiap pekannya. Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu paling cepat 15-30 jam. Pun kalau kamu sudah bisa berbagai skill yang sudah tertera, bisa saja juga ada beberapa hal esensial dan tambahan yang belum kamu tahu. Tiap akhir pekan, kamu harus mengisi form laporan kegiatan yang link-nya disertakan di bawah.
+Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. Course ini terbagi menjadi 6 email (termasuk email ini) berisi indeks kegiatan yang akan dikirim tiap pekannya. Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu paling cepat 20-30 jam. Pun kalau kamu sudah bisa berbagai skill yang sudah tertera, bisa saja juga ada beberapa hal esensial dan tambahan yang belum kamu tahu. Tiap akhir pekan, kamu harus mengisi form laporan kegiatan yang link-nya disertakan di bawah.
 
 ![Let's start!](assets/start.png)
 
