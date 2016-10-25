@@ -92,12 +92,15 @@ Fungsi `match()` akan mengembalikan dalam bentuk array setiap kali sebuah kecoco
 
 **Contoh 1 Penggunaan Match - Mencocokan Karakter**
 ```javascript
-var message = 'Regex seru!';
+var message = 'Regex seru DEH!';
 console.log(message.match(/e/));
 // menampilkan "e", namun hanya sekali
 
 console.log(message.match(/e/g));
 // menampilkan "e" untuk setiap "e" yang terdapat di dalam teks. `g` menandakan pencarian secara global, tidak hanya satu kali
+
+console.log(message.match(/e/gi));
+// menampilkan "e" untuk setiap "e" yang terdapat di dalam teks. `i` menandakan pencarian karakter dengan ignore case, atau mengabaikan besar kecilnya karakter, sehingga "E" pun akan dicocokkan. 
 ```
 
 **Contoh 2 Penggunaan Match - Mencocokan Karakter dan Mengecualikan Punctuation atau Simbol**
