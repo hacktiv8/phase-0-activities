@@ -92,8 +92,7 @@ telah punya website kamu sendiri secara online!
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - :notebook_with_decorative_cover:
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
-- :anchor:
-[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages.md)
+
 - :anchor:
 [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 
@@ -111,11 +110,11 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 - :books:
 [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 - :anchor:
-[Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md) **AKBR-TODO**
+[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
 - :anchor:
-[Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md) **AKBR-TODO**
+[Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - :anchor:
-[Membuat Website yang ditampilkan dengan github io](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md) **AKBR-TODO**
+[Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md) 
 
 
 ## Sabtu dan Minggu
