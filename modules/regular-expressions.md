@@ -73,9 +73,9 @@ Fungsi `split()` akan memecah setiap pattern yang ditemui ke dalam bentuk array.
 pernah kita gunakan sebelumnya dalam memecah string menjadi array.
 
 ```javascript
-var str = 'ini adalah sebuah string';
+var str = 'belajar regex itu menyenangkan';
 console.log(str.split(/\s/));
-// mengembalikan nilai "ini, adalah, sebuah, string" karena \s adalah sebuah pattern untuk satu spasi.
+// mengembalikan nilai "belajar, regex, itu, menyenangkan" karena \s adalah sebuah pattern untuk satu spasi.
 ```
 
 #### Replace
@@ -102,14 +102,14 @@ console.log(message.match(/e/g));
 
 **Contoh 2 Penggunaan Match - Mencocokan Karakter dan Mengecualikan Punctuation atau Simbol**
 ```javascript
-var string = 'ini adalah sebuah string yang dicampur dengan simbol !@#%^ dan !#*#$';
-console.log(string.match(/[a-z]+/g));
-//menampilkan ["ini", "adalah", "sebuah", "string", "yang", "dicampur", "dengan", "simbol", "dan"]
+var string = 'Walaupun regex banyak mengandung simbol, tapi tidak serumit seperti !@#%^%#$*( , ^%&*!!^& dan !#*#$&*@%#';
+console.log(string.match(/[a-z]+/gi));
+//menampilkan ["Walaupun", "regex", "banyak", "mengandung", "simbol", "tapi", "tidak", "serumit", "seperti", "dan"]
 ```
 
 Simbol-simbol diatas, sering disebut sebagai Punctiation. Seringkali dalam beberapa kasus, kita mau menghapus semua simbol-simbol diatas.
 
-Jika kamu teliti, kamu pasti menemukan simbol `+` dibelakang `[a-z]`. Simbol `+` disini berarti match akan menyatukan seluruh karakter yang cocok dengan pattern a-z hingga menemukan pattern lain diluar pattern tersebut. Dalam kasus contoh di atas, setiap kali menemukan spasi, contohya pada `ini adalah` match akan memisahkan `ini` dan `adalah` karena ditemukannya spasi tersebut. Apabila kamu penasaran, cobalah hapus simbol `+` dari code diatas, dan jalankanlah kembali. Hasilnya akan berbeda!
+Jika kamu teliti, kamu pasti menemukan simbol `+` dibelakang `[a-z]`. Simbol `+` disini berarti match akan menyatukan seluruh karakter yang cocok dengan pattern a-z hingga menemukan pattern lain diluar pattern tersebut. Dalam kasus contoh di atas, setiap kali menemukan spasi, contohya pada `Walaupun regex` match akan memisahkan `Walaupun` dan `regex` karena ditemukannya spasi tersebut. Apabila kamu penasaran, cobalah hapus simbol `+` dari code diatas, dan jalankanlah kembali. Hasilnya akan berbeda!
 
 
 
