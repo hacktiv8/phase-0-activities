@@ -105,7 +105,7 @@ Hari baru, tantangan baru! Sekarang, tantang dirimu untuk melatih kemampuanmu da
 - :anchor:
 [Coderbytes Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
 
-## Saturday and Sunday
+## Sabtu dan Minggu
 
 - :anchor: [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 - :anchor: [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)

@@ -43,7 +43,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :anchor: [Menghemat aset website dengan kompresi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-assets-compression.md)
 - :anchor: [Berkreasi membuat website sesuka hati](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-creation.md)
 
-## Saturday and Sunday
+## Sabtu dan Minggu
 
 - :anchor: [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 - :anchor: [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)

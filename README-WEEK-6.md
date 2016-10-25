@@ -30,7 +30,6 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
-
 ## Monday
 
 - ▢ [Mengenal Object-Oriented Programming](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
