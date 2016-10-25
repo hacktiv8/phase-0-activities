@@ -31,7 +31,7 @@
 
 ### JavaScript Advanced
 - :anchor: **W3** Memahami penggunaan Object (dan nested object) dan JSON
-- :anchor: **W3-5** Memahami penggunaan built-in functions (length, split, join, slice, splice, push, pop, shift, unshift)
+- :anchor: **W3-5** Memahami penggunaan built-in functions (length, indexOf, split, join, slice, splice, push, pop, shift, unshift)
 - :anchor: **W3-5** Mampu menggabungkan sintaks JavaScript untuk memecahkan soal logika dengan efisien (LoC Coderbyte)
 - :anchor: **W3-5** Mampu memecahkan soal logika dalam JavaScript dengan cepat (Time Coderbyte)
 - :anchor: **W3-5** Menulis kode JavaScript dengan penamaan variabel, fungsi, dan flow yang baik dan readable
