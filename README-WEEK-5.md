@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 5: ES6 dan Paradigma Baru!
+# Hacktiv8 Phase 0 Week 5: The World of DOM, Events, and Scope
 
 ![Header](assets/header-w4.jpg)
 

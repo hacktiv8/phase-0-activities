@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 4: The World of DOM, Events, and Scope
+# Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 
 ![Header](assets/header-w3.jpg)
 

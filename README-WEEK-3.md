@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 3: Enter Node JS
+# Hacktiv8 Phase 0 Week 3: Enter Node JS and JavaScript Training
 
 ![Header](assets/header-w3.jpg)
 
