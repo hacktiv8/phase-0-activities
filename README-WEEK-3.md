@@ -73,17 +73,19 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 - :anchor:
 [Coderbytes Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
-[Coderbytes Utilities - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
+[Coderbytes Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
 - :anchor:
-[Coderbytes Utilities - AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
+[Coderbytes Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
 - :anchor:
-[Coderbytes Utilities - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
+[Coderbytes Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
 - :anchor:
-[Coderbytes Utilities and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
+[Coderbytes Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 - :anchor:
-[Coderbytes Utilities and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
+[Coderbytes Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
 - :anchor:
-[Coderbytes Utilities and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
+[Coderbytes Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
+- :anchor:
+[Coderbytes Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
 - :rocket:
 [Coderbytes Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
 - :rocket:
