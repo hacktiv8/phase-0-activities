@@ -26,32 +26,33 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 - :anchor:
 [Mengenal penggunaan Iteration (For, While) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-for.md)
 - :rocket:
-[Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+[Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md) **AKBR-TODO**
 
 ## Selasa - Pseudocode, Functions, dan Scope
 
 - :notebook_with_decorative_cover:
-[Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+[Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO REVIEW**
 - :notebook_with_decorative_cover:
-[Mempelajari Function atau Method](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-method.md)
+[Mempelajari Function atau Method](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-method.md) **AD-TODO REVIEW**
 - :notebook_with_decorative_cover:
-[Mempelajari Scope](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
+[Mempelajari Scope](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md) **AD-TODO REVIEW**
 - :anchor:
-[Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
+[Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
 - :anchor:
-[Mengenal Penggunaan Functions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+[Mengenal Penggunaan Functions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md) **AD-TODO**
 - :anchor:
 [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
-- :anchor: [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
-- :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
-- :anchor: [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md)
-- :rocket: [Tantangan Minggu 2](modules/challenge-week2.md)
+- :anchor: [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)  **AKBR-TODO**
+- :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
+- :anchor: [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md) **AKBR-TODO REVIEW**
+- :anchor: [Melakukan Perulangan Menggunakan `For`](modules/anchor-belajar-while.md) **AKBR-TODO**
+- :rocket: [Tantangan Minggu 2](modules/challenge-week2.md) **AKBR-TODO REVIEW**
 
 ## Rabu - Arrays
--  [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md)
-:notebook_with_decorative_cover:
--  [Tantangan Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
-:anchor:
+- :notebook_with_decorative_cover: [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md) **AD-TODO REVIEW**
+- :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
+- :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
+- :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
 
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 
