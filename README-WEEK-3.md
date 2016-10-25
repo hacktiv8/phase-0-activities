@@ -71,7 +71,9 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
 - :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md) **AD-TODO**
+[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
+- :anchor:
+[Melatih Kemampuan Menggunakan Regex](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md) **AD-TODO**
 - :anchor:
 [coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
