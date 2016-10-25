@@ -114,6 +114,8 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 - :anchor:
 [Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+- :anchor:
+[Membuat Website yang ditampilkan dengan github io](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 
 
 ## Sabtu dan Minggu
