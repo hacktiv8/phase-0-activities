@@ -49,7 +49,7 @@ var message = 'Regex itu Mudah!';
 console.log(/[A-Z]/.test(message));
 // mengembalikan nilai true karena minimal satu karakter memenuhi pattern A-Z
 
-var messageAllLowerCase = 'regex itu mudah';
+var messageAllLowerCase = 'regex itu susah?';
 console.log(/[A-Z]/.test(messageAllLowerCase));
 // mengembalikan nilai false karena tidak ada satupun karakter yang memenuhi pattern A-Z
 ```
