@@ -15,6 +15,7 @@ Regular Expressions, atau disingkat menjadi Regex, di kalangan programmer, kadan
 
 Kuncinya untuk memahami Regular Expressions adalah mampu menghapal simbol-simbol dibawah ini, beserta kegunaannya. Untuk memudahkanmu, kamu bisa mencatat, membuat semacam cheatsheet, atau membuat jembatan keledai dengan caramu sendiri untuk memudahkanmu.
 
+```
 . - Mencocokan karakter apapun, kecuali line breaks(jeda baris/enter).
 * - Mencocokan 0 atau lebih dari karakter terdahulu.
 + - Mencocokan 1 atau lebih dari karakter terdahulu.
@@ -26,6 +27,7 @@ Kuncinya untuk memahami Regular Expressions adalah mampu menghapal simbol-simbol
 $ - Mencocokan ujung dari sebuah string.
 ^ - Mencocokan awal dari sebuah string.
 [^a-z] - Ketika didalam sebuah class karakter, tanda ^ artinya NOT; dalam kasus ini, regex akan mencocokan apapun yang bukan karakter lowercase.
+```
 
 ### Mengetest Kemampuan Regular Expressions
 
