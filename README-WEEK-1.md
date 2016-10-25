@@ -60,7 +60,7 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+[Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html.md)
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -73,7 +73,7 @@ Box Sizing dan Position.
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+[Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html2.md)
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
@@ -87,7 +87,7 @@ telah punya website kamu sendiri secara online!
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+[Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html3.md)
 - :notebook_with_decorative_cover:
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - :notebook_with_decorative_cover:
