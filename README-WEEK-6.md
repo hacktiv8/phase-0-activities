@@ -36,7 +36,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Rabu - Jumat: Online Live Coding
 
 - :anchor:
-Melakukan Live Coding secara Online
+Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
 ## Sabtu dan Minggu
 
