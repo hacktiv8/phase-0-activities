@@ -14,49 +14,16 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Selasa - coderbyte **AD-TODO**
 
-## Rabu - Refreshment: Introducing DOM and Events **AD-TODO**
+## Rabu - coderbyte **AD-TODO**
 
 ## Kamis - Refreshment: More about DOM **AD-TODO**
 
-- :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
-- :notebook_with_decorative_cover: [Memahami DOM lebih lanjut](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
+- :notebook_with_decorative_cover: [Memahami Document Object Model](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
 
 ## Jumat - Refreshment: Manipulasi DOM Dengan JQuery!
 
-- :notebook_with_decorative_cover: [Mengenal Istilah DOM](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md) **AD-TODO**
+- :notebook_with_decorative_cover: [Mengenal jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md) **AD-TODO**
 - :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/) **AKBR-TODO**
-
-## Monday
-
-- :anchor: [Arrow Functions!](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-- :anchor: [Mengenal, membaca, dan membuat dokumentasi code](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/code-documentation.md)
-- :anchor: [Challenge-Menu Restaurant](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/restaurant.md) :anchor:
-- :anchor: [Challenge-Recursive Range Angka](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/range-angka.md) :anchor:
-
-## Tuesday
-
-- :anchor: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-- :anchor: [Challenge-Promo Menu](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-menu.md) :anchor:
-- :anchor: [Challenge-Recursive Sum Array Number](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/sum-array.md) :anchor:
-
-## Wednesday
-
-- :anchor: [Mengeksplorasi berbagai tooling dalam pembuatan aplikasi web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/tooling.md)
-- :anchor: [Mencoba menggunakan jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
-- :anchor: [Mencoba menggunakan Bootstrap](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/bootstrap.md)
-- :anchor: [Challenge-Promo Credit Card](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/promo-cc.md) :anchor:
-- :anchor: [Challenge-Recursive Angka Kuadrat](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/angka-kuadrat.md) :anchor:
-
-## Thursday
-
-- :anchor: [Mengenal teknologi database](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/database.md)
-- :anchor: [Mengenal desain dan arsitektur aplikasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/app-design-architecture.md)
-
-## Friday
-
-- :anchor: [Melihat performa kecepatan website dengan online tools](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-speed.md)
-- :anchor: [Menghemat aset website dengan kompresi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-assets-compression.md)
-- :anchor: [Berkreasi membuat website sesuka hati](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-creation.md)
 
 ## Sabtu dan Minggu
 

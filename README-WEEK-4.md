@@ -15,6 +15,8 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :anchor:
 [coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert) (30 menit)
 - :anchor:
+[coderbyte Built-in Functions and Looping - Dash Insert II](https://coderbyte.com/information.php?ct=Dash%20Insert%20II) (30 menit)
+- :anchor:
 [coderbyte Built-in Functions and Looping - Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize) (30 menit)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes) (30 menit)
@@ -26,9 +28,13 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :anchor:
 [coderbyte Regex and Looping - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
 - :anchor:
-[coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified) (60 menit)
+[coderbyte Looping and Conditional - Division](https://coderbyte.com/information.php?ct=Division) (30 menit)
 - :anchor:
-[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode) (60 menit)
+[coderbyte Looping and Conditional - Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time) (30 menit)
+- :anchor:
+[coderbyte Looping and Conditional - Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified) (60 menit)
 - :anchor:
 [coderbyte Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
 - :anchor:
@@ -36,6 +42,8 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Rabu - coderbyte **AD-TODO**
 
+- :anchor:
+[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode) (60 menit)
 - :anchor:
 [coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial) (30 menit)
 - :anchor:
