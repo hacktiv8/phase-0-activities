@@ -49,9 +49,9 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 
 ## Rabu - Arrays
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md) **AD-TODO REVIEW**
-- :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
-- :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
-- :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
+- :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-akses-array.md)
+- :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-loop-array.md)
+- :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-mixed-array.md)
 
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 
