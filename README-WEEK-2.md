@@ -31,7 +31,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 ## Selasa - Pseudocode, Functions, dan Scope
 
 - :notebook_with_decorative_cover:
-[Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO REVIEW**
+[Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover:
 [Mempelajari Function atau Method](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-method.md)
 - :notebook_with_decorative_cover:
