@@ -19,19 +19,24 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 [Mengubah Sintaks ES5 ke ES6!](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
 - :anchor:
 
-## Selasa - Paradigma Object Oriented Programming
+## Selasa - Paradigma Object Oriented Programming dan Functional Programming
 
 - :notebook_with_decorative_cover:
 [Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
-## Rabu - Paradigma Functional Programming
-
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) **AD-TODO**
 
-## Kamis - Review Phase 0 **AD-TODO**
+- :notebook_with_decorative_cover:
+[Menggunakan OOP dalam JavaScript dengan ES Class](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md) **AD-TODO**
 
-## Jumat - Review Phase 0 **AD-TODO**
+- :notebook_with_decorative_cover:
+[Menggunakan OOP dalam JavaScript dengan ES Class](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
+
+## Rabu - Jumat: Online Live Coding
+
+- :anchor:
+Melakukan Live Coding secara Online
 
 ## Sabtu dan Minggu
 
