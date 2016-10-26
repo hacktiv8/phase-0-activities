@@ -10,11 +10,22 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin - coderbyte **AD-TODO**
+## Senin - coderbyte
 
-## Selasa - coderbyte **AD-TODO**
+- :anchor:
+[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode) (60 menit)
+- :anchor:
+[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial) (30 menit)
+- :anchor:
+[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) (30 menit)
+- :anchor:
+[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence) (30 menit)
+- :anchor:
+[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence) (30 menit)
 
-## Rabu - coderbyte **AD-TODO**
+## Selasa - Online Live Coding (Looping, Conditional, and Recursion)
+
+## Rabu - DOM Introduction **AD-TODO**
 
 ## Kamis - Refreshment: More about DOM **AD-TODO**
 

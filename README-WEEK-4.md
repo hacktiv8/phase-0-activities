@@ -12,19 +12,43 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Senin - coderbyte **AD-TODO**
 
+Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions!
+
+- :notebook_with_decorative_cover:
+[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
+- :anchor:
+[Melatih Kemampuan Menggunakan Regex](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md) (30 menit) **AD-TODO**
+- :anchor:
+[coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word) (30 menit)
+- :anchor:
+[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols) (30 menit)
+
+## Selasa - coderbyte **AD-TODO**
+
+- :anchor:
+[coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case) (30 menit)
+- :anchor:
+[coderbyte Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals) (60 menit)
+
 - :anchor:
 [coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert) (30 menit)
-- :anchor:
-[coderbyte Built-in Functions and Looping - Dash Insert II](https://coderbyte.com/information.php?ct=Dash%20Insert%20II) (30 menit)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize) (30 menit)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes) (30 menit)
+
+## Rabu - coderbyte
+
+- :anchor:
+[coderbyte Built-in Functions and Looping - Dash Insert II](https://coderbyte.com/information.php?ct=Dash%20Insert%20II) (30 menit)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I) (30 menit)
-
-## Selasa - coderbyte **AD-TODO**
-
 - :anchor:
 [coderbyte Regex and Looping - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
 - :anchor:
@@ -33,6 +57,9 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 [coderbyte Looping and Conditional - Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time) (30 menit)
 - :anchor:
 [coderbyte Looping and Conditional - Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode) (30 menit)
+
+## Kamis - coderbyte
+
 - :anchor:
 [coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified) (60 menit)
 - :anchor:
@@ -40,22 +67,10 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :anchor:
 [coderbyte Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow) (60 menit)
 
-## Rabu - coderbyte **AD-TODO**
+## Jumat - Online Live Coding (Arrays, Looping, Conditionals, dan built-in Functions)
 
 - :anchor:
-[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode) (60 menit)
-- :anchor:
-[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial) (30 menit)
-- :anchor:
-[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) (30 menit)
-- :anchor:
-[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence) (30 menit)
-- :anchor:
-[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence) (30 menit)
-
-## Kamis - coderbyte **AD-TODO**
-
-## Jumat - coderbyte **AD-TODO**
+Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
 ## Sabtu dan Minggu
 

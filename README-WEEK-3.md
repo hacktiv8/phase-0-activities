@@ -58,11 +58,13 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 - :anchor:
 [coderbyte Looping and Conditional - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count) (30 menit)
 - :anchor:
-[coderbyte Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome) (40 menit)
+[coderbyte Looping and Conditional - Other Products](https://coderbyte.com/information.php?ct=Other%20Products) (30 menit)
 
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
+- :anchor:
+[coderbyte Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome) (30 menit)
 - :anchor:
 [coderbyte Looping and Conditional - Word Count](https://coderbyte.com/information.php?ct=Word%20Count) (30 menit)
 - :anchor:
@@ -73,28 +75,12 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 [coderbyte Looping and Conditional - Power Set Count](https://coderbyte.com/information.php?ct=Power%20Set%20Count) (30 menit)
 - :anchor:
 [coderbyte Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo) (30 menit)
-- :anchor:
-[coderbyte Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals) (60 menit)
 
-## Jumat
-Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions!
+## Jumat - Online Live Coding (Arrays, Looping, Conditionals)
 
-- :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
-[Melatih Kemampuan Menggunakan Regex](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md) (30 menit) **AD-TODO**
-- :anchor:
-[coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word) (30 menit)
-- :anchor:
-[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits) (30 menit)
-- :anchor:
-[coderbyte Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup) (30 menit)
-- :anchor:
-[coderbyte Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check) (30 menit)
-- :anchor:
-[coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols) (30 menit)
-- :anchor:
-[coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case) (30 menit)
+Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
+
 
 ## Sabtu dan Minggu
 
