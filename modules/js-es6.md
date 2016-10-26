@@ -1,12 +1,12 @@
-# Get to Know The Latest JavaScript, Node.js, and Transpilation
+# Get to Know The Latest JavaScript: EcmaScript 6!
 
 ## Objectives
 
 JavaScript modern ini bukan hanya sebatas bahasa pemrograman biasa saja, namun sudah banyak berevolusi menjadi sebuah dunia atau alam teknologi yang luar biasa besarnya. Untuk itu, kita harus senantiasa mengikuti perkembangannya, terutama menyadari adanya:
 
-- Versi dan fitur JavaScript terbaru
-- JavaScript platform bernama Node.js dan package manager-nya yaitu npm
-- Transpilation dengan tool seperti Babel
+- Versi dan fitur JavaScript terbaru (EcmaScript 6)
+
+Untuk saat ini, kita akan
 
 ## Learnings
 
@@ -40,7 +40,7 @@ Lalu terdapat berbagai fitur baru yang ada pada ES6 antara lain:
 - Promise untuk mengelola operasi asynchronous
 - dan masih banyak lainnya
 
-Support atau dukungan terhadap ES6 sudah ada untuk beberapa browser modern seperti Chromium/Chrome dan Firefox, namun belum hingga 100%. Untuk sekarang, kita cukup tahu saja, belum harus digunakan sekarang. Bahkan untuk mencobanya pada periode sekarang pun, kita mesti [mengetahui tentang transpilation](#transpilation-dan-transpiler) terlebih dahulu.
+Support atau dukungan terhadap ES6 sudah ada untuk beberapa browser modern seperti Chromium/Chrome dan Firefox, namun belum hingga 100%. Untuk sekarang, kita cukup tahu saja, belum harus digunakan sekarang.
 
 ### Mengenal Transpilation dan Transpiler
 

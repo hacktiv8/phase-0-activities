@@ -10,20 +10,19 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin - EcmaScript 6 dan Babel
+## Senin - EcmaScript 6
 
 - :notebook_with_decorative_cover:
-[Mengenal ES6 dan Transpilasi](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-transpilation.md) **AD-TODO**
-- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md) **AD-TODO**
+[Mengenal Sintaks ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
+- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 - :anchor:
-[Mengubah Sintaks ES5 ke ES6!](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) **AKBR-TODO**
+[Mengubah Sintaks ES5 ke ES6!](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
 - :anchor:
-[Memanfaatkan Sintaks ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) **AKBR-TODO**
 
 ## Selasa - Paradigma Object Oriented Programming
 
 - :notebook_with_decorative_cover:
-[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) **AD-TODO**
+[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
 ## Rabu - Paradigma Functional Programming
 
