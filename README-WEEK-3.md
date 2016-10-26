@@ -17,7 +17,8 @@ dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari 
 mencoba langsung mengimplementasi kodemu melalui node Js!
 
 - :notebook_with_decorative_cover:
-[Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)- :notebook_with_decorative_cover:
+[Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
+- :notebook_with_decorative_cover:
 [Mengenal Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-recursion.md) **AD-TODO**
 - :anchor:
 [Week Start Refreshing - Tantangan Looping: Deret Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md) **AKBR-TODO**

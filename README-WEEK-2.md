@@ -56,7 +56,6 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
-- :notebook_with_decorative_cover: [Memahami Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md) **AD-TODO**
 - :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
 - :anchor: [Tantangan Menggunakan Object 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
 - :anchor: [Tantangan Menggunakan Object 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AKBR-TODO**
