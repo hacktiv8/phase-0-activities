@@ -12,9 +12,38 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Senin - coderbyte **AD-TODO**
 
+- :anchor:
+[coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions and Looping - Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions and Looping - Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions and Looping - Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I) (30 menit)
+
 ## Selasa - coderbyte **AD-TODO**
 
+- :anchor:
+[coderbyte Regex and Looping - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
+- :anchor:
+[coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified) (60 menit)
+- :anchor:
+[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode) (60 menit)
+- :anchor:
+[coderbyte Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
+- :anchor:
+[coderbyte Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow) (60 menit)
+
 ## Rabu - coderbyte **AD-TODO**
+
+- :anchor:
+[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial) (30 menit)
+- :anchor:
+[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) (30 menit)
+- :anchor:
+[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence) (30 menit)
+- :anchor:
+[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence) (30 menit)
 
 ## Kamis - coderbyte **AD-TODO**
 
