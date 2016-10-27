@@ -57,8 +57,8 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
 - :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
-- :anchor: [Tantangan Menggunakan Object 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-1,md)
-- :anchor: [Tantangan Menggunakan Object 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-2,md)
+- :anchor: [Tantangan Menggunakan Object 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-1.md)
+- :anchor: [Tantangan Menggunakan Object 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-2.md)
 - :anchor: [Tantangan Menggunakan JSON](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-json.md)
 
 ## Jumat - Your First JavaScript App!
