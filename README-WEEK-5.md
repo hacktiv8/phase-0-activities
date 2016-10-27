@@ -23,7 +23,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 - :anchor:
 [coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence) (30 menit)
 
-## Selasa - Online Live Coding (Looping, Conditional, and Recursion)
+## Selasa - Online Live Coding (Conditional and Recursion)
 
 ## Rabu - DOM Introduction **AD-TODO**
 
