@@ -1,6 +1,6 @@
 # Menggunakan Object dalam JavaScript 2
 
-Terkadang suatu method dari object tidak menerima parameter berupa data biasa, melainkan object itu sendiri. Pada tantangan ini kamu akan membuat suatu object untuk semacam permainan peran (role play game) sederhana. Object akan memiliki method yang menerima object.
+Terkadang suatu method dari object tidak menerima parameter berupa data biasa, object juga dapat dijadikan argumen untuk method (atau function biasa). Pada tantangan ini kamu akan membuat suatu object untuk semacam permainan peran (role play game) sederhana. Object akan memiliki method yang menerima object.
 
 ## Objectives
 
@@ -8,7 +8,7 @@ Terkadang suatu method dari object tidak menerima parameter berupa data biasa, m
 2. Memahami Cara Mengakses Property dalam Object
 3. Memahami Cara *Assignment* Property dalam 
 4. Memahami Cara Membuat Method untuk Object
-5. Mengetahui Passing Parameter Berupa Object
+5. Mengetahui Passing Argument Berupa Object
 
 ## Directions
 
