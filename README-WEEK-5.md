@@ -26,6 +26,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Selasa - Online Live Coding (Conditional and Recursion)
 
 ## Rabu - DOM Introduction **AD-TODO**
+- :anchor: [Form Validation Sederhana](modules/anchor-vanilla-js.md)
 
 ## Kamis - Refreshment: More about DOM **AD-TODO**
 
