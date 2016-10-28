@@ -33,7 +33,7 @@ Setelah mengetahui tentang DOM kamu dapat menggunakan pengetahuan itu untuk mela
 
 - Untuk melihat demo dari aplikasi yang selesai dibuat, perhatikan animasi di bawah ini.
 
-![challenge-vanilla-demo.gif](challenge-vanilla-demo.gif)
+![challenge-vanilla-demo.gif](assets/challenge-vanilla-demo.gif)
 
 ### Tips
 
