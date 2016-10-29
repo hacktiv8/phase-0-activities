@@ -37,9 +37,9 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 - :notebook_with_decorative_cover:
 [Mempelajari Scope](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 - :anchor:
-[Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
+[Membuat algoritma sederhana dalam pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-case-to-pseudocode.md)
 - :anchor:
-[Mengenal Penggunaan Functions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md) **AD-TODO**
+[Mengenal Penggunaan Functions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-basic-function.md)
 - :anchor:
 [Menyelesaikan Codecademy JavaScript Course Unit 1 - 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
 - :anchor: [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-pseudocode.md)
@@ -63,7 +63,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 
 ## Jumat - Your First JavaScript App!
 
-- :anchor: [Tantangan Final W2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md) **AD-TODO**
+- :anchor: [Tantangan Final W2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-application.md)
 
 ## Sabtu dan Minggu
 
