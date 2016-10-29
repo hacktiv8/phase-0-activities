@@ -19,7 +19,7 @@ mencoba langsung mengimplementasi kodemu melalui node Js!
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :notebook_with_decorative_cover:
-[Mengenal Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-recursion.md) **AD-TODO**
+[Mengenal Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-recursive.md)
 - :anchor:
 [Week Start Refreshing - Tantangan Looping: Jumlah Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-before-recursive.md)
 - :anchor:
@@ -49,33 +49,33 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 - :notebook_with_decorative_cover:
 [Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md) **AD-TODO**
 - :anchor:
-[coderbyte Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums) (30 menit)
+[coderbyte Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
 - :anchor:
-[coderbyte Looping - First Reverse](https://coderbyte.com/information.php?ct=First%20Reverse) (30 menit)
+[coderbyte Looping - First Reverse](https://coderbyte.com/information.php?ct=First%20Reverse)
 - :anchor:
-[coderbyte Looping - Time Convert](https://coderbyte.com/information.php?ct=Time%20Convert) (30 menit)
+[coderbyte Looping - Time Convert](https://coderbyte.com/information.php?ct=Time%20Convert)
 - :anchor:
-[coderbyte Looping and Conditional - Ex Oh](https://coderbyte.com/information.php?ct=Ex%20Oh) (30 menit)
+[coderbyte Looping and Conditional - Ex Oh](https://coderbyte.com/information.php?ct=Ex%20Oh)
 - :anchor:
-[coderbyte Looping and Conditional - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count) (30 menit)
+[coderbyte Looping and Conditional - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
 - :anchor:
-[coderbyte Looping and Conditional - Other Products](https://coderbyte.com/information.php?ct=Other%20Products) (30 menit)
+[coderbyte Looping and Conditional - Other Products](https://coderbyte.com/information.php?ct=Other%20Products)
 
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
 - :anchor:
-[coderbyte Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome) (30 menit)
+[coderbyte Looping - Palindrome](https://coderbyte.com/information.php?ct=Palindrome)
 - :anchor:
-[coderbyte Looping and Conditional - Word Count](https://coderbyte.com/information.php?ct=Word%20Count) (30 menit)
+[coderbyte Looping and Conditional - Word Count](https://coderbyte.com/information.php?ct=Word%20Count)
 - :anchor:
-[coderbyte Looping and Conditional - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two) (30 menit)
+[coderbyte Looping and Conditional - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
 - :anchor:
-[coderbyte Looping and Conditional - Largest Pair](https://coderbyte.com/information.php?ct=Largest%20Pair) (30 menit)
+[coderbyte Looping and Conditional - Largest Pair](https://coderbyte.com/information.php?ct=Largest%20Pair)
 - :anchor:
-[coderbyte Looping and Conditional - Power Set Count](https://coderbyte.com/information.php?ct=Power%20Set%20Count) (30 menit)
+[coderbyte Looping and Conditional - Power Set Count](https://coderbyte.com/information.php?ct=Power%20Set%20Count)
 - :anchor:
-[coderbyte Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo) (30 menit)
+[coderbyte Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals)
 
