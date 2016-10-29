@@ -14,11 +14,13 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 - :notebook_with_decorative_cover:
 [Memahami dan menggunakan dasar pemrograman dengan JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-first-time.md)
 - :notebook_with_decorative_cover:
-[Menjalankan operasi dasar matematika dan variabel menggunakan JavaScript menggunakan JSBin](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+[Memahami Tipe Data dan Variabel pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#data-type)
 - :notebook_with_decorative_cover:
-[Memahami Control Flow: Conditional dan Branching](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-operator-mtk.md)
+[Mengenal Berbagai Jenis Operasi dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#operator)
 - :notebook_with_decorative_cover:
-[Memahami Control Flow: Iteration atau Looping ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+[Memahami Control Flow: Conditional dan Branching](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#conditional)
+- :notebook_with_decorative_cover:
+[Memahami Control Flow: Iteration atau Looping ](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#loopiteration)
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-variabel.md)
 - :anchor:
@@ -33,7 +35,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 - :notebook_with_decorative_cover:
 [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover:
-[Mempelajari Function atau Method](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-method.md)
+[Mempelajari Function atau Method](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#functionmethod)
 - :notebook_with_decorative_cover:
 [Mempelajari Scope](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 - :anchor:

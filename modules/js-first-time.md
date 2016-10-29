@@ -58,7 +58,7 @@ Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
 - Integer: tipe data dengan nilai berupa angka
-- Float: tipe deata dengan nilai berupa angka koma
+- Float: tipe data dengan nilai berupa angka koma
 - Character: tipe data dengan nilai berupa sebuah karakter
 - String: tipe data dengan nilai berupa kumpulan atau set dari beberapa karakter
 - Boolean: tipe data dengan nilai berupa `true` atau `false`.  

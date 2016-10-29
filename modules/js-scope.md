@@ -67,4 +67,3 @@ sampleObject.functionB();
 ```
 
 Maka dari itu, perhatikanlah dan berhati-hatilah waktu dan letak kita mendeklarasikan variabel atau function.
-Untuk memperkuat pemahaman kamu, bacalah referensi yang disertakan berikut.
