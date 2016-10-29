@@ -1,4 +1,4 @@
-# JavaScript Data Types
+# JavaScript Data Types - Array
 
 ## Objectives
 
@@ -33,4 +33,30 @@ Array seperti tumpukan data. Bayangkan sebuah botol atau toples yang berisi bebe
 > animals.push("Dragon")
 > animals.pop()
 > animals.slice(0, 2)
+```
+
+### Array Built-in functions
+
+- push: menambah 1 nilai ke array ke index paling belakang
+- pop: menghapus 1 nilai dari array index paling belakang
+- unshift: menambah 1 nilai ke array index paling depan (index 0)
+- shift: menghapus 1 nilai dari array index paling depan (index 0)
+- join: menggabungkan seluruh element array menjadi sebuah string dan mengambil parameter sebagai simbol penyambung antar elemen
+- sort: mengurutkan elemen di dalam array sesuai alphabet
+
+```javascript
+var animalsArray = ["lion", "horse"];
+animalsArray.push("duck"); // menambahkan 1 nilai ke array bagian paling belakang
+console.log(animalsArray); // ["lion", "horse", "duck"]
+animalsArray.pop(); // menghapus 1 nilai array terbelakang
+console.log(animalsArray); // ["lion", "horse"]
+animalsArray.unshift("dog");
+console.log(animalsArray); // ["dog", "lion", "horse"]
+animalsArray.shift();
+console.log(animalsArray);  // ["lion", "horse"]
+animalsArray.sort();
+console.log(animalsArray);  // ["horse", "lion"]
+animalsArray.join(" and ");
+console.log(animalsArray); // "horse and lion"
+
 ```

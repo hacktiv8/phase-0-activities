@@ -58,6 +58,7 @@ Bukalah [JSBin](http://jsbin.com?js,console), dan cobalah kode di atas pada tab 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
 - Integer: tipe data dengan nilai berupa angka
+- Float: tipe deata dengan nilai berupa angka koma
 - Character: tipe data dengan nilai berupa sebuah karakter
 - String: tipe data dengan nilai berupa kumpulan atau set dari beberapa karakter
 - Boolean: tipe data dengan nilai berupa `true` atau `false`.  
@@ -121,7 +122,7 @@ bilangan = 5; // Contoh assignment value 5 ke sebuah variable
 **Comparison Operator**
 Comparison operator adalah operator yang membandingkan satu nilai dengan nilai lainnya. Hasil operasi yang melibatkan comparison operator adalah antara 'true' atau 'false'.
 
-- Equality operator (==)
+- Equal operator (==)
 
 ```javascript
 var angka = 8
@@ -129,7 +130,7 @@ console.log(angka == 8); // true
 console.log(angka == 1); // false
 ```
 
-- Not Equality operator (==)
+- Not Equal operator (!=)
 
 ```javascript
 var angka = 8
@@ -137,15 +138,27 @@ console.log(angka != 7); // true
 console.log(angka != 8); // false
 ```
 
-- Strict Equality operator (===)
+- Strict Not Equal operator (===)
 
-Sedikit berbeda dengan equality operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
+Sedikit berbeda dengan equal operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
 
 ```javascript
 var angkaBeda = "8"
 console.log(angka == 8); // true
 console.log(angka === 8); // false
 console.log(angka === "8"); // true
+```
+
+- Strict Not Equal operator (!==)
+
+Sedikit berbeda dengan not equal operator, strict not equal operator `!==` mewajibkan nilai yang dibandingkan tidak sama dan tipe data nya pun harus sama. Sedangkan pada `!=`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `false`.
+
+```javascript
+var angkaBeda = "8"
+console.log(angka != 7); // true
+console.log(angka !== 7); // true
+console.log(angka !== 8); // true
+console.log(angka !== "8"); // false
 ```
 
 - Less Than (<) / Greater Than (>)
@@ -293,7 +306,7 @@ Pada parameter kedua, yaitu kondisi, for-loop akan terus berjalan selama kondisi
 kata lain, mengandung nilai `true`.
 Pada parameter kedua, yaitu incremental/decremental, variabel yang menjadi kontrol terhadap loop ini akan diubah nilainya.
 
-:thumbsup: *Best Practice:* 
+:thumbsup: *Best Practice:*
 Walaupun memang for-loop dapat mengubah kondisi di dalam proses,
 namun best practice dari penggunaan for-loop adalah seluruh kendali atau kontrol dari looping ditentukan
 oleh variable yang diinisialisasi, di increment/decrement, dan juga kondisi for-loop pun menggunakan variable
