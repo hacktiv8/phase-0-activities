@@ -17,55 +17,55 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
-[Melatih Kemampuan Menggunakan Regex](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md) (30 menit) **AD-TODO**
+[Melatih Kemampuan Menggunakan Regex](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)  **AD-TODO**
 - :anchor:
-[coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word) (30 menit)
+[coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
-[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits) (30 menit)
+[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits) 
 - :anchor:
-[coderbyte Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup) (30 menit)
+[coderbyte Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
 - :anchor:
-[coderbyte Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check) (30 menit)
+[coderbyte Built-in Functions - AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
 - :anchor:
-[coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols) (30 menit)
+[coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
 ## Selasa - coderbyte **AD-TODO**
 
 - :anchor:
-[coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case) (30 menit)
+[coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
 - :anchor:
-[coderbyte Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals) (60 menit)
+[coderbyte Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals)
 
 - :anchor:
-[coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert) (30 menit)
+[coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
 - :anchor:
-[coderbyte Built-in Functions and Looping - Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize) (30 menit)
+[coderbyte Built-in Functions and Looping - Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize)
 - :anchor:
-[coderbyte Built-in Functions and Looping - Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes) (30 menit)
+[coderbyte Built-in Functions and Looping - Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes)
 
 ## Rabu - coderbyte
 
 - :anchor:
-[coderbyte Built-in Functions and Looping - Dash Insert II](https://coderbyte.com/information.php?ct=Dash%20Insert%20II) (30 menit)
+[coderbyte Built-in Functions and Looping - Dash Insert II](https://coderbyte.com/information.php?ct=Dash%20Insert%20II)
 - :anchor:
-[coderbyte Built-in Functions and Looping - Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I) (30 menit)
+[coderbyte Built-in Functions and Looping - Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I)
 - :anchor:
-[coderbyte Regex and Looping - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
+[coderbyte Regex and Looping - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition)
 - :anchor:
-[coderbyte Looping and Conditional - Division](https://coderbyte.com/information.php?ct=Division) (30 menit)
+[coderbyte Looping and Conditional - Division](https://coderbyte.com/information.php?ct=Division)
 - :anchor:
-[coderbyte Looping and Conditional - Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time) (30 menit)
+[coderbyte Looping and Conditional - Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
 - :anchor:
-[coderbyte Looping and Conditional - Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode) (30 menit)
+[coderbyte Looping and Conditional - Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
 
 ## Kamis - coderbyte
 
 - :anchor:
-[coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified) (60 menit)
+[coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
 - :anchor:
-[coderbyte Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition) (30 menit)
+[coderbyte Looping, Conditional, and Utils - Number Addition](https://coderbyte.com/information.php?ct=Number%20Addition)
 - :anchor:
-[coderbyte Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow) (60 menit)
+[coderbyte Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals, dan built-in Functions)
 

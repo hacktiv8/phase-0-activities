@@ -21,9 +21,9 @@ mencoba langsung mengimplementasi kodemu melalui node Js!
 - :notebook_with_decorative_cover:
 [Mengenal Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-recursive.md)
 - :anchor:
-[Week Start Refreshing - Tantangan Looping: Jumlah Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-before-recursive.md)
+[Week Start Refreshing - Tantangan Looping: Jumlah Perkalian Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-before-recursive.md)
 - :anchor:
-[Week Start Refreshing - Tantangan Rekursif: Jumlah Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-recursive.md)
+[Week Start Refreshing - Tantangan Rekursif: Jumlah Perkalian Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-recursive.md)
 
 
 ## Selasa
