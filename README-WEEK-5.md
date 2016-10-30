@@ -2,11 +2,9 @@
 
 ![Header](assets/header-w4.jpg)
 
-Selamat sudah melalui kegiatan pekan ketiga! Ingat selalu bahwa menjadi developer memerlukan peningkatan terus-menerus seiring waktu sehingga pemahaman mengenai materi dan latihan sangat diperlukan.
+Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini mulai dari hari rabu kita akan refreshing sejenak dan mempelajari DOM dan jQuery, yang akan membuat website kamu menjadi interaktif dan menarik!
 
-Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Kembali diingatkan ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena di pekan terakhir ini, challenge coding saling berhubungan dari satu hari ke hari selanjutnya. Good Luck ! :bowtie:
-
-Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-4.md>
+Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-5.md>
 
 ![Let's start!](assets/start.png)
 
@@ -25,17 +23,26 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ## Selasa - Online Live Coding (Conditional and Recursion)
 
-## Rabu - DOM Introduction **AD-TODO**
+## Rabu - DOM Introduction
+
+- :notebook_with_decorative_cover: [Memahami Document Object Model](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-intro.md) **AD-TODO**
+- :notebook_with_decorative_cover: [Memahami Document Object Model Lanjutan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
 - :anchor: [Form Validation Sederhana](modules/anchor-vanilla-js.md)
 
-## Kamis - More about DOM **AD-TODO**
+## Kamis - More about DOM and jQuery
 
-- :notebook_with_decorative_cover: [Memahami Document Object Model](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
+- :notebook_with_decorative_cover: [Mengenal jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
+- :anchor: [Mencoba jQuery (Chapter 1)](http://try.jquery.com/)
+- :anchor: [Mencoba jQuery (Chapter 2)](http://try.jquery.com/)
+- :anchor: [Mencoba jQuery (Chapter 3)](http://try.jquery.com/)
+- :anchor: [Mencoba jQuery (Chapter 4)](http://try.jquery.com/)
+- :rocket: [Mencoba jQuery (Chapter 5)](http://try.jquery.com/)
+- :rocket: [Mencoba jQuery (Chapter 6)](http://try.jquery.com/)
 
-## Jumat - Manipulate DOM using JQuery
+## Jumat - Interactive App using jQuery
+- :anchor: [Membuat website yang interaktif menggunakan jQuery](http://try.jquery.com/)
 
-- :notebook_with_decorative_cover: [Mengenal jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md) **AD-TODO**
-- :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/)
+
 
 ## Sabtu dan Minggu
 
