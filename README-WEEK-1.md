@@ -61,7 +61,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
 [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/laman-web-pertamaku.md)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
-Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
+Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :notebook_with_decorative_cover:
