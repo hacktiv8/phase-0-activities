@@ -26,9 +26,9 @@ Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga bera
 
 Panduan:
 - :pushpin: **Pin** adalah link yang digunakan untuk mengumpulkan tugas mingguan
-- :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu
+- :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan
-- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu
+- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
 - :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
 
 **Pengumpulan Tugas dan Sistem Feedback**
