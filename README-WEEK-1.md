@@ -142,6 +142,6 @@ Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yan
 
 Salam,
 
-Tim Hacktiv8
+Tim HACKTIV8
 
 ![Hacktiv8 Banner](assets/banner.png)
