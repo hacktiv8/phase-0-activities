@@ -4,11 +4,10 @@
 
 Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini mulai dari hari rabu kita akan refreshing sejenak dan mempelajari DOM dan jQuery, yang akan membuat website kamu menjadi interaktif dan menarik!
 
-Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-5.md>
-
 ![Let's start!](assets/start.png)
 
 ## Senin - coderbyte
+Hari baru, semangat baru! Sebentar lagi tantangan coderbyte akan habis! Selamat karena telah menempuh perjalanan sejauh ini, dan kami semua mengerti, bahwa perjalanan tersebut tidak mudah. Hari ini kita akan mengasahh kemampuanmu lagi dengan tantangan, sekaligus mempersiapkanmu untuk Live Coding Online besok!
 
 - :anchor:
 [coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
@@ -22,6 +21,11 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 [coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
 
 ## Selasa - Online Live Coding (Conditional and Recursion)
+Tibalah kita di hari live coding minggu ini. Persiapkan dirimu untuk memulai live coding. Yang terpenting adalah kamu percaya kamu bisa mengerjakannya dan mendapatkan solusi terbaik dari kasus yang diberikan. :cool:
+
+- :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
+- :anchor:
+Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
 ## Rabu - DOM Introduction
 
