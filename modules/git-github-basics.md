@@ -14,7 +14,7 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
 
 ### 1. Pastikan kamu siap akan pakai Git dengan command-line
 
-- ▢ Ulas ulang jika perlu pengetahuan terminal atau command prompt serta CLI. Kamu harus sudah bisa:
+- ▢ Kamu perlu pengetahuan terminal atau command prompt serta CLI. Kamu harus sudah bisa:
   - ▢ Navigasi ke berbagai directory/folder
   - ▢ Membuat file dan folder baru
   - ▢ Menghapus file dan folder
@@ -23,6 +23,11 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
   - ▢ Memindahkan file ke berbagai folder
   - ▢ Menyalin file atau folder ke tempat berbeda
   - ▢ Membuka atau mengubah file ke dalam editor teks/code
+
+  Kamu bisa menggunakan referensi dibawah ini untuk mempelajari command line:
+  - [Command Line Reference 1](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
+  - [Command Line Reference 2](https://www.codecademy.com/learn/learn-the-command-line)
+  - [Command Line Reference 3](https://www.learnenough.com/command-line-tutorial)
 
 ### 2. Buat akun GitHub
 
