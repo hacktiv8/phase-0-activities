@@ -10,7 +10,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 
 ![Let's start!](assets/start.png)
 
-## Senin - coderbyte **AD-TODO**
+## Senin - coderbyte
 
 Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions!
 
@@ -21,7 +21,7 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 - :anchor:
 [coderbyte Regex - Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
-[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits) 
+[coderbyte Typecasting - Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
 - :anchor:
 [coderbyte Built-in Functions - Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
 - :anchor:
@@ -29,13 +29,12 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 - :anchor:
 [coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
-## Selasa - coderbyte **AD-TODO**
+## Selasa - coderbyte
 
 - :anchor:
 [coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
 - :anchor:
 [coderbyte Looping - Basic Roman Numerals](https://coderbyte.com/information.php?ct=Basic%20Roman%20Numerals)
-
 - :anchor:
 [coderbyte Built-in Functions and Looping - Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
 - :anchor:
