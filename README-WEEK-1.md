@@ -42,7 +42,7 @@ Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lainnya di Slack Group, dan
 membelajari hal paling pertama dalam pembuatan sebuat web, yaitu HTML! Mungkin banyak dari antara kamu
-yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
+yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :anchor:
