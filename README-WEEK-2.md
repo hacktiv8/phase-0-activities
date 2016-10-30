@@ -1,5 +1,5 @@
 # Hacktiv8 Phase 0 Week 2: The World of JavaScript
-
+[//]: #(
 ![Header](assets/header-w2.jpg)
 
 Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan berkenalan dengan JavaScript,
@@ -91,3 +91,5 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
+
+)

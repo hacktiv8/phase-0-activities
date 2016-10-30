@@ -21,7 +21,7 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 ## Selasa - Paradigma Object Oriented Programming dan Functional Programming
 
 - :notebook_with_decorative_cover:
-[Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) **AD-TODO**
+[Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md) **AD-TODO**
 - :anchor:
 [Menggunakan Higher Order Function untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
 - :anchor:

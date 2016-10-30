@@ -52,7 +52,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
 - :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
 - :books:
-[Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
+[Mengenal Dunia Web dan Internet](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
