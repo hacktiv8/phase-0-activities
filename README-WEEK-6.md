@@ -16,7 +16,7 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 - :anchor:
 [Mengubah Sintaks ES5 ke ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
 - :anchor:
-[Menggunakan OOP dalam JavaScript dengan ES Class](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md) **AD-TODO**
+[Menggunakan OOP dalam JavaScript dengan ES Class](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
 
 ## Selasa - Paradigma Object Oriented Programming dan Functional Programming
 
