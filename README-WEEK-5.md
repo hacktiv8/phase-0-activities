@@ -28,22 +28,19 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Rabu - DOM Introduction **AD-TODO**
 - :anchor: [Form Validation Sederhana](modules/anchor-vanilla-js.md)
 
-## Kamis - Refreshment: More about DOM **AD-TODO**
+## Kamis - More about DOM **AD-TODO**
 
 - :notebook_with_decorative_cover: [Memahami Document Object Model](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md) **AD-TODO**
 
-## Jumat - Refreshment: Manipulasi DOM Dengan JQuery!
+## Jumat - Manipulate DOM using JQuery
 
 - :notebook_with_decorative_cover: [Mengenal jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md) **AD-TODO**
 - :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/)
 
 ## Sabtu dan Minggu
 
-- :anchor: [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
-- :anchor: [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
-- :anchor: Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
-  - [Arctic Fox 2016](https://airtable.com/shrXseZHwy7gdzqJu)
-  - [Blanford Fox 2016](https://airtable.com/shrgOZg66MzJssyNY)
+- [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
+- [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 
 Selamat berpetualang dengan istilah dan teknologi yang makin seru! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 

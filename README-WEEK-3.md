@@ -82,6 +82,7 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 [coderbyte Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals)
+Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coidng ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. 
 
 - :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
 - :anchor:

@@ -9,9 +9,9 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ![Let's start!](assets/start.png)
 
 ## Senin - coderbyte
-
 Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions!
 
+- :pushpin: [Form Pengumpulan Tugas Week 4](https://airtable.com/shrXt6d9EMMc7iu3c)
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
@@ -28,7 +28,9 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 [coderbyte Built-in Functions - Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
 ## Selasa - coderbyte
+Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
+- :pushpin: [Form Pengumpulan Tugas Week 4](https://airtable.com/shrXt6d9EMMc7iu3c)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
 - :anchor:
@@ -41,7 +43,9 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 [coderbyte Built-in Functions and Looping - Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes)
 
 ## Rabu - coderbyte
+Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
 
+- :pushpin: [Form Pengumpulan Tugas Week 4](https://airtable.com/shrXt6d9EMMc7iu3c)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Dash Insert II](https://coderbyte.com/information.php?ct=Dash%20Insert%20II)
 - :anchor:
@@ -56,7 +60,9 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 [coderbyte Looping and Conditional - Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
 
 ## Kamis - coderbyte
+Hari terakhir untuk tantangan coderbyte di pekan ini. Persiapkan dirimu untuk Live Coding Online di hari jumat dengan beberapa tantangan berikut ini.
 
+- :pushpin: [Form Pengumpulan Tugas Week 4](https://airtable.com/shrXt6d9EMMc7iu3c)
 - :anchor:
 [coderbyte Built-in Functions and Looping - Division Stringified](https://coderbyte.com/information.php?ct=Division%20Stringified)
 - :anchor:
@@ -65,7 +71,9 @@ Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular
 [coderbyte Looping and Conditional - Second Great Low](https://coderbyte.com/information.php?ct=Second%20GreatLow)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals, dan built-in Functions)
+Tiba saatnya kita melakukan Live Coding Online untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Apabila kamu memang selama ini mengerjakan tugas-tugas sebelumnya sendiri dan dengan sungguh-sungguh, live coding hari ini akan terasa sangat mudah!
 
+- :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
 - :anchor:
 Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
