@@ -1,5 +1,7 @@
 # Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 
+Kamu belum bisa mengakses Week 3. Fokus selesaikan Week 1 terlebih dahulu ya! :smile:
+<!---
 ![Header](assets/header-w1.jpg)
 
 Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fokus untuk mengasah logika dan pemrograman kita dengan terus mengerjakan tantangan coderbyte. Minggu ini mungkin akan sulit, karena sangat banyak tantangan dengan berbagai bentuk yang harus kamu selesaikan. Namun, dengan tetap semangat, maka kamu pasti bisa menyelesaikan seluruh tantangan ini!
@@ -89,3 +91,4 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
+--->

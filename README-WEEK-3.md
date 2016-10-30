@@ -1,5 +1,7 @@
 # Hacktiv8 Phase 0 Week 3: Enter Node JS and JavaScript Training
 
+Kamu belum bisa mengakses Week 3. Fokus selesaikan Week 1 terlebih dahulu ya! :smile:
+<!---
 ![Header](assets/header-w3.jpg)
 
 Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang logika dan implementasinya ke berbagai kasus. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
@@ -82,7 +84,7 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 [coderbyte Looping and Conditional - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals)
-Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coidng ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. 
+Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coidng ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang.
 
 - :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
 - :anchor:
@@ -104,3 +106,5 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
+
+--->

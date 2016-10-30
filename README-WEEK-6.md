@@ -1,5 +1,7 @@
 # Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
 
+Kamu belum bisa mengakses Week 6. Fokus selesaikan Week 1 terlebih dahulu ya! :smile:
+<!---
 ![Header](assets/header-w1.jpg)
 
 Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Di minggu terakhir ini, kamu akan berkenalan dengan JavaScript ES6  :bowtie:
@@ -21,17 +23,17 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 ## Selasa - Paradigma Object Oriented Programming dan Functional Programming
 
 - :notebook_with_decorative_cover:
-[Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md) **AD-TODO**
+[Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
 - :anchor:
-[Menggunakan Higher Order Function untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
+[Menggunakan Higher Order Function untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 - :anchor:
-[Menggunakan Map di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
+[Menggunakan Map di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 - :anchor:
-[Menggunakan Filter di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
+[Menggunakan Filter di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 - :anchor:
-[Menggunakan Reduce di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
+[Menggunakan Reduce di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 - :anchor:
-[Menggabungkan Built-in Functions dari Gaya Functional Programming ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md) **AD-TODO**
+[Menggabungkan Built-in Functions dari Gaya Functional Programming ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 
 ## Rabu - Jumat: Online Live Coding
 
@@ -50,3 +52,5 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
+
+--->
