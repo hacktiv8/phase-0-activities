@@ -107,7 +107,6 @@ telah punya website kamu sendiri secara online!
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - :notebook_with_decorative_cover:
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
-
 - :anchor:
 [Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
 
