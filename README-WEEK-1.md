@@ -25,16 +25,26 @@ Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, ton
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack.
 
 Panduan:
+- :pushpin: **Pin** adalah link yang digunakan untuk mengumpulkan tugas mingguan
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan
 - :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu
 - :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
+
+**Pengumpulan Tugas dan Sistem Feedback**
+
+Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya. Namun, untuk deadline sendiri, kami memperbolehkan tugas agar dikumpulkan di akhir minggu di hari minggu. Kami merekomendasikan untuk mengumpulkan tugas dalam bentuk harian, karena akan mempercepat tim instruktur untuk mengkoreksi dan memberikan feedback.
+
+Untuk mengumpulkan tugas, gunakan [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
+
+Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lainnya di Slack Group, dan
 membelajari hal paling pertama dalam pembuatan sebuat web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
 
+- :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
@@ -53,6 +63,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - :anchor:
@@ -70,6 +81,7 @@ Mulai merasa mahir dengan HTML dan CSS? Jangan puas dulu! Masih banyak yang bisa
 ilmu barumu ini. Di hari ini kamu akan lebih rapih lagi dalam menyusun halaman web kamu dengan memanfaatkan
 Box Sizing dan Position.
 
+- :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -84,6 +96,7 @@ perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berke
 tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
 telah punya website kamu sendiri secara online!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -103,6 +116,7 @@ Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan memperca
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan
 websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - :notebook_with_decorative_cover:
@@ -123,13 +137,6 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
 -  [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 -  [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
--  Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
-  - [Arctic Fox 2016](https://airtable.com/shrZq6ybnMIuQju4A)
-  - [Blanford Fox 2016](https://airtable.com/shr1RF7TJyJiAp7mO)
-  - [Cross Fox 2016](https://hacktiv8.com)
-  - [Darwin's Fox 2016](https://airtable.com/shr1RF7TJyJiAp7mO)
-  - [Ethiopian Fox 2017](https://airtable.com/shr1RF7TJyJiAp7mO)
-  - [Fennec Fox 2017](https://airtable.com/shr1RF7TJyJiAp7mO)
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 

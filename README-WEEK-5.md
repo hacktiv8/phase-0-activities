@@ -13,15 +13,15 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Senin - coderbyte
 
 - :anchor:
-[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode) (60 menit)
+[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
 - :anchor:
-[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial) (30 menit)
+[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial)
 - :anchor:
-[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) (30 menit)
+[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
 - :anchor:
-[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence) (30 menit)
+[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence)
 - :anchor:
-[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence) (30 menit)
+[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
 
 ## Selasa - Online Live Coding (Conditional and Recursion)
 
@@ -35,7 +35,7 @@ Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activit
 ## Jumat - Refreshment: Manipulasi DOM Dengan JQuery!
 
 - :notebook_with_decorative_cover: [Mengenal jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md) **AD-TODO**
-- :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/) **AKBR-TODO**
+- :anchor: [Mencoba jQuery (Chapter 1 - 4)](http://try.jquery.com/)
 
 ## Sabtu dan Minggu
 
