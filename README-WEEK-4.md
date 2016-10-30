@@ -1,12 +1,10 @@
 # Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 
-![Header](assets/header-w3.jpg)
+![Header](assets/header-w1.jpg)
 
-Selamat sudah melalui kegiatan pekan kedua! Pekan ketiga ini kita akan melatih pemahaman tentang DOM, events, dan scope. Pastikan kalian telah memahami dengan baik materi di minggu sebelum nya.
+Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fokus untuk mengasah logika dan pemrograman kita dengan terus mengerjakan tantangan coderbyte. Minggu ini mungkin akan sulit, karena sangat banyak tantangan dengan berbagai bentuk yang harus kamu selesaikan. Namun, dengan tetap semangat, maka kamu pasti bisa menyelesaikan seluruh tantangan ini!
 
-Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai pekan 3 ini setiap hari nya ada challenge coding yang menentukan kelanjutan ke phase 1 :bowtie: , dan semua challenge yang bertanda :anchor: ini wajib diselesaikan.
-
-Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-3.md>
+Pedoman ini juga dapat kamu cek di: <https://github.com/hacktiv8/phase-0-activities/blob/master/README-WEEK-4.md>
 
 ![Let's start!](assets/start.png)
 
