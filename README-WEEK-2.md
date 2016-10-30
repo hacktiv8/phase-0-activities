@@ -3,11 +3,12 @@
 ![Header](assets/header-w2.jpg)
 
 Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan berkenalan dengan JavaScript,
-dan melatih kemampuan logika dan pengolahan data dalam programming.
+dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini, kamu akan bertemu dengan sangat banyak kode dan istilah yang digunakan dalam pemrograman atau khususnya pada JavaScript.
 
 ![Let's start!](assets/start.png)
 
 ## Senin - Dunia JavaScript
+Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
 - :wrench:
 [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
@@ -31,6 +32,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/ganjil-genap-dll.md)
 
 ## Selasa - Pseudocode, Functions, dan Scope
+Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
 - :notebook_with_decorative_cover:
 [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
@@ -50,12 +52,15 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 - :rocket: [Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 ## Rabu - Arrays
+Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
+
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md)
 - :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-akses-array.md)
 - :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-loop-array.md)
 - :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-mixed-array.md)
 
 ## Kamis - Object dan JSON (JavaScript Object Notation)
+Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
 
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
 - :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
@@ -64,6 +69,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 - :anchor: [Tantangan Menggunakan JSON](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-json.md)
 
 ## Jumat - Your First JavaScript App!
+Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
 - :anchor: [Tantangan Final W2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-application.md)
 
@@ -71,9 +77,6 @@ dan melatih kemampuan logika dan pengolahan data dalam programming.
 
 -  [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 -  [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
--  Isilah form laporan kegiatan dan saran ini setelah kamu menyelesaikan semua kegiatan. Harus di-submit sebelum hari Minggu depan jam 9 malam.
-  - [Arctic Fox 2016](https://airtable.com/shrGG9YTJkEBL7QaG)
-  - [Blanford Fox 2016](https://airtable.com/shrZ2Ufijy6400Yea)
 
 Selamat berpetualang dengan logika dan data! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
