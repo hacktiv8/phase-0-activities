@@ -104,7 +104,7 @@ Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
   <label for="skill">Skill:</label>
   <input type="checkbox" name="skill" value="writing">Writing
   <input type="checkbox" name="skill" value="reading">Reading
-  <input type="button" value="Submit">
+  <input type="submit" value="Submit">
 </form>
 ```
 
