@@ -10,7 +10,7 @@ Setelah mempelajari mengenai Box Model dan *Element Positioning* dengan CSS, kam
 
 Tanpa Perlu mengubah isi file *index.html*, implementasikan syntax CSS pada file *style.css* agar lamanmu dapat menyerupai gambar dibawah ini.
 
-![Guideline 1 Week 1 Day 3](assets/week1-day3-guideline.png)
+![Guideline 1 Week 1 Day 3](assets/week1-day3-guidline.png)
 
 > **Syntax Penting**
 >  - box-sizing
