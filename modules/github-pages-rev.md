@@ -29,7 +29,7 @@ Seperti yang telah kamu pelajari, repositori bersifat distributif, yang berarti 
 
 Oke saatnya beraksi secara lebih nyata!
 
-- Pindahkan file `index.html`, `style.css`, dan gambar-gambar yang digunakan pada tugas [sebelumnya](modules/menghias-laman-html3.md) ke dalam folder `[USERNAME].github.io`.
+- Pindahkan file `index.html`, `style.css`, dan gambar-gambar yang digunakan pada tugas [sebelumnya](modules/menghias-laman-html3.md) ke dalam folder `[USERNAME].github.io`. **Sekarang saatnya kamu mengubah web dan desainnya sesukamu** karena ini akan ditampilkan di web, dan tentunya semakin bagus akan semakin menarik!
 - Add file-file tersebut ke Git dengan `git add .` atau `git add -A` (add semua file).
 - Commit dengan `git commit -m "Menambah file index.html"`.
 - Jika perlu, [ulas lagi alur merekam perubahan ke repositori ](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
