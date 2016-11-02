@@ -16,13 +16,13 @@ Kita akan melalui email course yang memiliki berbagai referensi dan tantangan. C
 
 **Oke, siap untuk memulai Phase 0 kita di Hacktiv8?**
 
-Kami yakin bahwa kamu akan mengalami petualangan yang makin sangat seru! Pada waktu di antara berakhirnya Phase 0 dan sebelum dimulainya Phase 1 juga, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
+Kami yakin bahwa kamu akan mengalami petualangan yang sangat seru! Pada waktu di antara berakhirnya Phase 0 dan sebelum dimulainya Phase 1 juga, kita akan melakukan evaluasi terhadap ilmu yang telah kamu dapatkan.
 
 **Apa saja yang akan kita lakukan, pahami, dan selesaikan dalam beberapa hari ke depan?**
 
-Berikut berbagai modul kegiatan inti yang telah yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti tiap checklist yang bisa kamu lakukan. Jika ada yang belum selesai, boleh saja ditunda ke hari berikutnya. Yang penting secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
+Berikut berbagai modul kegiatan inti yang dapat kamu lihat, baca, tonton, lakukan, dan sebagainya. Ikuti tiap checklist yang bisa kamu lakukan. Jika ada yang belum selesai, boleh saja ditunda ke hari berikutnya. Yang penting secara pribadi dalam sepekan kamu harus bisa menyelesaikan semuanya.
 
-Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup Slack.
+Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup [Slack](https://slack.com/).
 
 Panduan:
 - :pushpin: **Pin** adalah link yang digunakan untuk mengumpulkan tugas mingguan
@@ -41,12 +41,12 @@ Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila
 
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lainnya di Slack Group, dan
-membelajari hal paling pertama dalam pembuatan sebuat web, yaitu HTML! Mungkin banyak dari antara kamu
+membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1](https://airtable.com/shr1eBxtncmgvk5MK)
 - :anchor:
-[Mengenalkan dirimu kepada rekan-rekan lainnya di Slack  group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
+[Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
 - :notebook_with_decorative_cover:
