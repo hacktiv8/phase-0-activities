@@ -17,30 +17,34 @@ Kamu diminta untuk memprogram suatu game sederhana, Proxytia namanya. Untuk memu
 
 ### Input
 
-> **Contoh input 1**
-> nama = ' '
-> peran = ' '
-> **Contoh input 2**
-> nama = 'Budi'
-> peran = 'Ksatria'
-> **Contoh input 3**
-> nama = 'Chika'
-> peran = 'Tabib'
-> **Contoh input 4**
-> nama = 'Dino'
-> peran = 'Penyihir'
+```javascript
+//Contoh input 1
+nama = ' '
+peran = ' '
+//Contoh input 2
+nama = 'Budi'
+peran = 'Ksatria'
+//Contoh input 3
+nama = 'Chika'
+peran = 'Tabib'
+//Contoh input 4
+nama = 'Dino'
+peran = 'Penyihir'
+```
 
 ### Output
 
-> **Output untuk Input 1**
-> "Nama tidak boleh kosong"
-> "Pilih peranmu untuk memulai game"
-> **Output untuk Input 2**
-> "Selamat datang di Dunia Proxytia, Budi"
-> "Halo Ksatria Budi, kamu dapat menyerang dengan senjatamu!"
-> **Output untuk Input 3**
-> "Selamat datang di Dunia Proxytia, Chika"
-> "Halo Tabib Chika, kamu akan membantu temanmu yang terluka."
-> **Output untuk Input 4**
-> "Selamat datang di Dunia Proxytia, Dino"
-> "Halo Penyihir Dino, ciptakan keajaiban yang membantu kemenanganmu!"
+```javascript
+//Output untuk Input 1
+"Nama tidak boleh kosong"
+"Pilih peranmu untuk memulai game"
+//Output untuk Input 2
+"Selamat datang di Dunia Proxytia, Budi"
+"Halo Ksatria Budi, kamu dapat menyerang dengan senjatamu!"
+//Output untuk Input 3
+"Selamat datang di Dunia Proxytia, Chika"
+"Halo Tabib Chika, kamu akan membantu temanmu yang terluka."
+//Output untuk Input 4
+"Selamat datang di Dunia Proxytia, Dino"
+"Halo Penyihir Dino, ciptakan keajaiban yang membantu kemenanganmu!"
+```
