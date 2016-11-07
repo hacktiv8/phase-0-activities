@@ -43,6 +43,11 @@ Array seperti tumpukan data. Bayangkan sebuah botol atau toples yang berisi bebe
 - shift: menghapus 1 nilai dari array index paling depan (index 0)
 - join: menggabungkan seluruh element array menjadi sebuah string dan mengambil parameter sebagai simbol penyambung antar elemen
 - sort: mengurutkan elemen di dalam array sesuai alphabet
+- slice: mengambil beberapa lapis data
+- splice: mengubah nilai array dengan menghapus dan/atau menambah nilai baru ke array
+- split: memecah string dan mengembalikan array sesuai dengan separator / pemisah yang didefinisikan
+
+**Penggunaan Built-in Function Array secara singkat**
 
 ```javascript
 var animalsArray = ["lion", "horse"];
@@ -58,5 +63,4 @@ animalsArray.sort();
 console.log(animalsArray);  // ["horse", "lion"]
 animalsArray.join(" and ");
 console.log(animalsArray); // "horse and lion"
-
 ```
