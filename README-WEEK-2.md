@@ -47,9 +47,9 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 - :anchor:
 [Mengenal Penggunaan Functions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-basic-function.md)
 - :anchor:
-[Menyelesaikan Codecademy JavaScript Course Unit 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+[Menyelesaikan Codecademy JavaScript Course Unit 1](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[Menyelesaikan Codecademy JavaScript Course Unit 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-basics.md)
+[Menyelesaikan Codecademy JavaScript Course Unit 2](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [Mengubah Pseudocode menjadi kode JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-pseudocode.md)
 - :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-pseudocode2.md)
 - :anchor: [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md)

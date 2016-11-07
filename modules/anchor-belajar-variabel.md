@@ -35,10 +35,12 @@ tugas kamu adalah melakukan *assignment* pada variabel-variabel yang tersedia de
 
 ### Output
 
-> 33
-> 6
-> "foo"
-> "bar"
-> true
-> false
+```javascript
+33
+6
+"foo"
+"bar"
+true
+false
+```
 
