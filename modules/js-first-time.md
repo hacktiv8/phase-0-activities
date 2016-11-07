@@ -87,7 +87,7 @@ console.log(tampungBaru); // UNDEFINED
 ### Operator
 
 Operator adalah karakter yang merepresentasikan sebuah tindakan. Kita sering menemukan operator seperti + (tambah),
- x (kali), dan lain-lain. Namun, di dunia programming, operasi tambah kita gantikan dengan simbol * (asterisk) dan operasi bagi dengan simbol / (slash)
+ x (kali), dan lain-lain. Namun, di dunia programming, operasi kali kita gantikan dengan simbol * (asterisk) dan operasi bagi dengan simbol / (slash)
 
 Operator dibagi menjadi beberapa tipe:
 
