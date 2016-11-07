@@ -13,16 +13,20 @@
     - Apabila angka indeks adalah angka ganjil, tuliskan **GANJIL**
 3. Buatlah 3 perulangan baru dari 1 - 100, dengan pertambahan indeks sebesar 2, 5, dan 9.
 4. Pada 3 perulangan baru ini periksa setiap angka indeks:
+    - Apabila bukan kelipatan yang ditentukan tidak perlu menuliskan apa-apa
     - Apabila angka indeks adalah kelipatan (pertambahan index + 1), tuliskan:
 
 > "[index]" + "KELIPATAN [pertambahan index + 1]"
 
-    - Apabila bukan kelipatan yang ditentukan tidak perlu menuliskan apa-apa
 
-> **contoh - untuk pertambahan indeks 2**  
-> //indeks sekarang = 1, 
-> //output
-> "" 
-> //indeks sekarang = 3, 
-> //output
-> "3 KELIPATAN 3" 
+### Contoh output
+
+```
+//contoh - untuk pertambahan indeks 2
+//indeks sekarang = 1, 
+//output
+"" 
+//indeks sekarang = 3, 
+//output
+"3 KELIPATAN 3" 
+```
