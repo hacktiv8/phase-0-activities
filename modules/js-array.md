@@ -64,3 +64,135 @@ console.log(animalsArray);  // ["horse", "lion"]
 animalsArray.join(" and ");
 console.log(animalsArray); // "horse and lion"
 ```
+
+Beberapa fungsi dari array ada yang mengubah nilai dari array itu sendiri (sort, splice, push, pop, shift, unshift) atau mengembalikan array / nilai baru (). Jika kamu bertanya kenapa berbeda, akan dijelaskan di Week 5 tentang prinsip mutability dan immutability.
+
+#### `push()`
+
+Push adalah fungsi array yang akan menambahkan nilai di belakang nilai terakhir di array. Layaknya sebuah antrian, push adalah orang yang mengantri selanjutnya, akan berada di posisi paling belakang. Fungsi push akan menerima satu parameter, berupa nilai yang akan ditambahkan.
+
+```javascript
+var arr = [0, 1, 2, 3];
+arr.push(4);
+console.log(arr); // 0, 1, 2, 3, 4
+```
+
+#### `pop()`
+
+Pop adalah fungsi array yang akan menghapus nilai paling belakang / terakhir dari array. Bayangkan dalam sebuah antrian, orang yang mengantri di paling belakang tidak jadi mengantri dan pulang. Fungsi pop tidak menerima parameter apapun.
+
+```javascript
+var arr = [0, 1, 2, 3];
+arr.pop();
+console.log(arr); // 0, 1, 2
+```
+
+#### `unshift()`
+
+Unshift adalah fungsi array yang akan menambah nilai ke depan array (ke index 0), dan menggeser seluruh isi array kebelakang. Fungsi unshift menerima satu parameter, berupa nilai yang akan ditambahkan ke dalam array.
+
+```javascript
+var arr = [0, 1, 2];
+arr.unshift(3);
+console.log(arr); // 3, 0, 1, 2
+```
+
+#### `shift()`
+
+Shift adalah fungsi array yang akan menghapus nilai paling depan dari array. Fungsi shift tidak menerima parameter apapun.
+
+```javascript
+var arr = [3, 0, 1, 2];
+arr.shift();
+console.log(arr); // 0, 1, 2
+```
+
+#### `sort()`
+
+Sort adalah fungsi array yang akan mengurutkan nilai dari array. Perlu diperhatikan, sort mengurutkan otomatis secara ascending dan diurutkan berdasarkan unicode dari karakter. Kamu akan menemukan masalah ini saat mengurutkan angka.
+
+```javascript
+var arr = [3, 5, 7, 1, 2];
+arr.sort();
+console.log(arr); // 1, 2, 3, 5, 7
+
+var arrChar = ['Tono', 'Budi', 'Charlie', 'Ahmad'];
+arrChar.sort();
+console.log(arrChar); // 'Ahmad', 'Budi', 'Charlie', 'Tono'
+```
+
+Contoh masalah `sort()` pada angka:
+```javascript
+var arr = [1, 2, 15];
+arr.sort();
+console.log(arr); // 1, 15, 2
+```
+Hasil dari sort di atas tidak sesuai dengan ekspektasi kita! Seharusnya 1, 2, 15 namun yang terjadi adalah 1, 15, 2. Hal ini karena JavaScript melakukan sort secara unicode atau sebagai karakter, dan karena 15 diawali dengan karakter '1', maka akan dianggap lebih awal daripada karakter '2'. Untuk menyelesaikan masalah ini, kamu perlu menambahkan satu parameter berupa fungsi pembanding. Mungkin kamu akan sedikit bingung dengan code dibawah ini, namun intinya adalah kita membuat satu fungsi yang menilai apakah nilai pertama lebih kecil dari nilai kedua.
+
+```javascript
+var arr = [1, 2, 15];
+arr.sort(function(value1, value2) { return value1 > value2 });
+console.log(arr); // 1, 2, 15
+```
+
+dengan fungsi di dalam ini, kita juga bisa membuat fungsi sort yang descending:
+
+```javascript
+var arr = [1, 2, 15];
+arr.sort(function(value1, value2) { return value1 < value2 });
+console.log(arr); // 15, 2, 1
+```
+
+#### `slice()`
+
+Slice adalah fungsi array yang akan mengambil irisan atau porsi dari sebuah array. Fungsi slice menerima satu atau dua parameter. Parameter pertama adalah index irisan diambil, dan parameter kedua adalah index irisan terakhir diambil. Jika parameter kedua tidak didefinisikan, irisan akan diambil hingga akhir dari array.
+
+```javascript
+var arr = [0, 1, 2, 3, 4];
+var irisan1 = arr.slice(1,3); // mengambil irisan array mulai dari index 1 hingga index 2 (sebelum index 3). Index 3 tidak ikut diambil.
+console.log(irisan1); // [1, 2]
+var irisan2 = arr.slice(1);
+console.log(irisan2); // [1, 2, 3, 4]
+var irisan3 = arr.slice(2, 3);
+console.log(irisan3); // [2]
+var irisan4 = arr.slice(2, 2);
+console.log(irisan4); // [] KOSONG!
+```
+
+#### `splice()`
+
+Splice adalah fungsi array yang menghapus dan/atau menambah nilai ke dalam array. Fungsi splice menerima satu, dua, atau lebih parameter.
+
+Strukturnya adalah sebagai berikut:
+
+```javascript
+array.splice([IndexMulai], [JumlahNilaiYangDihapus], [NilaiYangDitambahkan1], [NilaiYangDitambahkan2], ...);
+```
+
+IndexMulai = index array yang akan dimodifikasi.
+JumlahNilaiYangDihapus = jumlah nilai yang dihapus, dimulai dari IndexMulai. Misal, IndexMulai nya 0, dan JumlahNilaiYangDihapus adalah 2. Maka kita akan menghapus dua nilai mulai dari index 0, yaitu nilai di index 0 dan index 1.
+NilaiYangDitambahkan1, NilaiYangDitambahkan2, ... = nilai-nilai yang akan ditambahkan setelah IndexMulai.
+
+Gambarannya dicontohkan sebagai berikut:
+
+```javascript
+var arr = ["buku", "laptop", "komputer"];
+arr.splice(2, 0, "televisi"); // Menghapus 0 nilai dari index 2, dan menambah 1 nilai yaitu "televisi" pada index 2.
+console.log(arr); // ["buku", "laptop", "televisi", "komputer"]
+
+arr.splice(0, 2); // Menghapus 2 nilai dari index 0
+console.log(arr); // ["televisi", "komputer"]
+
+arr.splice(0, 1, "majalah", "koran"); // Menghapus 1 nilai dari index 0, dan menambah 2 nilai yaitu "majalah" dan "koran"
+console.log(arr); // [majalah", "koran", "komputer"]
+```
+
+#### `split()`
+
+Split adalah fungsi yang memecah string dan mengembalikan nilai berupa array sesuai dengan separator atau pemisah tertentu yang didefinisikan. Fungsi split menerima satu parameter, yaitu karakter apa yang akan menjadi pemisah/separator.
+
+```javascript
+var kalimat = "saya adalah full-stack javascript programmer!";
+var kata = kalimat.split(" "); // kalimat dipecah dengan separator berupa spasi.
+console.log(kata); // ["saya", "adalah", "full-stack", "javascript", "programmer!"]
+```
