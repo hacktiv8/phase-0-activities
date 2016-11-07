@@ -22,11 +22,11 @@ var Object1 = {
 - Isikan ketiga Object tersebut dengan data pada tabel di bawah:
 
 
-| Hari | Kehadiran | Alasan |
-|---|---|
-| Senin | Masuk | |
-| Rabu | Masuk | |
-| Jumat | Absen | Dinas Luar |
+Hari | Kehadiran | Alasan 
+---|---|---
+Senin | Masuk |
+Rabu | Masuk |
+Jumat | Absen | Dinas Luar
 
 
 - Masukan ketiga Object tersebut pada sebuah array

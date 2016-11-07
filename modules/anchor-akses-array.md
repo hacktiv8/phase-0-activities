@@ -11,8 +11,13 @@ Tahukah kamu jika *string* adalah sebuah *array*? Kamu dapat mengakses karakter-
 
 Buatlah sebuah fungsi dengan nama **balikString**. Fungsi ini akan menerima argumen sebuah string dan mengembalikan kebalikannya. 
 
-> **Contoh**
-> input: "hello world!"
-> output: "!dlrow ,olleh"
+### Example
 
+```javascript
+//input "hello world!"
+//output
+"!dlrow ,olleh"
+```
+
+### Hints
 Untuk membantumu mengerjakan tantangan ini, gunakanlah properti `length` pada sebuah array yang akan memberikan panjang dari array-nya. Ingat, indeks sebuah array pada JavaScript dimulai dari 0. 
