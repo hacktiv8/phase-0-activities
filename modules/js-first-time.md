@@ -108,7 +108,7 @@ Contoh sederhana penggunaan modulus:
 > 4 % 2 // 4 modulus 2
 > 0 // bilangan 4 habis dibagi 2, sehingga 4 modulus 2 menghasilkan nilai 0
 > 5 % 2 // 5 modulus 2
-> 0 // bilangan 5 habis tidak habis dibagi 2, sehingga 5 modulus 2 menghasilkan nilai 1, sisa dari hasil pembagian
+> 1 // bilangan 5 habis tidak habis dibagi 2, sehingga 5 modulus 2 menghasilkan nilai 1, sisa dari hasil pembagian
 ```
 
 **Assignment Operator**
@@ -191,7 +191,7 @@ console.log(true && true); // true
 console.log(true && false); // false
 console.log(false && false); // false
 console.log(false && true && true); // false
-console.log(true && true && true); // false
+console.log(true && true && true); // true
 ```
 
 ### Conditional
@@ -483,7 +483,7 @@ function tampilkanAngka(angkaPertama, angkaKedua) {
   return angkaPertama + angkaKedua
 }
 
-console.log(tampilkan(5,3))
+console.log(tampilkanAngka(5,3))
 ```
 
 **Contoh Function 5:** Inisialisasi parameter dengan nilai default
