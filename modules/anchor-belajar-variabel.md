@@ -31,7 +31,8 @@ tugas kamu adalah melakukan *assignment* pada variabel-variabel yang tersedia de
 
 > * JavaScript memang tidak memiliki tipe data secara eksplisit, namun solusi yang benar dari tugas ini adalah menempatkan data pada variabel dengan nama yang sesuai.
 > * Deklarasikan variabel dengan lengkap
-> * Keluarkan ouput dengan memanggil variabel, bukan data
+> * Keluarkan output dengan memanggil variabel, bukan data
+> * Gunakan sebuah `console.log()` untuk masing-masing variabel.
 
 ### Output
 
