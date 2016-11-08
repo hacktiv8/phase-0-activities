@@ -16,8 +16,26 @@ Buatlah sebuah program yang memiliki salah satu dari berbagai tujuan berikut:
 
 **Catatan:** Ingat untuk memberi dokumentasi judul di baris awal agar jelas tujuan utama program kamu buat apa.
 
-## Submssions
+## Scoring
 
-- ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo website kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup.
+Karena tugas kali ini merupakan hasil dari kreatifitas kamu dalam membuat program, kami tidak membatasi sejauh mana kamu dalam membuat program ini. Pada tugas kali ini kami akan memberikan nilai berdasarkan tingkat sejauh mana kamu memanfaatkan logika dan syntax JavaScript yang telah kamu pelajari selama ini, dan kreatifitas dalam membuat program yang menarik dan memiliki kompleksitas yang cukup menantang. Berikut ini cara kami melakukan scoring:
+
+Untuk program yang tidak error, minimal akan mendapatkan nilai 30.
+
+Untuk program yang melibatkan penggunaan:
+- Kondisional (if-else): mendapatkan nilai tambahan 5.
+- Looping (for/while): mendapatkan nilai tambahan 5.
+- Tipe data Array: mendapatkan nilai tambahan 10.
+- Function: mendapatkan nilai tambahan 10.
+- Tipe data Object: mendapatkan nilai tambahan 15.
+
+Kamu juga diminta untuk membuat pseudocode dari program yang kamu buat. Apabila program yang kamu buat sesuai dengan pseudocode yang diminta, kamu akan mendapat nilai tambahan 25.
+
+Note: Disarankan membuat pseudocode sebelum membuat program nya.
+
+## Submissions
+
+- ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup.
 - ▢ Commit dan push file tersebut ke GitHub.
 - ▢ Share hasil kamu di Slack.
+- ▢ Kirimkan link ke form pengumpulan tugas.
