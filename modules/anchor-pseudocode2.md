@@ -20,15 +20,15 @@ FOR setiap pertambahan 1 `index` dari 1 sampai dengan 100:
         KURANGI `total` dengan `index`
     ENDIF
 ENDFOR
-TULISKAN "TOTAL: `index`"
+TULISKAN "TOTAL: `total`"
 ```
 
 ### Tugas 2
 
 ```
 SIMPAN karakter kosong pada `pagar`
-FOR setiap pertambahan 1 `index1` dari 1 sampai 10:
-    FOR setiap pertambahan 1 `index2` dari 0 sampai 10:
+FOR setiap pertambahan 1 pada `index1` dari 1 sampai 10:
+    FOR setiap pertambahan 1 pada `index2` dari 0 sampai 10:
         TAMBAHKAN `pagar` dengan karakter "#"
     ENDFOR
     TULISKAN `pagar`
@@ -40,8 +40,8 @@ ENDFOR
 
 ```
 SIMPAN karakter kosong pada `bintang`
-FOR setiap pertambahan 1 `index1` dari 1 sampai 10:
-    FOR setiap pertambahan 1 `index2` dari 0 sampai `index1`:
+FOR setiap pertambahan 1 pada `index1` dari 1 sampai 10:
+    FOR setiap pertambahan 1 pada `index2` dari 0 sampai `index1`:
         TAMBAHKAN `bintang` dengan karakter "*"
     ENDFOR
     TULISKAN `bintang`
