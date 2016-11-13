@@ -33,7 +33,7 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 - :wrench:
 [Coderbyte, platform online untuk berlatih JavaScript](https://coderbyte.com/)
 - :notebook_with_decorative_cover:
-[Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md) **AD-TODO**
+[Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/coderbyte-introduction.md)
 - :anchor:
 [coderbyte Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
 - :anchor:
@@ -45,6 +45,8 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 
 ## Rabu
 Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
+
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrLr9vbJJZd1ISrc)
 - :anchor:
 [coderbyte - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
 - :anchor:
