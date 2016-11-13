@@ -1,4 +1,4 @@
-# Mengubah Psedocode Menjadi Kode JavaScript 2
+# Mengubah Pseudocode Menjadi Kode JavaScript 2
 
 ## Objectives
 
