@@ -104,7 +104,7 @@ function power(base, exponent) {
 console.log(power(3, 3)); // 3 ** 3 = 27
 ```
 
-### Konversi Tipe Data (Type Conversion)
+### Tambahan: Konversi Tipe Data (Type Conversion)
 
 Telah kita ketahui bahwa kita bisa mengubah tipe data antara Number dan String dengan mudah hanya dengan assign nilai baru atau dengan operator. Ada cara lain yang lebih baik seperti menggunakan fungsi atau mendapatkan angka dari string dengan operator plus `+` (unary plus).
 
@@ -117,6 +117,7 @@ Telah kita ketahui bahwa kita bisa mengubah tipe data antara Number dan String d
 > (+"8.8") + (+"8.8") // 17.6
 ```
 
+<!---
 ### Pengecualian (Exception) dan Penangan Galat (Error Handling)
 
 Terkait dengan pengkondisian, kadang kala kita perlu menangani errot (juga disebut exception). Alur ini terdiri dari dua hal utama:
@@ -190,3 +191,5 @@ finally {
 - [Javascript Cheat Sheet on OverAPI](http://overapi.com/javascript)
 - [DevDocs JavaScript API Documentation](http://devdocs.io/javascript)
 - [Understanding Asynchronous JavaScript Callbacks Through Household Chores, by Stephen Mayeux](https://medium.freecodecamp.com/understanding-asynchronous-javascript-callbacks-through-household-chores-e3de9a1dbd04)
+
+--->
