@@ -9,7 +9,7 @@
 
 ### Mengenal Coderbyte
 
-![Coderbyte Front](assets/coderbyte-front.jpg)
+![Coderbyte Front](assets/coderbyte-front.png)
 
 Coderbyte adalah sebuah platform yang bermanfaat untuk mempersiapkan diri seseorang untuk bergabung ke dalam coding bootcamps. Platform ini telah banyak dimanfaatkan oleh berbagai coding bootcamp di luar negeri, seperti Hack Reactor, Fullstack Academy, Codesmith, dan lain-lain. Kamu akan memanfaatkan platform ini juga untuk mempersiapkan diri bergabung di Phase 1 HACKTIV8.
 
@@ -25,6 +25,6 @@ Untuk dapat dengan lancar mengerjakan challenge di Coderbyte, kamu harus perhati
 
 - Challenge List
 
-![Coderbyte Challenge List](assets/cb-challenge-list.jpg)
+![Coderbyte Challenge List](assets/cb-challenge-list.png)
 
-Gambar di atas menunjukkan list tantangan yang tersedia di Coderbyte. Kamu boleh saja mencoba mengerjakan semuanya, namun pastikan kamu menyelesaikan tantangan yang wajib kamu kerjakan. Kamu akan masuk ke detil sebuah tantangan apabila kamu mengklik salah satu dari list tersebut. 
+Gambar di atas menunjukkan list tantangan yang tersedia di Coderbyte. Kamu boleh saja mencoba mengerjakan semuanya, namun pastikan kamu menyelesaikan tantangan yang wajib kamu kerjakan. Kamu akan masuk ke detil sebuah tantangan apabila kamu mengklik salah satu dari list tersebut.
