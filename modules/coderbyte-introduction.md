@@ -57,7 +57,7 @@ Untuk dapat dengan lancar mengerjakan challenge di Coderbyte, kamu harus perhati
 
   ![Coderbyte Challenge Result](assets/cb-result.png)
 
-  Gambar di atas akan muncul setelah kamu telah submit codemu. Sistem akan mengevaluasi dan memberikan score yang dinilai berdasarkan seberapa tepat code-mu menjawab soal, berapa banyak lines-of-code yang kamu buat, dan berapa lama kamu mengerjakannya. Apabila nilai dari coderbyte kurang memuaskanmu, kamu bisa mengerjakan ulang. **Kami tidak akan mengurangi nilai apabila kamu berkali-kali mengerjakan soal yang sama, kami akan mengambil nilai terbaik.**
+  Gambar di atas akan muncul setelah kamu telah submit codemu. Sistem akan mengevaluasi dan memberikan score yang dinilai berdasarkan seberapa tepat code-mu menjawab soal, berapa banyak lines-of-code yang kamu buat, dan berapa lama kamu mengerjakannya. Apabila nilai dari coderbyte kurang memuaskanmu, kamu bisa mengerjakan ulang. **Kami tidak akan mengurangi nilai apabila kamu berkali-kali mengerjakan soal yang sama, kami akan mengambil nilai terbaik.** Coderbyte menyediakan solution code, namun mengerjakan soal tantangan dengan kemampuanmu sendiri adalah tanggung jawabmu sendiri, karena mengandalkan solution code tidak akan membuatmu terlatih. **Mulai Week 3, kami ada sesi live coding online yang akan mengetest kemampuan coding dan logikamu. Apabila kamu mendapat nilai baik dengan mengandalkan solution code namun gagal di live coding, akan sulit bagi kami untuk melanjutkanmu ke phase 1.** Lebih baik kamu bertanya dan dimentoring oleh instuktur hingga kamu terlatih ketimbang melihat solution code.
 
   HACKTIV8 Challenge Point Calculation:
 
