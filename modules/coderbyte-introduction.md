@@ -43,12 +43,25 @@ Untuk dapat dengan lancar mengerjakan challenge di Coderbyte, kamu harus perhati
 
 - Challenge Page
 
-  ![Coderbyte Challenge Language](assets/cb-language-selection.png)
+  ![Coderbyte Challenge Language](assets/cb-challenge-detail.png)
 
   Gambar di atas menampilkan soal tantangan yang harus kamu kerjakan, dan waktu pengerjaan dihitung semenjak kamu masuk ke halaman ini.
 
 - Challenge Code Editor
 
-  ![Coderbyte Challenge Code Editor](assets/cb-editor.png)
+  ![Coderbyte Challenge Code Editor](assets/cb-challenge-editor.png)
 
   Gambar di atas masih di halaman Challenge (posisinya di bawah soal). Ini, kamu harus mengerjakan tantangannya. Kamu bisa mengerjakannya di text editormu terlebih dahulu dan mengetest nya dengan nodeJS ataupun dengan jsbin lalu kemudian copy-paste ke sini. **Pastikan kamu tidak mengubah code diluar function yang harus kamu kerjakan.**
+
+- Challenge Result
+
+  ![Coderbyte Challenge Result](assets/cb-result.png)
+
+  Gambar di atas akan muncul setelah kamu telah submit codemu. Sistem akan mengevaluasi dan memberikan score yang dinilai berdasarkan seberapa tepat code-mu menjawab soal, berapa banyak lines-of-code yang kamu buat, dan berapa lama kamu mengerjakannya. Apabila nilai dari coderbyte kurang memuaskanmu, kamu bisa mengerjakan ulang. **Kami tidak akan mengurangi nilai apabila kamu berkali-kali mengerjakan soal yang sama, kami akan mengambil nilai terbaik.**
+
+  HACKTIV8 Challenge Point Calculation:
+
+  - 100: Coderbyte Total Point: 10
+  - 70: Coderbyte Test Case Point: 5
+  - 50: Coderbyte Test Case Point: < 5
+  - 0: Coderbyte Test Case Point: < 2
