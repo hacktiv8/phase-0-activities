@@ -25,6 +25,30 @@ Untuk dapat dengan lancar mengerjakan challenge di Coderbyte, kamu harus perhati
 
 - Challenge List
 
-![Coderbyte Challenge List](assets/cb-challenge-list.png)
+  ![Coderbyte Challenge List](assets/cb-challenge-list.png)
 
-Gambar di atas menunjukkan list tantangan yang tersedia di Coderbyte. Kamu boleh saja mencoba mengerjakan semuanya, namun pastikan kamu menyelesaikan tantangan yang wajib kamu kerjakan. Kamu akan masuk ke detil sebuah tantangan apabila kamu mengklik salah satu dari list tersebut.
+  Gambar di atas menunjukkan list tantangan yang tersedia di Coderbyte. Kamu boleh saja mencoba mengerjakan semuanya, namun pastikan kamu menyelesaikan tantangan yang wajib kamu kerjakan. Kamu akan masuk ke detil sebuah tantangan apabila kamu mengklik salah satu dari list tersebut.
+
+- Challenge Details
+
+  ![Coderbyte Challenge Detail](assets/cb-challenge.png)
+
+  Gambar di atas menunjukkan detil tantangan yang kamu pilih Coderbyte.
+
+- Challenge Language Picker
+
+  ![Coderbyte Challenge Language](assets/cb-language-selection.png)
+
+  Gambar di atas menunjukkan halaman dimana kamu harus memilih bahasa apa yang akan kamu gunakan untuk menyelesaikan tantangan tersebut. **Kamu wajib menggunakan JavaScript.**
+
+- Challenge Page
+
+  ![Coderbyte Challenge Language](assets/cb-language-selection.png)
+
+  Gambar di atas menampilkan soal tantangan yang harus kamu kerjakan, dan waktu pengerjaan dihitung semenjak kamu masuk ke halaman ini.
+
+- Challenge Code Editor
+
+  ![Coderbyte Challenge Code Editor](assets/cb-editor.png)
+
+  Gambar di atas masih di halaman Challenge (posisinya di bawah soal). Ini, kamu harus mengerjakan tantangannya. Kamu bisa mengerjakannya di text editormu terlebih dahulu dan mengetest nya dengan nodeJS ataupun dengan jsbin lalu kemudian copy-paste ke sini. **Pastikan kamu tidak mengubah code diluar function yang harus kamu kerjakan.**
