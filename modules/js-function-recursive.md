@@ -86,7 +86,7 @@ function fib(n) {
     return 0;
   if (n <= 2)
     return 1;
-  return this.fib(n-1) + this.fib(n-2);
+  return fib(n-1) + fib(n-2);
 }
 console.log(fib(8)) // 0, 1, 2, 3, 5, 8, 13, 21
 ```
