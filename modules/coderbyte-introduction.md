@@ -61,7 +61,7 @@ Untuk dapat dengan lancar mengerjakan challenge di Coderbyte, kamu harus perhati
 
   HACKTIV8 Challenge Point Calculation:
 
-  - 100: Coderbyte Total Point: 10
-  - 70: Coderbyte Test Case Point: 5
-  - 50: Coderbyte Test Case Point: < 5
-  - 0: Coderbyte Test Case Point: < 2
+  - 100: Coderbyte Test Case Point: 5
+  - 85: Coderbyte Test Case Point: 4
+  - 50: Coderbyte Test Case Point: 3
+  - 0: Coderbyte Test Case Point: < 3
