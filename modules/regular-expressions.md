@@ -1,10 +1,8 @@
 # Explore Regular Expressions!
 
-## Objectives
-
-Regular Expressions adalah ...
 Regular Expressions, atau disingkat menjadi Regex, di kalangan programmer, kadang dianggap menjadi satu hal yang sangat menyeramkan, dikarenakan nature mereka yang membuat kita harus menghapal berbagai simbol yang tersusun dengan sangat abstrak. Namun, pada saat kita telah mampu menulis pattern regex kita sendiri, akan sangat mudah memahaminya. Kamu tidak mau kan, harus meng-googling setiap pattern regex dan mencoba satu per satu?
 
+## Objectives
 
 - ▢ Mengetahui Kegunaan Regular Expressions
 - ▢ Memahami simbol-simbol yang digunakan pada Regular Expressions
@@ -22,8 +20,6 @@ Kuncinya untuk memahami Regular Expressions adalah mampu menghapal simbol-simbol
 ? // - Karakter terdahulu menjadi opsional. Mencocokan 0 atau 1.
 \d // - Mencocokan digit apapun
 \w // - Mencocokan karakter pada sebuah kata (alphanumeric dan underscore/garis bawah).
-[XYZ] // - Matches any single character from the character class.
-[XYZ]+ // - Matches one or more of any of the characters in the set.
 $ // - Mencocokan ujung dari sebuah string.
 ^ // - Mencocokan awal dari sebuah string.
 [^a-z] // - Ketika didalam sebuah class karakter, tanda ^ artinya NOT; dalam kasus ini, regex akan mencocokan apapun yang bukan karakter lowercase.
@@ -47,11 +43,11 @@ Fungsi `test()` akan mengembalikan nilai `true` atau `false`, sesuai dengan patt
 ```javascript
 var message = 'Regex itu Mudah!';
 console.log(/[A-Z]/.test(message));
-// mengembalikan nilai true karena minimal satu karakter memenuhi pattern A-Z
+// mengembalikan nilai true karena minimal satu karakter memenuhi pattern A-Z. Dan true, karena regex itu memang mudah :)
 
 var messageAllLowerCase = 'regex itu susah?';
 console.log(/[A-Z]/.test(messageAllLowerCase));
-// mengembalikan nilai false karena tidak ada satupun karakter yang memenuhi pattern A-Z
+// mengembalikan nilai false karena tidak ada satupun karakter yang memenuhi pattern A-Z. statement tersebut juga memang false! regex tidak sesulit yang kita kira!
 ```
 
 **Menggunakan RegExp object**
@@ -61,11 +57,11 @@ var regexPattern = new RegExp('[A-Z]');
 
 var message = 'Regex itu Mudah!';
 console.log(regexPattern.test(message));
-// mengembalikan nilai true karena minimal satu karakter memenuhi pattern A-Z
+// mengembalikan nilai true karena minimal satu karakter memenuhi pattern A-Z. Dan true, karena regex itu memang mudah :)
 
 var messageAllLowerCase = 'regex itu susah?';
 console.log(regexPattern.test(messageAllLowerCase));
-// mengembalikan nilai false karena tidak ada satupun karakter yang memenuhi pattern A-Z
+// mengembalikan nilai false karena tidak ada satupun karakter yang memenuhi pattern A-Z. statement tersebut juga memang false! regex tidak sesulit yang kita kira!
 ```
 
 #### Split
@@ -100,7 +96,7 @@ console.log(message.match(/e/g));
 // menampilkan "e" untuk setiap "e" yang terdapat di dalam teks. `g` menandakan pencarian secara global, tidak hanya satu kali
 
 console.log(message.match(/e/gi));
-// menampilkan "e" untuk setiap "e" yang terdapat di dalam teks. `i` menandakan pencarian karakter dengan ignore case, atau mengabaikan besar kecilnya karakter, sehingga "E" pun akan dicocokkan. 
+// menampilkan "e" untuk setiap "e" yang terdapat di dalam teks. `i` menandakan pencarian karakter dengan ignore case, atau mengabaikan besar kecilnya karakter, sehingga "E" pun akan dicocokkan.
 ```
 
 **Contoh 2 Penggunaan Match - Mencocokan Karakter dan Mengecualikan Punctuation atau Simbol**
@@ -114,14 +110,11 @@ Simbol-simbol diatas, sering disebut sebagai Punctiation. Seringkali dalam beber
 
 Jika kamu teliti, kamu pasti menemukan simbol `+` dibelakang `[a-z]`. Simbol `+` disini berarti match akan menyatukan seluruh karakter yang cocok dengan pattern a-z hingga menemukan pattern lain diluar pattern tersebut. Dalam kasus contoh di atas, setiap kali menemukan spasi, contohya pada `Walaupun regex` match akan memisahkan `Walaupun` dan `regex` karena ditemukannya spasi tersebut. Apabila kamu penasaran, cobalah hapus simbol `+` dari code diatas, dan jalankanlah kembali. Hasilnya akan berbeda!
 
-
-
 ### Mengetest Kemampuan Regular Expressions
 
 Ada sebuah platform yang cocok untuk melatih kamu dalam menggunakan regex, yaitu [regexr.com](http://regexr.com/)
 
 ## References
 
-- [HTML, CSS & JS Frameworks and when to use them, by Chris Wharton](https://chriswharton.me/2016/05/html-css-and-js-frameworks-use)
-- [Front-end Hyperpolyglot, by Jeff Carp](https://jeffcarp.github.io/frontend-hyperpolyglot)
-- [What is Semantic Versioning (SemVer)?, by AbdulFattaah Popoola](https://abdulapopoola.com/2015/10/26/what-is-semver)
+- [RegexOne - Belajar Regex dengan Interaktif](https://regexone.com/)
+- [Regex Codecademy](https://www.codecademy.com/en/courses/javascript-intermediate-en-NJ7Lr/0/1)
