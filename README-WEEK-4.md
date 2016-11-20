@@ -7,7 +7,7 @@ Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fok
 ![Let's start!](assets/start.png)
 
 ## Senin - coderbyte and Regex
-Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions!
+Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
 
 - :pushpin: [Form Pengumpulan Tugas Week 4](https://airtable.com/shrXt6d9EMMc7iu3c)
 - :notebook_with_decorative_cover:
