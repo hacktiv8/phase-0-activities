@@ -48,11 +48,11 @@ Hari terakhir untuk tantangan coderbyte di pekan ini. Persiapkan dirimu untuk Li
 
 - :pushpin: [Form Pengumpulan Tugas Week 4](https://airtable.com/shrXt6d9EMMc7iu3c)
 - :anchor:
-[coderbyte Looping and Conditional - Division](https://coderbyte.com/information.php?ct=Division)
+[coderbyte Division](https://coderbyte.com/information.php?ct=Division)
 - :anchor:
-[coderbyte Looping and Conditional - Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
+[coderbyte Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
 - :anchor:
-[coderbyte Looping and Conditional - Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
+[coderbyte Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals, dan built-in Functions)
 Tiba saatnya kita melakukan Live Coding Online untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Apabila kamu memang selama ini mengerjakan tugas-tugas sebelumnya sendiri dan dengan sungguh-sungguh, live coding hari ini akan terasa sangat mudah!
