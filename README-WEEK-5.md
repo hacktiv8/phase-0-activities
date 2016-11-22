@@ -1,7 +1,5 @@
 # Hacktiv8 Phase 0 Week 5: The World of DOM, Events, and Scope
 
-Kamu belum bisa mengakses Week 5. Fokus selesaikan Week 1 terlebih dahulu ya! :smile:
-<!---
 ![Header](assets/header-w4.jpg)
 
 Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini mulai dari hari rabu kita akan refreshing sejenak dan mempelajari DOM dan jQuery, yang akan membuat website kamu menjadi interaktif dan menarik!
@@ -70,4 +68,3 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
---->
