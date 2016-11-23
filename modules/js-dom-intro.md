@@ -36,6 +36,7 @@ Hubungan antar berbagai "object" tersebut atau yang akan kita sebut seterusnya d
 
 ### 2. Seleksi DOM dari HTML
 
+Mulai dari bagian ini, snippet atau potongan kode ini akan berlanjut/bersambung ya.
 Sebelum mencoba melakukan seleksi dan manipulasi, kita coba asumsikan penggunaan
 Kita bisa melakukan seleksi terhadap DOM dengan mengunakan beberapa sintaks berikut:
 
