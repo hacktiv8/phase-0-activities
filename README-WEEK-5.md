@@ -6,28 +6,6 @@ Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan 
 
 ![Let's start!](assets/start.png)
 
-## Senin - coderbyte
-Hari baru, semangat baru! Sebentar lagi tantangan coderbyte akan habis! Selamat karena telah menempuh perjalanan sejauh ini, dan kami semua mengerti, bahwa perjalanan tersebut tidak mudah. Hari ini kita akan mengasahh kemampuanmu lagi dengan tantangan, sekaligus mempersiapkanmu untuk Live Coding Online besok!
-
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
-- :anchor:
-[coderbyte Looping and Conditional - Mean Mode](https://coderbyte.com/information.php?ct=Mean%20Mode)
-- :anchor:
-[coderbyte Recursion - First Factorial](https://coderbyte.com/information.php?ct=First%20Factorial)
-- :anchor:
-[coderbyte Recursion - Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
-- :anchor:
-[coderbyte Recursion - Additive Persistence](https://coderbyte.com/information.php?ct=Additive%20Persistence)
-- :anchor:
-[coderbyte Recursion - Multiplicative Persistence](https://coderbyte.com/information.php?ct=Multiplicative%20Persistence)
-
-## Selasa - Online Live Coding (Conditional and Recursion)
-Tibalah kita di hari live coding minggu ini. Persiapkan dirimu untuk memulai live coding. Yang terpenting adalah kamu percaya kamu bisa mengerjakannya dan mendapatkan solusi terbaik dari kasus yang diberikan. :cool:
-
-- :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
-- :anchor:
-Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
-
 ## Rabu - DOM Introduction
 Akhirnya beberapa pekan tantangan yang penuh logika dan sintaks berakhir. Sekarang, kamu akan mencoba bermain dengan DOM dan pada akhirnya membuat aplikasi web yang interaktif dengan jQuery. Anggap saja beberapa hari ini sebagai refreshing dari pekan lalu, dan hasil dari pekan ini pun akan menghasilkan aplikasi web yang menarik dan interaktif.
 
@@ -53,8 +31,6 @@ Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript maupun
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
 - :anchor: [Membuat website yang interaktif menggunakan jQuery](http://try.jquery.com/)
-
-
 
 ## Sabtu dan Minggu
 
