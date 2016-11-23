@@ -95,7 +95,7 @@ console.log('isi <div class="page-box"> :' + pageBoxElementsContent);
 // isi <div class="page-box"> adalah undefined!
 ```
 
-isi <div class="page-box"> adalah undefined! Kenapa? pageBoxElements adalah array, dan saat kita melakukan `innerHTML` ke array, maka hasilnya adalah undefined!
+isi `<div class="page-box">` adalah `undefined`! Kenapa? pageBoxElements adalah array, dan saat kita melakukan `innerHTML` ke array, maka hasilnya adalah undefined!
 
 Kita bisa melakukan perubahan DOM dengan JavaScript seperti berikut:
 
