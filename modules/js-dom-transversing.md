@@ -13,6 +13,8 @@ Di layout HTML yang cukup kompleks, kita akan bertemu dengan banyak element HTML
 
 ### 1. Mengenal DOM
 
+![Hierarki dalam Layout HTML](assets/html-hierarcy.gif)
+
 Document Object Model (DOM) merupakan antarmuka pemrograman untuk dokumen HTML dan XML (juga SVG) terkait. Dengan DOM, kita bisa mengetahui dan mengatur struktur representasi dokumen melalui program terutama JavaScript. Program dapat mengolah struktur, style, dan isi dari dokumen tersebut. Maka dari itu DOM membutuhkan dan menghubungkan antara dokumen dan kode pemrograman.
 
 Seperti yang telah diketahui sebelumnya bahwa hampir semua hal di JavaScript adalah objek, maka begitupun pada HTML yang kita ketahui melalui DOM. Kombinasi interaksi antarmuka antara DOM dan JavaScript ini juga dapat dilakukan karena adanya Application Programming Interface (API). API memungkinkan sebuah program berkomunikasi dengan program yang lain dengan cara tertentu.
