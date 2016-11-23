@@ -40,7 +40,7 @@ Hubungan antar berbagai "object" tersebut atau yang akan kita sebut seterusnya d
 Sebelum mencoba melakukan seleksi dan manipulasi, kita coba asumsikan penggunaan
 Kita bisa melakukan seleksi terhadap DOM dengan mengunakan beberapa sintaks berikut:
 
-js-simple-dom.html
+**js-simple-dom.html**
 ```html
 <html>
   <head>
@@ -58,7 +58,6 @@ js-simple-dom.html
 ```
 
 **js-simple-dom-script.js (part 1)**
-
 ```javascript
 var pageTitleElement = document.getElementById("page-title");
 // Menyeleksi DOM berdasarkan Id element dan menampungnya ke dalam variabel. Isinya merupakan object HTML element
@@ -77,7 +76,6 @@ Untuk memberikan gambaran apa yang didapatkan dan ditampung oleh variabel terseb
 Kita bisa mengakses isi HTML dari DOM yang telah kita seleksi dengan sintaks berikut:
 
 **js-simple-dom-script.js (part 2)**
-
 ```javascript
 var pageTitleElement = document.getElementById("page-title");
 // Menyeleksi DOM berdasarkan Id element dan menampungnya ke dalam variabel. Isinya merupakan object HTML element
