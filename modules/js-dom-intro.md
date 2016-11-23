@@ -218,3 +218,5 @@ pageTitleElement.innerHTML = '<h2>Updated Content of Page Title Element</h2>';
 var newPageTitleElementContent = pageTitleElement.innerHTML;
 console.log('isi baru dari <div id="page-title"> :' + newPageTitleElementContent);
 ```
+
+Kamu telah bisa menggunakan selector untuk memilih dan mengakses sebuah element HTML. Kamu juga telah bisa mengubah isi HTML dari element yang telah kamu pilih. Saatnya mulai latihan tentang selector dan askes nilai! :smile:
