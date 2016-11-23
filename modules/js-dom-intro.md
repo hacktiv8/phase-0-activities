@@ -1,4 +1,4 @@
-# Learn DOM and More on Dev Tools
+# Introduction to Document Object Model (DOM)
 
 ## Objectives
 
@@ -6,12 +6,9 @@ Dalam mengembangkan web, kita harus menyadari bahwa kita sekaligus membuat Docum
 
 **DOM**
 
-- ▢ Memahami Document Object Model (DOM) serta hubungannya dengan HTML, CSS, dan JavaScript.
-- ▢ Mengintegrasikan DOM dengan HTML dan CSS.
-- ▢ Menjelajahi DOM dengan JavaScript.
-- ▢ Memanipulasi DOM dengan JavaScript.
-- ▢ Menggayakan (styling) DOM dengan CSS.
-- ▢ Mengetahui node property, value, attributes.
+- ▢ Memahami Document Object Model (DOM)
+- ▢ Memahami DOM selector
+- ▢ memanipulasi isi HTML dari DOM yang telah di select
 
 ## Learnings
 
