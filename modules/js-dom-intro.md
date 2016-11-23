@@ -36,10 +36,11 @@ Hubungan antar berbagai "object" tersebut atau yang akan kita sebut seterusnya d
 
 ### 2. Seleksi DOM dari HTML
 
-Mulai dari bagian ini, snippet atau potongan kode ini akan berlanjut/bersambung ya.
+**Mulai dari bagian ini, snippet atau potongan kode ini akan berlanjut/bersambung.**
 Sebelum mencoba melakukan seleksi dan manipulasi, kita coba asumsikan penggunaan
 Kita bisa melakukan seleksi terhadap DOM dengan mengunakan beberapa sintaks berikut:
 
+js-simple-dom.html
 ```html
 <html>
   <head>
@@ -51,9 +52,12 @@ Kita bisa melakukan seleksi terhadap DOM dengan mengunakan beberapa sintaks beri
     <div class="page-box">Page Box 1</div>
     <div class="page-box">Page Box 2</div>
     <div class="page-box">Page Box 3</div>
+    <script src="js-simple-dom-script.js"></script>
   </body>
 </html>
 ```
+
+**js-simple-dom-script.js (part 1)**
 
 ```javascript
 var pageTitleElement = document.getElementById("page-title");
@@ -72,7 +76,18 @@ Untuk memberikan gambaran apa yang didapatkan dan ditampung oleh variabel terseb
 
 Kita bisa mengakses isi HTML dari DOM yang telah kita seleksi dengan sintaks berikut:
 
+**js-simple-dom-script.js (part 2)**
+
 ```javascript
+var pageTitleElement = document.getElementById("page-title");
+// Menyeleksi DOM berdasarkan Id element dan menampungnya ke dalam variabel. Isinya merupakan object HTML element
+
+var pageBoxElements = document.getElementsByClassName("page-box");
+// Menyeleksi DOM berdasarkan nama class element dan menampungnya ke dalam variabel. Isinya merupakan array dari object HTML element, walau <h1> hanya ada 1.
+
+var pageHeadings = document.getElementsByTagName("h1");
+// Menyeleksi DOM berdasarkan tag <h1> dan menampungnya ke dalam variabel. Isinya merupakan array dari object HTML element
+
 var pageTitleElementsContent = pageTitleElement.innerHTML;
 console.log('isi <div id="page-title"> :' + pageTitleElementsContent);
 // isi <div id="page-title"> adalah Sample Page Title
@@ -86,7 +101,25 @@ isi <div class="page-box"> adalah undefined! Kenapa? pageBoxElements adalah arra
 
 Kita bisa melakukan perubahan DOM dengan JavaScript seperti berikut:
 
+**js-simple-dom-script.js (part 3)**
 ```javascript
+var pageTitleElement = document.getElementById("page-title");
+// Menyeleksi DOM berdasarkan Id element dan menampungnya ke dalam variabel. Isinya merupakan object HTML element
+
+var pageBoxElements = document.getElementsByClassName("page-box");
+// Menyeleksi DOM berdasarkan nama class element dan menampungnya ke dalam variabel. Isinya merupakan array dari object HTML element, walau <h1> hanya ada 1.
+
+var pageHeadings = document.getElementsByTagName("h1");
+// Menyeleksi DOM berdasarkan tag <h1> dan menampungnya ke dalam variabel. Isinya merupakan array dari object HTML element
+
+var pageTitleElementsContent = pageTitleElement.innerHTML;
+console.log('isi <div id="page-title"> :' + pageTitleElementsContent);
+// isi <div id="page-title"> adalah Sample Page Title
+
+var pageBoxElementsContent = pageBoxElements.innerHTML;
+console.log('isi <div class="page-box"> :' + pageBoxElementsContent);
+// isi <div class="page-box"> adalah undefined!
+
 // Mengambil isi elemen pageBoxElements yang pertama, yaitu index ke 0
 var firstPageBoxElement         = pageBoxElements[0];
 var firstpageBoxElementContent  = firstPageBoxElement.innerHTML;
