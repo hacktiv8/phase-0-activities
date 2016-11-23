@@ -44,16 +44,16 @@ Contoh gambar di atas merupakan gambaran sederhana dari sebuah layout HTML. Apab
 
 Bisa kita lihat seperti visualisasi layout web page dan code di atas, satu element HTML menjadi child untuk yang lainnya. Terkait relasi parent-child, ada juga relasi yang dinamakan sibling. Sibling adalah "saudara" dari sebuah child, yang memiliki parent yang sama. Jika kita analogikan dalam sebuah keluarga sebagai seorang anak atau sebuah child, sibling adalah adik atau kakak kandung kita, dan parent adalah orang tua kandung kita. Di bawah ini di jelaskan peran masing-masing element HTML di atas dalam susunan hierarki nya.
 
-- <html>                  : merupakan parent paling atas
-- <head>                  : merupakan child dari <html>
-- <body>                  : merupakan child dari <html>, sibling dari <head>
-- <h1>                    : merupakan child dari <body>
-- <div id="contoh-div-1"> : merupakan child dari <body>, sibling dari <h1>
-- <p id="contoh-p-1">     : merupakan child dari <div id="contoh-div-1">
-- <strong>                : merupakan child dari <p id="contoh-p-1">
-- <em>                    : merupakan child dari <p id="contoh-p-1">, sibling dari <strong>
-- <div id="contoh-div-2"> : merupakan child dari <body>, sibling dari <h1> dan <div id="contoh-div-1">
-- <h2>                    : merupakan child dari <div id="contoh-div-2">
-- <p id="contoh-p-2">     : merupakan child dari <div id="contoh-div-2">, sibling dari <h2>
-- <ul>                    : merupakan child dari <div id="contoh-div-2">, sibling dari <h2> dan <p id="contoh-p-2">
-- <li>                    : merupakan child dari <ul>
+- `<html>`                  : merupakan parent paling atas
+- `<head>`                  : merupakan child dari `<html>`
+- `<body>`                  : merupakan child dari `<html>`, sibling dari `<head>`
+- `<h1>`                    : merupakan child dari `<body>`
+- `<div id="contoh-div-1">` : merupakan child dari `<body>`, sibling dari `<h1>`
+- `<p id="contoh-p-1"> `    : merupakan child dari `<div id="contoh-div-1">`
+- `<strong>`                : merupakan child dari `<p id="contoh-p-1">`
+- `<em>`                    : merupakan child dari `<p id="contoh-p-1">`, sibling dari `<strong>`
+- `<div id="contoh-div-2">` : merupakan child dari `<body>`, sibling dari `<h1>` dan `<div id="contoh-div-1">`
+- `<h2>`                    : merupakan child dari `<div id="contoh-div-2">`
+- `<p id="contoh-p-2">`     : merupakan child dari `<div id="contoh-div-2">`, sibling dari `<h2>`
+- `<ul>`                    : merupakan child dari `<div id="contoh-div-2">`, sibling dari `<h2>` dan `<p id="contoh-p-2">`
+- `<li>`                    : merupakan child dari `<ul>`
