@@ -270,7 +270,7 @@ console.log(contohDiv1PrevSibling); // <h1></h1>
 
 Itu saja yang penting mengenai siblings. Ingat, jika kamu mencoba mengakses sibling yang tidak ada, akan menghasilkan nilai `null`!
 
-### 3. Menjelajah DOM lebih dalam
+### 2.3 Menjelajah DOM lebih dalam
 
 Sebelumnya, untuk mengakses child, parent, atau sibling kita masih mengakses element yang satu tingkat didalam, diluar, atau disebelahnya. Bagaimana jika kita ingin menjelajah element dengan tingkat yang lebih dalam? Kamu bisa menggunakan cara biasa, dengan mengakses element satu tingkat satu per satu, atau menelusurinya lebih dalam sekaligus, dengan selector beruntun atau disebut juga chaining selectors.
 
