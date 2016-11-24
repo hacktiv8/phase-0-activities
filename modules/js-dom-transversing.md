@@ -39,7 +39,9 @@ Contoh gambar di atas merupakan gambaran sederhana dari sebuah layout HTML. Apab
         <li></li>
       </ul>
     </div>
-    <script src="js-dom-transversing-script.js"></script>
+    <script src="dom-transverse-1-intro.js"></script>
+    <script src="dom-transverse-2-siblings.js"></script>
+    <script src="dom-transverse-3-chaining-selectors.js"></script>
   </body>
 </html>
 ```
@@ -62,8 +64,159 @@ Bisa kita lihat seperti visualisasi layout web page dan code di atas, satu eleme
 
 ### 2. Menjelajah DOM
 
-Saatnya kita belajar menjelajah DOM memanfaatkan parent, child, dan sibling. Untuk awal, coba kita ambil <div id="contoh-div-1"> dengan code berikut:
+Saatnya kita belajar menjelajah DOM memanfaatkan parent, child, dan sibling.
 
-**js-dom-transversing-script.js**
+#### 2.1 Pengenalan DOM Transversing
+
+Untuk mulai mengenai transerving atau penjelajahan di dalam DOM, kita coba mulai dengan menjelajahi hubungan Parent - Child. Contoh pertama kita mulai dengan menseleksi `<body>` dan mendapatkan element HTML apa saja yang menjadi children dari `<body>`.
+
+**dom-transverse-1-intro.js (part 1)**
 ```javascript
+/*
+====================================================
+ Menseleksi DOM berdasarkan hubungan Parent - Child
+====================================================
+*/
+
+// Menseleksi element <body>
+var body = document.body;
+
+// Mendapatkan element children dari <body>
+var bodyChilds = body.children;
+
+// Menampilkan DOM yang menjadi child dari <body> dalam bentuk array
+console.log(bodyChilds); // h1, div id="contoh-div-1", div id="contoh-div-2", scripts js
 ```
+
+Berdasarkan potongan kode di atas, kita berhasil mendapatkan children dari `<body>`, yaitu `<h1>`, `<div id="contoh-div-1">`, `<div id="contoh-div-2">` dan `<script>`.
+
+Sekarang coba kita update lagi kode kita untuk mendapatkan contoh penjelajahan lain.
+
+**dom-transverse-1-intro.js (part 2)**
+```javascript
+/*
+====================================================
+ Menseleksi DOM berdasarkan hubungan Parent - Child
+====================================================
+*/
+
+// Menseleksi element <body>
+var body = document.body;
+
+// Mendapatkan element children dari <body>
+var bodyChilds = body.children;
+
+// Menampilkan DOM yang menjadi child dari <body> dalam bentuk array
+console.log(bodyChilds);
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+
+// Mendapatkan element children dari <div id="contoh-div-1"> dalam bentuk array
+var contohDiv1Childs = contohDiv1.children;
+
+// Mendapatkan child pertama dari <div id="contoh-div-1">
+var contohDiv1FirstChild = contohDiv1Childs[0];
+console.log(contohDiv1FirstChild); // <p id="contoh-p-1">...</p>
+
+// Note: Walaupun children mungkin hanya 1 element, tetap tertampung dalam array!
+```
+
+Disini kita mencoba mengakses salah satu children dan menambilkannya ke console sebagai HTML element, dengan menakses index dari array children yang sesuai. Ingat, setiap kita menggunakan `.children`, kita pasti mendapatkan nilai berupa array yang berisikan berbagai HTML elements.
+
+Bagaimana mengakses semua nilai dari children? Kita tinggal menggunakan looping seperti contoh berikut:
+
+**dom-transverse-1-intro.js (part 3)**
+```javascript
+/*
+====================================================
+ Menseleksi DOM berdasarkan hubungan Parent - Child
+====================================================
+*/
+
+// Menseleksi element <body>
+var body = document.body;
+
+// Mendapatkan element children dari <body>
+var bodyChilds = body.children;
+
+// Menampilkan DOM yang menjadi child dari <body> dalam bentuk array
+console.log(bodyChilds);
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+
+// Mendapatkan element children dari <div id="contoh-div-1"> dalam bentuk array
+var contohDiv1Childs = contohDiv1.children;
+
+// Mendapatkan child pertama dari <div id="contoh-div-1">
+var contohDiv1FirstChild = contohDiv1Childs[0];
+console.log(contohDiv1FirstChild); // <p id="contoh-p-1">...</p>
+
+// Note: Walaupun children mungkin hanya 1 element, tetap tertampung dalam array!
+
+// Menseleksi element <div id="contoh-div-2">
+var contohDiv2 = document.getElementById('contoh-div-2');
+
+// Mendapatkan element children dari <div id="contoh-div-2"> dalam bentuk array
+var contohDiv2Childs = contohDiv2.children;
+
+for(var n = 0; n < contohDiv2Childs.length; n++) {
+  var contohDiv2NthChild = contohDiv2Childs[n];
+  console.log(contohDiv2NthChild);
+}
+```
+
+Kamu berhasil mendapatkan seluruh children dari `<div id="contoh-div-2">` dengan looping!
+
+Dari awal kita mencoba mengakses children dari parent nya. Bagaimana dengan mengakses parent melalui child nya? tentu bisa!
+
+**dom-transverse-1-intro.js (part 4)**
+```javascript
+/*
+====================================================
+ Menseleksi DOM berdasarkan hubungan Parent - Child
+====================================================
+*/
+
+// Menseleksi element <body>
+var body = document.body;
+
+// Mendapatkan element children dari <body>
+var bodyChilds = body.children;
+
+// Menampilkan DOM yang menjadi child dari <body> dalam bentuk array
+console.log(bodyChilds);
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+
+// Mendapatkan element children dari <div id="contoh-div-1"> dalam bentuk array
+var contohDiv1Childs = contohDiv1.children;
+
+// Mendapatkan child pertama dari <div id="contoh-div-1">
+var contohDiv1FirstChild = contohDiv1Childs[0];
+console.log(contohDiv1FirstChild); // <p id="contoh-p-1">...</p>
+
+// Note: Walaupun children mungkin hanya 1 element, tetap tertampung dalam array!
+
+// Menseleksi element <div id="contoh-div-2">
+var contohDiv2 = document.getElementById('contoh-div-2');
+
+// Mendapatkan element children dari <div id="contoh-div-2"> dalam bentuk array
+var contohDiv2Childs = contohDiv2.children;
+
+for(var n = 0; n < contohDiv2Childs.length; n++) {
+  var contohDiv2NthChild = contohDiv2Childs[n];
+  console.log(contohDiv2NthChild);
+}
+
+// Menseleksi element <p id="contoh-p-1">
+var contohP1 = document.getElementById('contoh-p-1');
+console.log(contohP1);
+
+var contohP1Parent = contohP1.parentNode;
+console.log(contohP1Parent); // <div id="contoh-div-1">
+```
+
+Selamat! Kamu telah berhasil mengkases parent -> child dan sebaliknya, child -> parent. Kamu mulai dapat memahami cara kerja penjelajahan DOM! :tada:
