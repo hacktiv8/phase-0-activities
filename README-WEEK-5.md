@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 5: The World of DOM, Events, and Scope
+# Hacktiv8 Phase 0 Week 5: The World of DOM
 
 ![Header](assets/header-w4.jpg)
 
@@ -6,31 +6,39 @@ Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan 
 
 ![Let's start!](assets/start.png)
 
-## Rabu - DOM Introduction
-Akhirnya beberapa pekan tantangan yang penuh logika dan sintaks berakhir. Sekarang, kamu akan mencoba bermain dengan DOM dan pada akhirnya membuat aplikasi web yang interaktif dengan jQuery. Anggap saja beberapa hari ini sebagai refreshing dari pekan lalu, dan hasil dari pekan ini pun akan menghasilkan aplikasi web yang menarik dan interaktif.
+## Senin - DOM Introduction
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mencoba bermain dengan DOM dan pada akhirnya membuat aplikasi web yang interaktif dengan JavaScript. Anggap saja beberapa hari ini sebagai refreshing dari pekan lalu, dan hasil dari pekan ini pun akan menghasilkan aplikasi web yang menarik dan interaktif.
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
-- :notebook_with_decorative_cover: [Memahami Document Object Model](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-intro.md)
-- :notebook_with_decorative_cover: [Memahami Document Object Model Lanjutan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-dom-devtools.md)
-- :anchor: [Form Validation Sederhana](modules/anchor-vanilla-js.md)
+- :notebook_with_decorative_cover: [Memahami Document Object Model](modules/js-dom-intro.md)
+- :anchor: [Seleksi DOM Sederhana](modules/anchor-vanilla-js.md) **AKBR-TODO**
 
-## Kamis - More about DOM and jQuery
-Kamu telah mengetahui apa itu DOM dan event di web, sekarang, saatnya kamu manfaatkan jQuery untuk melakukan interaksi dan manipulasi DOM dengan lebih mudah dan cepat!
-
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
-- :notebook_with_decorative_cover: [Mengenal jQuery](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/jquery.md)
-- :anchor: [Mencoba jQuery (Chapter 1)](http://try.jquery.com/)
-- :anchor: [Mencoba jQuery (Chapter 2)](http://try.jquery.com/)
-- :anchor: [Mencoba jQuery (Chapter 3)](http://try.jquery.com/)
-- :anchor: [Mencoba jQuery (Chapter 4)](http://try.jquery.com/)
-- :rocket: [Mencoba jQuery (Chapter 5)](http://try.jquery.com/)
-- :rocket: [Mencoba jQuery (Chapter 6)](http://try.jquery.com/)
-
-## Jumat - Interactive App using jQuery
-Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript maupun jQuery. Sekarang saatnya kamu membuat sebuah website yang interaktif menggunakan pengetahuan yang telah kita dapatkan dua hari kebelakang.
+## Selasa - DOM Transversing
+Setelah mencoba menseleksi DOM, hari ini saatnya kita belajar bagaimana melakukan DOM transversing atau disebut juga penjelajahan DOM.
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
-- :anchor: [Membuat website yang interaktif menggunakan jQuery](http://try.jquery.com/)
+- :notebook_with_decorative_cover: [Memahami DOM Transversing](modules/js-dom-transversing.md)
+- :anchor: [Penjelajahan DOM Sederhana](modules/anchor-vanilla-js.md) **AKBR-TODO**
+
+## Rabu - DOM Events
+Ternyata bermain dan menjelajah DOM sangat menarik, walaupun hingga saat ini kita masih belum bisa membuat web yang interaktif. Hari ini mulai saatnya kita bisa menambah sisi interaktif dari web kita!
+
+- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
+- :notebook_with_decorative_cover: [Memahami DOM Events](modules/js-dom-events.md)
+- :anchor: [Penjelajahan DOM Sederhana](modules/anchor-vanilla-js.md) **AKBR-TODO**
+
+## Kamis - Menyusun Halaman HTML dengan JavaScript
+Sebelumnya kita telah belajar menseleksi, menjelajah, dan membuat halaman kita interaktif. Tapi ternyata kita juga bisa menyusun HTML element sendiri dengan JavaScript lho! Saatnya kita menyusun web kita dengan JavaScript!
+
+- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
+- :notebook_with_decorative_cover: [Membuat DOM](modules/js-dom-creation.md) **AD-TODO**
+- :anchor: [Penjelajahan DOM Sederhana](modules/anchor-vanilla-js.md) **AKBR-TODO**
+
+## Jumat - Interactive App using JavaScript
+Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript. Sekarang saatnya kamu membuat sebuah website yang interaktif menggunakan pengetahuan yang telah kita dapatkan satu minggu kebelakang.
+
+- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
+- :anchor: [Membuat website yang interaktif menggunakan JavaScript](http://try.jquery.com/)
 
 ## Sabtu dan Minggu
 
