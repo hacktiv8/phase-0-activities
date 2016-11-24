@@ -66,7 +66,7 @@ Bisa kita lihat seperti visualisasi layout web page dan code di atas, satu eleme
 
 Saatnya kita belajar menjelajah DOM memanfaatkan parent, child, dan sibling.
 
-#### 2.1 Pengenalan DOM Transversing
+#### 2.1 Parent - Child
 
 Untuk mulai mengenai transerving atau penjelajahan di dalam DOM, kita coba mulai dengan menjelajahi hubungan Parent - Child. Contoh pertama kita mulai dengan menseleksi `<body>` dan mendapatkan element HTML apa saja yang menjadi children dari `<body>`.
 
@@ -219,4 +219,226 @@ var contohP1Parent = contohP1.parentNode;
 console.log(contohP1Parent); // <div id="contoh-div-1">
 ```
 
-Selamat! Kamu telah berhasil mengkases parent -> child dan sebaliknya, child -> parent. Kamu mulai dapat memahami cara kerja penjelajahan DOM! :tada:
+Selamat! Kamu telah berhasil mengkases parent -> child dan sebaliknya, child -> parent. Kamu mulai dapat memahami cara kerja penjelajahan DOM! Saatnya kita lanjut ke relasi selanjutnya, yaitu siblings!
+
+#### 2.2 Siblings
+
+Apabila sebelumnya kita mempelajari hubungan DOM sebagai parent dan child, sekarang kita akan membahas tentang hubungan antar sibling. Sibling, layaknya saudara kandung dalam analogi keluarga, merupakan DOM yang merupakan child dari parent yang sama.
+
+Tetap menggunakan halaman HTML yang sama dengan script js yang berbeda, kita coba buat beberapa kode yang menunjukkan hubungan antar sibling.
+
+**dom-transverse-2-siblings.js (part 1)**
+```javascript
+/*
+=============================================
+ Menseleksi DOM berdasarkan hubungan Sibling
+=============================================
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+
+// Mendapatkan sibling setelah <div id="contoh-div-1">
+var contohDiv1NextSibling = contohDiv1.nextElementSibling;
+
+console.log(contohDiv1NextSibling); // <div id="contoh-div-2">...</div>
+```
+
+dengan menggunakan `.nextElementSibling`, kita bisa mendapatkan sibling yang berada setelah DOM yang kita seleksi. Selanjutnya, kita akan mencoba mendapatkan sibling yang berada sebelum DOM yang kita seleksi.
+
+**dom-transverse-2-siblings.js (part 2)**
+```javascript
+/*
+=============================================
+ Menseleksi DOM berdasarkan hubungan Sibling
+=============================================
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+
+// Mendapatkan sibling setelah <div id="contoh-div-1">
+var contohDiv1NextSibling = contohDiv1.nextElementSibling;
+
+console.log(contohDiv1NextSibling); // <div id="contoh-div-2">...</div>
+
+// Mendapatkan sibling sebelum <div id="contoh-div-1">
+var contohDiv1PrevSibling = contohDiv1.previousElementSibling;
+
+console.log(contohDiv1PrevSibling); // <h1></h1>
+```
+
+Itu saja yang penting mengenai siblings. Ingat, jika kamu mencoba mengakses sibling yang tidak ada, akan menghasilkan nilai `null`!
+
+### 3. Menjelajah DOM lebih dalam
+
+Sebelumnya, untuk mengakses child, parent, atau sibling kita masih mengakses element yang satu tingkat didalam, diluar, atau disebelahnya. Bagaimana jika kita ingin menjelajah element dengan tingkat yang lebih dalam? Kamu bisa menggunakan cara biasa, dengan mengakses element satu tingkat satu per satu, atau menelusurinya lebih dalam sekaligus, dengan selector beruntun atau disebut juga chaining selectors.
+
+**dom-transverse-3-chaining-selectors.js (Part 1)**
+```javascript
+/*
+============================
+ Menseleksi DOM Lebih Dalam
+============================
+*/
+
+/*
+1. Parent -> Child -> Child cara biasa
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+console.log(contohDiv1);
+
+// Mendapatkan <p id="contoh-p-1"> di dalam <div id="contoh-div-1">
+var contohP1 = contohDiv1.children[0];
+console.log(contohP1);
+
+// Mendapatkan <strong> di dalam <p id="contoh-p-1">
+var strongElem = contohP1.children[0];
+console.log(strongElem);
+```
+
+Cara ini tentu paling mudah dibaca, namun seringkali kita membutuhkan cara yang lebih cepat dan praktis, yaitu menggunakan chaining selectors!
+
+**dom-transverse-3-chaining-selectors.js (Part 2)**
+```javascript
+/*
+============================
+ Menseleksi DOM Lebih Dalam
+============================
+*/
+
+/*
+1. Parent -> Child -> Child cara biasa
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+console.log(contohDiv1);
+
+// Mendapatkan <p id="contoh-p-1"> di dalam <div id="contoh-div-1">
+var contohP1 = contohDiv1.children[0];
+console.log(contohP1);
+
+// Mendapatkan <strong> di dalam <p id="contoh-p-1">
+var strongElem = contohP1.children[0];
+console.log(strongElem);
+
+/*
+2. Parent -> Child -> Child dengan Chaining Selector
+*/
+
+// Menggunakan chaining selector atau selektor beruntun.
+console.log(contohDiv1.children[0].children[0]);
+```
+
+Lebih praktis dan mudah kan? Sekarang bagaimana dengan relasi siblings?
+
+**dom-transverse-3-chaining-selectors.js (Part 3)**
+```javascript
+/*
+============================
+ Menseleksi DOM Lebih Dalam
+============================
+*/
+
+/*
+1. Parent -> Child -> Child cara biasa
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+console.log(contohDiv1);
+
+// Mendapatkan <p id="contoh-p-1"> di dalam <div id="contoh-div-1">
+var contohP1 = contohDiv1.children[0];
+console.log(contohP1);
+
+// Mendapatkan <strong> di dalam <p id="contoh-p-1">
+var strongElem = contohP1.children[0];
+console.log(strongElem);
+
+/*
+2. Parent -> Child -> Child dengan Chaining Selector
+*/
+
+// Menggunakan chaining selector atau selektor beruntun.
+console.log(contohDiv1.children[0].children[0]);
+
+/*
+3. Element -> previous sibling -> previous sibling cara biasa
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+contohDiv1 = document.getElementById('contoh-div-1');
+console.log(contohDiv1);
+
+// Mendapatkan <h1></h1> yang berada sebelum <div id="contoh-div-1">
+var h1Elem = contohDiv1.previousElementSibling;
+console.log(h1Elem); // <h1></h1>
+
+// Mendapatkan null, dengan mengakses previous sibling dari <h1></h1>
+var justNull = h1Elem.previousElementSibling;
+console.log(justNull); // null
+```
+
+Lalu, lanjut dengan cara method selectors untuk siblings!
+
+**dom-transverse-3-chaining-selectors.js (Part 4)**
+```javascript
+/*
+============================
+ Menseleksi DOM Lebih Dalam
+============================
+*/
+
+/*
+1. Parent -> Child -> Child cara biasa
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+var contohDiv1 = document.getElementById('contoh-div-1');
+console.log(contohDiv1);
+
+// Mendapatkan <p id="contoh-p-1"> di dalam <div id="contoh-div-1">
+var contohP1 = contohDiv1.children[0];
+console.log(contohP1);
+
+// Mendapatkan <strong> di dalam <p id="contoh-p-1">
+var strongElem = contohP1.children[0];
+console.log(strongElem);
+
+/*
+2. Parent -> Child -> Child dengan Chaining Selector
+*/
+
+// Menggunakan chaining selector atau selektor beruntun.
+console.log(contohDiv1.children[0].children[0]);
+
+/*
+3. Element -> previous sibling -> previous sibling cara biasa
+*/
+
+// Menseleksi element <div id="contoh-div-1">
+contohDiv1 = document.getElementById('contoh-div-1');
+console.log(contohDiv1);
+
+// Mendapatkan <h1></h1> yang berada sebelum <div id="contoh-div-1">
+var h1Elem = contohDiv1.previousElementSibling;
+console.log(h1Elem); // <h1></h1>
+
+// Mendapatkan null, dengan mengakses previous sibling dari <h1></h1>
+var justNull = h1Elem.previousElementSibling;
+console.log(justNull); // null
+
+
+/*
+4. Element -> previous sibling -> previous sibling dengan chaining selector
+*/
+
+// Penggunaan chaining selector
+console.log(contohDiv1.previousElementSibling.previousElementSibling); // null
+```
+
+Selamat, kamu telah mampu menjelajah DOM! Kamu bisa memanfaatkan ilmu ini untuk membuat aplikasi web yang sangat interaktif! :tada:
