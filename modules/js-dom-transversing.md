@@ -19,6 +19,7 @@ Hierarki layout HTML adalah bagaimana sebuah element HTML saling terkait satu sa
 
 Contoh gambar di atas merupakan gambaran sederhana dari sebuah layout HTML. Apabila layout di atas kita coba konversikan ke dalam kode HTMl, akan seperti kode di bawah ini (untuk kebutuhan kode, ditambahkan id untuk beberapa div):
 
+**js-dom-transversing.html**
 ```html
 <html>
   <head></head>
@@ -38,6 +39,7 @@ Contoh gambar di atas merupakan gambaran sederhana dari sebuah layout HTML. Apab
         <li></li>
       </ul>
     </div>
+    <script src="js-dom-transversing-script.js"></script>
   </body>
 </html>
 ```
@@ -57,3 +59,11 @@ Bisa kita lihat seperti visualisasi layout web page dan code di atas, satu eleme
 - **`<p id="contoh-p-2">`**     : merupakan child dari `<div id="contoh-div-2">`, sibling dari `<h2>`
 - **`<ul>`**                    : merupakan child dari `<div id="contoh-div-2">`, sibling dari `<h2>` dan `<p id="contoh-p-2">`
 - **`<li>`**                    : merupakan child dari `<ul>`
+
+### 2. Menjelajah DOM
+
+Saatnya kita belajar menjelajah DOM memanfaatkan parent, child, dan sibling. Untuk awal, coba kita ambil <div id="contoh-div-1"> dengan code berikut:
+
+**js-dom-transversing-script.js**
+```javascript
+```
