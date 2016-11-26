@@ -210,3 +210,10 @@ insideMainDiv.append(button);
 ```
 
 Selamat, kamu telah berhasil membuat webpage yang dibentuk dinamis menggunakan JavaScript!
+
+Tambahan: Untuk menghapus element, kita bisa menggunakan removeChild!
+
+```javascript
+// Dari awal kita mencoba menambahkan element baru. Bagaimana dengan menghapusnya?
+insideMainDiv.removeChild(h1);
+```
