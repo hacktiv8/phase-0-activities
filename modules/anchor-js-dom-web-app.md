@@ -25,7 +25,7 @@ Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkr
 </html>
 ```
 
-atau apabila kamu mau kode-mu lebih "modular", pisahkan script js nya seperti berikut:
+atau apabila kamu mau kode-mu lebih rapih dan terfokus ke komponen masing-masing, kamu bisa memisahkan script js nya seperti berikut:
 
 **index.html**
 ```html
