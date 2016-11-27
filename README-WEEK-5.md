@@ -2,7 +2,7 @@
 
 ![Header](assets/header-w4.jpg)
 
-Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini mulai dari hari rabu kita akan refreshing sejenak dan mempelajari DOM dan jQuery, yang akan membuat website kamu menjadi interaktif dan menarik!
+Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini mulai dari hari rabu kita akan refreshing sejenak dan mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
 
 ![Let's start!](assets/start.png)
 
