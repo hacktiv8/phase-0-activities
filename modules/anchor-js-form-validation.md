@@ -16,15 +16,15 @@ Setelah mengetahui tentang DOM kamu dapat menggunakan pengetahuan itu untuk mela
 
 - Kamu boleh membuat style sesuai yang kamu inginkan. Namun jumlah element dan susunan harus sama dengan contoh.
 
-- Buatlah sebuah fungsi JavaScript. Fungsi dipanggil dengan event trigger `onsubmit()` pada form yang sudah kamu buat. Function ini berfungsi untuk meng-handle input user dengan peraturan sebagai berikut:
+- Buatlah sebuah fungsi JavaScript. Fungsi dipanggil dengan menambahkan event listener `submit` pada `<form>`. Function ini berfungsi untuk meng-handle input user dengan peraturan sebagai berikut:
     - Semua elemen tidak boleh kosong
     - Password dan Confirm Password harus sama
     - Email dan Email Confirm harus sama
 
-- Pastikan form tidak men-submit data ketika validasi gagal. Untuk melakukan ini, ketika menggunakan `onsubmit` gunakan syntax `return` saat memanggil function yang kamu buat. Selain itu, function harus me-return `false` saat validasi gagal dan `true` bila sebaliknya.
+- Pastikan form tidak men-submit data ketika validasi gagal. Untuk melakukan ini, apabila validasi gagal, gunakan `return false` di dalam fungsi yang kamu buat.
 
 ```HTML
-<form action="#" onsubmit="return myFunction()">
+<form action="#" id="main-form">
     ...
 </form>
 ```

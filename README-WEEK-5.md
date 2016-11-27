@@ -11,7 +11,7 @@ Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu aka
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
 - :notebook_with_decorative_cover: [Memahami Document Object Model](modules/js-dom-intro.md)
-- :anchor: [Seleksi DOM Sederhana](modules/anchor-vanilla-js.md) **AKBR-TODO**
+- :anchor: [Seleksi dan Manipulasi DOM Sederhana](modules/anchor-js-dom-manipulation.md)
 
 ## Selasa - DOM Transversing
 Setelah mencoba menseleksi DOM, hari ini saatnya kita belajar bagaimana melakukan DOM transversing atau disebut juga penjelajahan DOM.
@@ -25,7 +25,7 @@ Ternyata bermain dan menjelajah DOM sangat menarik, walaupun hingga saat ini kit
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
 - :notebook_with_decorative_cover: [Memahami DOM Events](modules/js-dom-events.md)
-- :anchor: [Validasi Form dengan JavaScript](modules/anchor-vanilla-js.md) **AKBR-TODO**
+- :anchor: [Validasi Form dengan JavaScript](modules/anchor-js-form-validation.md)
 
 ## Kamis - Menyusun Halaman HTML dengan JavaScript
 Sebelumnya kita telah belajar menseleksi, menjelajah, dan membuat halaman kita interaktif. Tapi ternyata kita juga bisa menyusun HTML element sendiri dengan JavaScript lho! Saatnya kita menyusun web kita dengan JavaScript!
@@ -38,7 +38,7 @@ Sebelumnya kita telah belajar menseleksi, menjelajah, dan membuat halaman kita i
 Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript. Sekarang saatnya kamu membuat sebuah website yang interaktif menggunakan pengetahuan yang telah kita dapatkan satu minggu kebelakang.
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
-- :anchor: [Membuat website yang interaktif menggunakan JavaScript](http://try.jquery.com/) **AD-TODO**
+- :anchor: [Web App dengan Manipulasi DOM](modules/anchor-js-form-validation.md)
 
 ## Sabtu dan Minggu
 
