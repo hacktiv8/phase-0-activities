@@ -18,7 +18,7 @@ Setelah mencoba menseleksi DOM, hari ini saatnya kita belajar bagaimana melakuka
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
 - :notebook_with_decorative_cover: [Memahami DOM Transversing](modules/js-dom-transversing.md)
-- :anchor: [Penjelajahan DOM Sederhana](modules/anchor-vanilla-js.md) **AKBR-TODO**
+- :anchor: [Penjelajahan dan Manipulasi DOM Sederhana](modules/anchor-js-dom-transverse-manipulation.md)
 
 ## Rabu - DOM Events
 Ternyata bermain dan menjelajah DOM sangat menarik, walaupun hingga saat ini kita masih belum bisa membuat web yang interaktif. Hari ini mulai saatnya kita bisa menambah sisi interaktif dari web kita!
