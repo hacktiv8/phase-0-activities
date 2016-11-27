@@ -9,7 +9,7 @@ Salah satu cara menyelesaikan masalah yang membutuhkan perulangan tanpa melakuka
 
 ## Direction
 
-1. Gampang saja, ubah kodemu dari tantangan [sebelumnya](modules/anchor-before-recursive.md) yang menggunakan *looping* menjadi kode yang menggunakan cara rekursi. Selamat mengerjakan! :smile:
+1. Gampang saja, ubah kodemu dari tantangan [sebelumnya](anchor-before-recursive.md) yang menggunakan *looping* menjadi kode yang menggunakan cara rekursi. Selamat mengerjakan! :smile:
 
 ### Tips
 
