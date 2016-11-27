@@ -32,13 +32,13 @@ Sebelumnya kita telah belajar menseleksi, menjelajah, dan membuat halaman kita i
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
 - :notebook_with_decorative_cover: [Membuat DOM Secara Dinamis](modules/js-dom-creation.md)
-- :anchor: [Menyusun Layout HTML dengan JavaScript](modules/anchor-vanilla-js.md) **AKBR-TODO**
+- :anchor: [Menyusun Layout HTML dengan JavaScript](modules/anchor-js-dom-creation.md)
 
 ## Jumat - Interactive App using JavaScript
 Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript. Sekarang saatnya kamu membuat sebuah website yang interaktif menggunakan pengetahuan yang telah kita dapatkan satu minggu kebelakang.
 
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
-- :anchor: [Web App dengan Manipulasi DOM](modules/anchor-js-form-validation.md)
+- :anchor: [Web App dengan Pemanfaatan DOM](modules/anchor-js-dom-web-app.md)
 
 ## Sabtu dan Minggu
 
