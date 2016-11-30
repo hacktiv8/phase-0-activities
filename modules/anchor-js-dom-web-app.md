@@ -13,7 +13,6 @@ Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkr
 - Setelah selesai, **taruh project ini di Github dan jadikan Github Pages baru** supaya semua orang bisa melihat aplikasi atau game yang kamu buat!
 
 **TIPS**
-
 Apabila kamu mau kode-mu lebih rapih dan terfokus ke komponen masing-masing, kamu bisa memisahkan script js nya seperti berikut:
 
 **index.html**
