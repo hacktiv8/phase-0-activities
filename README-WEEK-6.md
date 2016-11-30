@@ -16,27 +16,24 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 - :notebook_with_decorative_cover:
 [Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 - :anchor:
-[Mengubah Sintaks ES5 ke ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
-- :anchor:
-[Menggunakan OOP dalam JavaScript dengan ES Class](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
+[Mengubah Sintaks ES5 ke ES6 dan Object menjadi Class](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
 
 ## Selasa - Paradigma Object Oriented Programming dan Functional Programming
 
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
 - :anchor:
-[Menggunakan Higher Order Function untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
-- :anchor:
-[Menggunakan Map di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
-- :anchor:
-[Menggunakan Filter di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
-- :anchor:
-[Menggunakan Reduce di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
-- :anchor:
-[Menggabungkan Built-in Functions dari Gaya Functional Programming ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
+[Menggunakan Higher Order Function dan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 
-## Rabu - Jumat: Online Live Coding
+## Rabu: Final Online Live Coding Part 1
+- :anchor:
+Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
+## Kamis: Final Online Live Coding Part 2
+- :anchor:
+Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
+
+## Jumat: Final Online Live Coding Part 3
 - :anchor:
 Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
