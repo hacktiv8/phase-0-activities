@@ -92,7 +92,7 @@ bisa mencoba menyusun halaman HTML kita dulu, yang memiliki beberapa element yan
         <fieldset>
           <legend>Contoh Form</legend>
           <p>Isi Input (berubah setiap di ketik): <span id="on-input-content"></span></p>
-          <input id="on-input" type="text" placeholder="Type on me!" />
+          <input id="on-input" name="myValue" type="text" placeholder="Type on me!" />
 
           <p>Isi Input (berubah setiap keluar dari input): <span id="on-blur-content"></span></p>
           <input id="on-blur" type="text" placeholder="Type on me, then click outside!" />
@@ -118,6 +118,7 @@ var alertOnClickButton = document.getElementById('alert-on-click-button');
 // Tambahkan Event Listener ke <button> alertOnClickButton, dengan trigger atau pemicu nya adalah click dan memanggil function sebagai parameter kedua.
 alertOnClickButton.addEventListener('click', function() {
   alert('Hello There!');
+  // Mengakses Salah satu nilai input dari form
 });
 ```
 
