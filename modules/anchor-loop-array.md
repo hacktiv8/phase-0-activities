@@ -6,7 +6,6 @@ Sering kali data yang diterima dari database adalah array yang multidimensi (arr
 
 - Mengenal Array Multidimensi
 - Mengerti Cara Mengakses Nilai Array Multidimensi
-- Mengerti Cara Menggunakan Fungsi [`push`](http://www.w3schools.com/jsref/jsref_push.asp)
 
 ## Directions
 
@@ -45,20 +44,3 @@ Nama Lengkap:  Bintang Senjaya
 TTL:  Martapura 6/4/1970
 Hobi:  Berkebun
 ```
-
-Selain itu, fungsi `dataHandling` juga harus mengembalikan sebuah array multidimensi seperti berikut:
-
-```javascript
-//contoh output
-[ 
-    [ '0001', '0002', '0003', '0004' ],   
-    [ 'Roman Alamsyah', 'Dika Sembiring', 'Winona', 'Bintang Senjaya' ],
-    [ 'Bandar Lampung', 'Medan', 'Ambon', 'Martapura' ],     
-    [ '21/05/1989', '10/10/1992', '25/12/1965', '6/4/1970' ],
-    [ 'Membaca', 'Bermain Gitar', 'Memasak', 'Berkebun' ],   
-]  
-```
-
-### Alert!
-
-Fungsi ini akan digunakan untuk mengerjakan tantangan [selanjutnya](modules/anchor-mixed-array.md). Oleh karena itu, kerjakan tantangan ini dengan baik. :smile:
