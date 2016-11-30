@@ -207,6 +207,14 @@ mainForm.addEventListener('submit', function() {
   alert('Sukses Submit!');
 });
 ```
+Kamu bisa "menahan" form agar tidak di-redirect ke halaman lain dengan menambahkan `event.preventDefault();` seperti contoh potongan kode di bawah ini:
+
+```javascript
+mainForm.addEventListener('submit', function(event) {
+  event.preventDefault();
+  alert('Sukses Submit!');
+});
+```
 
 Selamat, kamu telah berhasil mencoba beberapa DOM events!
 
