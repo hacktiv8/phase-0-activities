@@ -15,8 +15,7 @@
 4. Pada 3 perulangan baru ini periksa setiap angka indeks:
     - Apabila bukan kelipatan yang ditentukan tidak perlu menuliskan apa-apa
     - Apabila angka indeks adalah kelipatan (pertambahan index + 1), tuliskan:
-
-> "[index]" + "KELIPATAN [pertambahan index + 1]"
+    - `"[index]" + "KELIPATAN [pertambahan_index + 1]"`
 
 
 ### Contoh output

@@ -14,7 +14,7 @@ JavaScript mendukung konsep pemrograman berorientasi objek. Untuk melatih pemaha
 - Buatlah sebuah object **Mobil** seperti contoh di bawah ini
 
 ```javascript 
-var Mobil = function() {}
+var Mobil = function() {
 }
 ```
 

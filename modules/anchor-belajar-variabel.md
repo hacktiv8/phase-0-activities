@@ -29,10 +29,10 @@ tugas kamu adalah melakukan *assignment* pada variabel-variabel yang tersedia de
 
 ### Hint
 
-> * JavaScript memang tidak memiliki tipe data secara eksplisit, namun solusi yang benar dari tugas ini adalah menempatkan data pada variabel dengan nama yang sesuai.
-> * Deklarasikan variabel dengan lengkap
-> * Keluarkan output dengan memanggil variabel, bukan data
-> * Gunakan sebuah `console.log()` untuk masing-masing variabel.
+* JavaScript memang tidak memiliki tipe data secara eksplisit, namun solusi yang benar dari tugas ini adalah menempatkan data pada variabel dengan nama yang sesuai.
+* Deklarasikan variabel dengan lengkap
+* Keluarkan output dengan memanggil variabel, bukan data
+* Gunakan sebuah `console.log()` untuk masing-masing variabel.
 
 ### Output
 

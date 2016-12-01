@@ -12,23 +12,26 @@ Kamu diminta untuk memprogram suatu game sederhana, Proxytia namanya. Untuk memu
 
 ### Hints
 
-> * Variabel tetap di-input secara manual.
-> * Variabel `nama` dan `peran` dapat diisi apa saja.
+* Variabel tetap di-input secara manual.
+* Variabel `nama` dan `peran` dapat diisi apa saja.
+* Nama tidak perlu dicek sama persis seperti contoh input/output
+* Buat 2 `If-Else` berbeda masing-masing untuk mengecek `nama` dan `peran`
 
 ### Input
 
 ```javascript
+//[NAMA] dapat berupa string apa saja
 //Contoh input 1
 nama = ' '
 peran = ' '
 //Contoh input 2
-nama = 'Budi'
+nama = [NAMA]
 peran = 'Ksatria'
 //Contoh input 3
-nama = 'Chika'
+nama = [NAMA]
 peran = 'Tabib'
 //Contoh input 4
-nama = 'Dino'
+nama = [NAMA]
 peran = 'Penyihir'
 ```
 
@@ -39,12 +42,12 @@ peran = 'Penyihir'
 "Nama tidak boleh kosong"
 "Pilih peranmu untuk memulai game"
 //Output untuk Input 2
-"Selamat datang di Dunia Proxytia, Budi"
+"Selamat datang di Dunia Proxytia, [NAMA]"
 "Halo Ksatria Budi, kamu dapat menyerang dengan senjatamu!"
 //Output untuk Input 3
-"Selamat datang di Dunia Proxytia, Chika"
+"Selamat datang di Dunia Proxytia, [NAMA]"
 "Halo Tabib Chika, kamu akan membantu temanmu yang terluka."
 //Output untuk Input 4
-"Selamat datang di Dunia Proxytia, Dino"
+"Selamat datang di Dunia Proxytia, [NAMA]"
 "Halo Penyihir Dino, ciptakan keajaiban yang membantu kemenanganmu!"
 ```
