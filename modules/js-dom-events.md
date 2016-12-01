@@ -207,13 +207,30 @@ mainForm.addEventListener('submit', function() {
   alert('Sukses Submit!');
 });
 ```
-Kamu bisa "menahan" form agar tidak di-redirect ke halaman lain dengan menambahkan `event.preventDefault();` seperti contoh potongan kode di bawah ini:
+Kamu bisa "menahan" atau "mencegah" form agar tidak di-redirect ke halaman lain dengan menambahkan `event.preventDefault();` seperti contoh potongan kode di bawah ini:
 
 ```javascript
 mainForm.addEventListener('submit', function(event) {
   event.preventDefault();
   alert('Sukses Submit!');
 });
+```
+
+**Note Tambahan**
+Apabila kamu mau mengambil value atau nilai dari input form, kamu bisa gunakan DOM selector dan mendapatkan valuenya.
+
+Contoh:
+
+HTML
+```html
+<input id="username" value="Budi Roni" />
+```
+
+JS
+```javascript
+var usernameInput = document.getElementById(username);
+var usernameValue = usernameInput.value;
+console.log(usernameValue); // Budi Roni
 ```
 
 Selamat, kamu telah berhasil mencoba beberapa DOM events!
