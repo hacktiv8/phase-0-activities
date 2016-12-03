@@ -8,7 +8,7 @@
 
 1. Ubah kasus dibawah ini ke dalam bentuk ES6 Class.
 
-### Tugas 1
+### Tugas
 
 Buatlah sebuah Class Student, yang memiliki atribut berikut:
 - Name,
