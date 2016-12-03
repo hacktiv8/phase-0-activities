@@ -1,7 +1,6 @@
 # Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
 
-Kamu belum bisa mengakses Week 6. Fokus selesaikan Week 1 terlebih dahulu ya! :smile:
-<!---
+
 ![Header](assets/header-w1.jpg)
 
 Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Di minggu terakhir ini, kamu akan berkenalan dengan JavaScript ES6  :bowtie:
@@ -49,5 +48,3 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
-
---->
