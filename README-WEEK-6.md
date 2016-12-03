@@ -36,7 +36,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
 - :anchor:
-[Menggunakan Higher Order Function dan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
+[Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 
 ## Kamis - Jumat: End of First Step - Final Online Live Coding Part 3
 Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript!
