@@ -15,17 +15,17 @@ Terkadang suatu method dari object tidak menerima parameter berupa data biasa, o
 - Buatlah sebuah object **Teman** seperti contoh di bawah ini
 
 ```javascript 
-var Teman = function() {}
+var Teman = function() {
 }
 ```
 
 - **Teman** menerima parameter `nama`, `kabar`, dan `pekerjaan`.
 - Simpan parameter-parameter tersebut pada *property* dengan nama yang sama
-- Buatlah method `sapa()`, method ini menerima string nama dan akan menuliskan
+- Buatlah method `sapa()`, method ini menerima parameter string nama dan akan menuliskan
 
 > Halo `<parameter>` , apa kabar?
 
-- Buatlah method `balasSapa()`, method ini menerima string nama dan akan menuliskan
+- Buatlah method `balasSapa()`, method ini menerima parameter string nama dan akan menuliskan
 
 > Halo `<parameter>` , kabarku `<property kabar>`
 
