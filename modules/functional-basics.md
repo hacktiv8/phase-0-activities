@@ -74,6 +74,7 @@ let duaKaliLipat  = arr.map(function(isiArray) {
 
 console.log(duaKaliLipat); // [2, 4, 6, 8, 10, 12]
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/mowepu/edit?js,console)
 
 **Contoh Map Sederhana 2**
 
@@ -85,6 +86,7 @@ let newArr = arr.map(function(isiArray) {
 
 console.log(newArr); // ['Topi saya bundar', 'Topi saya kotak', 'Topi saya segitiga']
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/fehotaf/edit?js,console)
 
 **Contoh Map Sederhana 3 (Arrow Function)**
 ```javascript
@@ -95,6 +97,7 @@ let newArr = arr.map( isiArray => {
 
 console.log(newArr); // ['Topi saya bundar', 'Topi saya kotak', 'Topi saya segitiga']
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/zacayu/edit?js,console)
 
 ### Array Filter Function
 Dalam array, terkadang kita perlu memfilter isi dari array tersebut, dan mengembalikan nilai baru hasil filter tersebut. Kita bisa menggunakan `filter` untuk kasus ini.
@@ -126,21 +129,23 @@ atau, lebih sederhana dengan:
 ```javascript
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 let habisDibagiTiga = arr.filter(function(isiArray) {
-  return isiArray % 3 === 0 // akan mengembalikan nilai true atau false
+  return isiArray % 3 === 0; // akan mengembalikan nilai true atau false
 });
 
 console.log(habisDibagiTiga); // [3, 6, 9]
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/daqofa/edit?js,console)
 
 **Contoh Filter Sederhana 3 (Arrow Function)**
 ```javascript
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 let habisDibagiTiga = arr.filter( isiArray => {
-  return isiArray % 3 === 0 // akan mengembalikan nilai true atau false
+  return isiArray % 3 === 0; // akan mengembalikan nilai true atau false
 });
 
 console.log(habisDibagiTiga); // [3, 6, 9]
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/yehipaq/edit?js,console)
 
 ### Array Reduce Function
 Array reduce adalah sebuah built-in function `reduce` untuk me-"reduce" atau mengurangi array dan mengubahnya ke satu nilai. Reduce dapat kita gunakan untuk bermacam-macam kegunaan, mulai dari mendapatkan total nilai dari array, mendapatkan nilai maximum atau minimum, dan lain-lain.
@@ -153,26 +158,29 @@ arr.reduce(callback,initialValue)
 **Contoh Penggunaan Reduce Sederhana 1**
 ```javascript
 var numbersArr1 = [3, 5, 1];
-var sumFromArr1 = numbers.reduce(function(currentSum, currentNumber) {
+var sumFromArr1 = numbersArr1.reduce(function(currentSum, currentNumber) {
   return currentSum + currentNumber;
 }, 0);
 console.log(sumFromArr1); // 9
 
 var numbersArr2 = [];
-var sumFromArr2 = numbers.reduce(function(currentSum, currentNumber) {
+var sumFromArr2 = numbersArr2.reduce(function(currentSum, currentNumber) {
   return currentSum + currentNumber;
 }, 0);
-console.log(sumFromArr1); // 0, diambil dari parameter kedua (initialValue yang tidak ditambah)
+console.log(sumFromArr2); // 0, diambil dari parameter kedua (initialValue yang tidak ditambah)
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/faxoxis/edit?js,console)
 
 **Contoh Penggunaan Reduce Sederhana 2 (Arrow Function)**
 ```javascript
 var numbersArr1 = [3, 5, 1];
-var sumFromArr1 = numbers.reduce((currentSum, currentNumber) => {
+var sumFromArr1 = numbersArr1.reduce((currentSum, currentNumber) => {
   return currentSum + currentNumber;
 }, 0);
 console.log(sumFromArr1); // 9
 ```
+Kamu dapat mencoba kode di atas [disini](http://jsbin.com/saxigum/edit?js,console)
+
 
 ## References
 

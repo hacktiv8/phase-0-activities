@@ -10,20 +10,6 @@
 
 ### Tugas 1
 
-Buatlah sebuah Class Fox, yang memiliki atribut berupa name, species (Arctic, Blandford, Cross, Darwin, dan lain-lain), age, dan gender. Buatlah constructor jadi kita akan memasukkan name, species, age, dan gender pada saat kita membuat instance baru (`new`).
-
-Kemudian, buat 3 instance dari class Fox tersebut, dan cobalah akses nama, spesies, umur, dan jenis kelamin masing-masing.
-
-Contoh Output:
-
-```JavaScript
-> Fox Name: Mike, Species: Arctic Fox, Age: 10, Gender: Male
-> Fox Name: Diane, Species: Blandford Fox, Age: 12, Gender: Female
-> Fox Name: Rowan, Species: Cross Fox, Age: 8, Gender: Male
-```
-
-### Tugas 2
-
 Buatlah sebuah Class Student, yang memiliki atribut berikut:
 - Name,
 - Age,

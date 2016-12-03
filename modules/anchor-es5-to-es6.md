@@ -31,35 +31,17 @@ console.log('area with 21 radius: %d, and area with 7 radius: %d', area21, area7
 
 ### Tugas 2
 
-Ubahlah anonymous functions dibawah ini menjadi ES6.
+Ubahlah anonymous functions dibawah ini menjadi ES6 Arrow Function!
 
 ```javascript
-  var multiply = function (num1, num2) {
+  const multiply = function (num1, num2) {
     return num1 * num2;
   }
 
-  var divide = function (num1, num2) {
+  const divide = function (num1, num2) {
     return num1 / num2;
   }
 
-  console.log(multiply(5,2))
-  console.log(divide(10,2))
-```
-
-### Tugas 3
-
-Ubahlah Object JavaScript berikut ini ke dalam sintaks ES6.
-
-```javascript
-var fox = {
-  species: 'Arctic Fox',
-  size: 'big',
-  age: 10,
-  speak: function () {
-    console.log('growls')
-  }
-}
-
-console.log(fox.species) // Arctic Fox
-fox.speak() // growls
+  console.log(multiply(5,2));
+  console.log(divide(10,2));
 ```
