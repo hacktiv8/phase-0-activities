@@ -13,7 +13,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :wrench:
 [Devdocs.io, referensi lengkap sintaks JavaScript](http://devdocs.io/javascript/)
 - :notebook_with_decorative_cover:
-[Mengenal Sintaks ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
+[Mengenal EcmaScript 6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
 - :notebook_with_decorative_cover:
 [Mengenal Scope di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 - :notebook_with_decorative_cover:
