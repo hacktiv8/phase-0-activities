@@ -42,7 +42,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript!
 
 - :anchor:
-Melakukan Live Coding secara Offline di Kelas HACKITIV8 atau Online dengan [Codeshare](https://codeshare.io) bagi yang di luar Jakarta
+Melakukan Live Coding secara Offline di Kelas HACKTIV8 atau Online dengan [Codeshare](https://codeshare.io) bagi yang di luar Jakarta
 
 ## Sabtu dan Minggu
 
