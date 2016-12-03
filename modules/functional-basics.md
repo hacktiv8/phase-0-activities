@@ -185,4 +185,3 @@ Kamu dapat mencoba kode di atas [disini](http://jsbin.com/saxigum/edit?js,consol
 ## References
 
 - [Introduction to Object-Oriented JavaScript, on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-- [Object Oriented JavaScript: Udacity](https://www.udacity.com/course/object-oriented-javascript--ud015)
