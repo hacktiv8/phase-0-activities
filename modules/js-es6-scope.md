@@ -42,3 +42,5 @@ radius = 7;
 let circleArea2 = pi * Math.pow(radius, 2);
 console.log(circleArea2);
 ```
+
+pada saat kita mengubah pi tersebut, akan muncul error: `TypeError: Assignment to constant variable.`.
