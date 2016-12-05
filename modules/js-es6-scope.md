@@ -29,3 +29,16 @@ for(let i = 1; i < 9; i++) {
 let x = 5;
 console.log(x + i); // 5, 5 + 0
 ```
+
+Tambahannya adalah, ada juga yang dinamakan `const`, yang merupakan variabel yang sekali kita definisikan, tidak bisa lagi kita ubah.
+
+**Contoh Penggunaan const**
+```javascript
+const pi = 3.14;
+let radius = 5;
+let circleArea1 = pi * Math.pow(radius, 2);
+console.log(circleArea1);
+radius = 7;
+let circleArea2 = pi * Math.pow(radius, 2);
+console.log(circleArea2);
+```
