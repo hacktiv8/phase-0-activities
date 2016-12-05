@@ -10,7 +10,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 ## Senin - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
-- :pushpin: [Form Pengumpulan Tugas Week 2](https://airtable.com/shr1ecGcCiONWjWhH)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :wrench:
 [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
 - :notebook_with_decorative_cover:
@@ -35,7 +35,7 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 ## Selasa - Pseudocode, Functions, dan Scope
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
-- :pushpin: [Form Pengumpulan Tugas Week 2](https://airtable.com/shr1ecGcCiONWjWhH)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :notebook_with_decorative_cover:
 [Mempelajari struktur alur program dengan algoritma dan pseudocode](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover:
@@ -58,7 +58,7 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 ## Rabu - Arrays
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
-- :pushpin: [Form Pengumpulan Tugas Week 2](https://airtable.com/shr1ecGcCiONWjWhH)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md)
 - :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-akses-array.md)
 - :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-loop-array.md)
@@ -67,7 +67,7 @@ Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di var
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
 
-- :pushpin: [Form Pengumpulan Tugas Week 2](https://airtable.com/shr1ecGcCiONWjWhH)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
 - :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
 - :anchor: [Tantangan Menggunakan Object 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-1.md)
@@ -77,7 +77,7 @@ Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belaja
 ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
-- :pushpin: [Form Pengumpulan Tugas Week 2](https://airtable.com/shr1ecGcCiONWjWhH)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :anchor: [Tantangan Final W2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-application.md)
 
 ## Sabtu dan Minggu
