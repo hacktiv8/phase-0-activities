@@ -43,11 +43,11 @@ peran = 'Penyihir'
 "Pilih peranmu untuk memulai game"
 //Output untuk Input 2
 "Selamat datang di Dunia Proxytia, [NAMA]"
-"Halo Ksatria Budi, kamu dapat menyerang dengan senjatamu!"
+"Halo Ksatria [NAMA], kamu dapat menyerang dengan senjatamu!"
 //Output untuk Input 3
 "Selamat datang di Dunia Proxytia, [NAMA]"
-"Halo Tabib Chika, kamu akan membantu temanmu yang terluka."
+"Halo Tabib [NAMA], kamu akan membantu temanmu yang terluka."
 //Output untuk Input 4
 "Selamat datang di Dunia Proxytia, [NAMA]"
-"Halo Penyihir Dino, ciptakan keajaiban yang membantu kemenanganmu!"
+"Halo Penyihir [NAMA], ciptakan keajaiban yang membantu kemenanganmu!"
 ```
