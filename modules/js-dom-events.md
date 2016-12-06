@@ -92,7 +92,7 @@ bisa mencoba menyusun halaman HTML kita dulu, yang memiliki beberapa element yan
         <fieldset>
           <legend>Contoh Form</legend>
           <p>Isi Input (berubah setiap di ketik): <span id="on-input-content"></span></p>
-          <input id="on-input" type="text" placeholder="Type on me!" />
+          <input id="on-input" name="myValue" type="text" placeholder="Type on me!" />
 
           <p>Isi Input (berubah setiap keluar dari input): <span id="on-blur-content"></span></p>
           <input id="on-blur" type="text" placeholder="Type on me, then click outside!" />
@@ -118,6 +118,7 @@ var alertOnClickButton = document.getElementById('alert-on-click-button');
 // Tambahkan Event Listener ke <button> alertOnClickButton, dengan trigger atau pemicu nya adalah click dan memanggil function sebagai parameter kedua.
 alertOnClickButton.addEventListener('click', function() {
   alert('Hello There!');
+  // Mengakses Salah satu nilai input dari form
 });
 ```
 
@@ -205,6 +206,31 @@ var mainForm = document.getElementById('main-form');
 mainForm.addEventListener('submit', function() {
   alert('Sukses Submit!');
 });
+```
+Kamu bisa "menahan" atau "mencegah" form agar tidak di-redirect ke halaman lain dengan menambahkan `event.preventDefault();` seperti contoh potongan kode di bawah ini:
+
+```javascript
+mainForm.addEventListener('submit', function(event) {
+  event.preventDefault();
+  alert('Sukses Submit!');
+});
+```
+
+**Note Tambahan**
+Apabila kamu mau mengambil value atau nilai dari input form, kamu bisa gunakan DOM selector dan mendapatkan valuenya.
+
+Contoh:
+
+HTML
+```html
+<input id="username" value="Budi Roni" />
+```
+
+JS
+```javascript
+var usernameInput = document.getElementById(username);
+var usernameValue = usernameInput.value;
+console.log(usernameValue); // Budi Roni
 ```
 
 Selamat, kamu telah berhasil mencoba beberapa DOM events!

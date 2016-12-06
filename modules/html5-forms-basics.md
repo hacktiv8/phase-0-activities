@@ -53,11 +53,11 @@ Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
     <legend>Personal Information</legend>
     <p>
       <label for="full-name">Full Name</label>
-      <input name="full-name" type="text">
+      <input id="full-name" name="fullName" type="text">
     </p>
     <p>
       <label for="email">Email Address</label>
-      <input name="email" type="email">
+      <input id="email" name="email" type="email">
     </p>
   </fieldset>
   <fieldset>
@@ -92,8 +92,10 @@ Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
 ```html
 <form>
   <label for="gender">Gender:</label>
-  <input type="radio" name="gender" value="male">Male
-  <input type="radio" name="gender" value="female">Female
+  <input id="male-radio" type="radio" name="gender" value="male">
+  <label for="male-radio">Male</label>
+  <input id="female-radio" type="radio" name="gender" value="female">
+  <label for="female-radio">Female</label>
 </form>
 ```
 
@@ -102,8 +104,10 @@ Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
 ```html
 <form>
   <label for="skill">Skill:</label>
-  <input type="checkbox" name="skill" value="writing">Writing
-  <input type="checkbox" name="skill" value="reading">Reading
+  <input id="writing-checkbox" type="checkbox" name="skill" value="writing">
+  <label for="writing-checkbox">Writing</label>
+  <input id="reading-checkbox" type="checkbox" name="skill" value="reading">
+  <label for="reading-checkbox">Reading</label>
   <input type="submit" value="Submit">
 </form>
 ```

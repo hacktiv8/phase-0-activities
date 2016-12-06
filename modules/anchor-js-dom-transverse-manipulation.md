@@ -40,7 +40,7 @@ Setelah mengetahui tentang DOM selection dan manipulation serta DOM transversing
 
 - Buatlah sebuah **script.js** yang berada relatif di sebelah index.html. Dengan memanfaatkan `children`, `parentNode`, `nextElementSibling`, `previousElementSibling`, dan `innerHTML()`, buat perubahan berikut di file **script.js** untuk memanipulasi halaman HTML kita dan mengubah nilai berikut dengan mengakses `<div>` yang sesuai:
 
-  - `Saya Adalah Keturunan Pertama` menjadi `Diakses Melalui Eldest Parent`
-  - `Saya adalah Generasi Termuda, yang paling Tua` menjadi `Diakses Melalui a Child`
-  - `Saya adalah Generasi Termuda, yang Paling Muda` menjadi `Diakses Melalui a Child`
-  - `Saya adalah Generasi yang Cukup Tua` menjadi `Diakses Melalui a Child`
+  - `<div>Saya Adalah Keturunan Pertama</div>` menjadi `<div>Diakses Melalui Eldest Parent</div>`
+  - `<div>Saya adalah Generasi Termuda, yang paling Tua</div>` menjadi `<div>Diakses Melalui a Child</div>`
+  - `<div>Saya adalah Generasi Termuda, yang Paling Muda</div>` menjadi `<div>Diakses Melalui a Child</div>`
+  - `<div>Saya adalah Generasi yang Cukup Tua</div>` menjadi `<div>Diakses Melalui a Child</div>`

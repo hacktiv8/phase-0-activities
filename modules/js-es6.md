@@ -106,4 +106,4 @@ var plusOne = function plusOne(n) {
 };
 ```
 
-Dapat kita lihat jadi sebenarnya transpilasi sesederhana menambahkan secara otomatis fungsi atau fitur yang belum ada di JavaScript versi sebelumnya. Secara wajar, kalau belum ditranspilasi maka kode yang awal tadi tidak dapat bekerja.
+Dapat kita lihat jadi sebenarnya transpilasi sesederhana menambahkan secara otomatis fungsi atau fitur yang belum ada di JavaScript versi sebelumnya. Secara wajar, kalau belum ditranspilasi maka kode yang awal tadi tidak dapat bekerja. **UPDATE** Dengan NodeJS versi terbaru, kita sudah bisa mengcover kira-kira 90% dari keseluruhan ES6.

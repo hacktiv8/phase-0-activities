@@ -206,7 +206,7 @@ button.addEventListener('click', function() {
 });
 
 // Terakhir, kita mengappend button tersebut ke dalam insdieMainDiv
-insideMainDiv.append(button);
+insideMainDiv.appendChild(button);
 ```
 
 Selamat, kamu telah berhasil membuat webpage yang dibentuk dinamis menggunakan JavaScript!

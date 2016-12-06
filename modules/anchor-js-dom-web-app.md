@@ -11,21 +11,9 @@ Setelah satu pekan kita menguasai DOM menggunakan JavaScript, saatnya kita berkr
 - Buatlah web app dengan ide dan kreativitas kamu, bisa berupa game, todo-list app, quiz, dan lain-lain dengan memanfaatkan DOM.
 - Penggunaan sintaks tidak dibatasi! Sepenuhnya akan menjadi kreativitasmu!
 - Setelah selesai, **taruh project ini di Github dan jadikan Github Pages baru** supaya semua orang bisa melihat aplikasi atau game yang kamu buat!
-- Kamu hanya boleh membuat halaman HTML kosong seperti berikut:
 
-**index.html**
-```html
-<html>
-  <head>
-    <title>Bisa Kamu Ubah Sendiri</title>
-  </head>
-  <body>
-    <script src="script.js"></script>
-  </body>
-</html>
-```
-
-atau apabila kamu mau kode-mu lebih rapih dan terfokus ke komponen masing-masing, kamu bisa memisahkan script js nya seperti berikut:
+**TIPS**
+Apabila kamu mau kode-mu lebih rapih dan terfokus ke komponen masing-masing, kamu bisa memisahkan script js nya seperti berikut:
 
 **index.html**
 ```html
