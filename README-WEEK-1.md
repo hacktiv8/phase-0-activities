@@ -46,8 +46,6 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lain
 membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
-<!--- TODO ANNOUNCE: semua tugas bikin html dan css harus di zip aja --->
-
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
 - :anchor:
@@ -63,7 +61,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/laman-web-pertamaku.md)
+[Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 **TODO ada dua file HTML dan ada hyperlink nya**
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
@@ -80,9 +78,7 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html.md)
-- :anchor: belajar selektor css dari style.css yang sudah disediakan **TODO**
-- :anchor: belajar buat sintaks **TODO**
+[Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md) **REVIEW**
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -97,8 +93,7 @@ Box Sizing dan Position.
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html2.md)
-- :anchor: membuat layouting blog sederhana (pake navbar, footer, content, sidebar) **TODO**
+[Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md) **REVIEW**
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
@@ -126,8 +121,6 @@ telah punya website kamu sendiri secara online!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan
 websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
-
-**TODO: contoh mengimport css dan js external**
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
