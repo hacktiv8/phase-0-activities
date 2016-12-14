@@ -10,7 +10,6 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 ## Senin - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
- **TODO: tambah referensi built in function Math**
   **TODO: tambah referensi built in function String dan Number manipulation (Type Casting)**
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
@@ -27,6 +26,8 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 [Memahami Control Flow: Conditional dan Branching](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#conditional)
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Iteration atau Looping ](https://github.com/hacktiv8/phase-0-activities/blob/develop/modules/js-first-time.md#loopiteration)
+- :notebook_with_decorative_cover:
+[Memahami Built-in Object Math](modules/math-object-js.md) **REVIEW: tambah referensi built in function Math**
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-variabel.md)
 - :anchor:
