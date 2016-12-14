@@ -93,23 +93,9 @@ Sesuaikan kode html yang telah terhubung dengan css di atas, buatlah halaman HTM
 >  - color
 >  - font-size
 >  - font-family
->  - background-color
->  - line-height
->  - word-spacing
+>  - background
 >  - font-weight
->  - font-style
->  - text-transform
 >  - text-align
-
- **Hints**
-
-```css
-body {
-    background-color: darkorange;
-}
-/*font-family yang digunakan: Arial, Courier, serif*/
-```
-
-## References
-
-* [HTML Color Picker](http://www.w3schools.com/colors/colors_picker.asp)
+>  - text-decoration
+>  - position
+>  - cursor
