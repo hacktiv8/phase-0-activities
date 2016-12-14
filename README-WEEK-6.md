@@ -17,9 +17,9 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :notebook_with_decorative_cover:
 [Mengenal EcmaScript 6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
 - :notebook_with_decorative_cover:
-[Mengenal Scope di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
+[Mengenal Scope di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md) **TODO Perjelas Materi**
 - :notebook_with_decorative_cover:
-[Memanfaatkan Scope di JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-scope.md)
+[Memanfaatkan Scope di JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-scope.md) **TODO Perjelas Materi**
 - :notebook_with_decorative_cover:
 [Memanfaatkan Arrow Function di ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-arrow-function.md)
 - :anchor:
@@ -31,7 +31,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 [Form Pengumpulan Tugas Week 6](https://airtable.com/shrYditKupPjDi4tm)
 - :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 - :notebook_with_decorative_cover:
-[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
+[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) **TODO Review soal penggunaan Class**
 - :anchor:
 [Menyusun Class ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
 
