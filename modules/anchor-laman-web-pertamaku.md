@@ -6,14 +6,35 @@ Setelah mempelajari dasar-dasar HTML, kamu ditantang untuk membuat sebuah laman 
 
 ##Directions
 
-### 1. Membuat File HTML
+### 1. Membuat File HTML - Index Page
 
-Buatlah sebuah file teks baru dengan nama **index** dengan format **html**.
+Buatlah sebuah file HTML baru dengan nama **index** dengan format **html**.
 
  - [Kenapa harus index.html ?](https://www.quora.com/Why-is-the-default-html-file-called-index-html)
 
-### 2. Mulai Coding!
+Buatlah *index.html* tersebut dengan tampilan seperti gambar di bawah ini:
 
-Perhatikan gambar dibawah ini! Isi konten pada *index.html* seperti pada gambar dibawah. Hanya saja, ganti *MyName* dengan nama panggilan kamu. Have fun!
+![Referensi Tugas](assets/anchor-contoh-html-index.png)
 
-![Referensi Tugas](assets/phase0-week1-monday.png)
+Berikan sebuah link untuk masuk ke halaman Form Sign Up! (diarahkan ke *form.html*)
+
+### 2. Membuat File HTML ke 2 - Form Page
+
+Buatlah file HTML kedua yang berisikan form dengan tampilan seperti gambar di bawah ini:
+
+![Referensi Tugas](assets/anchor-contoh-html-form.png)
+
+Apabila form di submit, browser harus diarahkan untuk membuka *welcome.html*.
+
+### 3. Membuat File HTML ke 3 - Welcome Page
+
+Buatlah file HTML ketiga bernama *welcome.html* dengan tampilan seperti gambar di bawah ini:
+
+![Referensi Tugas](assets/anchor-contoh-html-welcome.png)
+
+### 4. Hasil Akhir
+
+Apabila seluruh tautan/link telah berfungsi dengan baik, harusnya web telah bekerja seperti berikut,
+jika dibuka dari *index.html*.
+
+![Referensi Tugas](assets/anchor-html-element-flow.gif)
