@@ -38,7 +38,7 @@ Ada beberapa elemen yang dapat bekerja dengan `form`:
 Biasanya, form memiliki atribut aksi (action) dan metode (method) agar dapat bekerja dengan baik. Kita akan membahas ini lebih lanjut jika sudah terbiasa. Untuk sementara waktu, kita cukup mempelajari HTML saja tanpa berinteraksi dengan sebuah server.
 
 ```html
-<form action="/api/contact" method="post">
+<form action="sukses_submit_form.html" method="post">
   <!-- form elements -->
 </form>
 ```
@@ -111,6 +111,23 @@ Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
   <input type="submit" value="Submit">
 </form>
 ```
+
+### Form Submit dan Action
+
+Secara default, form yang di submit akan diarahkan ke halaman lain yang telah kita sebutkan di form.
+Halaman lain yang akan kita arahkan kita letakkan di attribute `action`.
+
+```html
+<form action="halaman_sukses_submit.html" method="POST">
+  <label>
+    Nama:
+    <input type="text" name="nama" />
+  </label>
+  <input type="submit" value="Kirim" />
+</form>
+```
+
+Contoh html di atas akan mengirimkan halaman kita ke halaman bernama `halaman_sukses_submit.html` jika kita telah melakukan submit di form kita.
 
 ## References
 

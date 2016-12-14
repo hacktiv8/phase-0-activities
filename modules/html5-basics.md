@@ -228,7 +228,7 @@ Jika kita butuh menautkan halaman ke halaman lain, gunakan _anchor_ dengan URL. 
 
 ```html
 <a>Clickable but unknown link</a>
-<a href="Google">Go to Google</a>  <!-- you need href most of the time -->
+<a href="https://google.com">Go to Google</a>  <!-- kamu akan sering membutuhkan anchor -->
 ```
 
 Beberapa atributnya yang bisa digunakan antara lain adalah `target`, `rel`, `media`, `hreflang`, dan `type`; juga mereka memerlukan atribut `href` agar bisa bekerja.
@@ -346,6 +346,7 @@ Elemen HTML pada umumnya bisa berupa elemen dengan level/tingkat `block` atau `i
 **Basics**
 
 - [HTML Tutorials, by TutorialsPoint](http://tutorialspoint.com/html)
+- [HTML5 Semantics Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css) (lesson 1 and 2)
 - [Intro to HTML & CSS Online Course, by Udacity](https://udacity.com/course/intro-to-html-and-css--ud304)
 - [Belajar HTML dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html-dari-dasar)
