@@ -10,6 +10,9 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 ## Senin - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
+ **TODO: tambah referensi built in function Math**
+  **TODO: tambah referensi built in function String dan Number manipulation (Type Casting)**
+
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
 - :wrench:
@@ -27,7 +30,7 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-variabel.md)
 - :anchor:
-[Mengenal penggunaan Conditional (If-else) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-menggunakan-if-else.md)
+[Mengenal penggunaan Conditional dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-menggunakan-if-else.md) **TODO: penambahan switch-case**
 - :anchor:
 [Mengenal penggunaan Iteration (For) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-for.md)
 - :rocket:
@@ -62,7 +65,7 @@ Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di var
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :notebook_with_decorative_cover: [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md)
+- :notebook_with_decorative_cover: [Mempelajari tipe data Array](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-array.md) **TODO: perjelas materi array dan tambahkan pengetahuan array dua dimensi**
 - :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-akses-array.md)
 - :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-loop-array.md)
 - :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-mixed-array.md)
@@ -73,7 +76,7 @@ Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belaja
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-code-style.md)
-- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md)
+- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-object-json.md) **TODO: perjelas materi object dan pembuatan "class" dalam ES5 yang menggunakan function**
 - :anchor: [Tantangan Menggunakan Object 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-1.md)
 - :anchor: [Tantangan Menggunakan Object 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-object-2.md)
 - :anchor: [Tantangan Menggunakan JSON](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-json.md)

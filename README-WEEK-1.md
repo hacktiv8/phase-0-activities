@@ -114,12 +114,14 @@ telah punya website kamu sendiri secara online!
 - :notebook_with_decorative_cover:
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
 - :anchor:
-[Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+[Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)**TODO: kasih contoh tampilan markdown nya supaya gak sekedar bikin teks**
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan
 websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
+
+**TODO: contoh mengimport css dan js external**
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
@@ -132,7 +134,7 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 - :books:
 [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 - :anchor:
-[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
+[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md) **TODO: ubah dari web tugas sebelumnya menjadi web kreasi sendiri**
 - :anchor:
 [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - :anchor:
