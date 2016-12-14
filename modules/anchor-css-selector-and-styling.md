@@ -1,14 +1,14 @@
-#Menghias Laman HTML dengan CSS Layouting
+#Menghias Laman HTML dengan CSS
 
 ##Objectives
 
-Dengan menggunakan CSS kamu dapat membuat layout serta menghias halaman HTML yang sebelumnya sudah dibuat menjadi lebih bagus. Kali ini kamu ditantang untuk membuat layout web blog sederhana!
+Dengan menggunakan CSS kamu dapat menghias halaman HTML. Pada latihan kali ini, kamu telah diberikan file CSS. Kamu diminta untuk membuat id atau class yang menjadi selector yang tepat di HTML!
 
 ##Directions
 
 ### 1. Membuat File HTML
 
-Buatlah sebuah file HTML bernama *index.html* di sebuah folder bernama *project-css-layouting*.
+Buatlah sebuah file HTML bernama *index.html* di sebuah folder bernama *project-css-styling*.
 Gunakan kode yang sudah disiapkan berikut:
 
 ```html
