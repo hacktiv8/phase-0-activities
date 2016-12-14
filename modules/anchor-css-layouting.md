@@ -89,6 +89,10 @@ Sesuaikan kode html yang telah terhubung dengan css di atas, buatlah halaman HTM
 
 ![Contoh Hasil Akhir CSS Layouting](assets/contoh-css-layouting.gif)
 
+### 5. Pengumpulan
+
+Upload tugas project dalam bentuk zip dari folder *project-css-styling*! **Perhatian** Hanya gunakan zip, jangan upload file isi nya satu per satu ataupun dengan rar, 7z, ataupun kompresi lainnya.
+
 > **Syntax Penting**
 >  - color
 >  - font-size
