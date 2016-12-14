@@ -30,7 +30,7 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-variabel.md)
 - :anchor:
-[Mengenal penggunaan Conditional dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-menggunakan-if-else.md) **TODO: penambahan switch-case**
+[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-switch-case.md) **REVIEW: penambahan switch-case**
 - :anchor:
 [Mengenal penggunaan Iteration (For) dalam JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-belajar-for.md)
 - :rocket:
