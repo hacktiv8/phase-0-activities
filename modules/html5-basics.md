@@ -228,7 +228,7 @@ Jika kita butuh menautkan halaman ke halaman lain, gunakan _anchor_ dengan URL. 
 
 ```html
 <a>Clickable but unknown link</a>
-<a href="Google">Go to Google</a>  <!-- you need href most of the time -->
+<a href="https://google.com">Go to Google</a>  <!-- kamu akan sering membutuhkan anchor -->
 ```
 
 Beberapa atributnya yang bisa digunakan antara lain adalah `target`, `rel`, `media`, `hreflang`, dan `type`; juga mereka memerlukan atribut `href` agar bisa bekerja.
