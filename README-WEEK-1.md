@@ -46,7 +46,7 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lain
 membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
-**TODO ANNOUNCE: semua tugas bikin html dan css harus di zip aja**
+<!--- TODO ANNOUNCE: semua tugas bikin html dan css harus di zip aja --->
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
