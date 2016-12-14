@@ -132,7 +132,7 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 - :books:
 [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 - :anchor:
-[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md) **TODO: ubah dari web tugas sebelumnya menjadi web kreasi sendiri**
+[Membuat website sederhana dengan gratis lewat GitHub Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
 - :anchor:
 [Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - :anchor:
