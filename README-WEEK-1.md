@@ -46,14 +46,16 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lain
 membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
+**TODO ANNOUNCE: semua tugas bikin html dan css harus di zip aja**
+
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
-[Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
+[Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md) **TODO Penambahan Hyperlink**
 - :notebook_with_decorative_cover:
-[Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
+[Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md) **TODO Gabungin Form ke satu tag**
 - :books:
 [Mengenal Dunia Web dan Internet](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
 - :anchor:
@@ -62,6 +64,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 [Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
 [Membuat Halaman HTML Sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/laman-web-pertamaku.md)
+**TODO ada dua file HTML dan ada hyperlink nya**
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
@@ -78,6 +81,8 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
 [Menghias HTML dengan CSS 1](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html.md)
+- :anchor: belajar selektor css dari style.css yang sudah disediakan **TODO**
+- :anchor: belajar buat sintaks **TODO**
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -93,6 +98,7 @@ Box Sizing dan Position.
 [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
 [Menghias HTML dengan CSS 2](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html2.md)
+- :anchor: membuat layouting blog sederhana (pake navbar, footer, content, sidebar) **TODO**
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
