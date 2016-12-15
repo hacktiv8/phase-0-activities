@@ -52,9 +52,9 @@ var angka0 = Math.ceil(-0.1); // angka0 = 0
 Mengembalikan angka integer dari pembulatan kebawah suatu angka
 
 ```javascript
-var angka3 = Math.ceil(3.99); // angka3 = 3
-var angka4 = Math.ceil(4.01); // angka4 = 4
-var angka1 = Math.ceil(-0.1); // angka1 = -1
+var angka3 = Math.floor(3.99); // angka3 = 3
+var angka4 = Math.floor(4.01); // angka4 = 4
+var angka1 = Math.floor(-0.1); // angka1 = 0
 
 ```
 
