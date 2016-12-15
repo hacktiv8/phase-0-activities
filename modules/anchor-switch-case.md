@@ -43,9 +43,9 @@ Kamu ingin membuat seseorang terkesan? coba lakukan trik ini! Tebak hari lahir o
 ## Source Code
 
 ```javascript
-var tanggal; //masukkan tanggal lahir disini
-var bulan; //masukkan bulan lahir disini
-var tahun; //masukkan tahun lahir disini
+var tanggal; // assign nilai variabel tanggal disini!
+var bulan; // assign nilai variabel bulan disini!
+var tahun; // assign nilai variabel tahun disini!
 
 var kodeBulan = 0;
 
