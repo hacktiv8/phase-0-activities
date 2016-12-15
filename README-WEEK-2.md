@@ -27,7 +27,7 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Iteration atau Looping ](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
-[Memahami Built-in Object Math](modules/math-object-js.md) **REVIEW: tambah referensi built in function Math**
+[Memahami Built-in Object Math](modules/math-object-js.md)
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
 - :anchor:
