@@ -43,8 +43,15 @@ Kamu ingin membuat seseorang terkesan? coba lakukan trik ini! Tebak hari lahir o
 ## Source Code
 
 ```javascript
+/**
+ * CONTOH
+ * TTL : 21 MEI 1998
+ * var tanggal = 28;
+ * var bulan   = 'Oktober';
+ * var tahun   = 1928;
+ */
 var tanggal; // assign nilai variabel tanggal disini!
-var bulan; // assign nilai variabel bulan disini!
+var bulan; // assign nilai variabel bulan disini! (dengan huruf awal kapital)
 var tahun; // assign nilai variabel tahun disini!
 
 var kodeBulan = 0;
