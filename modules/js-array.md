@@ -6,10 +6,21 @@ Tipe data ataupun struktur data adalah konsep penting dalam mengkategorisasikan 
 
 ## Learnings
 
+- [Array](modules/js-array.md#array)
+- [Array Built-in functions](modules/js-array.md#array-built-in-functions)
+  - [push()](modules/js-array.md#push)
+  - [pop()](modules/js-array.md#pop)
+  - [unshift()](modules/js-array.md#unshift)
+  - [shift()](modules/js-array.md#shift)
+  - [sort()](modules/js-array.md#sort)
+  - [slice()](modules/js-array.md#slice)
+  - [splice()](modules/js-array.md#splice)
+  - [split()](modules/js-array.md#split)
+- [Multidimensional Array](modules/js-array.md#multidimensional-array)
+
 ### Array
 
-Array adalah kumpulan dari berbagai data. Kita bisa tulis dengan kurung kotak (square brackets) dan butir-butirnya dipisah dengan koma. Indeks array berbasis-nol yang berarti urutan awalnya merupakan `[0]`, keduanya `[1]`, dan seterusnya.
-Kita juga bisa memasukkan (insert), memperbarui/mengubah (update/change), atau bahkan meniadakan (undefine) nilai yang ada di dalam array. Spesifik di JS, kita bisa gunakan beberapa tipe data berbeda di dalam suatu array. Bahkan memasukkan array ke dalam array!
+Array adalah kumpulan dari berbagai data. Kita bisa tulis dengan kurung kotak (square brackets) dan butir-butirnya dipisah dengan koma. Indeks array berbasis-nol yang berarti urutan awalnya merupakan `[0]`, keduanya `[1]`, dan seterusnya.  Kita juga bisa memasukkan (insert), memperbarui/mengubah (update/change), atau bahkan meniadakan (undefine) nilai yang ada di dalam array. Spesifik di JS, kita bisa gunakan beberapa tipe data berbeda di dalam suatu array. Bahkan memasukkan array ke dalam array!
 
 ```javascript
 > var animals = ["Lion", "Tiger", "Puma"]
@@ -195,4 +206,45 @@ Split adalah fungsi yang memecah string dan mengembalikan nilai berupa array ses
 var kalimat = "saya adalah full-stack javascript programmer!";
 var kata = kalimat.split(" "); // kalimat dipecah dengan separator berupa spasi.
 console.log(kata); // ["saya", "adalah", "full-stack", "javascript", "programmer!"]
+```
+
+### Multidimensional Array
+
+*Multidimensional array* (array multidimensi) adalah sebuah array yang berisikan array lagi didalamnya. Konsepnya penggunaannya sama dengan array biasa (satu dimensi), hanya saja jumlah indeks yang digunakan saat mengakses nilai didalam array adalah sebanyak dimensi dari array tersebut.
+
+Contoh array multidimensi antara lain diagram kartesius dan matriks. Diagram kartesius dan matriks adalah array multidimensi yang sama-sama membutuhkan koordinat untuk mengakses nilai didalamnya.
+
+```
+(y)
+4 |       *
+3 |     *
+2 |   *
+1 | *
+  + - - - - (x)
+0   1 2 3 4
+
+Diagram kartesius adalah contoh array 2 dimensi. Setiap titik pada diagram di atas memiliki koordinat (x,y) tertentu yaitu (1,1), (2,2), (3,3), dan (4,4).
+```
+
+**beriku contoh array 2 dimensi pada JavaScript dan cara penggunaannya**
+
+```javascript
+// cara deklarasi array 2 dimensi kosong
+var arr2D = [[]];
+
+// contoh array 2 dimensi
+var arr2D = [ [1,2], [3,4], [5,6] ];
+var murid = [ ['Budi', 'SD 1 Cicayur'], ['Suci', 'SD 23 Beji'] ];
+
+// cara mengakses nilai didalam array 2 dimensi
+console.log(arr2D[0]);    // [1,2]
+console.log(arr2D[0][1]); // 2
+console.log(murid[1]);    // ['Suci', 'SD 23 Beji']
+console.log(murid[1][1]); // 'SD 23 Beji''
+
+// array 2 dimensi dengan built-in functions
+arr2D.push([7,8]);        // arr2D = [ [1,2], [3,4], [5,6], [7,8] ]
+arr2D[1].push(0)          // arr2D = [ [1,2], [3,4,0], [5,6], [7,8] ]
+arr2D[0].pop();           // arr2D = [ [1], [3,4], [5,6], [7,8] ]
+arr2D[2].pop();           // arr2D = [ [1], [3,4], [5], [7,8] ]
 ```
