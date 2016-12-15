@@ -6,17 +6,17 @@ Tipe data ataupun struktur data adalah konsep penting dalam mengkategorisasikan 
 
 ## Learnings
 
-- [Array](modules/js-array.md#array)
-- [Array Built-in functions](modules/js-array.md#array-built-in-functions)
-  - [push()](modules/js-array.md#push)
-  - [pop()](modules/js-array.md#pop)
-  - [unshift()](modules/js-array.md#unshift)
-  - [shift()](modules/js-array.md#shift)
-  - [sort()](modules/js-array.md#sort)
-  - [slice()](modules/js-array.md#slice)
-  - [splice()](modules/js-array.md#splice)
-  - [split()](modules/js-array.md#split)
-- [Multidimensional Array](modules/js-array.md#multidimensional-array)
+- [Array](js-array.md#array)
+- [Array Built-in functions](js-array.md#array-built-in-functions)
+  - [push()](js-array.md#push)
+  - [pop()](js-array.md#pop)
+  - [unshift()](js-array.md#unshift)
+  - [shift()](js-array.md#shift)
+  - [sort()](js-array.md#sort)
+  - [slice()](js-array.md#slice)
+  - [splice()](js-array.md#splice)
+  - [split()](js-array.md#split)
+- [Multidimensional Array](js-array.md#multidimensional-array)
 
 ### Array
 
@@ -226,7 +226,7 @@ Contoh array multidimensi antara lain diagram kartesius dan matriks. Diagram kar
 Diagram kartesius adalah contoh array 2 dimensi. Setiap titik pada diagram di atas memiliki koordinat (x,y) tertentu yaitu (1,1), (2,2), (3,3), dan (4,4).
 ```
 
-**beriku contoh array 2 dimensi pada JavaScript dan cara penggunaannya**
+**berikut contoh array 2 dimensi pada JavaScript dan cara penggunaannya**
 
 ```javascript
 // cara deklarasi array 2 dimensi kosong
