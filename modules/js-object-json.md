@@ -29,13 +29,14 @@ Objek adalah kumpulan tidak berurut yang merangkai beberapa kunci-nilai (key-val
 
 Selain menggunakan kurung kurawal, objek bisa dibuat menggunakan **constructor function**. Constructor function sama seperti function pada JavaScript pada umumnya, namun function akan di-*instantiate* menjadi objek menggunakan sintaks `new`. Keuntungan membuat objek dari constructor function adalah kita dapat membuat objek yang sama berkali-kali dengan isi yang *value* yang berbeda-beda, sedangkan membuat objek menggunakan kurung kurawal hanya bisa membuat satu objek.
 
+**Contoh Penggunaan Constructor Function**
 ```javascript
 // contoh constructor function
 function Human(humanName, humanAge) {
   this.name   = humanName;
   this.age    = humanAge;
   this.talk   = function(otherHumanName) {
-    console.log('Hi, ' + otherHumanName '!');
+    console.log('Hi, ' + otherHumanName + '!');
     console.log('My name is ' +this.name);
     console.log('I am ' + this.age + ' years old');
   }
@@ -53,6 +54,8 @@ mario.talk(luigi.name);
 // My name is Mario
 // I am 34 years old
 ```
+
+Kamu dapat mencoba kode di atas [di sini](http://jsbin.com/rudopup/1/edit?js,console)
 
 Konsep membuat object dari constructor function sama seperti membuat objek dari *class* pada bahasa pemrograman lain. Class adalah sebuah **blueprint** atau abstraksi dari objek, oleh karena itu blueprint masih perlu direalisasikan (di-*instantiate*) agar menjadi sebuah objek. Kita juga bisa membuat objek dengan membuat *class* terlebih dahulu pada JavaScript. Materi *class* akan didapatkan saat kamu mempelajari tentang ES6 pada Week 6.
 
@@ -74,24 +77,78 @@ JSON juga merupakan objek biasa yang berisi dua fungsi utama:
 - `parse()`: parse atau translate, untuk menerjemahkan atau menganalisis JSON dalam hal in terms of aturan tata bahasa, mengidentifikasi bagian perkataan, hubungan secara sintaks, dll.
 - `stringify()`: membuat teks JSON.
 
-Dalam JSON, kita bisa gunakan tipe data apapun juga. Kombinasikan String, Number, Array, dan lainnya. Buatlah nama kunci sebaiknya sebagai String. (Catatan: Kita akan hilangkan tanda `>` dari sekarang, karena kebanyakan kode akan menjadi beberapa baris)
+Dalam JSON, kita bisa gunakan tipe data apapun juga. Kombinasikan String, Number, Array, dan lainnya. Buatlah nama kunci sebaiknya sebagai String.
 
 ```javascript
 {
-"animals": [
-  { "species":"lion", "rank":1, "alive":true },
-  { "species":"tiger", "rank":2, "alive":true },
-  { "species":"jaguar", "rank":3, "alive":false },
-  { "species":"leopard", "rank":null, "alive":null }
-]
+  "animals": [
+    {
+      "species": "lion",
+      "rank": 1,
+      "alive": true
+    },
+    {
+      "species": "tiger",
+      "rank": 2,
+      "alive": true
+    },
+    {
+      "species": "jaguar",
+      "rank": 3,
+      "alive": false
+    },
+    {
+      "species": "leopard",
+      "rank":null,
+      "alive":null
+    }
+  ]
 }
 ```
 
 contoh lain:
 
 ```javascript
-{"id":"1a2b3c","name":"Superman","age":200,"favorites":["coding","reading",{"sports":["parkour","hill climbing"]}],"address":{}}
+{
+  "id": "1a2b3c",
+  "name": "Superman",
+  "age": 200,
+  "favorites": [
+    "coding",
+    "reading",
+    {
+      "sports": ["parkour", "hill climbing"]
+    }
+  ],
+  "address":{}
+}
 ```
+
+Dengan bentuk penulisan seperti di atas, sekarang saatnya kita mencoba membuat contoh object!
+
+```javascript
+var supermanObj = {
+  id: "1a2b3c",
+  name: "Superman",
+  age: 200,
+  favorites: [
+    "coding",
+    "reading",
+    {
+      sports: ["parkour", "hill climbing"]
+    }
+  ],
+  address: {}
+};
+
+console.log(supermanObj.name); // "Superman"
+console.log(supermanObj.age); // 200
+console.log(supermanObj.favorites[0]); // "coding"
+console.log(supermanObj.favorites[2].sports); // ["parkour", "hill climbing"]
+console.log(supermanObj.favorites[2].sports[0]); // "parkour"
+```
+
+Kamu dapat mencoba kode di atas [di sini](http://jsbin.com/cowuvog/1/edit?js,console)
 
 ### References
 

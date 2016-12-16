@@ -27,11 +27,11 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Iteration atau Looping ](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
-[Memahami Built-in Object Math](modules/math-object-js.md) **REVIEW: tambah referensi built in function Math**
+[Memahami Built-in Object Math](modules/math-object-js.md)
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
 - :anchor:
-[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) **REVIEW: penambahan switch-case**
+[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 - :anchor:
 [Mengenal penggunaan Iteration (For) dalam JavaScript](modules/anchor-belajar-for.md)
 - :rocket:
@@ -66,7 +66,7 @@ Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di var
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :notebook_with_decorative_cover: [Mempelajari tipe data Array](modules/js-array.md) **REVIEW: perjelas materi array dan tambahkan pengetahuan array dua dimensi**
+- :notebook_with_decorative_cover: [Mempelajari tipe data Array](modules/js-array.md)
 - :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
 - :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
 - :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
@@ -77,7 +77,7 @@ Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belaja
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
-- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md) **REVIEW: perjelas materi object dan pembuatan "class" dalam ES5 yang menggunakan function**
+- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
 - :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
 - :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
 - :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md)
