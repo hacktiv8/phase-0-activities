@@ -77,7 +77,7 @@ Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belaja
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
-- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md) **TODO: perjelas materi object dan pembuatan "class" dalam ES5 yang menggunakan function**
+- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md) **REVIEW: perjelas materi object dan pembuatan "class" dalam ES5 yang menggunakan function**
 - :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
 - :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
 - :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md)

@@ -7,6 +7,9 @@
 
 ## Learnings
 
+- [Object](js-object-json.md#object)
+- [JSON](js-object-json.md#json)
+
 ### Object
 
 Objek adalah kumpulan tidak berurut yang merangkai beberapa kunci-nilai (key-value pairs). Kita bisa tulis dengan kurung kurawal (curly braces), yang mana propertinya ditulis seperti `keyName: value`, dipisah dengan koma. Kuncinya adalah string, tapi tanda petik tidak diharuskan jika identifer yang ditulis valid. Objek mirip dengan "dictionaries" atau "maps" di bahasa pemrograman lain. Agak mirip dengan array, tapi lebih kaya akan data. Berikutnya kamu juga akan tahu bahwa hampir semua hal di JavaScript juga merupakan objek.
@@ -23,6 +26,35 @@ Objek adalah kumpulan tidak berurut yang merangkai beberapa kunci-nilai (key-val
 > myAnimalsName.extra = myVehiclesName
 > myAnimalsName.extra.color
 ```
+
+Selain menggunakan kurung kurawal, objek bisa dibuat menggunakan **constructor function**. Constructor function sama seperti function pada JavaScript pada umumnya, namun function akan di-*instantiate* menjadi objek menggunakan sintaks `new`. Keuntungan membuat objek dari constructor function adalah kita dapat membuat objek yang sama berkali-kali dengan isi yang *value* yang berbeda-beda, sedangkan membuat objek menggunakan kurung kurawal hanya bisa membuat satu objek.
+
+```javascript
+// contoh constructor function
+function Human(humanName, humanAge) {
+  this.name   = humanName;
+  this.age    = humanAge;
+  this.talk   = function(otherHumanName) {
+    console.log('Hi, ' + otherHumanName '!');
+    console.log('My name is ' +this.name);
+    console.log('I am ' + this.age + ' years old');
+  }
+}
+
+// melakukan instantiate
+var mario = new Human('Mario', 34);
+var luigi = new Human('Luigi', 32);
+
+console.log(mario.name); // 'Mario'
+console.log(luigi.age);  // 32
+
+mario.talk(luigi.name);
+// Hi, Luigi!
+// My name is Mario
+// I am 34 years old
+```
+
+Konsep membuat object dari constructor function sama seperti membuat objek dari *class* pada bahasa pemrograman lain. Class adalah sebuah **blueprint** atau abstraksi dari objek, oleh karena itu blueprint masih perlu direalisasikan (di-*instantiate*) agar menjadi sebuah objek. Kita juga bisa membuat objek dengan membuat *class* terlebih dahulu pada JavaScript. Materi *class* akan didapatkan saat kamu mempelajari tentang ES6 pada Week 6.
 
 ### JSON
 
