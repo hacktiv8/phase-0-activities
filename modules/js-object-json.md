@@ -6,7 +6,6 @@
 - ▢ Mengenal JSON dan perbedaannya dengan object biasa.
 
 ## Learnings
-
 - [Object](js-object-json.md#object)
 - [JSON](js-object-json.md#json)
 

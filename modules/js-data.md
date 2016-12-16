@@ -51,7 +51,7 @@ Berhati-hatilah beberapa statement tidak dapat dijalankan atau akan menghasilkan
 ### String (Deretan)
 
 String (seringkali untuk Text) dapat berisi rankaian karakter alfanumerik (lowercase `a` to `z`, uppercase `A` to `Z`, number `0` to `9`, symbol `!` to `*`, dll) yang berguna untuk mengkomunikasikan informasi polos (plain)
-Kita perlu tanda petik (single quote `'` atau double quote `"`) yang membungkus teks untuk menjadikkanya sebuah String. Kita bisa menggunakan kedua jenis quote dan mencampurnya, tapi sebaiknya konsisten saja untuk menggunakan salah satu. Kita bisa juga pakai operator dasar yang sebelumnya digunakan untuk angka untuk mengolah String.
+Kita perlu tanda petik (single quote `'` atau double quote `"`) yang membungkus teks untuk menjadikanya sebuah String. Kita bisa menggunakan kedua jenis quote dan mencampurnya, tapi sebaiknya konsisten saja untuk menggunakan salah satu. Kita bisa juga pakai operator dasar yang sebelumnya digunakan untuk angka untuk mengolah String.
 
 ```javascript
 > "Hello again!"
