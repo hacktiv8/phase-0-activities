@@ -65,7 +65,7 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
-- :pushpin: Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
+- :pushpin: [Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](modules/js-array.md)
 - :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
 - :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
