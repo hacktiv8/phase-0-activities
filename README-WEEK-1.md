@@ -77,7 +77,7 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md) **REVIEW**
+[Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -92,7 +92,7 @@ Box Sizing dan Position.
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md) **REVIEW**
+[Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git

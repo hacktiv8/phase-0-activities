@@ -30,8 +30,8 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 [Memahami Built-in Object Math](modules/math-object-js.md)
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
-- :anchor:
-[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+<!--- - :anchor:
+[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 - :anchor:
 [Mengenal penggunaan Iteration (For) dalam JavaScript](modules/anchor-belajar-for.md)
 - :rocket:
