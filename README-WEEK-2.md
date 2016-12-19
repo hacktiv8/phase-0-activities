@@ -59,7 +59,7 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 - :anchor: [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md)
 - :rocket: [Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
-## Rabu - Arrays
+## Rabu - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
