@@ -10,8 +10,6 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 ## Senin - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
-  **TODO: tambah referensi built in function String dan Number manipulation (Type Casting)**
-
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
 - :wrench:
@@ -20,6 +18,9 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-first-time.md)
 - :notebook_with_decorative_cover:
 [Memahami Tipe Data dan Variabel pada JavaScript](modules/js-first-time.md#data-type)
+**REVIEW: tambah referensi built in function String dan Number manipulation (Type Casting)**
+- :notebook_with_decorative_cover:
+[Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 - :notebook_with_decorative_cover:
 [Mengenal Berbagai Jenis Operasi dalam JavaScript](modules/js-first-time.md#operator)
 - :notebook_with_decorative_cover:
