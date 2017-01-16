@@ -56,4 +56,3 @@ Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Pa
 **Additional**
 
 - [Publishing your website, BY Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website)
-- [Build A Blog With Jekyll And GitHub Pages, by Barry Clark on Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages)
