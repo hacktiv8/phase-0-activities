@@ -1,4 +1,4 @@
-# Create Free Website with GitHub Pages
+# WEEKLY PROJECT - Website yang dihosting dengan Github Pages
 
 ## Objectives
 
