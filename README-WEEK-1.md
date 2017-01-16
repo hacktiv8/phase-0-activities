@@ -122,8 +122,7 @@ telah punya website kamu sendiri secara online!
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
-menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan
-websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
+menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
