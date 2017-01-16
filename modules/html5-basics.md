@@ -352,4 +352,4 @@ Elemen HTML pada umumnya bisa berupa elemen dengan level/tingkat `block` atau `i
 - [Belajar HTML dari dasar, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html-dari-dasar)
 - [Belajar HTML5, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html5)
 - [The Best Way to Learn HTML, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)
-- [HTML Tag Cheatsheet, by Skillcrush](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
+- [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
