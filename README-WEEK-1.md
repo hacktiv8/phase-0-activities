@@ -116,7 +116,9 @@ telah punya website kamu sendiri secara online!
 - :notebook_with_decorative_cover:
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
 - :anchor:
-[Mempelajari Markdown](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown.md)
+[Mempelajari Markdown Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
+- :anchor:
+[Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
@@ -134,10 +136,6 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 [Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
 - :books:
 [Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
-- :anchor:
-[Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
-- :anchor:
-[Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 - :anchor:
 [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
 
