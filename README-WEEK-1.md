@@ -100,7 +100,7 @@ Box Sizing dan Position.
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
 
-## Kamis - Mengendalikan Revisi Menggunakan Git
+## Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
 perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berkenalan dengan Git, sebuah
 tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
