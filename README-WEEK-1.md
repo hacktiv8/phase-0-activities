@@ -96,8 +96,9 @@ Box Sizing dan Position.
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
-
+[Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
+- :anchor:
+[Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
 
 ## Kamis - Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -109,11 +110,7 @@ telah punya website kamu sendiri secara online!
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
-- :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
-- :anchor:
-[Menghias HTML dengan CSS 3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/menghias-laman-html3.md)
+[Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 - :notebook_with_decorative_cover:
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
 - :notebook_with_decorative_cover:
