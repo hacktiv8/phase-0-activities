@@ -48,6 +48,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
@@ -68,6 +69,7 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - :anchor:
@@ -87,6 +89,7 @@ Box Sizing dan Position.
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -103,6 +106,7 @@ telah punya website kamu sendiri secara online!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -123,6 +127,7 @@ websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1eBxtncmgvk5MK)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - :notebook_with_decorative_cover:
