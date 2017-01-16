@@ -87,7 +87,7 @@ Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript d
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :anchor: [Tantangan Final W2](modules/js-application.md)
+- :anchor: [WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
 ## Sabtu dan Minggu
 
