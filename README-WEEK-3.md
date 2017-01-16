@@ -74,7 +74,7 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 
 - :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
 - :anchor:
-Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
+WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
 
 ## Sabtu dan Minggu

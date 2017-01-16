@@ -40,7 +40,7 @@ Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript. Sekar
 - :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shr1CyS9L48RDpqEv)
 - :notebook_with_decorative_cover: [Mengubah Style DOM Secara Dinamis](modules/js-dom-style.md)
 - :books: [Memberikan Animasi sederhana dengan CSS dan JS](modules/animation-using-css-and-js.md)
-- :anchor: [Web App dengan Pemanfaatan DOM](modules/anchor-js-dom-web-app.md)
+- :anchor: [WEEKLY PROJECT - Web App / Game using DOM Manipulation](modules/anchor-js-dom-web-app.md)
 
 ## Sabtu dan Minggu
 
