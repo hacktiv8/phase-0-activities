@@ -116,7 +116,7 @@ telah punya website kamu sendiri secara online!
 - :notebook_with_decorative_cover:
 [Melatih penggunaan command line serta Git dan GitHub lebih banyak](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/cli-git-github-practice.md)
 - :anchor:
-[Mempelajari Markdown Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
+[Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - :anchor:
 [Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 
