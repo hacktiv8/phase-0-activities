@@ -74,11 +74,11 @@ Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatka
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 3](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 3](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 4](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 4](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 5](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 5](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
 [Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
@@ -92,13 +92,13 @@ Box Sizing dan Position.
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shr6xCZnpkf7PjDkb)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrzYndd6Ba9EbPrT)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 6](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 7](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 7](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 8](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 8](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 9](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 9](https://www.codecademy.com/learn/learn-html-css)
 
 ## Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
