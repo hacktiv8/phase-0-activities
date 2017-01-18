@@ -59,9 +59,9 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 - :books:
 [Mengenal Dunia Web dan Internet](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 1](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 1](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Unit 2](https://www.codecademy.com/learn/learn-html-css)
+[Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
 [Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
