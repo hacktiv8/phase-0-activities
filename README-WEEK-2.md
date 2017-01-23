@@ -32,6 +32,8 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 <!--- - :anchor:
 [Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 - :anchor:
+[Mengenal penggunaan Conditional (If-Else) dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+- :anchor:
 [Mengenal penggunaan Iteration (For) dalam JavaScript](modules/anchor-belajar-for.md)
 - :rocket:
 [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](modules/ganjil-genap-dll.md)

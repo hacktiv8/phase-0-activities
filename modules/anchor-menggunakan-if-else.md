@@ -1,4 +1,4 @@
-# 3. Menggunakan If Else 
+# Menggunakan If Else 
 
 ## Objectives
 
@@ -8,7 +8,7 @@
 
 ## Directions
 
-Kamu diminta untuk memprogram suatu game sederhana, Proxytia namanya. Untuk memulai game itu diperlukan 2 variabel (untuk sekarang), yaitu `nama` dan  `peran`. Variabel `nama` harus memiliki isi data, bila kosong pemain akan diberikan peringatan. Terdapat 3 `peran` berbeda yaitu **Ksatria**, **Tabib**, dan **Penyihir**. Tugas Anda adalah untuk membuat program yang mengecek isi variabel `nama` dan `peran` serta mengeluarkan respon sesuai isi variabel tersebut. 
+Kamu diminta untuk memprogram suatu game sederhana, Proxytia namanya. Untuk memulai game itu diperlukan 2 variabel (untuk sekarang), yaitu `nama` dan  `peran`. Variabel `nama` harus memiliki isi data, bila kosong pemain akan diberikan peringatan. Terdapat 3 `peran` berbeda yaitu **Ksatria**, **Tabib**, dan **Penyihir**. Tugas Anda adalah untuk membuat program yang mengecek isi variabel `nama` dan `peran` serta mengeluarkan respon sesuai isi variabel tersebut.
 
 ### Hints
 
