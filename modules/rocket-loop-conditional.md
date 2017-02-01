@@ -12,7 +12,7 @@
 Masih ingat dengan Proxytia? game yang pernah kamu buat pada tugas sebelumnya. Pada *challenge* kali ini kamu ditantang untuk mengembangkan game ini lebih lanjut. Ada beberapa perubahan yang akan perlu kamu lakukan agar game ini dapat dimainkan. Perhatikan langkah-langkahnya sebagai berikut:
 
 1. Tambahkan variabel `tahunLahir`, variabel ini akan diisi dengan tahun lahir pemain.
-2. Isi variabel umur sekarang adalah `2016 - tahunLahir`.
+2. Isi variabel umur sekarang adalah `2017 - tahunLahir`.
 3. Tambahkan variabel `playerHealth`, *assign* variabel ini dengan `tahunLahir X Math.random()`
 4. Tambahkan variabel `monsterHealth`, *assign* variabel ini dengan `tahunLahir X Math.random()`
 5. Tambahkan variabel `kodeMonster`, *assign* variabel ini dengan `Math.floor(Math.pow(100, Math.random()))`
