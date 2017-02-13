@@ -9,14 +9,14 @@ Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan 
 ## Senin - DOM Introduction
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mencoba bermain dengan DOM dan pada akhirnya membuat aplikasi web yang interaktif dengan JavaScript. Anggap saja beberapa hari ini sebagai refreshing dari pekan lalu, dan hasil dari pekan ini pun akan menghasilkan aplikasi web yang menarik dan interaktif.
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrNP8Po4YL6W4PuF)
+- :pushpin: [Form Pengumpulan Tugas Week 5 Ethiopian Fox](https://airtable.com/shrojT7BwiZcvjgOm)
 - :notebook_with_decorative_cover: [Memahami Document Object Model](modules/js-dom-intro.md)
 - :anchor: [Seleksi dan Manipulasi DOM Sederhana](modules/anchor-js-dom-manipulation.md)
 
 ## Selasa - DOM Transversing
 Setelah mencoba menseleksi DOM, hari ini saatnya kita belajar bagaimana melakukan DOM transversing atau disebut juga penjelajahan DOM.
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrNP8Po4YL6W4PuF)
+- :pushpin: [Form Pengumpulan Tugas Week 5 Ethiopian Fox](https://airtable.com/shrojT7BwiZcvjgOm)
 - :notebook_with_decorative_cover: [Memahami DOM Transversing](modules/js-dom-transversing.md)
 - :anchor: [Penjelajahan dan Manipulasi DOM Sederhana](modules/anchor-js-dom-transverse-manipulation.md)
 
