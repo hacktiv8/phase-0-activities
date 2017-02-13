@@ -7,7 +7,10 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 
 ![Let's start!](assets/start.png)
 
-## Senin - EcmaScript 6
+## Senin - Rabu: Final Online Live Coding Part 3
+Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, 5, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding.
+
+## Rabu - EcmaScript 6
 Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga memberikan referensi melalui devdocs.io, sebuah web yang merupakan kurasi referensi sintaks yang sangat lengkap. Kami tidak memberikan ini di minggu-minggu sebelumnya, dengan tujuan supaya bisa fokus dengan materi yang diberikan, karena kami mengerti JavaScript sangat luas, namun ada beberapa hal fundamental yang ingin kami perkenalkan sebelum akhirnya masuk ke yang lebih advanced.
 
 - :wrench:
@@ -25,17 +28,17 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :anchor:
 [Mengubah Sintaks ES5 ke ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
 
-## Selasa - Paradigma Object Oriented Programming
+## Kamis - Paradigma Object Oriented Programming
 
 - :pushpin:
 [Form Pengumpulan Tugas Week 6](https://airtable.com/shrm5i9be8Rd6Cw6E)
 - :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 - :notebook_with_decorative_cover:
-[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md) <!--- TODO Review soal penggunaan Class --->
+[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 - :anchor:
 [Menyusun Class ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
 
-## Rabu - Paradigma Functional Programming
+## Jumat - Paradigma Functional Programming
 
 - :pushpin:
 [Form Pengumpulan Tugas Week 6](https://airtable.com/shrm5i9be8Rd6Cw6E)
@@ -43,12 +46,6 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
 - :anchor:
 [Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
-
-## Kamis - Jumat: End of First Step - Final Online Live Coding Part 3
-Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript!
-
-- :anchor:
-FINAL LIVE CODING - Melakukan Live Coding secara Offline di Kelas HACKTIV8 atau Online dengan [Codeshare](https://codeshare.io) bagi yang di luar Jakarta
 
 ## Sabtu dan Minggu
 
