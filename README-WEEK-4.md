@@ -9,7 +9,7 @@ Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fok
 ## Senin - coderbyte and Regex
 Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Ethiopian Fox](https://airtable.com/shrE9zkrJ00EbwDFy)
+- :pushpin: [Form Pengumpulan Tugas Week 4 Fire Fox](https://airtable.com/shrE9zkrJ00EbwDFy)
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
