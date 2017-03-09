@@ -13,7 +13,7 @@ JavaScript mendukung konsep pemrograman berorientasi objek. Untuk melatih pemaha
 
 - Buatlah sebuah object **Mobil** seperti contoh di bawah ini
 
-```javascript 
+```javascript
 var Mobil = function() {
 }
 ```
@@ -27,7 +27,7 @@ var Mobil = function() {
 ```javascript
 var mobilku = new Mobil('Tesla', 'Ludicrous', 'Merah');
 mobilku.maju();
-//output: Mobil Tesla Ludicrous Merah , bergerak maju! 
+//output: Mobil Tesla Ludicrous Merah , bergerak maju!
 ```
 
 - Di akhir kodemu, uji coba dengan meletakkan potongan kode berikut
@@ -36,11 +36,11 @@ mobilku.maju();
 var mobil1 = new Mobil('Honda', 'Accord', 'Hitam');
 var mobil2 = new Mobil('Honda', 'Civic', 'Silver');
 
-console.log('Mobil 1 adalah ', mobil1.pabrikan, mobil1.model, mobil1.warna);
+console.log('Mobil 1 adalah ' + mobil1.pabrikan + ' ' + mobil1.model + ' ' + mobil1.warna);
 mobil1.maju();
 mobil1.warna = 'Silver';
 mobil1.maju();
-console.log('Mobil 2 adalah', mobil2.pabrikan, mobil2.model, mobil2.warna);
+console.log('Mobil 2 adalah ' + mobil2.pabrikan + ' ' + mobil2.model + ' ' + mobil2.warna);
 mobil2.maju();
 ```
 
