@@ -37,7 +37,7 @@ Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi d
 
 Untuk mengumpulkan tugas, gunakan:
 - [Form Pengumpulan Tugas Week 1 (Fire Fox/Batch 6)](https://airtable.com/shrxcIz7zQOm2UGbp)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 6)](https://airtable.com/shrm11qSLzsK92BRP)
+- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 
 Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
@@ -47,7 +47,7 @@ membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin b
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Fire Fox/Batch 6)](https://airtable.com/shrxcIz7zQOm2UGbp)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 6)](https://airtable.com/shrm11qSLzsK92BRP)
+- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
@@ -67,7 +67,7 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Fire Fox/Batch 6)](https://airtable.com/shrxcIz7zQOm2UGbp)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 6)](https://airtable.com/shrm11qSLzsK92BRP)
+- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - :anchor:
@@ -86,7 +86,7 @@ ilmu barumu ini. Di hari ini kamu akan lebih rapih lagi dalam menyusun halaman w
 Box Sizing dan Position.
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Fire Fox/Batch 6)](https://airtable.com/shrxcIz7zQOm2UGbp)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 6)](https://airtable.com/shrm11qSLzsK92BRP)
+- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -103,7 +103,7 @@ tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesa
 telah punya website kamu sendiri secara online!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Fire Fox/Batch 6)](https://airtable.com/shrxcIz7zQOm2UGbp)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 6)](https://airtable.com/shrm11qSLzsK92BRP)
+- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 - :anchor:
 [Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 - :notebook_with_decorative_cover:
@@ -120,7 +120,7 @@ Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan memperca
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Fire Fox/Batch 6)](https://airtable.com/shrxcIz7zQOm2UGbp)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 6)](https://airtable.com/shrm11qSLzsK92BRP)
+- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 - :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - :notebook_with_decorative_cover:
