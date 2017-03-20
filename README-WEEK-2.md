@@ -28,14 +28,14 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 [Memahami Built-in Object Math](modules/math-object-js.md)
 - :anchor:
 [Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
-<!--- - :anchor:
-[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 - :anchor:
 [Mengenal penggunaan Conditional (If-Else) dalam JavaScript](modules/anchor-menggunakan-if-else.md)
 - :anchor:
 [Mengenal penggunaan Iteration (For) dalam JavaScript](modules/anchor-belajar-for.md)
 - :rocket:
 [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](modules/ganjil-genap-dll.md)
+<!--- - :anchor:
+[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 
 ## Selasa - Pseudocode, Functions, dan Scope
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
