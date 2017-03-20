@@ -12,7 +12,6 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Fire Fox/Batch 6 Only)](https://airtable.com/shrg1PrmECK4lRGrb)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
-
 - :wrench:
 [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
 - :notebook_with_decorative_cover:
