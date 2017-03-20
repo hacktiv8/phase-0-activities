@@ -10,10 +10,9 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 ## Senin - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrql0qA2Wq6VlpjS)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Fire Fox/Batch 6 Only)](https://airtable.com/shrg1PrmECK4lRGrb)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
+
 - :wrench:
 [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
 - :notebook_with_decorative_cover:
@@ -42,10 +41,8 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 ## Selasa - Pseudocode, Functions, dan Scope
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrql0qA2Wq6VlpjS)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Fire Fox/Batch 6 Only)](https://airtable.com/shrg1PrmECK4lRGrb)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
 - :notebook_with_decorative_cover:
 [Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover:
@@ -68,10 +65,8 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 ## Rabu - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
-- :pushpin: [Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrql0qA2Wq6VlpjS)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Fire Fox/Batch 6 Only)](https://airtable.com/shrg1PrmECK4lRGrb)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](modules/js-array.md)
 - :notebook_with_decorative_cover:
 [Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
@@ -82,10 +77,8 @@ Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di var
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrql0qA2Wq6VlpjS)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Fire Fox/Batch 6 Only)](https://airtable.com/shrg1PrmECK4lRGrb)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
 - :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
 - :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
@@ -95,10 +88,8 @@ Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belaja
 ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Cross Fox/Batch 3 Only)](https://airtable.com/shr1ecGcCiONWjWhH)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Darwin's Fox/Batch 4 Only)](https://airtable.com/shrSDsCagyu8uvW3z)
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Ethiopian Fox/Batch 5 Only)](https://airtable.com/shrql0qA2Wq6VlpjS)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Fire Fox/Batch 6 Only)](https://airtable.com/shrg1PrmECK4lRGrb)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
 - :anchor: [WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
 ## Sabtu dan Minggu
