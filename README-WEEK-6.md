@@ -20,9 +20,9 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :notebook_with_decorative_cover:
 [Mengenal EcmaScript 6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
 - :notebook_with_decorative_cover:
-[Mengenal Scope di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md) <!--- TODO Perjelas Materi --->
+[Mengenal Scope di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
 - :notebook_with_decorative_cover:
-[Memanfaatkan Scope di JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-scope.md) <!--- TODO Perjelas Materi --->
+[Memanfaatkan Scope di JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-scope.md)
 - :notebook_with_decorative_cover:
 [Memanfaatkan Arrow Function di ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-arrow-function.md)
 - :anchor:
