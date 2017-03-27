@@ -14,7 +14,7 @@ sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di se
 dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan
 mencoba langsung mengimplementasi kodemu melalui node Js!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrQvhqGYQ1un4rPR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrrqCgoh3m8fokH6)
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :notebook_with_decorative_cover:
@@ -29,7 +29,7 @@ Hari sesungguhnya dalam tantangan untuk melatih logikamu dimulai! Kami akan mema
 coderbyte, tempatmu untuk melatih logikamu dalam JavaScript kan kamu akan mulai mengerjakan soal-soal
 dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrQvhqGYQ1un4rPR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrrqCgoh3m8fokH6)
 - :wrench:
 [Coderbyte, platform online untuk berlatih JavaScript](https://coderbyte.com/)
 - :notebook_with_decorative_cover:
@@ -46,7 +46,7 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 ## Rabu
 Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrQvhqGYQ1un4rPR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrrqCgoh3m8fokH6)
 - :anchor:
 [coderbyte - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
 - :anchor:
@@ -59,7 +59,7 @@ Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrQvhqGYQ1un4rPR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrrqCgoh3m8fokH6)
 - :anchor:
 [coderbyte - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
 - :anchor:
