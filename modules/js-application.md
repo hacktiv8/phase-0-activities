@@ -37,5 +37,4 @@ Note: Disarankan membuat pseudocode sebelum membuat program nya.
 
 - ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup.
 - ▢ Commit dan push file tersebut ke GitHub.
-- ▢ Share hasil kamu di Slack.
 - ▢ Kirimkan link ke form pengumpulan tugas.
