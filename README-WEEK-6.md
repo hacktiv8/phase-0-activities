@@ -7,8 +7,16 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 
 ![Let's start!](assets/start.png)
 
-## Senin - Rabu: Final Online Live Coding Part 3
-Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, 5, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding.
+## Senin - Selasa: Final Live Coding (Offline).
+Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, 5, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding. Berbeda dengan Live Coding sebelumnya, Final Live Coding ini wajib dilakukan Offline.
+
+Artinya kamu harus datang ke Hacktiv8 untuk mengikuti nya. Pilih hari yang kamu bisa antara hari Senin atau Selasa. Dihari itu ada 2 Sesi yang bisa kamu pilih Jam nya.
+
+Sesi Pagi : 10.00 - 12.00
+
+Sesi Siang : 14.00 - 16.00
+
+Informasikan kepada instruktur kamu bisa hari apa dan ikut Sesi siang atau pagi.
 
 ## Rabu - EcmaScript 6
 Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga memberikan referensi melalui devdocs.io, sebuah web yang merupakan kurasi referensi sintaks yang sangat lengkap. Kami tidak memberikan ini di minggu-minggu sebelumnya, dengan tujuan supaya bisa fokus dengan materi yang diberikan, karena kami mengerti JavaScript sangat luas, namun ada beberapa hal fundamental yang ingin kami perkenalkan sebelum akhirnya masuk ke yang lebih advanced.
