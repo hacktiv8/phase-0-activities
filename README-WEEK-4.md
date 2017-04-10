@@ -6,16 +6,16 @@ Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fok
 
 ![Let's start!](assets/start.png)
 
-## Senin - coderbyte and Regex
-Hari baru, tantangan baru! Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
+## Senin - coderbyte and Numbers
+Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggi ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
-- :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
-[coderbyte Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
+[coderbyte Division](https://coderbyte.com/information.php?ct=Division)
 - :anchor:
-[coderbyte Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
+[coderbyte Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
+- :anchor:
+[coderbyte Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
 
 ## Selasa - coderbyte and Built-in Functions
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
@@ -43,16 +43,16 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 - :rocket:
 [coderbyte Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I)
 
-## Kamis - coderbyte and Numbers
-Hari terakhir untuk tantangan coderbyte di pekan ini. Persiapkan dirimu untuk Live Coding Online di hari jumat dengan beberapa tantangan berikut ini.
+## Kamis - coderbyte and Regex
+Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
+- :notebook_with_decorative_cover:
+[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
-[coderbyte Division](https://coderbyte.com/information.php?ct=Division)
+[coderbyte Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
-[coderbyte Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
-- :anchor:
-[coderbyte Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
+[coderbyte Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals, dan built-in Functions)
 Tiba saatnya kita melakukan Live Coding Online untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Apabila kamu memang selama ini mengerjakan tugas-tugas sebelumnya sendiri dan dengan sungguh-sungguh, live coding hari ini akan terasa sangat mudah!
