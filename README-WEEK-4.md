@@ -7,7 +7,7 @@ Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fok
 ![Let's start!](assets/start.png)
 
 ## Senin - coderbyte and Numbers
-Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggi ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
+Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
 - :anchor:
