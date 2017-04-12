@@ -37,16 +37,16 @@ Array pada JavaScript memiliki sekumpulan *built-in function* yang digunakan unt
 Untuk memastikan program kamu sudah bekerja dengan benar, gunakan *test-case* dibawah.
 
 ```javascript
-var input = ["0001", "Roman Alamsyah", "Bandar Lampung", "21/05/1989", "Membaca"];
+var input = ["0001", "Roman Alamsyah ", "Bandar Lampung", "21/05/1989", "Membaca"];
 dataHandling2(input);
 
 /**
  * keluaran yang diharapkan (pada console)
  *
- * ["0001", "Roman Alamsyah", "Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]
+ * ["0001", "Roman Alamsyah Elsharawy", "Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]
  * Mei
- * ["1989", "21", "05"]
+ * [1989, 21, 5]
  * 1989-21-05
- * Roman Alamsyah
+ * Roman Alamsyah Elsharawy
  */
 ```
