@@ -1,6 +1,6 @@
 # Pemanasan Sebelum Tantangan Recursive
 
-Tantangan ini berguna untuk mempersiapkan kamu mengerjakan tantangan rekursi. Pastikan solusimu benar agar dapat mengerjakan tantangan [selanjutnya](modules/anchor-recursive.md) dengan baik.
+Tantangan ini berguna untuk mempersiapkan kamu mengerjakan tantangan rekursi. Pastikan solusimu benar agar dapat mengerjakan tantangan [selanjutnya](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-recursive.md) dengan baik.
 
 # Directions
 
