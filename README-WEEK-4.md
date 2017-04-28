@@ -45,12 +45,11 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 
 ## Kamis - coderbyte and Regex
 Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
-
 - :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
 - :notebook_with_decorative_cover:
+[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
 [coderbyte - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
 [coderbyte Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
 - :anchor:
