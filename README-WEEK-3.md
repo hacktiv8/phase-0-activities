@@ -48,8 +48,6 @@ Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrW5pIgwLfTjw3OR)
 - :anchor:
-[coderbyte - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
-- :anchor:
 [coderbyte - Other Products](https://coderbyte.com/information.php?ct=Other%20Products)
 - :anchor:
 [coderbyte - Palindrome](https://coderbyte.com/information.php?ct=Palindrome)

@@ -48,6 +48,8 @@ Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa men
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
 - :notebook_with_decorative_cover:
+- :anchor:
+[coderbyte - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
 [coderbyte Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
