@@ -9,7 +9,7 @@ Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fok
 ## Senin - coderbyte and Numbers
 Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
+- :pushpin: [Form Pengumpulan Tugas Week 4 Happy Fox](https://airtable.com/shrOnVc8hADkoKZg5 )
 - :anchor:
 [coderbyte Division](https://coderbyte.com/information.php?ct=Division)
 - :anchor:
@@ -20,7 +20,7 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 ## Selasa - coderbyte and Built-in Functions
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
+- :pushpin: [Form Pengumpulan Tugas Week 4 Happy Fox](https://airtable.com/shrOnVc8hADkoKZg5 )
 - :anchor:
 [coderbyte Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
 - :anchor:
@@ -33,7 +33,7 @@ Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu se
 ## Rabu - coderbyte and Letters
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
+- :pushpin: [Form Pengumpulan Tugas Week 4 Happy Fox](https://airtable.com/shrOnVc8hADkoKZg5 )
 - :anchor:
 [coderbyte Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
 - :anchor:
@@ -45,7 +45,7 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 
 ## Kamis - coderbyte and Regex
 Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
-- :pushpin: [Form Pengumpulan Tugas Week 4 Gray Fox](https://airtable.com/shrkmaZ5ihsvYSv9T)
+- :pushpin: [Form Pengumpulan Tugas Week 4 Happy Fox](https://airtable.com/shrOnVc8hADkoKZg5 )
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
 - :anchor:
