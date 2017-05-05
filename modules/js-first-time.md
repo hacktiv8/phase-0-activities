@@ -396,7 +396,7 @@ for(var angka = 1; angka < 10; angka++) {
 ```
 Kamu bisa mencoba kode di atas [disini](https://jsbin.com/dijukel/edit?js,console)
 
-**Contoh Looping While-loop 2** Looping Mengembalikan Angka Total
+**Contoh Looping For-loop 2** Looping Mengembalikan Angka Total
 
 ```javascript
 var jumlah = 0;
@@ -408,6 +408,22 @@ for(var deret = 5; deret > 0; deret--) {
 console.log('Jumlah terakhir: ' + jumlah);
 ```
 Kamu bisa mencoba kode di atas [disini](https://jsbin.com/xukega/edit?js,console)
+
+**Contoh Looping For-loop 3** Looping Dengan Increment dan Decrement Lebih dari 1
+
+```javascript
+
+for(var deret = 0; deret < 10; deret += 2) {
+  console.log('Iterasi dengan Increment counter 2: ' + deret);
+}
+
+console.log('-------------------------------');
+
+for(var deret = 15; deret > 0; deret -= 3) {
+  console.log('Iterasi dengan Decrement counter : ' + deret);
+}
+```
+Kamu bisa mencoba kode di atas [disini](https://jsbin.com/fovoyun/edit?js,console)
 
 
 :warning: Waspadai Forever Looping!
