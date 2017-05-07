@@ -16,6 +16,8 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 [coderbyte Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
 - :anchor:
 [coderbyte Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
+- :anchor:
+[coderbyte Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
 
 ## Selasa - coderbyte and Built-in Functions
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
@@ -62,11 +64,11 @@ Tiba saatnya kita melakukan Live Coding Online untuk menguji kemampuanmu sesuai 
 - :anchor:
 WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
-Pilih salah waktu yang bisa kamu ikuti pada Sesi dibawah ini :
+Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
 
-Sesi Pagi : 10.00 - 12.00
+Sesi Pagi : 10.00 - 11.00
 
-Sesi Siang : 14.00 - 16.00
+Sesi Siang : 14.00 - 15.00
 
 ## Sabtu dan Minggu
 
