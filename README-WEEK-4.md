@@ -62,6 +62,12 @@ Tiba saatnya kita melakukan Live Coding Online untuk menguji kemampuanmu sesuai 
 - :anchor:
 WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
+Pilih salah waktu yang bisa kamu ikuti pada Sesi dibawah ini :
+
+Sesi Pagi : 10.00 - 12.00
+
+Sesi Siang : 14.00 - 16.00
+
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
