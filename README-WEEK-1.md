@@ -37,7 +37,6 @@ Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi d
 
 Untuk mengumpulkan tugas, gunakan:
 - [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
-- [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
 
 Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
@@ -46,8 +45,9 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lain
 membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrm11qSLzsK92BRP)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
+
 - :anchor:
 [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :notebook_with_decorative_cover:
@@ -66,8 +66,9 @@ yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrm11qSLzsK92BRP)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
+
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 - :anchor:
@@ -85,8 +86,9 @@ Mulai merasa mahir dengan HTML dan CSS? Jangan puas dulu! Masih banyak yang bisa
 ilmu barumu ini. Di hari ini kamu akan lebih rapih lagi dalam menyusun halaman web kamu dengan memanfaatkan
 Box Sizing dan Position.
 
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrm11qSLzsK92BRP)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
+
 - :anchor:
 [Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
@@ -102,8 +104,9 @@ perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berke
 tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
 telah punya website kamu sendiri secara online!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrm11qSLzsK92BRP)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
+
 - :anchor:
 [Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 - :notebook_with_decorative_cover:
@@ -119,8 +122,9 @@ telah punya website kamu sendiri secara online!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
 menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu? Tenang saja, masih ada lima minggu online yang akan lebih menantang!
 
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrm11qSLzsK92BRP)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Gray Fox/Batch 7)](https://airtable.com/shrm11qSLzsK92BRP)
+
 - :notebook_with_decorative_cover:
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - :notebook_with_decorative_cover:
