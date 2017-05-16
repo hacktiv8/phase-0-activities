@@ -24,7 +24,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :wrench:
 [Devdocs.io, referensi lengkap sintaks JavaScript](http://devdocs.io/javascript/)
 - :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 6](https://airtable.com/shrXIiX0aO2y0Zd2M)
+[Form Pengumpulan Tugas Week 6 Batch 8](https://airtable.com/shrOYsKD8WMvDUCtR)
 - :notebook_with_decorative_cover:
 [Mengenal EcmaScript 6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
 - :notebook_with_decorative_cover:
@@ -39,7 +39,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 ## Kamis - Paradigma Object Oriented Programming
 
 - :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 6](https://airtable.com/shrXIiX0aO2y0Zd2M)
+[Form Pengumpulan Tugas Week 6 Batch 8](https://airtable.com/shrOYsKD8WMvDUCtR)
 - :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 - :notebook_with_decorative_cover:
 [Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
@@ -49,7 +49,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 ## Jumat - Paradigma Functional Programming
 
 - :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 6](https://airtable.com/shrXIiX0aO2y0Zd2M)
+[Form Pengumpulan Tugas Week 6 Batch 8](https://airtable.com/shrOYsKD8WMvDUCtR)
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
 - :anchor:
