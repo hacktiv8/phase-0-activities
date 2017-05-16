@@ -14,7 +14,7 @@ sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di se
 dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan
 mencoba langsung mengimplementasi kodemu melalui node Js!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrW5pIgwLfTjw3OR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :notebook_with_decorative_cover:
@@ -29,7 +29,7 @@ Hari sesungguhnya dalam tantangan untuk melatih logikamu dimulai! Kami akan mema
 coderbyte, tempatmu untuk melatih logikamu dalam JavaScript kan kamu akan mulai mengerjakan soal-soal
 dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrW5pIgwLfTjw3OR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
 - :wrench:
 [Coderbyte, platform online untuk berlatih JavaScript](https://coderbyte.com/)
 - :notebook_with_decorative_cover:
@@ -46,7 +46,7 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 ## Rabu
 Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrW5pIgwLfTjw3OR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
 - :anchor:
 [coderbyte - Other Products](https://coderbyte.com/information.php?ct=Other%20Products)
 - :anchor:
@@ -57,7 +57,7 @@ Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrW5pIgwLfTjw3OR)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
 - :anchor:
 [coderbyte - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
 - :anchor:
@@ -70,15 +70,14 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals & Objects)
 Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.
 
-- :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
-- :anchor:
-WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
+
+- :anchor: WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
 
 Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
 
-Sesi Pagi : 10.00 - 11.00
+Sesi Pagi : 10.00 WIB - 11.00 WIB
 
-Sesi Siang : 14.00 - 15.00
+Sesi Siang : 14.00 WIB - 15.00 WIB
 
 
 ## Sabtu dan Minggu

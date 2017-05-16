@@ -66,9 +66,9 @@ WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](http
 
 Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
 
-Sesi Pagi : 10.00 - 11.00
+Sesi Pagi : 10.00 WIB - 11.00 WIB
 
-Sesi Siang : 14.00 - 15.00
+Sesi Siang : 14.00 WIB - 15.00 WIB
 
 ## Sabtu dan Minggu
 

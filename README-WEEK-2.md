@@ -57,8 +57,8 @@ Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaima
 - :anchor:
 [Menyelesaikan Codecademy JavaScript Course Unit 2](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
-- :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](modules/anchor-pseudocode2.md)
 - :anchor: [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md)
+- :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](modules/anchor-pseudocode2.md)
 - :rocket: [Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 ## Rabu - mengenal Array dan Memperdalam String
@@ -88,7 +88,6 @@ Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belaja
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Island Fox/Batch 9)](https://airtable.com/shrV8HCxeIrS05ePD )
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Gray Fox/Batch 7 Only)](https://airtable.com/shrBSKFfLdJfYwyfe)
 - :anchor: [WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
 ## Sabtu dan Minggu
