@@ -18,7 +18,7 @@ Array pada JavaScript memiliki sekumpulan *built-in function* yang digunakan unt
 - Gunakan fungsi `splice` untuk memodifikasi variabel tersebut agar menjadi seperti array dibawah. Lalu `console.log` array yang baru seperti di bawah.
 
 ```javascript
-["0001", "Roman Alamsyah Elsharawy", "Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]  
+["0001", "Roman Alamsyah Elsharawy", "Provinsi Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]  
 ```
 
 - Berdasarkan elemen yang berisikan tanggal/bulan/tahun (elemen ke-4), ambil angka bulan dan `console.log` nama bulan sesuai dengan angka tersebut.
@@ -43,10 +43,10 @@ dataHandling2(input);
 /**
  * keluaran yang diharapkan (pada console)
  *
- * ["0001", "Roman Alamsyah Elsharawy", "Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]
+ * ["0001", "Roman Alamsyah Elsharawy", "Provinsi Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]
  * Mei
  * [1989, 21, 5]
  * 1989-21-05
- * Roman Alamsyah Elsharawy
+ * Roman Alamsyah
  */
 ```
