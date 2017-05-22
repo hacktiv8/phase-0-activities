@@ -12,7 +12,8 @@ Setelah mengetahui cara membuat object menggunakan `function()`, kamu juga perlu
 - Buatlah 3 buah Object secara JSON dengan struktur seperti ini:
 
 ```javascript
-var Object1 = {
+var Human1 = {
+    nama: '',
     hari: '',
     kehadiran: '',
     alasan: ''
@@ -22,11 +23,11 @@ var Object1 = {
 - Isikan ketiga Object tersebut dengan data pada tabel di bawah:
 
 
-Hari | Kehadiran | Alasan 
----|---|---
-Senin | Masuk |
-Rabu | Masuk |
-Jumat | Absen | Dinas Luar
+Nama | Hari | Kehadiran | Alasan
+---|---|---|---
+Tono | Senin | Masuk |
+Tono | Rabu | Masuk |
+Tono | Jumat | Absen | Dinas Luar
 
 
 - Masukan ketiga Object tersebut pada sebuah array
@@ -35,22 +36,25 @@ Jumat | Absen | Dinas Luar
 
 - Akses setiap Object seperti ketika mengakses sebuah nilai sebuah array.
 
-- Akses property `nama` dan `kehadiran` di dalam object
+- Akses property `nama` , `hari` dan `kehadiran` di dalam object
 
 ```javascript
 //contoh
 Array[index].objectProperty;
-``` 
+```
 
 - Dari dalam iterasi, tampilkan informasi seperti berikut:
 
 ```
+Nama: Tono
 Hari: senin
 Kehadiran: masuk
 
+Nama: Tono
 Hari: rabu
 Kehadiran: masuk
 
+Nama: Tono
 Hari: jumat
 Kehadiran: absen
 Alasan: dinas luar
@@ -59,7 +63,7 @@ Alasan: dinas luar
 - Hitung jumlah hari kerja, jumlah hari masuk, dan jumlah hari absen. Tampilkan informasinya seperti berikut:
 
 ```
-Total hari kerja minggu ini: 3 hari 
+Total hari kerja minggu ini: 3 hari
 Total Masuk: 2 hari
-Total Tidak Masuk: 1 hari 
+Total Tidak Masuk: 1 hari
 ```
