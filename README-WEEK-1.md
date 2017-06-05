@@ -45,23 +45,26 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lain
 membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
+
+- :notebook_with_decorative_cover:
+[[**Reference**] Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
+- :notebook_with_decorative_cover:
+[[**Reference**] Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
+- :books:
+[[**Reference**] Mengenal Dunia Web dan Internet](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
 
 - :anchor:
-[Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
-- :notebook_with_decorative_cover:
-[Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
-- :notebook_with_decorative_cover:
-[Mempelajari dasar HTML5 forms](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-forms-basics.md)
-- :books:
-[Mengenal Dunia Web dan Internet](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/internet-web.md)
+[[**Exercise**] Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/introduce-yourself.md)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Syllabus 1](https://www.codecademy.com/learn/learn-html-css)
+[[**Exercise**] Codecademy Course - HTML CSS Syllabus 1](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://www.codecademy.com/learn/learn-html-css)
+[[**Exercise**] Codecademy Course - HTML CSS Syllabus 2](https://www.codecademy.com/learn/learn-html-css)
 - :anchor:
-[Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
+[[**Exercise**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
+
+Form pengumpulan tugas : 
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 8)](https://airtable.com/shrjeGiTE4tXSkkO8)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
