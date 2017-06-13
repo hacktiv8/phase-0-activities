@@ -110,6 +110,24 @@ Simbol-simbol diatas, sering disebut sebagai Punctiation. Seringkali dalam beber
 
 Jika kamu teliti, kamu pasti menemukan simbol `+` dibelakang `[a-z]`. Simbol `+` disini berarti match akan menyatukan seluruh karakter yang cocok dengan pattern a-z hingga menemukan pattern lain diluar pattern tersebut. Dalam kasus contoh di atas, setiap kali menemukan spasi, contohya pada `Walaupun regex` match akan memisahkan `Walaupun` dan `regex` karena ditemukannya spasi tersebut. Apabila kamu penasaran, cobalah hapus simbol `+` dari code diatas, dan jalankanlah kembali. Hasilnya akan berbeda!
 
+** Bagaimana jika pattern regex tidak ditemukan ? **
+
+Jika pattern regex tidak dapat ditemukan dalam string, maka fungsi match( ) akan return bukan array kosong, tapi null.
+Bedanya array kosong dan null: array kosong memiliki length = 0, null tidak memiliki length
+
+Sebagai analogi: array kosong adalah gelas yang tidak terisi air dan null adalah tidak ada gelas sama sekali!
+
+Karena itu, kita perlu berhati-hati saat menggunakan properti length dari hasil fungsi match( ) karena null tidak memiliki length! Null.length akan menyebabkan error.
+Untuk mengecek apabila suatu fungsi match membalikkan array atau null, kita bisa menggunakan kode if(newArray) , seperti berikut:
+
+```
+if (newArray) {
+	console.log(‘newArray bukan null!’);
+} else {
+	console.log(‘Tidak ada newArray, ini null!’);
+}
+```
+
 ### Mengetest Kemampuan Regular Expressions
 
 Ada sebuah platform yang cocok untuk melatih kamu dalam menggunakan regex, yaitu [regexr.com](http://regexr.com/)
