@@ -14,26 +14,38 @@ sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di se
 dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan
 mencoba langsung mengimplementasi kodemu melalui node Js!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
+Materi & Referensi :
+
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-node.md)
 - :notebook_with_decorative_cover:
 [Mengenal Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-recursive.md)
+
+Tugas :
+
 - :anchor:
 [Week Start Refreshing - Tantangan Looping: Jumlah Perkalian Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-before-recursive.md)
 - :anchor:
 [Week Start Refreshing - Tantangan Rekursif: Jumlah Perkalian Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-recursive.md)
+
+Form pengumpulan tugas :
+
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
 
 ## Selasa
 Hari sesungguhnya dalam tantangan untuk melatih logikamu dimulai! Kami akan memandumu untuk menggunakan
 coderbyte, tempatmu untuk melatih logikamu dalam JavaScript kan kamu akan mulai mengerjakan soal-soal
 dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
+Materi & Referensi :
+
 - :wrench:
 [Coderbyte, platform online untuk berlatih JavaScript](https://coderbyte.com/)
 - :notebook_with_decorative_cover:
 [Panduan untuk menggunakan Coderbyte](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/coderbyte-introduction.md)
+
+Tugas :
+
 - :anchor:
 [coderbyte Looping - Check Nums](https://coderbyte.com/information.php?ct=Check%20Nums)
 - :anchor:
@@ -43,10 +55,14 @@ dengan tingkat kesulitan rendah terlebih dahulu untuk memulai.
 - :anchor:
 [coderbyte Looping and Conditional - Ex Oh](https://coderbyte.com/information.php?ct=Ex%20Oh)
 
+Form pengumpulan tugas :
+
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+
 ## Rabu
 Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
+Tugas :
 - :anchor:
 [coderbyte - Other Products](https://coderbyte.com/information.php?ct=Other%20Products)
 - :anchor:
@@ -54,10 +70,13 @@ Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 - :anchor:
 [coderbyte - Word Count](https://coderbyte.com/information.php?ct=Word%20Count)
 
+Form pengumpulan tugas :
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shrWNkgaJbS6mImwv)
+Tugas :
 - :anchor:
 [coderbyte - Powers of Two](https://coderbyte.com/information.php?ct=Powers%20of%20Two)
 - :anchor:
@@ -66,6 +85,10 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 [coderbyte - Power Set Count](https://coderbyte.com/information.php?ct=Power%20Set%20Count)
 - :anchor:
 [coderbyte - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
+
+Form pengumpulan tugas :
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals & Objects)
 Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.

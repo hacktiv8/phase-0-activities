@@ -110,7 +110,7 @@ Simbol-simbol diatas, sering disebut sebagai Punctiation. Seringkali dalam beber
 
 Jika kamu teliti, kamu pasti menemukan simbol `+` dibelakang `[a-z]`. Simbol `+` disini berarti match akan menyatukan seluruh karakter yang cocok dengan pattern a-z hingga menemukan pattern lain diluar pattern tersebut. Dalam kasus contoh di atas, setiap kali menemukan spasi, contohya pada `Walaupun regex` match akan memisahkan `Walaupun` dan `regex` karena ditemukannya spasi tersebut. Apabila kamu penasaran, cobalah hapus simbol `+` dari code diatas, dan jalankanlah kembali. Hasilnya akan berbeda!
 
-** Bagaimana jika pattern regex tidak ditemukan ? **
+**Bagaimana jika pattern regex tidak ditemukan ?**
 
 Jika pattern regex tidak dapat ditemukan dalam string, maka fungsi match( ) akan return bukan array kosong, tapi null.
 Bedanya array kosong dan null: array kosong memiliki length = 0, null tidak memiliki length
