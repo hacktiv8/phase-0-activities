@@ -1,6 +1,7 @@
 # Explore Regular Expressions!
 
-Regular Expressions, atau disingkat menjadi Regex, di kalangan programmer, kadang dianggap menjadi satu hal yang sangat menyeramkan, dikarenakan nature mereka yang membuat kita harus menghapal berbagai simbol yang tersusun dengan sangat abstrak. Namun, pada saat kita telah mampu menulis pattern regex kita sendiri, akan sangat mudah memahaminya. Kamu tidak mau kan, harus meng-googling setiap pattern regex dan mencoba satu per satu?
+Regular Expression atau disingkat Regex adalah suatu pattern / deretan karakter spesial yang mendefinisikan sebuah pola untuk mencari, menghitung hingga mengantikan (replace) text string.
+
 
 ## Objectives
 
@@ -11,6 +12,28 @@ Regular Expressions, atau disingkat menjadi Regex, di kalangan programmer, kadan
 
 ### Mengetahui Kegunaan Regular Expressions
 
+Dengan menggunakan regex, kita dapat menyederhanakan pencarian text string atau interger dalam sebuah variabel. Mungkin kalian berpikir untuk pencarian text kan kita bisa pake fungsi-fungsi String dan Array seperti substr(), indexOf(), slice(), dll.
+
+Tetapi bagaimana kalo pencarian rumit ? dan ada pattern yang harus ditentukan ?. Hal ini jauh lebih mudah kalau kita gunakan Regex.
+contoh sederhana nya coba temukan / hitung kata **‘far’** di dalam paragraph dibawah ini :
+
+```javascript
+var paragraph =
+far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+there live the blind texts!. Separated they! live in far away from Bookmarksgrove right at the coast of the Semantics,
+a large language ocean. A small . When she reached the first hills! of the Italic Mountains,she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village
+and the subline of her own road!, the Line Lane. Pityful a rethoric question ran over her cheek!
+```
+Dengan menggunakan regex .match cukup seperti ini :
+
+```javascript
+console.log(paragraph.match(/far/g));
+```
+hasil nya ada 4 kata **‘far’** dan sudah langsung masuk kedalam sebuah array.
+
+```javascript
+["far", "far", "far", "far"]
+```
 Kuncinya untuk memahami Regular Expressions adalah mampu menghapal simbol-simbol dibawah ini, beserta kegunaannya. Untuk memudahkanmu, kamu bisa mencatat, membuat semacam cheatsheet, atau membuat jembatan keledai dengan caramu sendiri untuk memudahkanmu.
 
 ```javascript
