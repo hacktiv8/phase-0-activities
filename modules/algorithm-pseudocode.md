@@ -24,6 +24,33 @@ Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau k
 
 - ▢ Tonton video ini jika perlu: [What is an algorithm and why should you care? - Intro to algorithms on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 
+### Basic Simbol / Notasi Flowchart
+
+Flowchart merupakan diagram yang menggambarkan algoritma, atau proses-proses, yang digunakan untuk memecahkan suatu masalah. Intinya, flowchart bisa dipakai sebelum menulis kode karena syntax lebih mudah digambar. Syntax basic flowchart seperti berikut:
+
+##### Start/End
+<!-- Insert image of start/end symbol here -->
+![Rounded rectangle, like a pill](assets/Start_End.png)
+
+##### Input/Output
+<!-- Insert parallelogram image here -->
+![Parallelogram](assets/Input_Output.png "Input/Output")
+
+##### Process
+<!-- Insert rectangle image here -->
+![Rectangle](assets/Process.png "Process")
+
+##### Conditional (IF)
+<!-- Insert diamond image here -->
+![Diamond](assets/Conditional.png "Conditional")
+
+Banyak tools software yang dapat kamu gunakan untuk menggambar flowchart. salah satunya tools online editor [draw.io](https://www.draw.io/)
+
+Bagi kalian yang nanti akan membuat sebuah sistem yang complex, menggambar flowchart bisa jadi hal pertama yang kalian lakukan sebelum coding. Kenapa ?
+
+Karena untuk membuat sebuah sistem yang complex kalian harus punya gambaran yang jelas dari proses atau prosedur dari awal hingga ahkir sistem yang kalian buat. Kalau tidak ada flowchart kadang di tengah pengerjaan project kita lupa alur dari sistem yang kita buat. Tentu hal ini akan mempengaruhi codingan kalian.
+
+
 ### Mengenal Pseudocode
 
 Atau agar lebih rapi, kita gunakan pseudocode. Psedudocode adalah konvensi terstruktur atau cara menyajikan penjelasan algoritma dengan bahasa yang deskriptif seperti kita menulis kalimat biasa sehingga mudah kita baca. Umumnya digunakan bahasa Inggris atau bahasa perantara yang mirip bahasa pemrograman. Lihatlah contoh algoritma penambahan angka sederhana dengan pseudocode berikut.
