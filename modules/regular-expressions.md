@@ -1,7 +1,6 @@
 # Explore Regular Expressions!
 
-Regular Expression atau disingkat Regex adalah suatu pattern / deretan karakter spesial yang mendefinisikan sebuah pola untuk mencari, menghitung hingga mengantikan (replace) text string.
-
+Regular Expression atau disingkat Regex adalah suatu pattern / deretan karakter spesial yang mendefinisikan sebuah pola untuk pencarian text , text matching
 
 ## Objectives
 
@@ -35,6 +34,7 @@ hasil nya ada 4 kata **‘far’** dan sudah langsung masuk kedalam sebuah array
 ["far", "far", "far", "far"]
 ```
 Kuncinya untuk memahami Regular Expressions adalah mampu menghapal simbol-simbol dibawah ini, beserta kegunaannya. Untuk memudahkanmu, kamu bisa mencatat, membuat semacam cheatsheet, atau membuat jembatan keledai dengan caramu sendiri untuk memudahkanmu.
+
 
 ```javascript
 . // - Mencocokan karakter apapun, kecuali line breaks(jeda baris/enter).
