@@ -65,7 +65,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (I(Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
@@ -86,7 +86,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (I(Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -106,7 +106,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (I(Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
 
 ## Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -132,7 +132,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (I(Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
@@ -154,7 +154,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Island Fox/Batch 9)](https://airtable.com/shrNVPQdGjNIR1FS8)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (I(Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
 
 
 ## Sabtu dan Minggu
