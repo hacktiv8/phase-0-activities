@@ -41,7 +41,7 @@ Tugas :
 
 Form pengumpulan tugas : 
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 <!--- - :anchor:
 [Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 
@@ -74,7 +74,7 @@ Tugas :
 
 Form pengumpulan tugas : 
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 
 ## Rabu - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
@@ -93,7 +93,7 @@ Tugas :
 
 Form pengumpulan tugas : 
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
@@ -120,7 +120,7 @@ Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript d
 
 - :anchor: [WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 
 ## Sabtu dan Minggu
 
