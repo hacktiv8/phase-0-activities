@@ -36,7 +36,7 @@ Panduan:
 Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya. Namun, untuk deadline sendiri, kami memperbolehkan tugas agar dikumpulkan di akhir minggu di hari minggu. Kami merekomendasikan untuk mengumpulkan tugas dalam bentuk harian, karena akan mempercepat tim instruktur untuk mengkoreksi dan memberikan feedback.
 
 Untuk mengumpulkan tugas, gunakan:
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
 
 Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
@@ -45,7 +45,7 @@ Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lain
 membelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
 yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan? Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
-Materi & Referensi : 
+Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Mempelajari dasar HTML5](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/html5-basics.md)
 - :notebook_with_decorative_cover:
@@ -65,12 +65,12 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
 
-Materi & Referensi : 
+Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
@@ -86,7 +86,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -106,7 +106,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
 
 ## Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -114,7 +114,7 @@ perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berke
 tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
 telah punya website kamu sendiri secara online!
 
-Materi & Referensi : 
+Materi & Referensi :
 
 - :notebook_with_decorative_cover:
 [Mengetahui dan menggunakan sistem untuk mengendalikan revisi, yaitu Git and GitHub](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-github-basics.md)
@@ -131,8 +131,8 @@ Tugas :
 [[**Exercises 15**] Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
+
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
 Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
@@ -154,7 +154,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](hhttps://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
 
 
 ## Sabtu dan Minggu
