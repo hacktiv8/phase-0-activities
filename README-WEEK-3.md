@@ -30,7 +30,7 @@ Tugas :
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
 ## Selasa
 Hari sesungguhnya dalam tantangan untuk melatih logikamu dimulai! Kami akan memandumu untuk menggunakan
@@ -57,7 +57,7 @@ Tugas :
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
 ## Rabu
 Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
@@ -71,7 +71,7 @@ Tugas :
 [coderbyte - Word Count](https://coderbyte.com/information.php?ct=Word%20Count)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
 ## Kamis
 Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
@@ -87,7 +87,7 @@ Tugas :
 [coderbyte - Arith Geo](https://coderbyte.com/information.php?ct=Arith%20Geo)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr9hxBRFhuqDRuqM)
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
 
 ## Jumat - Online Live Coding (Arrays, Looping, Conditionals & Objects)
