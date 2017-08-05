@@ -68,7 +68,7 @@ Tugas :
 - :anchor:
 [Largest Pair](/modules/challenge-largest-pair.md)
 - :anchor:
-[Arith Geo](/modules/challenge-arith-geo.md)
+[Number Palindrome](/modules/challenge-number-palindrome.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
@@ -77,9 +77,9 @@ Form pengumpulan tugas :
 
 Tugas :
 - :anchor:
-[Number Palindrome](/modules/challenge-number-palindrome.md)
+[Nearest Treasure](/modules/challenge-nearest-treasure.md)
 - :anchor:
-[Largest Pair](/modules/challenge-largest-pair.md)
+[Pascal's Triangle Row Sum](/modules/challenge-pascal-triangle-sum.md)
 - :anchor:
 [Arith Geo](/modules/challenge-arith-geo.md)
 
