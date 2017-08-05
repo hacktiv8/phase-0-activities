@@ -51,17 +51,7 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 - :anchor:
 [Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I)
 
-## Jumat - Let's Regex
-Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal dengan Regular Expressions di hari ini, walaupun tidak wajib.
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
-- :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
-- :anchor:
-[- Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
-- :anchor:
-[Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
-- :anchor:
-[Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
+## Jumat - Train
 
 ## Sabtu dan Minggu
 
