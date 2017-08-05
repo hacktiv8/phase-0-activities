@@ -61,6 +61,11 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 
 ## Jumat - Train
 
+- :anchor:
+[Alien Numbers](/)
+- :anchor:
+[Pig Latin](/)
+
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
