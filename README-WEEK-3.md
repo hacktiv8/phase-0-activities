@@ -28,6 +28,7 @@ Materi & Referensi :
 
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](/modules/js-node.md)
+- :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
 
 Tugas :
 

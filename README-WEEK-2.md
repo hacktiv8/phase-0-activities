@@ -140,11 +140,6 @@ Tim Hacktiv8
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
 
-
-
-Materi & Referensi :
-
-- :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
 - :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
 
 Tugas :

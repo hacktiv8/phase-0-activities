@@ -13,8 +13,14 @@ Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu aka
 - :notebook_with_decorative_cover:
 [Mengenal OOP pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
+- :anchor:
+[Menyusun Class ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
+
 ## Selasa - OOP Training
 
+- :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
+- :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
+<!-- - :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md) -->
 TODO
 
 ## Rabu - Mastering OOP
