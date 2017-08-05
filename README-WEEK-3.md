@@ -38,8 +38,8 @@ Tugas :
 [Reverse the Word](/modules/challenge-reverse-the-word.md)
 - :anchor:
 [Readable Time](/modules/challenge-readable-time.md)
-- TODO :anchor:
-[Ex and Oh](https://coderbyte.com/information.php?ct=Ex%20Oh)
+- :anchor:
+[X and O](/modules/challenge-x-and-o.md)
 
 Form pengumpulan tugas :
 
@@ -67,17 +67,24 @@ Tugas :
 [Powers of Two](/modules/challenge-powers-of-two.md)
 - :anchor:
 [Largest Pair](/modules/challenge-largest-pair.md)
-- TODO :anchor:
-[coderbyte - Power Set Count](https://coderbyte.com/information.php?ct=Power%20Set%20Count)
 - :anchor:
 [Arith Geo](/modules/challenge-arith-geo.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
+## Jumat
 
-## Jumat - ?
+Tugas :
+- :anchor:
+[Number Palindrome](/modules/challenge-number-palindrome.md)
+- :anchor:
+[Largest Pair](/modules/challenge-largest-pair.md)
+- :anchor:
+[Arith Geo](/modules/challenge-arith-geo.md)
 
+Form pengumpulan tugas :
+- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
 ## Sabtu dan Minggu
 
