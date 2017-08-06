@@ -1,20 +1,20 @@
-# Logic Challenge - AB Check
+# Logic Challenge - Check AB
 
 ## Problem
 
-Have the function abCheck(str) take the str parameter being passed and return the string true if the characters a and b are separated by exactly 3 places anywhere in the string at least once (ie. "lane borrowed" would result in true because there is exactly three characters between a and b). Otherwise return the string false.
+Diberikan sebuah function checkAB(str) yang menerima satu parameter berupa string. function tersebut mengembalikan nilai `true` jika di dalam string tersebut terdapat karakter a dan b yang memiliki jarak 3 karakter lain minimal satu kali. Jika tidak ditemukan sama sekali, kembalikan nilai `false`.
 
 ## Code
 
 ```JavaScript
-function abCheck(num) {
+function checkAB(num) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(abCheck('lane borrowed')); // true
-console.log(abCheck('i am sick')); // false
-console.log(abCheck('you are boring')); // true
-console.log(abCheck('barbarian')); // true
-console.log(abCheck('bacon and meat')); // false
+console.log(checkAB('lane borrowed')); // true
+console.log(checkAB('i am sick')); // false
+console.log(checkAB('you are boring')); // true
+console.log(checkAB('barbarian')); // true
+console.log(checkAB('bacon and meat')); // false
 ```
