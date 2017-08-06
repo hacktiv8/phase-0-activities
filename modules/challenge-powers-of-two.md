@@ -1,20 +1,20 @@
-# Logic Challenge - Powers of Two
+# Logic Challenge - Perpangkatan Dua
 
 ## Problem
 
-Have the function PowersofTwo(num) take the num parameter being passed which will be an integer and return true if it's a power of two. If it's not return false. For example if the input is 16 then your program should return the string true but if the input is 22 then the output should be the string false.
+Diberikan sebuah function perpangkatanDua(angka) yang menerima satu parameter berupa angka. Function akan me-return `n` jika angka tersebut merupakan hasil dari dua pangkat `n`. jika tidak, return -1. Contoh, jika angka adalah 16, dan karena 2^4 adalah 16, maka function akan me-return 4. Contoh kedua, jika angka adalah 17, karena 17 bukan merupakan hasil perpangkatan angka 2, maka function akan me-return -1.
 
 ## Code
 
 ```JavaScript
-function PowersofTwo(str) {
+function perpangkatanDua(str) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(PowersofTwo(64)); // true
-console.log(PowersofTwo(22)); // false
-console.log(PowersofTwo(16)); // true
-console.log(PowersofTwo(222)); // false
-console.log(PowersofTwo(1)); // true
+console.log(perpangkatanDua(64)); // 6
+console.log(perpangkatanDua(22)); // -1
+console.log(perpangkatanDua(16)); // 4
+console.log(perpangkatanDua(222)); // -1
+console.log(perpangkatanDua(1)); // 0
 ```

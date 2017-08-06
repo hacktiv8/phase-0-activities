@@ -1,20 +1,20 @@
-# Logic Challenge - Product Digits
+# Logic Challenge - Digit Perkalian Minimum
 
 ## Problem
 
-Have the function productDigits(num) take the num parameter being passed which will be a positive integer, and determine the least amount of digits you need to multiply to produce it. For example: if num is 24 then you can multiply 8 by 3 which produces 24, so your program should return 2 because there is a total of only 2 digits that are needed. Another example: if num is 90, you can multiply 10 * 9, so in this case your program should output 3 because you cannot reach 90 without using a total of 3 digits in your multiplication.
+Diberikan sebuah function digitPerkalianMinimum(angka) yang menerima satu parameter angka. Function akan mengembalikan jumlah digit minimal dari angka yang merupakan faktor angka parameter tersebut, Contoh, jika angka adalah 24, maka faktornya adalah 1 * 24, 2 * 12, 3 * 8, dan 4 * 6. Dari antara faktor tersebut, yang digit nya paling sedikit adalah 3 * 8 atau 4 * 6, sehingga function akan me-return 2.
 
 ## Code
 
 ```JavaScript
-function productDigits(num) {
+function digitPerkalianMinimum(angka) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(productDigits(24)); // 2
-console.log(productDigits(90)); // 3
-console.log(productDigits(20)); // 2
-console.log(productDigits(179)); // 4
-console.log(productDigits(1)); // 2
+console.log(digitPerkalianMinimum(24)); // 2
+console.log(digitPerkalianMinimum(90)); // 3
+console.log(digitPerkalianMinimum(20)); // 2
+console.log(digitPerkalianMinimum(179)); // 4
+console.log(digitPerkalianMinimum(1)); // 2
 ```

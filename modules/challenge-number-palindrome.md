@@ -2,19 +2,19 @@
 
 ## Problem
 
-Have the function numberPalindrome(num) take the num parameter being passed and return the next largest palindromic number. The input can be any positive integer. For example: if num is 24, then your program should return 33 because that is the next largest number that is a palindrome.
+Diberikan sebuah function angkaPalindrome(angka) yang menerima satu parameter angka. Function akan me-return angka selanjutnya yang mengandung nilai angka palindrome. Contoh, jika angka adalah 27, maka function akan me-return nilai 33 karena angka 33 adalah angka palindrom.
 
 ## Code
 
 ```JavaScript
-function numberPalindrome(num) {
+function angkaPalindrome(num) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(numberPalindrome(8)); // 9
-console.log(numberPalindrome(10)); // 11
-console.log(numberPalindrome(117)); // 121
-console.log(numberPalindrome(175)); // 181
-console.log(numberPalindrome(1000)); // 10001
+console.log(angkaPalindrome(8)); // 9
+console.log(angkaPalindrome(10)); // 11
+console.log(angkaPalindrome(117)); // 121
+console.log(angkaPalindrome(175)); // 181
+console.log(angkaPalindrome(1000)); // 10001
 ```

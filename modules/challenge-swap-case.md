@@ -1,20 +1,20 @@
-# Logic Challenge - Swap Case
+# Logic Challenge - Tukar Besar Kecil
 
 ## Problem
 
-Have the function swapCase(str) take the str parameter and swap the case of each character. For example: if str is "Hello World" the output should be hELLO wORLD. Let numbers and symbols stay the way they are.
+Diberikan function tukarBesarKecil(kalimat) yang menerima satu parameter berupa string. Function akan me-return string tersebut dengan menukar karakter yang uppercase menjadi lowercase, dan sebaliknya. Spasi dan simbol diabaikan.
 
 ## Code
 
 ```JavaScript
-function swapCase(num) {
+function tukarBesarKecil(kalimat) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(swapCase('Hello World')); // "hELLO wORLD"
-console.log(swapCase('I aM aLAY')); // "i Am Alay"
-console.log(swapCase('My Name is Bond!!')); // "mY nAME IS bOND!!"
-console.log(swapCase('IT sHOULD bE me')); // "it Should Be ME"
-console.log(swapCase('001-A-3-5TrdYW')); // "001-a-3-5tRDyw"
+console.log(tukarBesarKecil('Hello World')); // "hELLO wORLD"
+console.log(tukarBesarKecil('I aM aLAY')); // "i Am Alay"
+console.log(tukarBesarKecil('My Name is Bond!!')); // "mY nAME IS bOND!!"
+console.log(tukarBesarKecil('IT sHOULD bE me')); // "it Should Be ME"
+console.log(tukarBesarKecil('001-A-3-5TrdYW')); // "001-a-3-5tRDyw"
 ```

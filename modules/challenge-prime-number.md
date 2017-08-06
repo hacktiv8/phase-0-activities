@@ -1,20 +1,20 @@
-# Logic Challenge - Prime Number
+# Logic Challenge - Angka Prima
 
 ## Problem
 
-Have the function PrimeNumber(num) take the num parameter being passed and return true if the parameter is a prime number, otherwise return false.
+Diberikan sebuah function angkaPrima(angka) yang menerima satu parameter berupa angka. Function akan me-return true jika angka tersebut adalah bilangan prima. Jika tidak, return false.
 
 ## Code
 
 ```JavaScript
-function PrimeNumber(num) {
+function angkaPrima(angka) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(PrimeNumber(3)); // true
-console.log(PrimeNumber(7)); // true
-console.log(PrimeNumber(6)); // false
-console.log(PrimeNumber(23)); // true
-console.log(PrimeNumber(33)); // false
+console.log(angkaPrima(3)); // true
+console.log(angkaPrima(7)); // true
+console.log(angkaPrima(6)); // false
+console.log(angkaPrima(23)); // true
+console.log(angkaPrima(33)); // false
 ```
