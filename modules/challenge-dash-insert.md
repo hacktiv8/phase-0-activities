@@ -2,19 +2,19 @@
 
 ## Problem
 
-Have the function dashInsert(str) insert dashes ('-') between each two odd numbers in str. For example: if str is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
+Diberikan sebuah function tambahDash(str) yang menerima satu parameter berupa string. Function akan mengembalikan str tersebut dengan menambahkan simbol dash ('-') di antara dua angka ganjil di dalam string yang menjadi parameter tersebut. Contoh, jika str adalah 1233897, function akan mengembalikan nilai '123-389-7'. 0 bukanlah angka ganjil.
 
 ## Code
 
 ```JavaScript
-function dashInsert(num) {
+function tambahDash(str) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(dashInsert('454793')); // '4547-9-3'
-console.log(dashInsert('1739028')); // '1-7-3-9028'
-console.log(dashInsert('891829')); // '89-1829'
-console.log(dashInsert('10192')); // '101-92'
-console.log(dashInsert('222222')); // '222222'
+console.log(tambahDash('454793')); // '4547-9-3'
+console.log(tambahDash('1739028')); // '1-7-3-9028'
+console.log(tambahDash('891829')); // '89-1829'
+console.log(tambahDash('10192')); // '101-92'
+console.log(tambahDash('222222')); // '222222'
 ```
