@@ -21,15 +21,15 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
-[Prime Time](/modules/challenge-prime-number.md)
+[Angka Prima](/modules/challenge-prime-number.md)
 - :anchor:
-[Division](/modules/challenge-division.md)
+[Faktor Persekutuan Terbesar](/modules/challenge-division.md)
 - TODO :anchor:
-[Find Mean](/modules/challenge-find-mean.md)
+[Cari Mean](/modules/challenge-find-mean.md)
 - TODO :anchor:
-[Find Median](/modules/challenge-find-mean.md)
+[Cari Median](/modules/challenge-find-mean.md)
 - :anchor:
-[Find Mode](/modules/challenge-find-mode.md)
+[Cari Mode](/modules/challenge-find-mode.md)
 <!-- - :anchor:
 [Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) -->
 
@@ -38,20 +38,20 @@ Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu se
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
-[Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
+[Digit Perkalian Minimum](https://coderbyte.com/information.php?ct=Product%20Digits)
 - :anchor:
-[Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
+[Urutkan Abjad](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
 - :anchor:
-[Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
+[Tukar Ukuran](https://coderbyte.com/information.php?ct=Swap%20Case)
 - :rocket:
-[AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
+[Cek AB](https://coderbyte.com/information.php?ct=AB%20Check)
 
 ## Kamis - Play with Strings
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
-[Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
+[Tambah Dash](https://coderbyte.com/information.php?ct=Dash%20Insert)
 - :anchor:
 [Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize)
 - :anchor:

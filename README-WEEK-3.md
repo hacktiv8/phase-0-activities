@@ -33,13 +33,13 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[Number Checking](/modules/challenge-number-checking.md)
+[Bandingkan Angka](/modules/challenge-number-checking.md)
 - :anchor:
-[Reverse the Word](/modules/challenge-reverse-the-word.md)
+[Balik Kata](/modules/challenge-reverse-the-word.md)
 - :anchor:
-[Readable Time](/modules/challenge-readable-time.md)
+[Konversi Menit](/modules/challenge-readable-time.md)
 - :anchor:
-[X and O](/modules/challenge-x-and-o.md)
+[X dan O](/modules/challenge-x-and-o.md)
 
 Form pengumpulan tugas :
 
@@ -50,11 +50,11 @@ Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 
 Tugas :
 - :anchor:
-[Other Products](/modules/challenge-other-products.md)
+[Perkalian Unik](/modules/challenge-other-products.md)
 - :anchor:
 [Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
-[Counting Words](/modules/challenge-counting-words.md)
+[Hitung Jumlah Kata](/modules/challenge-counting-words.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
@@ -64,11 +64,11 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 
 Tugas :
 - :anchor:
-[Powers of Two](/modules/challenge-powers-of-two.md)
+[Perpangkatan Dua](/modules/challenge-powers-of-two.md)
 - :anchor:
-[Largest Pair](/modules/challenge-largest-pair.md)
+[Pasangan Angka Terbesar](/modules/challenge-largest-pair.md)
 - :anchor:
-[Number Palindrome](/modules/challenge-number-palindrome.md)
+[Palindrome Angka](/modules/challenge-number-palindrome.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
@@ -77,11 +77,11 @@ Form pengumpulan tugas :
 
 Tugas :
 - :anchor:
-[Nearest Treasure](/modules/challenge-nearest-treasure.md)
+[Target Terdekat](/modules/challenge-nearest-treasure.md)
 - :anchor:
 [Pascal's Triangle Row Sum](/modules/challenge-pascal-triangle-sum.md)
 - :anchor:
-[Arith Geo](/modules/challenge-arith-geo.md)
+[Deret Aritmatika](/modules/challenge-arith-geo.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
