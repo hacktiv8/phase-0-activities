@@ -21,15 +21,15 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
-[Angka Prima](/modules/challenge-prime-number.md)
+[Angka Prima](/modules/challenge-angka-prima.md)
 - :anchor:
-[Faktor Persekutuan Terbesar](/modules/challenge-division.md)
-- TODO :anchor:
-[Cari Mean](/modules/challenge-find-mean.md)
-- TODO :anchor:
-[Cari Median](/modules/challenge-find-mean.md)
+[Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
 - :anchor:
-[Cari Mode](/modules/challenge-find-mode.md)
+[Cari Mean](/modules/challenge-cari-mean.md)
+- :anchor:
+[Cari Median](/modules/challenge-cari-median.md)
+- :anchor:
+[Cari Modus](/modules/challenge-cari-modus.md)
 <!-- - :anchor:
 [Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) -->
 
@@ -38,20 +38,20 @@ Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu se
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
-[Digit Perkalian Minimum](https://coderbyte.com/information.php?ct=Product%20Digits)
+[Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
 - :anchor:
-[Urutkan Abjad](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
+[Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
 - :anchor:
-[Tukar Ukuran](https://coderbyte.com/information.php?ct=Swap%20Case)
+[Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
 - :rocket:
-[Cek AB](https://coderbyte.com/information.php?ct=AB%20Check)
+[Cek AB](/modules/challenge-cek-ab.md)
 
 ## Kamis - Play with Strings
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
 
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
-[Tambah Dash](https://coderbyte.com/information.php?ct=Dash%20Insert)
+[Tambah Dash](/modules/challenge-tambah-dash.md)
 - :anchor:
 [Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize)
 - :anchor:

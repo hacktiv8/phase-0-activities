@@ -1,4 +1,4 @@
-# Logic Challenge - Dash Insert
+# Logic Challenge - Tambah Dash / Strip
 
 ## Problem
 
