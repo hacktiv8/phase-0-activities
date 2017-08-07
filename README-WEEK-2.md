@@ -54,7 +54,7 @@ Tugas :
 - :anchor:
 [Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
 - :rocket:
-[Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](modules/ganjil-genap-dll.md)
+[Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
 Form pengumpulan tugas :
 
