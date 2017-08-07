@@ -7,14 +7,17 @@ Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan 
 ![Let's start!](assets/start.png)
 
 ## Senin - OOP Introduction
-Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mencoba bermain dengan DOM dan pada akhirnya membuat aplikasi web yang interaktif dengan JavaScript. Anggap saja beberapa hari ini sebagai refreshing dari pekan lalu, dan hasil dari pekan ini pun akan menghasilkan aplikasi web yang menarik dan interaktif.
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari konsep Object-oriented di JavaScript, dan mengenal beberapa kata baru seperti class dan object.
 
-- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 - :notebook_with_decorative_cover:
 [Mengenal OOP pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
 - :anchor:
 [Menyusun Class ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
+
+tambahan:
+- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
+
 
 ## Selasa - OOP Training
 
