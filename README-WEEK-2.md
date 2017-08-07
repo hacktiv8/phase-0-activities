@@ -81,7 +81,7 @@ Tugas :
 - :anchor:
 [Menyelesaikan Codecademy JavaScript Course Unit 2](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
-- :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](modules/anchor-pseudocode2.md)
+- :anchor: [Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
 - :rocket: [Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 Form pengumpulan tugas :

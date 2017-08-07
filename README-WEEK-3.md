@@ -33,13 +33,13 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[Bandingkan Angka](/modules/challenge-number-checking.md)
+[Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
-[Balik Kata](/modules/challenge-reverse-the-word.md)
+[Balik Kata](/modules/challenge-balik-kata.md)
 - :anchor:
-[Konversi Menit](/modules/challenge-readable-time.md)
+[Konversi Menit](/modules/challenge-konversi-menit.md)
 - :anchor:
-[X dan O](/modules/challenge-x-and-o.md)
+[X dan O](/modules/challenge-x-dan-o.md)
 
 Form pengumpulan tugas :
 
@@ -50,11 +50,11 @@ Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
 
 Tugas :
 - :anchor:
-[Perkalian Unik](/modules/challenge-other-products.md)
+[Perkalian Unik](/modules/challenge-perkalian-unik.md)
 - :anchor:
 [Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
-[Hitung Jumlah Kata](/modules/challenge-counting-words.md)
+[Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
@@ -64,11 +64,11 @@ Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan
 
 Tugas :
 - :anchor:
-[Perpangkatan Dua](/modules/challenge-powers-of-two.md)
+[Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
 - :anchor:
-[Pasangan Angka Terbesar](/modules/challenge-largest-pair.md)
+[Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 - :anchor:
-[Palindrome Angka](/modules/challenge-number-palindrome.md)
+[Palindrome Angka](/modules/challenge-palindrome-angka.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
@@ -77,11 +77,11 @@ Form pengumpulan tugas :
 
 Tugas :
 - :anchor:
-[Target Terdekat](/modules/challenge-nearest-treasure.md)
+[Target Terdekat](/modules/challenge-target-terdekat.md)
 - :anchor:
-[Pascal's Triangle Row Sum](/modules/challenge-pascal-triangle-sum.md)
+[Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
 - :anchor:
-[Deret Aritmatika](/modules/challenge-arith-geo.md)
+[Deret Geometri](/modules/challenge-deret-geometri.md)
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
