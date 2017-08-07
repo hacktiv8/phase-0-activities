@@ -64,8 +64,8 @@ Tugas :
 [[**Exercises 4**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik! Untuk tugas yang menggunakan Codecademy, yang perlu kamu kumpulkan adalah screenshot yang menunjukkan bahwa kamu telah menyelesaikan course tersebut!
@@ -85,8 +85,8 @@ Tugas :
 [[**Exercises 8**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU)
 
 
 ## Rabu - Mendalami Penggunaan CSS
@@ -105,8 +105,8 @@ Tugas :
 [[**Exercises 12**] Codecademy Course - HTML CSS Syllabus 9](https://www.codecademy.com/learn/learn-html-css)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Jack Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU)
 
 ## Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -132,6 +132,7 @@ Tugas :
 
 Form pengumpulan tugas :
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU)
 
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
@@ -153,8 +154,8 @@ Tugas :
 [[**WEEKLY PROJECT**] - Website yang dihosting dengan Github Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
 
 Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Happy Fox/Batch 10)](https://airtable.com/shr0WqXAUiXJh2j9e)
 - :pushpin: [Form Pengumpulan Tugas Week 1 (Kit Fox/Batch 11)](https://airtable.com/shrDHeO2AW3OO1h3a)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU)
 
 
 ## Sabtu dan Minggu
