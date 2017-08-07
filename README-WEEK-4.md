@@ -53,11 +53,11 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 - :anchor:
 [Tambah Dash](/modules/challenge-tambah-dash.md)
 - :anchor:
-[Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize)
+[Ubah Kapital](/modules/challenge-ubah-kapital.md)
 - :anchor:
-[Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes)
+[Ubah Huruf](/modules/challenge-ubah-huruf.md)
 - :anchor:
-[Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I)
+[Hitung Huruf](/modules/challenge-hitung-huruf.md)
 
 ## Jumat - Train
 
