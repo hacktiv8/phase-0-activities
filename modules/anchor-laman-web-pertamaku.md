@@ -1,10 +1,10 @@
-#Laman Web Pertamaku
+# Laman Web Pertamaku
 
-##Objectives
+## Objectives
 
 Setelah mempelajari dasar-dasar HTML, kamu ditantang untuk membuat sebuah laman html sendiri menggunakan *tags* yang telah kamu pelajari. Laman pertama ini akan digunakan untuk tugas-tugas selanjutnya, pastikan kamu mengerjakannya dengan baik.
 
-##Directions
+## Directions
 
 ### 1. Membuat File HTML - Index Page
 
