@@ -11,7 +11,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
 
-Materi & Referensi : 
+Materi & Referensi :
 
 - :wrench:
 [JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
@@ -23,32 +23,47 @@ Materi & Referensi :
 [Mengenal Berbagai Jenis Operasi dalam JavaScript](modules/js-first-time.md#operator)
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Conditional dan Branching](modules/js-first-time.md#conditional)
+
+Tugas :
+
+- :anchor:
+[[**Exercises 1**] Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
+- :anchor:
+[[**Exercises 2**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+- :anchor:
+[[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+
+Form pengumpulan tugas :
+
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
+
+## Selasa - Mengenal Perulangan atau Looping
+
+Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebagai looping atau iteration.
+
+Materi & Referensi :
+
 - :notebook_with_decorative_cover:
-[Memahami Control Flow: Iteration atau Looping ](modules/js-first-time.md#loopiteration)
+[Memahami Control Flow: Iteration atau Looping](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
 [Memahami Built-in Object Math](modules/math-object-js.md)
 
-Tugas : 
+Tugas :
 
+- :anchor: [[**Exercises 4**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
 - :anchor:
-[Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
-- :anchor:
-[Mengenal penggunaan Conditional (If-Else) dalam JavaScript](modules/anchor-menggunakan-if-else.md)
-- :anchor:
-[Mengenal penggunaan Iteration (For) dalam JavaScript](modules/anchor-belajar-for.md)
+[[**Exercises 5**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
 - :rocket:
-[Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](modules/ganjil-genap-dll.md)
+[[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
-Form pengumpulan tugas : 
+Form pengumpulan tugas :
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
-<!--- - :anchor:
-[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 
-## Selasa - Pseudocode, Functions, dan Scope
+## Rabu - Pseudocode, Functions, dan Scope
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
-Materi & Referensi : 
+Materi & Referensi :
 
 - :notebook_with_decorative_cover:
 [Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
@@ -57,26 +72,21 @@ Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Mempelajari Scope](modules/js-scope.md)
 
-Tugas : 
+Tugas :
 
 - :anchor:
-[Membuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md)
+[[**Exercises 7**] Membuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md)
 - :anchor:
-[Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
-- :anchor:
-[Menyelesaikan Codecademy JavaScript Course Unit 1](https://www.codecademy.com/learn/learn-javascript)
-- :anchor:
-[Menyelesaikan Codecademy JavaScript Course Unit 2](https://www.codecademy.com/learn/learn-javascript)
-- :anchor: [Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
-- :anchor: [Melakukan Perulangan Menggunakan `While`](modules/anchor-belajar-while.md)
-- :rocket: [Mengubah Pseudocode menjadi kode JavaScript (Hard)](modules/anchor-pseudocode2.md)
-- :rocket: [Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
+[[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
+- :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
+- :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
+- :rocket: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
-Form pengumpulan tugas : 
+Form pengumpulan tugas :
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 
-## Rabu - mengenal Array dan Memperdalam String
+## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
 Materi & Referensi :
@@ -85,41 +95,24 @@ Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 
-Tugas : 
-
-- :anchor: [Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
-- :anchor: [Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
-- :anchor: [Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
-
-Form pengumpulan tugas : 
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
-
-## Kamis - Object dan JSON (JavaScript Object Notation)
-Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
-
-
-
-Materi & Referensi :
-
-- :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
-- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
-
 Tugas :
 
-- :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
-- :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
-- :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md)
+- :anchor: [[**Exercises 12**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
+- :anchor: [[**Exercises 13**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
+- :anchor: [[**Exercises 14**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack  Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
+
 
 ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
-- :anchor: [WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
+- :anchor:
+[[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 4 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
+- :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 
 ## Sabtu dan Minggu
