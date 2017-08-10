@@ -46,6 +46,24 @@ Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa men
 - :anchor:
 [Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
+
+## TODO 
+## Kamis - Object dan JSON (JavaScript Object Notation)
+Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
+
+- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
+
+Tugas :
+
+- :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
+- :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
+- :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md)
+
+Form pengumpulan tugas :
+
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack  Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+
+
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)

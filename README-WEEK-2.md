@@ -30,12 +30,12 @@ Tugas :
 [Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
 - :anchor:
 [Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+- :anchor:
+[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 
 Form pengumpulan tugas :
 
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
-<!--- - :anchor:
-[Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md) --->
 
 ## Selasa - Mengenal Perulangan atau Looping
 
@@ -44,7 +44,7 @@ Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebaga
 Materi & Referensi :
 
 - :notebook_with_decorative_cover:
-[Memahami Control Flow: Iteration atau Looping ](modules/js-first-time.md#loopiteration)
+[Memahami Control Flow: Iteration atau Looping](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
 [Memahami Built-in Object Math](modules/math-object-js.md)
 
@@ -114,9 +114,7 @@ Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript d
 
 - :anchor:
 [Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 4 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
-
 - :anchor: [WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
-
 - :pushpin: [Form Pengumpulan Tugas Week 2 (Kit Fox/Batch 11)](https://airtable.com/shrFjSYU9wZNmYY2q)
 
 ## Sabtu dan Minggu
@@ -131,23 +129,3 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
-
-
-
-
-
-# TODO MOVE
-## Kamis - Object dan JSON (JavaScript Object Notation)
-Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
-
-- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
-
-Tugas :
-
-- :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
-- :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
-- :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md)
-
-Form pengumpulan tugas :
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack  Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
