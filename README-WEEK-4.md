@@ -1,74 +1,69 @@
-# Hacktiv8 Phase 0 Week 4: Logics in JavaScript
+## COMING SOON
+<!-- # Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 
 ![Header](assets/header-w1.jpg)
 
-Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fokus untuk mengasah logika dan pemrograman kita dengan terus mengerjakan tantangan coderbyte. Minggu ini mungkin akan sulit, karena sangat banyak tantangan dengan berbagai bentuk yang harus kamu selesaikan. Namun, dengan tetap semangat, maka kamu pasti bisa menyelesaikan seluruh tantangan ini!
+Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fokus untuk mengasah logika dan pemrograman kita dengan terus mengerjakan tantangan. Minggu ini mungkin akan sulit, karena sangat banyak tantangan dengan berbagai bentuk yang harus kamu selesaikan. Namun, dengan tetap semangat, maka kamu pasti bisa menyelesaikan seluruh tantangan ini!
 
 ![Let's start!](assets/start.png)
 
-## Senin - coderbyte and Numbers
-Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
+## Senin - Online Live Coding (Arrays, Looping, & Conditionals)
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
-- :anchor:
-[coderbyte Division](https://coderbyte.com/information.php?ct=Division)
-- :anchor:
-[coderbyte Prime Time](https://coderbyte.com/information.php?ct=Prime%20Time)
-- :anchor:
-[coderbyte Simple Mode](https://coderbyte.com/information.php?ct=Simple%20Mode)
-- :anchor:
-[coderbyte Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding)
-
-## Selasa - coderbyte and Built-in Functions
-Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
-
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
-- :anchor:
-[coderbyte Product Digits](https://coderbyte.com/information.php?ct=Product%20Digits)
-- :anchor:
-[coderbyte Alphabet Soup](https://coderbyte.com/information.php?ct=Alphabet%20Soup)
-- :anchor:
-[coderbyte Built-in Functions and Looping - Swap Case](https://coderbyte.com/information.php?ct=Swap%20Case)
-- :rocket:
-[coderbyte AB Check](https://coderbyte.com/information.php?ct=AB%20Check)
-
-## Rabu - coderbyte and Letters
-Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
-
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
-- :anchor:
-[coderbyte Dash Insert](https://coderbyte.com/information.php?ct=Dash%20Insert)
-- :anchor:
-[coderbyte Letter Capitalize](https://coderbyte.com/information.php?ct=Letter%20Capitalize)
-- :rocket:
-[coderbyte Letter Changes](https://coderbyte.com/information.php?ct=Letter%20Changes)
-- :rocket:
-[coderbyte Letter Count 1](https://coderbyte.com/information.php?ct=Letter%20Count%20I)
-
-## Kamis - coderbyte and Regex
-Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal coderbyte dengan Regular Expressions di hari ini, walaupun tidak wajib.
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
-- :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
-- :anchor:
-[coderbyte - Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
-- :anchor:
-[coderbyte Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
-- :anchor:
-[coderbyte Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
-
-## Jumat - Online Live Coding (Arrays, Looping, Conditionals, dan built-in Functions)
-Tiba saatnya kita melakukan Live Coding Online untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Apabila kamu memang selama ini mengerjakan tugas-tugas sebelumnya sendiri dan dengan sungguh-sungguh, live coding hari ini akan terasa sangat mudah!
-
-- :pushpin: Tidak dikumpulkan, karena menggunakan online live coding
-- :anchor:
-WEEKLY LIVE CODING - Melakukan Live Coding secara Online dengan [Codeshare](https://codeshare.io)
+Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.
 
 Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
 
 Sesi Pagi : 10.00 WIB - 11.00 WIB
 
 Sesi Siang : 14.00 WIB - 15.00 WIB
+
+## Selasa - Numbers Crunching
+Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
+
+- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
+- :anchor:
+[Angka Prima](/modules/challenge-angka-prima.md)
+- :anchor:
+[Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
+- :anchor:
+[Cari Mean](/modules/challenge-cari-mean.md)
+- :anchor:
+[Cari Median](/modules/challenge-cari-median.md)
+- :anchor:
+[Cari Modus](/modules/challenge-cari-modus.md)
+
+## Rabu - Built-in Functions Mastery
+Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
+
+- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
+- :anchor:
+[Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
+- :anchor:
+[Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
+- :anchor:
+[Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
+- :rocket:
+[Cek AB](/modules/challenge-cek-ab.md)
+
+## Kamis - Play with Strings
+Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
+
+- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
+- :anchor:
+[Tambah Dash](/modules/challenge-tambah-dash.md)
+- :anchor:
+[Ubah Kapital](/modules/challenge-ubah-kapital.md)
+- :anchor:
+[Ubah Huruf](/modules/challenge-ubah-huruf.md)
+- :anchor:
+[Hitung Huruf](/modules/challenge-hitung-huruf.md)
+
+## Jumat - Train
+
+- :anchor:
+[Alien Numbers](/)
+- :anchor:
+[Pig Latin](/)
 
 ## Sabtu dan Minggu
 
@@ -81,4 +76,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png)
+![Hacktiv8 Banner](assets/banner.png) -->

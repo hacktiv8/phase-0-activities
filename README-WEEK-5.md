@@ -1,51 +1,69 @@
-# Hacktiv8 Phase 0 Week 5: The World of DOM
+## COMING SOON
+<!-- # Hacktiv8 Phase 0 Week 5: Object Oriented Programming in JavaScript
 
 ![Header](assets/header-w4.jpg)
 
-Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan "refreshing" sejenak dan mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
+Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan belajar tentang konsep Object Oriented Programming di JavaScript.
 
 ![Let's start!](assets/start.png)
 
-## Senin - DOM Introduction
-Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mencoba bermain dengan DOM dan pada akhirnya membuat aplikasi web yang interaktif dengan JavaScript. Anggap saja beberapa hari ini sebagai refreshing dari pekan lalu, dan hasil dari pekan ini pun akan menghasilkan aplikasi web yang menarik dan interaktif.
+## Senin - OOP Introduction
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari konsep Object-oriented di JavaScript, dan mengenal beberapa kata baru seperti class dan object.
 
-- :notebook_with_decorative_cover: [Memahami Document Object Model](modules/js-dom-intro.md)
-- :anchor: [Seleksi dan Manipulasi DOM Sederhana](modules/anchor-js-dom-manipulation.md)
+- :notebook_with_decorative_cover:
+[Mengenal OOP pada JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrZrcEN6oV9Gb25d)
+- :anchor:
+[Menyusun Class ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
 
-## Selasa - DOM Transversing
-Setelah mencoba menseleksi DOM, hari ini saatnya kita belajar bagaimana melakukan DOM transversing atau disebut juga penjelajahan DOM.
+tambahan:
+- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 
-- :notebook_with_decorative_cover: [Memahami DOM Transversing](modules/js-dom-transversing.md)
-- :anchor: [Penjelajahan dan Manipulasi DOM Sederhana](modules/anchor-js-dom-transverse-manipulation.md)
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrZrcEN6oV9Gb25d)
+## Selasa - OOP Training
 
-## Rabu - DOM Events
-Ternyata bermain dan menjelajah DOM sangat menarik, walaupun hingga saat ini kita masih belum bisa membuat web yang interaktif. Hari ini mulai saatnya kita bisa menambah sisi interaktif dari web kita!
+- :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
+- :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
+<!-- - :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md) -->
+TODO
 
-- :notebook_with_decorative_cover: [Memahami DOM Events](modules/js-dom-events.md)
-- :anchor: [Validasi Form dengan JavaScript](modules/anchor-js-form-validation.md)
+## Rabu - Mastering OOP
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrZrcEN6oV9Gb25d)
+TODO
 
-## Kamis - Menyusun Halaman HTML dengan JavaScript
-Sebelumnya kita telah belajar menseleksi, menjelajah, dan membuat halaman kita interaktif. Tapi ternyata kita juga bisa menyusun HTML element sendiri dengan JavaScript lho! Saatnya kita menyusun web kita dengan JavaScript!
+## Kamis - Recursive Functions
 
-- :notebook_with_decorative_cover: [Membuat DOM Secara Dinamis](modules/js-dom-creation.md)
-- :anchor: [Menyusun Layout HTML dengan JavaScript](modules/anchor-js-dom-creation.md)
+TODO
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrZrcEN6oV9Gb25d)
+## Jumat - Let's Regex
+Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal dengan Regular Expressions di hari ini, walaupun tidak wajib.
+- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
+- :notebook_with_decorative_cover:
+[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
+- :anchor:
+[- Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
+- :anchor:
+[Longest Word](https://coderbyte.com/information.php?ct=Longest%20Word)
+- :anchor:
+[Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
-## Jumat - Interactive App using JavaScript
-Kamu telah mempelajari event dan manipulasi DOM dengan vanilla JavaScript. Sekarang saatnya kamu membuat sebuah website yang interaktif menggunakan pengetahuan yang telah kita dapatkan satu minggu kebelakang.
 
-- :notebook_with_decorative_cover: [Mengubah Style DOM Secara Dinamis](modules/js-dom-style.md)
-- :books: [Memberikan Animasi sederhana dengan CSS dan JS](modules/animation-using-css-and-js.md)
-- :anchor: [WEEKLY PROJECT - Web App / Game using DOM Manipulation](modules/anchor-js-dom-web-app.md)
+## TODO
+## Kamis - Object dan JSON (JavaScript Object Notation)
+Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
 
-- :pushpin: [Form Pengumpulan Tugas Week 5](https://airtable.com/shrZrcEN6oV9Gb25d)
+- :notebook_with_decorative_cover: [Memahami Object dalam JavaScript](modules/js-object-json.md)
+
+Tugas :
+
+- :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
+- :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
+- :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md)
+
+Form pengumpulan tugas :
+
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Jack  Fox/Batch 10)](https://airtable.com/shrYOJ2IZlOSS3OGh)
+
 
 ## Sabtu dan Minggu
 
@@ -58,4 +76,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png)
+![Hacktiv8 Banner](assets/banner.png) -->
