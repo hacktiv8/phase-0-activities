@@ -1,4 +1,5 @@
-# Hacktiv8 Phase 0 Week 5: Object Oriented Programming in JavaScript
+## COMING SOON
+<!-- # Hacktiv8 Phase 0 Week 5: Object Oriented Programming in JavaScript
 
 ![Header](assets/header-w4.jpg)
 
@@ -47,7 +48,7 @@ Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa men
 [Simple Symbols](https://coderbyte.com/information.php?ct=Simple%20Symbols)
 
 
-## TODO 
+## TODO
 ## Kamis - Object dan JSON (JavaScript Object Notation)
 Selamat karena kamu telah menguasai penggunaan Array. Hari ini, kita akan belajar tentang tipe data selanjutnya yaitu object. Object, seperti halnya Array, membantu kamu dalam pembuatan penampungan data yang terstruktur. Dengan menguasai Array dan Object serta pengetahuan JavaScript di hari-hari sebelumnya, kamu selangkah lebih dekat menjadi programmer JavaScript!
 
@@ -75,4 +76,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png)
+![Hacktiv8 Banner](assets/banner.png) -->

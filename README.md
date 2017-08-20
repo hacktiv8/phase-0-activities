@@ -10,5 +10,5 @@ materi dan tantangan yang tertera pada repositori ini hanya dapat di akses oleh 
 ### [Week 2: Mengenal JavaScript](./README-WEEK-2.md)
 ### [Week 3: Mendalami JavaScript](./README-WEEK-3.md)
 ### [Week 4: Bermain Logic di JavaScript](./README-WEEK-4.md)
-### [Week 5: Memanipulasi DOM](./README-WEEK-5.md)
+### [Week 5: Bermain Logic di JavaScript](./README-WEEK-5.md)
 ### [Week 6: Menguasai JavaScript ES6 dan Paradigma Programming](./README-WEEK-6.md)

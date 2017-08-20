@@ -1,4 +1,5 @@
-# Hacktiv8 Phase 0 Week 5: The World of DOM
+## DEPRECATED.
+<!-- # Hacktiv8 Phase 0 Week 5: The World of DOM
 
 ![Header](assets/header-w4.jpg)
 
@@ -58,4 +59,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png)
+![Hacktiv8 Banner](assets/banner.png) -->

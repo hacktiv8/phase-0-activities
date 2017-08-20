@@ -1,4 +1,5 @@
-# Hacktiv8 Phase 0 Week 4: Logics in JavaScript
+## COMING SOON
+<!-- # Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 
 ![Header](assets/header-w1.jpg)
 
@@ -75,4 +76,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png)
+![Hacktiv8 Banner](assets/banner.png) -->
