@@ -7,14 +7,14 @@ Diberikan sebuah function palindrome(kata) yang menerima satu parameter. Functio
 ## Code
 
 ```JavaScript
-function Palindrome(kata) {
+function palindrome(kata) {
   // you can only write your code here!
 }
 
 // TEST CASES
-console.log(Palindrome('katak')); // true
-console.log(Palindrome('blanket')); // false
-console.log(Palindrome('civic')); // true
-console.log(Palindrome('kasur rusak')); // true
-console.log(Palindrome('mister')); // false
+console.log(palindrome('katak')); // true
+console.log(palindrome('blanket')); // false
+console.log(palindrome('civic')); // true
+console.log(palindrome('kasur rusak')); // true
+console.log(palindrome('mister')); // false
 ```

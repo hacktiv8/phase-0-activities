@@ -14,7 +14,7 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 
 Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
 
-Sesi Pagi : 10.00 WIB - 11.00 WIB
+Sesi Pagi : 11.00 WIB - 12.00 WIB
 
 Sesi Siang : 14.00 WIB - 15.00 WIB
 
@@ -41,50 +41,37 @@ Tugas :
 - :anchor:
 [X dan O](/modules/challenge-x-dan-o.md)
 
-Form pengumpulan tugas :
-
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
-
 ## Rabu
-Hari kedua bersama Coderbyte! Asah kemampuanmu hari ini!
-
-Tugas :
-- :anchor:
-[Perkalian Unik](/modules/challenge-perkalian-unik.md)
-- :anchor:
-[Palindrome](/modules/challenge-palindrome.md)
-- :anchor:
-[Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
-
-Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
-
-## Kamis
-Hari baru, tantangan baru! Asah kemampuanmu dalam Looping dan Conditional dengan berbagai tantangan berikut ini!
+Hari kedua bersama challenge! Asah kemampuanmu hari ini!
 
 Tugas :
 - :anchor:
 [Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
 - :anchor:
+[Palindrome](/modules/challenge-palindrome.md)
+- :anchor:
+[Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
+
+## Kamis
+Hari baru, tantangan baru!
+
+Tugas :
+- :anchor:
+[Perkalian Unik](/modules/challenge-perkalian-unik.md)
+- :anchor:
 [Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 - :anchor:
 [Palindrome Angka](/modules/challenge-palindrome-angka.md)
-
-Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
 
 ## Jumat
 
 Tugas :
 - :anchor:
-[Target Terdekat](/modules/challenge-target-terdekat.md)
-- :anchor:
 [Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
 - :anchor:
 [Deret Geometri](/modules/challenge-deret-geometri.md)
-
-Form pengumpulan tugas :
-- :pushpin: [Form Pengumpulan Tugas Week 3](https://airtable.com/shr6h8QdjcPvKvGyV)
+- :anchor:
+[Target Terdekat](/modules/challenge-target-terdekat.md)
 
 ## Sabtu dan Minggu
 
@@ -98,17 +85,3 @@ Salam,
 Tim Hacktiv8
 
 ![Hacktiv8 Banner](assets/banner.png)
-
-# TODO MOVE
-
-
-Materi & Referensi :
-- :notebook_with_decorative_cover:
-[Mengenal Fungsi Rekursif](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-function-recursive.md)
-
-Tugas :
-
-- :anchor:
-[Week Start Refreshing - Tantangan Looping: Jumlah Perkalian Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-before-recursive.md)
-- :anchor:
-[Week Start Refreshing - Tantangan Rekursif: Jumlah Perkalian Bilangan](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-recursive.md)

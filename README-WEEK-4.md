@@ -30,8 +30,6 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 [Cari Median](/modules/challenge-cari-median.md)
 - :anchor:
 [Cari Modus](/modules/challenge-cari-modus.md)
-<!-- - :anchor:
-[Simple Adding](https://coderbyte.com/information.php?ct=Simple%20Adding) -->
 
 ## Rabu - Built-in Functions Mastery
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
