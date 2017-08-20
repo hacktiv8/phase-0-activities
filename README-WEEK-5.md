@@ -25,7 +25,7 @@ tambahan:
 - :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
 - :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
 <!-- - :anchor: [Tantangan Menggunakan JSON](modules/anchor-json.md) -->
-TODO
+<!-- TODO
 
 ## Rabu - Mastering OOP
 
