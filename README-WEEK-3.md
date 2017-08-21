@@ -29,7 +29,7 @@ Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](/modules/js-node.md)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)- :notebook_with_decorative_cover:
-[Tools: HACKTIV8 Challenge Checker](/modules/h8-challenge-checker.md)
+- [Tools: HACKTIV8 Challenge Checker](/modules/h8-challenge-checker.md)
 
 Tugas :
 
