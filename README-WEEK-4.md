@@ -19,6 +19,8 @@ Sesi Siang : 15.00 WIB - 16.00 WIB
 ## Selasa - Numbers Crunching
 Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
+- :notebook_with_decorative_cover:
+[Tools: HACKTIV8 Challenge Checker](/modules/h8-challenge-checker.md)
 - :anchor:
 [Angka Prima](/modules/challenge-angka-prima.md)
 - :anchor:
