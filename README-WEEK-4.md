@@ -1,5 +1,4 @@
-## COMING SOON
-<!-- # Hacktiv8 Phase 0 Week 4: Logics in JavaScript
+# Hacktiv8 Phase 0 Week 4: Logics in JavaScript
 
 ![Header](assets/header-w1.jpg)
 
@@ -15,12 +14,11 @@ Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
 
 Sesi Pagi : 10.00 WIB - 11.00 WIB
 
-Sesi Siang : 14.00 WIB - 15.00 WIB
+Sesi Siang : 15.00 WIB - 16.00 WIB
 
 ## Selasa - Numbers Crunching
 Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
 [Angka Prima](/modules/challenge-angka-prima.md)
 - :anchor:
@@ -35,7 +33,6 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 ## Rabu - Built-in Functions Mastery
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
 [Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
 - :anchor:
@@ -48,7 +45,6 @@ Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu se
 ## Kamis - Play with Strings
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
 
-- :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
 - :anchor:
 [Tambah Dash](/modules/challenge-tambah-dash.md)
 - :anchor:
@@ -58,12 +54,10 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 - :anchor:
 [Hitung Huruf](/modules/challenge-hitung-huruf.md)
 
-## Jumat - Train
+## Jumat - End of Week Material: Recursive Functions
 
-- :anchor:
-[Alien Numbers](/)
-- :anchor:
-[Pig Latin](/)
+- :notebook_with_decorative_cover:
+[Mengenal Rekursif](/modules/js-function-recursive.md)
 
 ## Sabtu dan Minggu
 
@@ -76,4 +70,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png) -->
+![Hacktiv8 Banner](assets/banner.png)
