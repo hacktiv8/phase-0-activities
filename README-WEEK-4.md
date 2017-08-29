@@ -22,39 +22,39 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 - :notebook_with_decorative_cover:
 [Tools: HACKTIV8 Challenge Checker](/modules/h8-challenge-checker.md)
 - :anchor:
-[Angka Prima](/modules/challenge-angka-prima.md)
+[[**Exercises 1**] Angka Prima](/modules/challenge-angka-prima.md)
 - :anchor:
-[Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
+[[**Exercises 2**] Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
 - :anchor:
-[Cari Mean](/modules/challenge-cari-mean.md)
+[[**Exercises 3**] Cari Mean](/modules/challenge-cari-mean.md)
 - :anchor:
-[Cari Median](/modules/challenge-cari-median.md)
+[[**Exercises 4**] Cari Median](/modules/challenge-cari-median.md)
 - :anchor:
-[Cari Modus](/modules/challenge-cari-modus.md)
+[[**Exercises 5**] Cari Modus](/modules/challenge-cari-modus.md)
 
 ## Rabu - Built-in Functions Mastery
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
 - :anchor:
-[Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
+[[**Exercises 6**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
 - :anchor:
-[Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
+[[**Exercises 7**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
 - :anchor:
-[Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
+[[**Exercises 8**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
 - :rocket:
-[Cek AB](/modules/challenge-cek-ab.md)
+[[**Exercises 9**] Cek AB](/modules/challenge-cek-ab.md)
 
 ## Kamis - Play with Strings
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
 
 - :anchor:
-[Tambah Dash](/modules/challenge-tambah-dash.md)
+[[**Exercises 10**] Tambah Dash](/modules/challenge-tambah-dash.md)
 - :anchor:
-[Ubah Kapital](/modules/challenge-ubah-kapital.md)
+[[**Exercises 11**] Ubah Kapital](/modules/challenge-ubah-kapital.md)
 - :anchor:
-[Ubah Huruf](/modules/challenge-ubah-huruf.md)
+[[**Exercises 12**] Ubah Huruf](/modules/challenge-ubah-huruf.md)
 - :anchor:
-[Hitung Huruf](/modules/challenge-hitung-huruf.md)
+[[**Exercises 13**] Hitung Huruf](/modules/challenge-hitung-huruf.md)
 
 ## Jumat - End of Week Material: Recursive Functions
 
