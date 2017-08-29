@@ -26,7 +26,7 @@ Cara Penggunaan:
 
 Untuk mengecek apakah nilai sudah aman serta melihat histori nilai, kamu dapat membuka link berikut:
 
-[HACKTIV8 Score Dashboard](https://teaching-data.firebaseapp.com/dshbrd.html)
+[HACKTIV8 Score Dashboard](https://teaching-data.firebaseapp.com/dashboard.html)
 
 ## Kesulitan dan Isu Lainnya
 
