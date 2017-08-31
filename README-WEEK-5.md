@@ -12,22 +12,18 @@ TODO
 
 - :notebook_with_decorative_cover:
 [Review Materi Rekursif](/modules/js-function-recursive.md)
-
-- :anchor:
-[[**Exercises 1**] Faktorial Rekursif](/modules/faktorial.md)
-- :anchor:
-[[**Exercises 2**] Total Digit Rekursif](/modules/total-digit.md)
-- :anchor:
-[[**Exercises 3**] Kali Terus Rekursif](/modules/kali-terus.md)
+- :anchor: [[**Exercises 1**] Faktorial Rekursif](/modules/challenge-faktorial.md)
+- :anchor: [[**Exercises 2**] Total Digit Rekursif](/modules/challenge-total-digit.md)
+- :anchor: [[**Exercises 3**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
 
 ## Rabu - Regex
 
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](/modules/regular-expressions.md)
 - :anchor:
-[[**Exercises 4**] Hapus Simbol](/modules/hapus-simbol.md)
+[[**Exercises 4**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
 - :anchor:
-[[**Exercises 5**] Cari Pelaku](/modules/cari-pelaku.md)
+[[**Exercises 5**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
 
 ## Kamis - OOP Introduction
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari konsep Object-oriented di JavaScript, dan mengenal beberapa kata baru seperti class dan object.
@@ -48,7 +44,7 @@ tambahan:
 - :notebook_with_decorative_cover:
 [Object Literal di JavaScript](/modules/js-object-literal.md)
 - :anchor:
-[[**Exercises 8**] Membuat Object Literal](/modules/anchor-es6-oop.md)
+[[**Exercises 8**] Membuat Object Literal](/modules/anchor-js-object-literal.md)
 
 ## Sabtu dan Minggu
 
@@ -61,4 +57,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png) -->
+![Hacktiv8 Banner](assets/banner.png)
