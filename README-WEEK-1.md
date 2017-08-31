@@ -58,7 +58,7 @@ Tugas :
 - :anchor:
 [[**Exercises 1**] Codecademy Course - HTML CSS (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-html-css)
 - 💪
-[[**Latihan Pribadi**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
+[[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
 Di hari pertama kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
@@ -69,7 +69,7 @@ Materi & Referensi :
 
 Tugas :
 - 💪
-[[**Latihan Pribadi**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
+[[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
 ## Rabu dan Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -87,11 +87,11 @@ Materi & Referensi :
 Tugas :
 
 - 💪
-[[**Latihan Pribadi**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
+[[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 - 💪
-[[**Latihan Pribadi**] Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
+[[**Latihan Pribadi 4**] Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - 💪
-[[**Latihan Pribadi**] Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
+[[**Latihan Pribadi 5**] Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
