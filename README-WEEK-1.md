@@ -28,6 +28,7 @@ Panduan:
 - :pushpin: **Pin** adalah link yang digunakan untuk mengumpulkan tugas mingguan
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan
+- 💪 **Self Training** adalah tugas atau tantangan opsional yang walau tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
 - :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
 - :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
 
@@ -56,7 +57,7 @@ Materi & Referensi :
 Tugas :
 - :anchor:
 [[**Exercises 1**] Codecademy Course - HTML CSS (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-html-css)
-- :anchor:
+- 💪
 [[**Latihan Pribadi**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
 ## Selasa - Menguasai HTML dan Mengenal CSS
@@ -67,7 +68,7 @@ Materi & Referensi :
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
 Tugas :
-- :anchor:
+- 💪
 [[**Latihan Pribadi**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
 ## Rabu dan Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
@@ -85,11 +86,11 @@ Materi & Referensi :
 
 Tugas :
 
-- :anchor:
+- 💪
 [[**Latihan Pribadi**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
-- :anchor:
+- 💪
 [[**Latihan Pribadi**] Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
-- :anchor:
+- 💪
 [[**Latihan Pribadi**] Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 
 
