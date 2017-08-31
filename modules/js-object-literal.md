@@ -3,7 +3,7 @@
 ## Objectives
 
 - ▢ Memahami pembuatan object sebagai pair key: value tanpa menggunakan class
- d
+
 ### Object
 
 Objek adalah kumpulan tidak berurut yang merangkai beberapa kunci-nilai (key-value pairs). Kita bisa tulis dengan kurung kurawal (curly braces), yang mana propertinya ditulis seperti `keyName: value`, dipisah dengan koma. Kuncinya adalah string, tapi tanda petik tidak diharuskan jika identifer yang ditulis valid. Objek mirip dengan "dictionaries" atau "maps" di bahasa pemrograman lain. Agak mirip dengan array, tapi lebih kaya akan data. Berikutnya kamu juga akan tahu bahwa hampir semua hal di JavaScript juga merupakan objek.
@@ -30,7 +30,10 @@ var supermanObj = {
       sports: ["parkour", "hill climbing"]
     }
   ],
-  address: {}
+  address: {},
+  speak: function() {
+    console.log('i am superman!');
+  }
 };
 
 console.log(supermanObj.name); // "Superman"
@@ -38,9 +41,10 @@ console.log(supermanObj.age); // 200
 console.log(supermanObj.favorites[0]); // "coding"
 console.log(supermanObj.favorites[2].sports); // ["parkour", "hill climbing"]
 console.log(supermanObj.favorites[2].sports[0]); // "parkour"
+supermanObj.speak(); // "i am superman!"
 ```
 
-Kamu dapat mencoba kode di atas [di sini](http://jsbin.com/cowuvog/1/edit?js,console)
+Kamu dapat mencoba kode di atas [di sini](http://jsbin.com/diruxiq/edit?js,console)
 
 ### BONUS: JSON
 
