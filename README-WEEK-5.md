@@ -26,6 +26,8 @@ TODO
 [Mengenal Regular Expressions](/modules/regular-expressions.md)
 - :anchor:
 [Hapus Simbol](/modules/hapus-simbol.md)
+- :anchor:
+[Cari Pelaku](/modules/cari-pelaku.md)
 
 ## Rabu - OOP Introduction
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari konsep Object-oriented di JavaScript, dan mengenal beberapa kata baru seperti class dan object.
