@@ -104,7 +104,7 @@ function power(base, exponent) {
 console.log(power(3, 3)); // 3 ** 3 = 27
 ```
 
-### Tambahan: Konversi Tipe Data (Type Conversion)
+<!-- ### Tambahan: Konversi Tipe Data (Type Conversion)
 
 Telah kita ketahui bahwa kita bisa mengubah tipe data antara Number dan String dengan mudah hanya dengan assign nilai baru atau dengan operator. Ada cara lain yang lebih baik seperti menggunakan fungsi atau mendapatkan angka dari string dengan operator plus `+` (unary plus).
 
@@ -115,7 +115,7 @@ Telah kita ketahui bahwa kita bisa mengubah tipe data antara Number dan String d
 > parseFloat(myNumber) // 10.5
 > "8.8" + "8.8" // "8.88.8"
 > (+"8.8") + (+"8.8") // 17.6
-```
+``` -->
 
 <!---
 ### Pengecualian (Exception) dan Penangan Galat (Error Handling)

@@ -1,13 +1,33 @@
-## COMING SOON
-<!-- # Hacktiv8 Phase 0 Week 5: Object Oriented Programming in JavaScript
+# Hacktiv8 Phase 0 Week 5: Recursive, Regex, and Object Oriented Programming in JavaScript
 
 ![Header](assets/header-w4.jpg)
 
-Selamat sudah melalui kegiatan pekan keempat! Dua hari pertama akan memantapkan logika kamu dalam JavaScript, dan setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan belajar tentang konsep Object Oriented Programming di JavaScript.
+Selamat sudah melalui kegiatan pekan kelima! Setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan berlatih tentang konsep Rekursif, Regex, serta Object Oriented Programming di JavaScript.
 
 ![Let's start!](assets/start.png)
 
-## Senin - OOP Introduction
+TODO
+
+## Senin - Recursive Functions Review
+
+- :notebook_with_decorative_cover:
+[Review Materi Rekursif](/modules/js-function-recursive.md)
+
+- :anchor:
+[Faktorial Rekursif](/modules/faktorial.md)
+- :anchor:
+[Total Digit Rekursif](/modules/total-digit.md)
+- :anchor:
+[Kali Terus Rekursif](/modules/kali-terus.md)
+
+## Selasa - Regex
+
+- :notebook_with_decorative_cover:
+[Mengenal Regular Expressions](/modules/regular-expressions.md)
+- :anchor:
+[Hapus Simbol](/modules/hapus-simbol.md)
+
+## Rabu - OOP Introduction
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari konsep Object-oriented di JavaScript, dan mengenal beberapa kata baru seperti class dan object.
 
 - :notebook_with_decorative_cover:
@@ -20,7 +40,7 @@ tambahan:
 - :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
 
 
-## Selasa - OOP Training
+## Kamis - OOP Training
 
 - :anchor: [Tantangan Menggunakan Object 1](modules/anchor-object-1.md)
 - :anchor: [Tantangan Menggunakan Object 2](modules/anchor-object-2.md)
@@ -31,15 +51,10 @@ tambahan:
 
 TODO
 
-## Kamis - Recursive Functions
-
-TODO
-
 ## Jumat - Let's Regex
 Terus tantang dirimu sambil berkenalan dengan Regular Expressions! Kamu bisa mengerjakan soal dengan Regular Expressions di hari ini, walaupun tidak wajib.
 - :pushpin: [Form Pengumpulan Tugas Week 4 Jack Fox](https://airtable.com/shrJT6pI97roZ8jLm )
-- :notebook_with_decorative_cover:
-[Mengenal Regular Expressions](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/regular-expressions.md)
+
 - :anchor:
 [- Vowel Count](https://coderbyte.com/information.php?ct=Vowel%20Count)
 - :anchor:
