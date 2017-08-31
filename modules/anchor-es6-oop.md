@@ -1,4 +1,4 @@
-# Membuat ES6 Class Sederhana
+# Membuat ES6 Class Lanjutan
 
 ## Objectives
 
