@@ -36,8 +36,8 @@ Panduan:
 
 Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya. Namun, untuk deadline sendiri, kami memperbolehkan tugas agar dikumpulkan di akhir minggu di hari minggu. Kami merekomendasikan untuk mengumpulkan tugas dalam bentuk harian, karena akan mempercepat tim instruktur untuk mengkoreksi dan memberikan feedback.
 
-Untuk mengumpulkan tugas, gunakan:
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU)
+<!-- Untuk mengumpulkan tugas, gunakan:
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Lively Fox/Batch 12)](https://airtable.com/shrvqPpSgxcxjjSXU) -->
 
 Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
