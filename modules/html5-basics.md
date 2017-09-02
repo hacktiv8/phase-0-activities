@@ -6,7 +6,7 @@
 
 ## Learnings
 
-HTML adalah satu dari banyak bahasa markup yang menjadi bagian pembangun dasar sebuah halaman web (webpage). Saat ini versi terbarunya adalah versi 5, secara resmi disebut HTML5. Digunakan untuk membuat dan merepresentasikan secara visual sebuah webpage. HTML menentukan konten dari sebuah webpage, namun bukan fungsionalitasnya. Untuk mengetahui hubungan antara HTML, CSS, dan JavaScript dalam pembuatan website:
+HTML adalah satu dari banyak bahasa markup yang menjadi bagian pembangun dasar sebuah halaman web (webpage). Saat ini versi terbarunya adalah versi 5.1, secara resmi disebut HTML5. Digunakan untuk membuat dan merepresentasikan secara visual sebuah webpage. HTML menentukan konten dari sebuah webpage, namun bukan fungsionalitasnya. Untuk mengetahui hubungan antara HTML, CSS, dan JavaScript dalam pembuatan website:
 
 - HTML adalah struktur penglihatan (view structure): header, paragraf, tombol, dll (heading, paragraph, button, etc)
 - CSS adalah gaya presentasi (presentational style): warna, ukuan, posisi, dll (color, size, position, etc)
