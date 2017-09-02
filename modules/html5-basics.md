@@ -54,19 +54,19 @@ Kembali ke HTML, biasanya setiap dokumen HTML yang bagus dan valid memiliki dua 
 
 Dokumen atau konten HTML dalam sebuah halaman web dideskripsikan dengan elemen HTML atau tag seperti `head`, `title`, `body`, `article`, `section`, `p`, `div`, `span`, `img`, `picture`, dan banyak lainnya. Elemen-elemen ini membentuk bagian pembangun (building blocks) sebuah website. Website dapat memiliki sedikit atau banyak dari elemen-elemen tersebut.
 
-Tag HTML merupakan kata kunci (keywords) atau nama-nama tag (tag names), yang biasanya dikurung dengan tanda kurung siku (angle brackets) seperti `tagname>sebuah isi atau teks</tagname`. Kebanyakan tag HTML biasanya berpasangan seperti `div` dan `/div`, tapi beberapa tidak seperti `br`. Tag pertama biasanya disebut tag awal atau pembuka, lalu tag kedua disebut tag akhir atau penutup. Tag penutup ditulis seperti tag pembuka, tapi disertakan tanda garis miring depan (forward slash) sebelum nama tag-nya.
+Tag HTML merupakan kata kunci (keywords) atau nama-nama tag (tag names), yang biasanya dikurung dengan tanda kurung siku (angle brackets) seperti `<tagname>sebuah isi atau teks</tagname>`. Kebanyakan tag HTML biasanya berpasangan seperti `<div>` dan `</div>`, tapi beberapa tidak seperti `<br/>`. Tag pertama biasanya disebut tag awal atau pembuka, lalu tag kedua disebut tag akhir atau penutup. Tag penutup ditulis seperti tag pembuka, tapi disertakan tanda garis miring depan (forward slash) sebelum nama tag-nya.
 
 Dari contoh sebelumnya, beberapa teks terdapat di antara tag pembuka dan penutup:
 
-- `!doctype html` menentukan tipe file/dokumen menjadi HTML
-- `html` dan `/html` menyatakan dokumen HTML, yang berisi:
-  - `head` dan `/head` memuat meta data/information, yang berisi:
-    - `title` dan `/title`, judul dokumen
-    - `meta`, data dan informasi tentang halaman ini
-  - `body` dan `/body` akan menunjukkan konten halaman, yang berisi:
-    - `div` dan `/div` adalah pembagi (divider) atau wadah (container), yang berisi:
-      - `h1` dan `/h1`, heading atau judul artikel misalnya
-      - `p` dan `/p`, paragraf teks
+- `<!doctype html>` menentukan tipe file/dokumen menjadi HTML
+- `<html>` dan `</html>` menyatakan dokumen HTML, yang berisi:
+  - `<head>` dan `</head>` memuat meta data/information, yang berisi:
+    - `<title>` dan `</title>`, judul dokumen
+    - `<meta/>`, data dan informasi tentang halaman ini
+  - `<body>` dan `</body>` akan menunjukkan konten halaman, yang berisi:
+    - `<div>` dan `</div>` adalah pembagi (divider) atau wadah (container), yang berisi:
+      - `<h1>` dan `</h1>`, heading atau judul artikel misalnya
+      - `<p>` dan `</p>`, paragraf teks
 
 Inilah ilustrasi atau visualisasi yang HTML strukturkan:
 
@@ -108,7 +108,7 @@ Dikarenakan juga bahasan HTML sangat banyak sekali, di sini kita hanya membahas 
 
 ### Deklarasi Tipe Dokumen (Document Type declaration)
 
-Deklarasi `!DOCTYPE` di awal membantu browser untuk menampilkan halaman web secara betul.
+Deklarasi `!DOCTYPE` di awal membantu browser untuk menampilkan halaman web secara benar.
 Secara formal, setiap dokumen HTML yang valid harus menyertakan ini (satu kali saja di atas) setiap dokumen. Ini juga termasuk mengatur tipe dokumen (yang mana adalah HTML) dan versinya sekaligus. Untuk sekarang kita hanya perlu HTML versi 5, atau disebut juga "HTML5".
 Deklarasinya tidak case sensitive, jadi kita bisa gunakan bentuk huruf apapun:
 
@@ -242,7 +242,7 @@ Orang-orang biasanya suka mengklik sebuah tombol yang dapat melakukan sesuatu. G
 <button disabled name="danger">Disabled Dangerous Button</button>
 ```
 
-### Daftar/Lis (List)
+### Daftar (List)
 
 Ada dua jenis daftar, tidak berurutan (`ul`) dan berutuan (`ol`). Setiap butir daftar dideklarasikan dengan tag `li`.
 
@@ -353,3 +353,4 @@ Elemen HTML pada umumnya bisa berupa elemen dengan level/tingkat `block` atau `i
 - [Belajar HTML5, oleh Sekolah Koding](http://www.sekolahkoding.com/kelas/belajar-html5)
 - [The Best Way to Learn HTML, on Envato Tuts+](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)
 - [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
+- [HTML5 PDF Cheatsheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
