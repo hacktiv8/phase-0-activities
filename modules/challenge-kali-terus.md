@@ -18,7 +18,7 @@ function kaliTerusRekursif(angka) {
 }
 
 // TEST CASES
-console.log(kaliTerusRekursif(66)); // 2
+console.log(kaliTerusRekursif(66)); // 8
 console.log(kaliTerusRekursif(3)); // 3
 console.log(kaliTerusRekursif(24)); // 8
 console.log(kaliTerusRekursif(654)); // 0
