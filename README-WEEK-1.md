@@ -38,7 +38,7 @@ Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi d
 
 Untuk mengumpulkan tugas, gunakan:
 
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Miracle Fox/Batch 13)](https://github.com/hacktiv8/phase-0-activities)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Miracle Fox/Batch 13)](https://airtable.com/shrqRkBJQkorQnJY3)
 
 Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
