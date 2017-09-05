@@ -1,10 +1,12 @@
-## COMING SOON
-<!-- # Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
+# Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
 
 
 ![Header](assets/header-w1.jpg)
 
 Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Di minggu terakhir ini, kamu akan berkenalan dengan JavaScript ES6  :bowtie:
+
+- :pushpin:
+[Form Pengumpulan Tugas Week 6 Batch 11](https://airtable.com/shrqQRmmJshDZtUGt)
 
 ![Let's start!](assets/start.png)
 
@@ -35,27 +37,14 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :notebook_with_decorative_cover:
 [Memanfaatkan Arrow Function di ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-arrow-function.md)
 - :anchor:
-[Mengubah Sintaks ES5 ke ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
+[[**Exercises 1**] Mengubah Sintaks ES5 ke ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
 
-## Kamis - Paradigma Object Oriented Programming
+## Kamis - Paradigma Functional Programming
 
-- :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 11](https://airtable.com/shrqQRmmJshDZtUGt)
-
-- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-- :notebook_with_decorative_cover:
-[Mengenal OOP pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/oop-basics.md)
-- :anchor:
-[Menyusun Class ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-oop.md)
-
-## Jumat - Paradigma Functional Programming
-
-- :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 11](https://airtable.com/shrqQRmmJshDZtUGt)
 - :notebook_with_decorative_cover:
 [Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
 - :anchor:
-[Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
+[[**Exercises 2**] Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 
 ## Sabtu dan Minggu
 
@@ -68,4 +57,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png) -->
+![Hacktiv8 Banner](assets/banner.png)
