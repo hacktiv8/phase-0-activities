@@ -125,15 +125,15 @@ console.log(angka != 7); // true
 console.log(angka != 8); // false
 ```
 
-- Strict Not Equal operator (===)
+- Strict Equal operator (===)
 
 Sedikit berbeda dengan equal operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
 
 ```javascript
 var angkaBeda = "8"
-console.log(angka == 8); // true
-console.log(angka === 8); // false
-console.log(angka === "8"); // true
+console.log(angkaBeda == 8); // true
+console.log(angkaBeda === 8); // false
+console.log(angkaBeda === "8"); // true
 ```
 
 - Strict Not Equal operator (!==)
@@ -142,10 +142,10 @@ Sedikit berbeda dengan not equal operator, strict not equal operator `!==` mewaj
 
 ```javascript
 var angkaBeda = "8"
-console.log(angka != 7); // true
-console.log(angka !== 7); // true
-console.log(angka !== 8); // true
-console.log(angka !== "8"); // false
+console.log(angkaBeda != 7); // true
+console.log(angkaBeda !== 7); // true
+console.log(angkaBeda !== 8); // true
+console.log(angkaBeda !== "8"); // false
 ```
 
 - Less Than (<) / Greater Than (>)
