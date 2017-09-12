@@ -1,6 +1,5 @@
 # Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
 
-
 ![Header](assets/header-w1.jpg)
 
 Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Di minggu terakhir ini, kamu akan berkenalan dengan JavaScript ES6  :bowtie:
@@ -27,7 +26,7 @@ Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga m
 - :wrench:
 [Devdocs.io, referensi lengkap sintaks JavaScript](http://devdocs.io/javascript/)
 - :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 11](https://airtable.com/shrqQRmmJshDZtUGt)
+[Form Pengumpulan Tugas Week 6 Batch 12](https://airtable.com/shrx61kCyws2vMRna)
 - :notebook_with_decorative_cover:
 [Mengenal EcmaScript 6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
 - :notebook_with_decorative_cover:
