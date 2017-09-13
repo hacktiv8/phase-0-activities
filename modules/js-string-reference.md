@@ -157,7 +157,7 @@ Mengembalikan string baru yang sudah dihapus karakter *whitespace* pada awal dan
 
 ```javascript
 var username    = ' administrator ';
-var newUsername = newUsername.trim(); // 'newUsername = 'administrator'
+var newUsername = username.trim(); // 'newUsername = 'administrator'
 ```
 
 **Semua contoh kode diatas dapat diakses [disini](http://jsbin.com/goleva/edit?js,console)**
