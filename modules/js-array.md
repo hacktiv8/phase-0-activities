@@ -72,8 +72,7 @@ animalsArray.shift();
 console.log(animalsArray);  // ["lion", "horse"]
 animalsArray.sort();
 console.log(animalsArray);  // ["horse", "lion"]
-animalsArray.join(" and ");
-console.log(animalsArray); // "horse and lion"
+console.log(animalsArray.join(" and ")); // "horse and lion"
 ```
 
 Beberapa fungsi dari array ada yang mengubah nilai dari array itu sendiri (sort, splice, push, pop, shift, unshift) atau mengembalikan array / nilai baru (). Jika kamu bertanya kenapa berbeda, akan dijelaskan di Week 5 tentang prinsip mutability dan immutability.
@@ -244,7 +243,7 @@ console.log(murid[1][1]); // 'SD 23 Beji''
 
 // array 2 dimensi dengan built-in functions
 arr2D.push([7,8]);        // arr2D = [ [1,2], [3,4], [5,6], [7,8] ]
-arr2D[1].push(0)          // arr2D = [ [1,2], [3,4,0], [5,6], [7,8] ]
-arr2D[0].pop();           // arr2D = [ [1], [3,4], [5,6], [7,8] ]
-arr2D[2].pop();           // arr2D = [ [1], [3,4], [5], [7,8] ]
+arr2D[1].push(0);         // arr2D = [ [1,2], [3,4,0], [5,6], [7,8] ]
+arr2D[0].pop();           // arr2D = [ [1], [3,4,0], [5,6], [7,8] ]
+arr2D[2].pop();           // arr2D = [ [1], [3,4,0], [5], [7,8] ]
 ```
