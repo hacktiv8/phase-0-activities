@@ -57,7 +57,9 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 1**] Codecademy Course - HTML CSS (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-html-css)
+[[**Exercises 1**] Codecademy Course - HTML (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-html)
+- :anchor:
+[[**Exercises 2**] Codecademy Course - CSS (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-css)
 - 💪
 [[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
@@ -111,7 +113,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercise 2**] - Website yang dihosting dengan Github Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
+[[**Exercise 3**] - Website yang dihosting dengan Github Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
 
 
 ## Sabtu dan Minggu
