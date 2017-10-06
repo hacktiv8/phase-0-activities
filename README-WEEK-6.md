@@ -23,6 +23,8 @@ Informasikan kepada instruktur kamu bisa hari apa dan ikut Sesi siang atau pagi.
 ## Rabu - EcmaScript 6
 Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga memberikan referensi melalui devdocs.io, sebuah web yang merupakan kurasi referensi sintaks yang sangat lengkap. Kami tidak memberikan ini di minggu-minggu sebelumnya, dengan tujuan supaya bisa fokus dengan materi yang diberikan, karena kami mengerti JavaScript sangat luas, namun ada beberapa hal fundamental yang ingin kami perkenalkan sebelum akhirnya masuk ke yang lebih advanced.
 
+- [Form Pengumpulan Tugas Week 6](https://airtable.com/shrAYbCLwcqdLEwtU)
+
 - :wrench:
 [Devdocs.io, referensi lengkap sintaks JavaScript](http://devdocs.io/javascript/)
 - :notebook_with_decorative_cover:
