@@ -35,7 +35,7 @@ Tugas :
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Miracle Fox/Batch 13)](https://airtable.com/shrl1LnWqLy74YoUp)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
 
 ## Selasa - Mengenal Perulangan atau Looping
 
@@ -58,7 +58,7 @@ Tugas :
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Miracle Fox/Batch 13)](https://airtable.com/shrl1LnWqLy74YoUp)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
 
 ## Rabu - Pseudocode, Functions, dan Scope
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
@@ -84,7 +84,7 @@ Tugas :
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Miracle Fox/Batch 13)](https://airtable.com/shrl1LnWqLy74YoUp)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
 
 ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
@@ -103,7 +103,7 @@ Tugas :
 
 Form pengumpulan tugas :
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Miracle Fox/Batch 13)](https://airtable.com/shrl1LnWqLy74YoUp)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
 
 ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
@@ -113,7 +113,7 @@ Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript d
 [[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 4 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Miracle Fox/Batch 13)](https://airtable.com/shrl1LnWqLy74YoUp)
+- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
 
 ## Sabtu dan Minggu
 
