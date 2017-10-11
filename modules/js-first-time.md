@@ -194,7 +194,7 @@ if(true) {
 }
 ```
 
-**Contoh Conditional 2** Tidak menjalan proses di dalam block/scope conditional apabila statement kondisi `false`.
+**Contoh Conditional 2** Tidak menjalankan proses di dalam block/scope conditional apabila statement kondisi `false`.
 
 ```javascript
 if(false) {

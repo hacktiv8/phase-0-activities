@@ -6,7 +6,7 @@
 
 ## Learnings
 
-Form pada HTML adalah satu dari banyak cara untuk berinteraksi di sebuath website atau web app dengan pengguna (users). Dengan cara ini, pengguna dapat memasukkan (input) beberapa teks atau data/informasi yang dibutuhkan oleh pemilik website, kemudian diproses atau diterima oleh form tersebut, yang pada akhirna dikirim ke server. Sering juga dapat menghasilkan keluaran (output) yang dihasilkan oleh server dan form secara bersamaan. Kadang data tesebut bisa diatur oleh form tanpa bantuan server.
+Form pada HTML adalah satu dari banyak cara untuk berinteraksi di sebuah website atau web app dengan pengguna (users). Dengan cara ini, pengguna dapat memasukkan (input) beberapa teks atau data/informasi yang dibutuhkan oleh pemilik website, kemudian diproses atau diterima oleh form tersebut, yang pada akhirnya dikirim ke server. Sering juga dapat menghasilkan keluaran (output) yang dihasilkan oleh server dan form secara bersamaan. Kadang data tesebut bisa diatur oleh form tanpa bantuan server.
 
 Form tidak dapat berdiri sendiri, butuh berbagai elemen penyusun yang bisa juga disebut widget; seperti text fields (satu atau beberapa baris), label, select box, button, radio button, checkbox, datalist, option dan lain sebagainya. Kebanyakan masukan/input memerlukan label agar lebih jelas data apa yang harus kita masukkan.
 
@@ -29,7 +29,7 @@ Ada beberapa elemen yang dapat bekerja dengan `form`:
     - datetime
     - button
   - `textarea`: beberapa baris text input
-  - `button`: tombol aksi (action button) yang bisa diklik, untuk menginformasikan melalukan sesuatu selanjutnya
+  - `button`: tombol aksi (action button) yang bisa diklik, untuk menginformasikan melakukan sesuatu selanjutnya
   - `select`: select box atau combo box, kolom untuk memilih satu atau lebih nilai (value) yang sudah didefinisikan
   - `datalist`: daftar dari data atau nilai yang telah diatur (list of preset data or values), biasanya juga untuk text field
   - `optgroup`: kumpulan pilihan (options)
@@ -75,8 +75,7 @@ Inilah beberapa contoh kode yang dapat membantu kamu membuat formulir kontak.
     <label for="programming">Your preferred programming languages?</label>
     <input type="text" name="programming" list="programmingLangs" />
     <datalist id="programmingLangs">
-      <label for="suggestion">or pick one</label>
-      <select id="suggestion" name="altProgrammingLangs">
+      <select name="altProgrammingLangs">
         <option value="javascript">JavaScript</option>
         <option value="java">Java</option>
         <option value="ruby">Ruby</option>
