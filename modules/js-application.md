@@ -23,11 +23,10 @@ Karena tugas kali ini merupakan hasil dari kreatifitas kamu dalam membuat progra
 Untuk program yang tidak error, minimal akan mendapatkan nilai 30.
 
 Untuk program yang melibatkan penggunaan:
-- Kondisional (if-else): mendapatkan nilai tambahan 5.
-- Looping (for/while): mendapatkan nilai tambahan 5.
+- Kondisional (if-else): mendapatkan nilai tambahan 10.
+- Looping (for/while): mendapatkan nilai tambahan 10.
 - Tipe data Array: mendapatkan nilai tambahan 10.
-- Function: mendapatkan nilai tambahan 10.
-- Tipe data Object: mendapatkan nilai tambahan 15.
+- Function: mendapatkan nilai tambahan 15.
 
 Kamu juga diminta untuk membuat pseudocode dari program yang kamu buat. Apabila program yang kamu buat sesuai dengan pseudocode yang diminta, kamu akan mendapat nilai tambahan 25.
 
