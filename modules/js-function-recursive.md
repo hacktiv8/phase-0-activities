@@ -75,21 +75,7 @@ Kamu bisa mencoba kode diatas [disini](http://jsbin.com/hacogo/edit?js,console).
 
 Tentu, kamu bisa menyelesaikan kasus di atas dengan looping. Namun, banyak kasus yang sangat membutuhkan rekursif, atau beberapa kasus akan menjadi lebih efisien dari segi jumlah baris kode apabila menggunakan kode rekursif.
 
-Dibawah ini ada dua contoh fungsi rekursif yang lebih advanced, kamu bisa coba dua contoh dibawah untuk memperkuat pemahaman kamu tentang rekursif!
-
-**Contoh Fungsi Rekursif Untuk Kasus Bilangan Fibonacci**
-
-```javascript
-// Fibonacci
-function fib(n) {
-  if (n == 0)
-    return 0;
-  if (n <= 2)
-    return 1;
-  return fib(n-1) + fib(n-2);
-}
-console.log(fib(8)) // 0, 1, 2, 3, 5, 8, 13, 21
-```
+Dibawah ini ada contoh fungsi rekursif yang lebih advanced, kamu bisa coba dua contoh dibawah untuk memperkuat pemahaman kamu tentang rekursif!
 
 **Contoh Fungsi Rekursif Untuk Kasus Perpangkatan**
 

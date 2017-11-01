@@ -6,7 +6,7 @@
 
 ## Learnings
 
-CSS secara harfiah berarti Lembar Penggayaan yang Mengalir ke Bawah. Oke, ternyata jika diterjemahkan malah membingungkan, mari hanya pedulikan bahasa Inggrisnya. CSS merupakan bahasa style sheet yang berguna untuk membantu menyajikan dokumen yang ditulis dengan HTML maupun XML bahkan SVG. CSS mengatur bagaimana elemen-elemen seharusnya ditampilkan di layar, di kertas, dan berbagai media lainnya. Hal-hal seperti warna, ukuan, posisi, dll (color, size, position, etc) dapat diatur oleh CSS. Tentu saja berarti CSS membutuhkan HTML agar dapat bekerja. Saat ini versi terbarunya adalah versi 3, secara resmi disebut CSS3.
+CSS secara harfiah berarti Lembar Penggayaan yang Mengalir ke Bawah. Oke, ternyata jika diterjemahkan malah membingungkan, mari hanya pedulikan bahasa Inggrisnya. CSS merupakan bahasa style sheet yang berguna untuk membantu menyajikan dokumen yang ditulis dengan HTML maupun XML bahkan SVG. CSS mengatur bagaimana elemen-elemen seharusnya ditampilkan di layar, di kertas, dan berbagai media lainnya. Hal-hal seperti warna, ukuran, posisi, dll (color, size, position, etc) dapat diatur oleh CSS. Tentu saja berarti CSS membutuhkan HTML agar dapat bekerja. Saat ini versi terbarunya adalah versi 3, secara resmi disebut CSS3.
 
 Sintaks atau cara penulisan CSS biasanya terlihat seperti ini:
 

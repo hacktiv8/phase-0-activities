@@ -16,7 +16,7 @@ Buatlah sebuah fungsi dengan nama **balikString**. Fungsi ini akan menerima argu
 ```javascript
 //input "hello world!"
 //output
-"!dlrow ,olleh"
+"!dlrow olleh"
 ```
 
 ### Hints
