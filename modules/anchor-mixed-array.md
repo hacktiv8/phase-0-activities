@@ -25,12 +25,13 @@ Array pada JavaScript memiliki sekumpulan *built-in function* yang digunakan unt
     - Gunakan `split` untuk memisahkan antara tanggal, bulan, dan tahun.
     - Format tanggal pada data adalah **dd-mm-YYYY**
     - Misal angka bulan 01, tuliskan "Januari"
+    - Gunakan `switch case` untuk menuliskan bulan di atas.
 
 - Pada array hasil `split` dari tanggal/bulan/tahun, lakukan *sorting* secara *descending* dan `console.log` array yang sudah di-sort.
 
 - Masih pada array hasil `split` dari elemen tanggal/bulan/tahun, gabungkan semua elemen menggunakan `join` dan pisahkan dengan karakter strip (-) lalu `console.log` hasilnya.
 
-- Nama (elemen ke-2), harus dibatasi sebanyak 15 karakter saja. Gunakan `slice` untuk menghapus kelebihan karakter dan `console.log` nama yang sudah di-slice.
+- Nama (elemen ke-2), harus dibatasi sebanyak 15 karakter saja. Gunakan `slice` untuk menghapus kelebihan karakter dan `console.log` nama yang sudah di-slice, sebelum di-slice pastikan Nama (elemen ke-2) sudah dalam bentuk `String` agar bisa di-slice.
 
 ### Test-case
 
