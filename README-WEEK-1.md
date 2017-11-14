@@ -38,7 +38,7 @@ Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi d
 
 Untuk mengumpulkan tugas, gunakan:
 
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Northern Fox/Batch 14)](https://airtable.com/shrSF6ZsPeCMVlXP4)
+- :pushpin: [Form Pengumpulan Tugas Week 1 (Oxford Fox/Batch 15)](https://airtable.com/shr1O9jr2bccLdIgU)
 
 Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
 
