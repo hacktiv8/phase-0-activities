@@ -6,11 +6,12 @@
 
 ## Directions
 
-Tugas ini sangat mirip dengan tugas [sebelumnya](./anchor-belajar-for.md), hanya saja untuk menyelesaikan tugas ini, *syntax* yang harus digunakan adalah `while`. Perhatikan *output* yang diinginkan dan implementasikan solusimu!
+Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax for. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk membuat suatu looping yang menghitung maju dan menghitung mundur. Jangan lupa tampilkan di console juga judul 'LOOPING PERTAMA' dan 'LOOPING KEDUA'.
 
 ## Output
 
 ```
+LOOPING PERTAMA
 2 - I love coding
 4 - I love coding
 6 - I love coding
@@ -21,6 +22,7 @@ Tugas ini sangat mirip dengan tugas [sebelumnya](./anchor-belajar-for.md), hanya
 16 - I love coding
 18 - I love coding
 20 - I love coding
+LOOPING KEDUA
 20 - I will become fullstack developer
 18 - I will become fullstack developer                                                                              
 16 - I will become fullstack developer
