@@ -1,10 +1,10 @@
-#Menghias Laman HTML dengan CSS
+# Menghias Laman HTML dengan CSS
 
-##Objectives
+## Objectives
 
 Dengan menggunakan CSS kamu dapat menghias halaman HTML. Pada latihan kali ini, kamu telah diberikan file CSS. Kamu diminta untuk membuat id atau class yang menjadi selector yang tepat di HTML!
 
-##Directions
+## Directions
 
 ### 1. Membuat File HTML
 
