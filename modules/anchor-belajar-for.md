@@ -17,6 +17,7 @@ Pada tugas ini kamu diminta untuk melakukan *looping* dalam JavaScript dengan me
 ## Output
 
 ```
+LOOPING PERTAMA
 1 - I love coding
 2 - I love coding
 3 - I love coding
@@ -37,6 +38,7 @@ Pada tugas ini kamu diminta untuk melakukan *looping* dalam JavaScript dengan me
 18 - I love coding
 19 - I love coding
 20 - I love coding
+LOOPING KEDUA
 20 - I will become fullstack developer
 19 - I will become fullstack developer
 18 - I will become fullstack developer
