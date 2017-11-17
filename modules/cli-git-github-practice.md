@@ -19,7 +19,7 @@ Melatih penggunaan dasar command line serta Git dan GitHub lebih jauh akan memud
 
 - ▢ [Buatlah repositori GitHub baru](https://github.com/new) bernama sama dengan repositori di local. Kemudian langsung `Create repository`.
 - ▢ Bacalah petunjuk yang ada pada halaman utama repositori kosong tersebut.
-  - ▢ Add remote dengan `git remote add origin [GIT SSH URL]`
+  - ▢ Add remote dengan `git remote add origin [GIT HTTPS URL]`
   - ▢ Kirim semua perubahan dengan `git push -u origin master`
 - ▢ Ubah isi file yang ada di GitHub langsung di web-nya, kemudian commit.
 - ▢ Dapatkan perubahan yang ada ke local dengan `git pull origin master`.
