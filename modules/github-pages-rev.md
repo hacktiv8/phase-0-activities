@@ -21,8 +21,8 @@ Seperti yang telah kamu pelajari, repositori bersifat distributif, yang berarti 
 
 - Di komputermu, bukalah terminal atau command prompt.
 - Pindah ke direktori di mana kamu akan menaruh semua repositori. (contoh: `cd Documents/hacktiv8/phase-0/week-1`)
-- Copy `GIT SSH URL` dari halaman depan repositori. (`https://github.com/[USERNAME]/[USERNAME].github.io`)
-- Lakukan `git clone [GIT SSH URL]`. (`git clone git@github.com:[USERNAME]/[USERNAME].github.io.git`)
+- Copy `GIT HTTPS URL` dari halaman depan repositori. (`https://github.com/[USERNAME]/[USERNAME].github.io`)
+- Lakukan `git clone [GIT SSH URL]`. (`git clone https://github.com/[USERNAME]/[USERNAME].github.io.git`)
 - Pindah ke direktori hasil clone tersebut. (`cd [USERNAME].github.io`)
 
 ### 3. Membuat halaman website sederhana
