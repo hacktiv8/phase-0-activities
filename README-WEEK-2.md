@@ -35,10 +35,6 @@ Tugas :
 - :anchor:
 [[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 
-Form pengumpulan tugas :
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
-
 ## Selasa - Mengenal Perulangan atau Looping
 
 Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebagai looping atau iteration.
