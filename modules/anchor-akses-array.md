@@ -20,4 +20,4 @@ Buatlah sebuah fungsi dengan nama **balikString**. Fungsi ini akan menerima argu
 ```
 
 ### Hints
-Untuk membantumu mengerjakan tantangan ini, gunakanlah properti `length` pada sebuah array yang akan memberikan panjang dari array-nya. Ingat, indeks sebuah array pada JavaScript dimulai dari 0. *Untuk tugas ini, kamu wajib menggunakan looping!*
+Untuk membantumu mengerjakan tantangan ini, gunakanlah properti `length` pada sebuah array yang akan memberikan panjang dari array-nya. Ingat, indeks sebuah array pada JavaScript dimulai dari 0. **Untuk tugas ini, kamu wajib menggunakan looping!**
