@@ -34,6 +34,6 @@ Note: Disarankan membuat pseudocode sebelum membuat program nya.
 
 ## Submissions
 
-- ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo kamu. Cukup dengan CLI saja, tidak perlu HTML dan CSS. Tapi boleh juga lengkap HTML+CSS+JS jika sanggup.
+- ▢ Buatlah program tersebut dalam suatu file misalnya `myapp.js` atau `mygame.js` pada repo kamu, dan `pseudocode.md` untuk pseudocode-nya. Cukup dengan CLI/terminal/Repl/JSBin saja, tidak perlu HTML dan CSS..
 - ▢ Commit dan push file tersebut ke GitHub.
 - ▢ Kirimkan link ke form pengumpulan tugas.
