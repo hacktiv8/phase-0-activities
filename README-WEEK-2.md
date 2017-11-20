@@ -24,6 +24,8 @@ Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Conditional dan Branching](modules/js-first-time.md#conditional)
 
+- :pushpin: [Form Pengumpulan Tugas Batch 15](https://airtable.com/shrmEdIyzja65Jxcm)
+
 Tugas :
 
 - :anchor:
@@ -56,10 +58,6 @@ Tugas :
 - :rocket:
 [[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
-Form pengumpulan tugas :
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
-
 ## Rabu - Pseudocode, Functions, dan Scope
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
@@ -82,10 +80,6 @@ Tugas :
 - :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
 - :rocket: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
-Form pengumpulan tugas :
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
-
 ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
@@ -101,10 +95,6 @@ Tugas :
 - :anchor: [[**Exercises 13**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
 - :anchor: [[**Exercises 14**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
 
-Form pengumpulan tugas :
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
-
 ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
@@ -112,8 +102,6 @@ Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript d
 - :anchor:
 [[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 4 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
-
-- :pushpin: [Form Pengumpulan Tugas Week 2 (Northern Fox/Batch 14)](https://airtable.com/shrDOUtr6KkviMHIw)
 
 ## Sabtu dan Minggu
 
