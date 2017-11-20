@@ -5,6 +5,8 @@
 Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan berkenalan dengan JavaScript,
 dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini, kamu akan bertemu dengan sangat banyak kode dan istilah yang digunakan dalam pemrograman atau khususnya pada JavaScript.
 
+- :pushpin: [Form Pengumpulan Tugas Batch 15](https://airtable.com/shrmEdIyzja65Jxcm)
+
 ![Let's start!](assets/start.png)
 
 ## Senin - Dunia JavaScript
@@ -23,8 +25,6 @@ Materi & Referensi :
 [Mengenal Berbagai Jenis Operasi dalam JavaScript](modules/js-first-time.md#operator)
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Conditional dan Branching](modules/js-first-time.md#conditional)
-
-- :pushpin: [Form Pengumpulan Tugas Batch 15](https://airtable.com/shrmEdIyzja65Jxcm)
 
 Tugas :
 
