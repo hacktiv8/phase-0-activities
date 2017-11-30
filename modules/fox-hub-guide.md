@@ -26,7 +26,7 @@ maka passwordnya adalah: adhywiranataadhy
 
 ![Demo Dashboard](/assets/demo-foxhub-dashboard.png)
 
-3. Setelah login, pastikan telah mengganti password dengan masuk ke Profile > Change Password.
+3. Setelah login, pastikan telah mengganti password dengan masuk ke halaman My **Profile**, bagian Change Password.
 
 ![Demo Profile](/assets/demo-foxhub-profile.png)
 
@@ -34,7 +34,7 @@ maka passwordnya adalah: adhywiranataadhy
 
 ### Task Submissions
 
-1. Untuk mengumpulkan tugas, masuk ke page *Submit Task*.
+1. Untuk mengumpulkan tugas, masuk ke page **Submit Task**.
 
 ![Demo Dashboard](/assets/demo-foxhub-dashboard.png)
 
@@ -51,13 +51,15 @@ maka passwordnya adalah: adhywiranataadhy
 ![Demo Manual](/assets/demo-foxhub-manual.png)
 
 
-5. Untuk tugas Automated, pastikan minimal mendapatkan score 80%. *WARNING: HANYA PASTE CODE FUNCTION NYA SAJA DI DALAM AUTOMATED TESTER.*
+5. Untuk tugas Automated, pastikan minimal mendapatkan score 80%. **WARNING: HANYA PASTE CODE FUNCTION NYA SAJA DI DALAM AUTOMATED TESTER.**
 
 ![Demo Auto](/assets/demo-foxhub-auto.png)
 
+![Demo Tester](/assets/demo-foxhub-test-cases.png)
+
 ### Submissions and Scoring
 
-1. Untuk mengecek setiap tugas yang sudah disubmit, dapat masuk ke page *My Submitted Tasks*.
+1. Untuk mengecek setiap tugas yang sudah disubmit, dapat masuk ke page **My Submitted Tasks**.
 
 ![Demo Dashboard](/assets/demo-foxhub-dashboard.png)
 
@@ -65,7 +67,7 @@ maka passwordnya adalah: adhywiranataadhy
 
 ![Demo Dashboard](/assets/demo-foxhub-my-submissions.png)
 
-3. Untuk mengetahui performa dari keseluruhan fase 0, bisa masuk ke page *My Phase 0 Scores* untuk mendapatkan detail dari tugas masing-masing.
+3. Untuk mengetahui performa dari keseluruhan fase 0, bisa masuk ke page **My Phase 0 Scores** untuk mendapatkan detail dari tugas masing-masing.
 
 ![Demo Dashboard](/assets/demo-foxhub-my-scores.png)
 
