@@ -13,7 +13,9 @@ Cara Penggunaan:
 1. Login menggunakan email yang digunakan untuk mendaftar hacktiv8 dan password. Password menggunakan format [ NAMA ][ NAMA EMAIL ].
 
 Contoh:
+
 nama yang digunakan untuk mendaftar di website Hacktiv8: Adhy Wiranata
+
 email yang digunakan untuk mendaftar di website Hacktiv8: adhy@gmail.com
 
 maka passwordnya adalah: adhywiranataadhy
