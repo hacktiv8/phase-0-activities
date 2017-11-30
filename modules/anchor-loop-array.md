@@ -9,7 +9,7 @@ Sering kali data yang diterima dari database adalah array yang multidimensi (arr
 
 ## Directions
 
-Buatlah sebuah fungsi dengan nama `dataHandling` dengan sebuah parameter untuk menerima argumen. Argumen yang akan diterima adalah sebuah array yang berisi beberapa array sejumlah **n** dengan format yang sama, dimana 1 <= **n** <= 99999. Contoh input dapat dilihat dibawah:
+Buatlah sebuah fungsi dengan nama `dataHandling` dengan sebuah parameter untuk menerima argumen. Argumen yang akan diterima adalah sebuah array yang berisi beberapa array sejumlah **n**. Contoh input dapat dilihat dibawah:
 
 ```javascript
 //contoh input
