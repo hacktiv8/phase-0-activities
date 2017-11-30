@@ -8,6 +8,8 @@ HACKTIV8 Fox Hub (Beta) adalah platform yang digunakan untuk melakukan pengumpul
 
 Cara Penggunaan:
 
+### Login and Password Settings
+
 1. Login menggunakan email yang digunakan untuk mendaftar hacktiv8 dan password.
 
 ![Demo Login](/assets/demo-foxhub-login.png)
@@ -18,9 +20,33 @@ Cara Penggunaan:
 
 3. Setelah login, pastikan telah mengganti password dengan masuk ke Profile > Change Password.
 
-![Demo Login](/assets/demo-foxhub-profile.png)
+![Demo Profile](/assets/demo-foxhub-profile.png)
 
-![Demo Login](/assets/demo-foxhub-change-password.png)
+![Demo Change Password](/assets/demo-foxhub-change-password.png)
+
+### Task Submissions
+
+1. Untuk mengumpulkan tugas, masuk ke page "Submit Task".
+
+![Demo Dashboard](/assets/demo-foxhub-dashboard.png)
+
+2. Pilih Task yang akan di submit melalui dropdown menu.
+
+![Demo Task](/assets/demo-foxhub-task-page.png)
+
+3. Akan ada dua tipe tugas, Manual dan Automated. Untuk tugas Manual (Week 1 - 2, 5 - 6) hanya bisa mengumpulkan link. Gunakan repl/jsbin/dropbox/google drive dengan sesuai. Untuk tugas Automated (Week 3 - 4) hanya bisa menuliskan kode JavaScript yang akan di test secara otomatis dan langsung mengeluarkan nilainya.
+
+![Demo Task](/assets/demo-foxhub-submit-task.png)
+
+4. Untuk tugas Manual, pastikan link nya dapat dibuka.
+
+![Demo Manual](/assets/demo-foxhub-manual.png)
+
+
+5. Untuk tugas Automated, pastikan minimal mendapatkan score 80%.
+
+![Demo Auto](/assets/demo-foxhub-auto.png)
+
 
 **Berikut adalah demo proses penggunaan tool:**
 
