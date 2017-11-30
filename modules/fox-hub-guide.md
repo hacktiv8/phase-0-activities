@@ -10,7 +10,13 @@ Cara Penggunaan:
 
 ### Login and Password Settings
 
-1. Login menggunakan email yang digunakan untuk mendaftar hacktiv8 dan password.
+1. Login menggunakan email yang digunakan untuk mendaftar hacktiv8 dan password. Password menggunakan format [ NAMA ][ NAMA EMAIL ].
+
+Contoh:
+nama yang digunakan untuk mendaftar di website Hacktiv8: Adhy Wiranata
+email yang digunakan untuk mendaftar di website Hacktiv8: adhy@gmail.com
+
+maka passwordnya adalah: adhywiranataadhy
 
 ![Demo Login](/assets/demo-foxhub-login.png)
 
@@ -26,7 +32,7 @@ Cara Penggunaan:
 
 ### Task Submissions
 
-1. Untuk mengumpulkan tugas, masuk ke page "Submit Task".
+1. Untuk mengumpulkan tugas, masuk ke page *Submit Task*.
 
 ![Demo Dashboard](/assets/demo-foxhub-dashboard.png)
 
@@ -43,21 +49,25 @@ Cara Penggunaan:
 ![Demo Manual](/assets/demo-foxhub-manual.png)
 
 
-5. Untuk tugas Automated, pastikan minimal mendapatkan score 80%.
+5. Untuk tugas Automated, pastikan minimal mendapatkan score 80%. *WARNING: HANYA PASTE CODE FUNCTION NYA SAJA DI DALAM AUTOMATED TESTER.*
 
 ![Demo Auto](/assets/demo-foxhub-auto.png)
 
+### Submissions and Scoring
 
-**Berikut adalah demo proses penggunaan tool:**
+1. Untuk mengecek setiap tugas yang sudah disubmit, dapat masuk ke page *My Submitted Tasks*.
 
-![Demo](/assets/h8-challenge-checker-demo.gif)
+![Demo Dashboard](/assets/demo-foxhub-dashboard.png)
 
-## Pengecekan Histori Nilai
+2. Ada dua macam pembagian task, yaitu task yang sudah diperiksa dan yang belum. Student dapat memastikan apakah sudah mengumpulkan atau belum melalui halaman ini.
 
-Untuk mengecek apakah nilai sudah aman serta melihat histori nilai, kamu dapat membuka link berikut:
+![Demo Dashboard](/assets/demo-foxhub-my-submissions.png)
 
-[HACKTIV8 Score Dashboard](https://teaching-data.firebaseapp.com/dashboard.html)
+3. Untuk mengetahui performa dari keseluruhan fase 0, bisa masuk ke page *My Phase 0 Scores* untuk mendapatkan detail dari tugas masing-masing.
+
+![Demo Dashboard](/assets/demo-foxhub-my-scores.png)
+
 
 ## Kesulitan dan Isu Lainnya
 
-Apabila ada masalah dalam penggunakan Hacktiv8 Challenge Checker, segera hubungi instruktur phase 0.
+Apabila ada masalah dalam penggunakan Hacktiv8 FoxHub, segera hubungi instruktur phase 0.
