@@ -51,9 +51,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 1**] Codecademy Course - HTML (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-html)
-- :anchor:
-[[**Exercises 2**] Codecademy Course - CSS (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-css)
+[[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 - 💪
 [[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
@@ -65,6 +63,8 @@ Materi & Referensi :
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
 Tugas :
+- :anchor:
+[[**Exercises 2**] Codecademy Course - CSS](https://www.codecademy.com/learn/learn-css)
 - 💪
 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
