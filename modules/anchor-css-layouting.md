@@ -1,10 +1,10 @@
-#Menghias Laman HTML dengan CSS Layouting
+# Menghias Laman HTML dengan CSS Layouting
 
-##Objectives
+## Objectives
 
 Dengan menggunakan CSS kamu dapat membuat layout serta menghias halaman HTML yang sebelumnya sudah dibuat menjadi lebih bagus. Kali ini kamu ditantang untuk membuat layout web blog sederhana!
 
-##Directions
+## Directions
 
 ### 1. Membuat File HTML
 
