@@ -51,7 +51,7 @@ Tugas :
 - :anchor: [[**Exercises 4**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
 - :anchor:
 [[**Exercises 5**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
-- :rocket:
+- :anchor:
 [[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
 ## Rabu - Pseudocode, Functions, dan Scope
@@ -74,7 +74,7 @@ Tugas :
 [[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
 - :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
 - :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
-- :rocket: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
+- :anchor: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.

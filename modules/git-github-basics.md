@@ -40,11 +40,7 @@ Kini kamu akan melalukan instalasi dan konfigurasi Git di komputermu, mampu menj
 
 Jika nanti kamu melihat `[USERNAME]`, artinya perlu diganti dengan username-kamu. Misalnya username kamu adalah `andiruben`, berarti `github.com/[USERNAME]` menjadi `github.com/andiruben`.
 
-### 3. Beritahu profil GitHub kamu
-
-- ▢ Kirimlah pesan di grup Slack yang memberi tahu kamu sudah punya profil GitHub dengan URL `https://github.com/[USERNAME]`
-
-### 4. Pelajari manfaat Git dan GitHub
+### 3. Pelajari manfaat Git dan GitHub
 
 Kamu bisa memilih manapun media dan sumber yang kamu mau. Yang penting adalah kamu paham mengapa menggunakan, bagaimana cara pakai, dan apa saja terkait VCS/SCM serta Git dan GitHub.
 

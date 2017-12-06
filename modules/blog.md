@@ -14,14 +14,7 @@ Setiap blog post bertujuan untuk:
 
 ## Directions
 
-### 1. Buat blog kamu (jika belum)
-
-- ▢ Mempersiapkan website untuk blog atau mendaftar sebuah akun blog jika belum.
-- ▢ Sertakan link blog tersebut di halaman GitHub Pages atau website yang telah kamu buat.
-- ▢ Taruh link blog kamu di profil GitHub. Kunjungi <https://github.com/settings/profile> lalu isi URL blog kamu dan "Update profile" kamu.
-
-**Catatan:** Jika kamu menggunakan website pribadi, buatlah template blog post yang akan kamu gunakan berkali-kali. Misalnya `YYYY-MM-DD_template.html` atau `template.html`, dengan `blog.css` dan `blog.js`.
-
+### 1. Buat blog kamu menggunakan Web yang telah dibuat di tugas sebelumnya
 ### 2. Buat blog post
 
 - ▢ Rangkumlah bahan topik yang sudah dipelajari. Mengenai mengapa menggunakan, bagaimana cara pakainya, dan apa saja hal-hal tersebut. Tunjukkan contoh code dan screenshot jika ada.

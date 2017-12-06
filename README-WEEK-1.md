@@ -34,13 +34,7 @@ Panduan:
 
 **Pengumpulan Tugas dan Sistem Feedback**
 
-Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya. Namun, untuk deadline sendiri, kami memperbolehkan tugas agar dikumpulkan di akhir minggu di hari minggu. Kami merekomendasikan untuk mengumpulkan tugas dalam bentuk harian, karena akan mempercepat tim instruktur untuk mengkoreksi dan memberikan feedback.
-
-Untuk mengumpulkan tugas, gunakan:
-
-- :pushpin: [Form Pengumpulan Tugas Week 1 (Oxford Fox/Batch 15)](https://airtable.com/shr1O9jr2bccLdIgU)
-
-Sistem feedback dari tugas merupakan sistem yang akan memberikan masukan apabila tugas yang diberikan tidak tepat atau perlu diperbaiki. Pengumpulan yang dilakukan harian akan memudahkan pemberian feedback terhadap tugas yang dikumpulkan.
+Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya. Namun, untuk deadline sendiri, kami memperbolehkan tugas agar dikumpulkan di akhir minggu di hari minggu. Kami merekomendasikan untuk mengumpulkan tugas dalam bentuk harian, karena akan mempercepat tim instruktur untuk mengkoreksi dan memberikan feedback. Gunakan Platform HACKTIV8 FoxHub untuk melakukan pengumpulan tugas.
 
 ## Senin - Hari Pertamamu di HACKTIV8 Phase 0
 Hari pertamamu akan dimulai dengan memperkenalkan dirimu kepada teman-teman lainnya di Slack Group, dan
@@ -57,9 +51,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 1**] Codecademy Course - HTML (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-html)
-- :anchor:
-[[**Exercises 2**] Codecademy Course - CSS (Dikerjakan hingga akhir hari jumat)](https://www.codecademy.com/learn/learn-css)
+[[**Exercises 1**] Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 - 💪
 [[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
@@ -71,6 +63,8 @@ Materi & Referensi :
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
 Tugas :
+- :anchor:
+[[**Exercises 2**] Codecademy Course - CSS](https://www.codecademy.com/learn/learn-css)
 - 💪
 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 
@@ -106,19 +100,10 @@ Materi & Referensi :
 [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-dev-process.md)
 - :notebook_with_decorative_cover:
 [Mengenal adaptive web design dan responsive web design (RWB)](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-design.md)
-- :books:
-[Mengevaluasi tampilan dan experience sebuah website](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/web-evaluation.md)
-- :books:
-[Mempelajari dan menggunakan teknik wireframing](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/wireframing.md)
 
 Tugas :
 - :anchor:
 [[**Exercise 3**] - Website yang dihosting dengan Github Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
-
-
-## Sabtu dan Minggu
-
--  [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
 -  [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.

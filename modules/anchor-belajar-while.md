@@ -1,4 +1,4 @@
-# 6. Melakukan *Looping* Menggunakan `While`
+# Melakukan *Looping* Menggunakan `While`
 
 ## Objectives
 

@@ -1,4 +1,4 @@
-# 5. Melakukan *Looping* Menggunakan `For`
+# Melakukan *Looping* Menggunakan `For`
 
 ## Objectives
 
