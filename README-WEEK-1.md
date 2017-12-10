@@ -67,7 +67,7 @@ Tugas :
 - 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 - 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
-## Rabu dan Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
+## Rabu dan Kamis - Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
 perkaya website kamu dengan gambar dan tabel. Dan hari ini, kamu juga akan berkenalan dengan Git, sebuah
 tool untuk mengendalikan revisi dari kode yang telah kamu buat. Dengan menyelesaikan hari ini, berarti kamu
