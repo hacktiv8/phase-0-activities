@@ -63,10 +63,9 @@ Materi & Referensi :
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
 Tugas :
-- :anchor:
-[[**Exercises 2**] Codecademy Course - CSS](https://www.codecademy.com/learn/learn-css)
-- 💪
-[[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
+- :anchor: [[**Exercises 2**] Codecademy Course - CSS](https://www.codecademy.com/learn/learn-css)
+- 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
+- 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
 ## Rabu dan Kamis - Layouting dengan HTML dan CSS , serta Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -83,8 +82,6 @@ Materi & Referensi :
 
 Tugas :
 
-- 💪
-[[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 - 💪
 [[**Latihan Pribadi 4**] Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - 💪
