@@ -4,10 +4,6 @@
 
 Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu apakah kamu dapat maju ke Phase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
 
-**Apa bedanya Phase 0 dengan online course biasa yang gratis?**
-
-Kami sudah merancang sedemikian rupa alur dan poinnya untuk dapat diikuti namun tetap bersifat open-ended path, bisa belajar dari berbagai sumber. Hingga pada saat selesai, kamu sudah punya pondasi yang lebih kuat saat masuk Phase 1, dalam sesi on-site course yang tentunya sangat immersive! Karena biasanya juga, online course yang gratis pedomannya seringkali alurnya masih nanggung. Selain itu di Phase 0 kamu mendapat dukungan dan bimbingan dari para instruktur jika butuh bantuan, baik online maupun langsung di tempat jika kamu ingin datang saat office hour.
-
 **Bagaimana Phase 0 ini akan berjalan?**
 
 Dalam tahap ini, tiap pekan bisa diselesaikan dalam waktu paling cepat 20-30 jam. Pun kalau kamu sudah bisa berbagai skill yang sudah tertera, bisa saja juga ada beberapa hal esensial dan tambahan yang belum kamu tahu. Tiap akhir pekan, kamu harus mengisi form laporan kegiatan yang link-nya disertakan di bawah.
@@ -25,7 +21,6 @@ Berikut berbagai modul kegiatan inti yang dapat kamu lihat, baca, tonton, lakuka
 Catatan: Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup [Slack](https://slack.com/).
 
 Panduan:
-- :pushpin: **Pin** adalah link yang digunakan untuk mengumpulkan tugas mingguan
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan
 - 💪 **Self Training** adalah tugas atau tantangan opsional yang walau tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
