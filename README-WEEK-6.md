@@ -10,7 +10,7 @@ Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paha
 ![Let's start!](assets/start.png)
 
 ## Senin - Selasa: Final Live Coding (Offline).
-Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, 5, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding. Berbeda dengan Live Coding sebelumnya, Final Live Coding ini wajib dilakukan Offline.
+Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding. Berbeda dengan Live Coding sebelumnya, Final Live Coding ini wajib dilakukan Offline.
 
 Artinya kamu harus datang ke Hacktiv8 untuk mengikuti nya. Pilih hari yang kamu bisa antara hari Senin atau Selasa. Dihari itu ada 2 Sesi yang bisa kamu pilih Jam nya.
 
