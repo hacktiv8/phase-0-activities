@@ -27,6 +27,10 @@ Panduan:
 - :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
 - :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
 
+**HACKTIV8 FoxHub, Platform Pengumpulan Tugas**
+
+- [FoxHub Guide](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/fox-hub-guide.md)
+
 **Pengumpulan Tugas dan Sistem Feedback**
 
 Tugas mingguan dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya. Namun, untuk deadline sendiri, kami memperbolehkan tugas agar dikumpulkan di akhir minggu di hari minggu. Kami merekomendasikan untuk mengumpulkan tugas dalam bentuk harian, karena akan mempercepat tim instruktur untuk mengkoreksi dan memberikan feedback. Gunakan Platform HACKTIV8 FoxHub untuk melakukan pengumpulan tugas.
