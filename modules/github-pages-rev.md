@@ -42,9 +42,9 @@ Cek kembali `https://github.com/[USERNAME]/[USERNAME].github.io`, kamu dapat mel
 
 - Share hasilnya di grup Slack yang memberi tahu kamu sudah punya website dengan URL `http://[USERNAME].github.io`
 
-### 5. (Opsional) Generator
+### 5. Submit di FoxHub
 
-Kamu bisa saja men-generate halaman website pada repositori dengan "Automatic Page Generator" yang terdapat di settings-nya. ( `https://github.com/[USERNAME]/[USERNAME].github.io/settings`). Di situ kamu bisa mengubah konten, memilih tema, kemudian mempublikasikannya
+- Submit tugas di platform FoxHub dalam bentuk link menuju github repositori. Contoh: `https://github.com/adhywiranata/adhywiranata.github.io`.
 
 ## References
 
