@@ -2,7 +2,7 @@
 
 ## Objective
 
-- Mengenal Fungsi `branch` pada 
+- Mengenal Fungsi `branch` pada git
 
 ## Directions
 
