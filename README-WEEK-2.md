@@ -7,6 +7,10 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 
 ![Let's start!](assets/start.png)
 
+## Metode Pengumpulan Tugas
+
+Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama h8-p0-w2. Untuk setiap satu tugas, buatlah file .js untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama exercise-1.js dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke dalam foxhub. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
+
 ## Senin - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
@@ -14,7 +18,7 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 Materi & Referensi :
 
 - :wrench:
-[JSBin, tools online untuk menjalankan JavaScript](http://jsbin.com/?js,console)
+[Repl, tools online untuk menjalankan JavaScript](repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
 [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-first-time.md)
 - :notebook_with_decorative_cover:
