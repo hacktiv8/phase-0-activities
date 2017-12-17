@@ -18,7 +18,7 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 Materi & Referensi :
 
 - :wrench:
-[Repl, tools online untuk menjalankan JavaScript](repl.it/languages/javascript)
+[Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
 [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-first-time.md)
 - :notebook_with_decorative_cover:
