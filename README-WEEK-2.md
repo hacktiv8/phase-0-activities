@@ -1,3 +1,4 @@
+Material Valid for FullStack Immersive Batch 15 and Batch 16
 # Hacktiv8 Phase 0 Week 2: The World of JavaScript
 
 ![Header](assets/header-w2.jpg)
