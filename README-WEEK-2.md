@@ -99,7 +99,7 @@ Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript d
 
 
 - :anchor:
-[[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 4 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 6 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
 
 ## Sabtu dan Minggu
