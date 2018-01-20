@@ -19,6 +19,7 @@ Buatlah function yang akan mengembalikan sebuah object dimana object tersebut be
 
 
 Contoh jika inputan adalah '324193hDew2', 700000
+
 maka output:
 { memberId: '324193hDew2',
   money: 700000,
