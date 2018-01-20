@@ -18,7 +18,7 @@ Sesi Siang : 15.00 WIB - 16.00 WIB
 ## Selasa - Array Multidimensi Review & Object Literal
 - :notebook_with_decorative_cover:
 [Materi Object Literal](/modules/js-object-literal.md)
-- :anchor: [[**Exercies 1**] Baris berbaris] (modules/challenge-berbaris.md)
+- :anchor: [[**Exercies 1**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
 - :anchor: [[**Exercises 2**] Object Literal]
 - :anchor: [[**Exercises 3**] Object of Array]
 - :anchor: [[**Exercises 4**] Array of Object]
