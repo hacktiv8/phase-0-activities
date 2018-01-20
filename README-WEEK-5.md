@@ -20,7 +20,7 @@ Sesi Siang : 15.00 WIB - 16.00 WIB
 [Materi Object Literal](/modules/js-object-literal.md)
 - :anchor: [[**Exercies 1**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
 - :anchor: [[**Exercises 2**] Change me](modules/challenge-object-literal.md)
-- :anchor: [[**Exercises 3**] Object of Array]
+- :anchor: [[**Exercises 3**] Shopping Time!](modules/challenge-shopping-time.md)
 - :anchor: [[**Exercises 4**] Array of Object]
 
 
