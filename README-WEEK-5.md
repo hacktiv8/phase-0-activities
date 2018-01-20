@@ -21,7 +21,7 @@ Sesi Siang : 15.00 WIB - 16.00 WIB
 - :anchor: [[**Exercies 1**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
 - :anchor: [[**Exercises 2**] Change me](modules/challenge-object-literal.md)
 - :anchor: [[**Exercises 3**] Shopping Time!](modules/challenge-shopping-time.md)
-- :anchor: [[**Exercises 4**] Toko X](modules/challenge-toko-X.md)
+- :anchor: [[**Exercises 4**] Toko X](modules/challenge-toko-x.md)
 
 
 ## Rabu - Recursive Functions
