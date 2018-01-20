@@ -23,7 +23,7 @@ function changeMe(arr) {
 }
 
 // TEST CASES
-console.log(changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']])); // 1. Christ Evans:
+changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); // 1. Christ Evans:
 // { firstName: 'Christ',
 //   lastName: 'Evans',
 //   gender: 'Male',
@@ -33,5 +33,5 @@ console.log(changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'M
 //   lastName: 'Downey',
 //   gender: 'Male',
 //   age: 'Invalid Birth Year' }
-console.log(changeMe([])); // ""
+changeMe([]); // ""
 ```
