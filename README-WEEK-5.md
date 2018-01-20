@@ -32,7 +32,7 @@ Sesi Siang : 15.00 WIB - 16.00 WIB
 [Review Materi Rekursif](/modules/js-function-recursive.md)
 - :anchor: [[**Exercises 5**] Total Digit Rekursif](/modules/challenge-total-digit.md)
 - :anchor: [[**Exercises 6**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
-- :anchor: [[**Exercises 7**] ]
+- :anchor: [[**Exercises 7**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
 
 
 ## Kamis - Regex
