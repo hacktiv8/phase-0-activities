@@ -9,7 +9,9 @@ Diberikan sebuah function makanTerusRekursif(waktu) yang menerima satu parameter
 Contoh:
 
 45 => 3
+
 100 => 7
+
 10 => 1
 
 ## Code
