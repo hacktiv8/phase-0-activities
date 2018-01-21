@@ -2,7 +2,7 @@
 
 ![Header](assets/header-w4.jpg)
 
-Selamat sudah melalui kegiatan pekan kelima! Setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan berlatih tentang konsep Rekursif, Regex, serta Object Oriented Programming di JavaScript.
+Selamat sudah melalui kegiatan pekan kelima! Setelah tiga minggu penuh bermain dengan console dan logika, minggu ini kita akan berlatih tentang konsep Rekursif, Regex, serta tipe data Object di JavaScript.
 
 ![Let's start!](assets/start.png)
 
