@@ -22,7 +22,7 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 ## Rabu - Recursive Functions
 - :notebook_with_decorative_cover:
 [Review Materi Rekursif](/modules/js-function-recursive.md)
-- :anchor: [[**Exercises 5**] Total Digit Rekursif(/modules/challenge-total-digit.md)
+- :anchor: [[**Exercises 5**] Total Digit Rekursif](/modules/challenge-total-digit.md)
 - :anchor: [[**Exercises 6**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
 - :anchor: [[**Exercises 7**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
 
