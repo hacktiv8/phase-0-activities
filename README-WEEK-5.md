@@ -43,8 +43,6 @@ Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu aka
 - :notebook_with_decorative_cover:
 [Membuat DOM](/modules/js-dom-creation.md)
 - :notebook_with_decorative_cover:
-[Mengenal DOM di DevTools](/modules/js-dom-devtools.md)
-- :notebook_with_decorative_cover:
 [Menjelajah DOM](/modules/js-dom-transversing.md)
 
 ## Sabtu dan Minggu
