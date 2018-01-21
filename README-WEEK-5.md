@@ -38,6 +38,15 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 ## Jumat - Document Object Model (DOM)
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
 
+- :notebook_with_decorative_cover:
+[Mengenal DOM](/modules/js-dom-intro.md)
+- :notebook_with_decorative_cover:
+[Membuat DOM](/modules/js-dom-creation.md)
+- :notebook_with_decorative_cover:
+[Mengenal DOM di DevTools](/modules/js-dom-devtools.md)
+- :notebook_with_decorative_cover:
+[Menjelajah DOM](/modules/js-dom-transversing.md)
+
 ## Sabtu dan Minggu
 
 - [Refleksi kegiatan pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/reflection.md)
