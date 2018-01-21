@@ -10,49 +10,33 @@ Selamat sudah melalui kegiatan pekan kelima! Setelah tiga minggu penuh bermain d
 
 Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.
 
-Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
+## Selasa - Array Multidimensi Review & Object Literal
+- :notebook_with_decorative_cover:
+[Materi Object Literal](/modules/js-object-literal.md)
+- :anchor: [[**Exercises 1**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
+- :anchor: [[**Exercises 2**] Change me](modules/challenge-object-literal.md)
+- :anchor: [[**Exercises 3**] Shopping Time!](modules/challenge-shopping-time.md)
+- :anchor: [[**Exercises 4**] Toko X](modules/challenge-toko-x.md)
 
-Sesi Siang : 15.00 WIB - 16.00 WIB
 
-## Selasa - Recursive Functions Review
-
-- [Form Pengumpulan Tugas Week 5](https://airtable.com/shrav8Wo7rmZbBZ8Y)
-
+## Rabu - Recursive Functions
 - :notebook_with_decorative_cover:
 [Review Materi Rekursif](/modules/js-function-recursive.md)
-- :anchor: [[**Exercises 1**] Faktorial Rekursif](/modules/challenge-faktorial.md)
-- :anchor: [[**Exercises 2**] Total Digit Rekursif](/modules/challenge-total-digit.md)
-- :anchor: [[**Exercises 3**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
+- :anchor: [[**Exercises 5**] Total Digit Rekursif (/modules/challenge-total-digit.md)
+- :anchor: [[**Exercises 6**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
+- :anchor: [[**Exercises 7**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
 
-## Rabu - Regex
 
+## Kamis - Regex
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](/modules/regular-expressions.md)
 - :anchor:
-[[**Exercises 4**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
+[[**Exercises 8**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
 - :anchor:
-[[**Exercises 5**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
+[[**Exercises 9**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
 
-## Kamis - OOP Introduction
-Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari konsep Object-oriented di JavaScript, dan mengenal beberapa kata baru seperti class dan object.
-
-- :notebook_with_decorative_cover:
-[Intro to JavaScript ES6](/modules/js-es6.md)
-- :notebook_with_decorative_cover:
-[Mengenal OOP pada JavaScript](/modules/oop-basics.md)
-- :anchor: [[**Exercises 6**] Membuat Class ES6 Sederhana](/modules/anchor-es6-oop-start.md)
-- :anchor:
-[[**Exercises 7**] Menyusun Class ES6 Lanjutan](/modules/anchor-es6-oop.md)
-
-tambahan:
-- :notebook_with_decorative_cover: [Mengenal berbagai macam paradigma pemrograman](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/programming-paradigm.md)
-
-
-## Jumat - OOP Training
-- :notebook_with_decorative_cover:
-[Object Literal di JavaScript](/modules/js-object-literal.md)
-- :anchor:
-[[**Exercises 8**] Membuat Object Literal](/modules/anchor-js-object-literal.md)
+## Jumat - Document Object Model (DOM)
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
 
 ## Sabtu dan Minggu
 

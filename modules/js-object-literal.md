@@ -6,7 +6,11 @@
 
 ### Object
 
-Objek adalah kumpulan tidak berurut yang merangkai beberapa kunci-nilai (key-value pairs). Kita bisa tulis dengan kurung kurawal (curly braces), yang mana propertinya ditulis seperti `keyName: value`, dipisah dengan koma. Kuncinya adalah string, tapi tanda petik tidak diharuskan jika identifer yang ditulis valid. Objek mirip dengan "dictionaries" atau "maps" di bahasa pemrograman lain. Agak mirip dengan array, tapi lebih kaya akan data. Berikutnya kamu juga akan tahu bahwa hampir semua hal di JavaScript juga merupakan objek.
+JavaScript merupakan bahasa pemrograman yang berbasis simple-object (Objek sederhana). Objek adalah kumpulan tidak berurut yang merangkai beberapa property dan property memiliki nama/key dan value (key-value pairs).
+
+Objek dalam JavaScript, sama seperti banyak bahasa pemrograman lainnya, bisa dibandingkan dengan objek dalam kehidupan nyata.
+
+Untuk membuat sebuah object literal bisa dengan cara menuliskan kurung kurawal (curly braces) kemudian menuliskan nama property yang harus memiliki keyName dan value.
 
 ```javascript
 var myObj = {
@@ -14,7 +18,8 @@ var myObj = {
 };
 ```
 
-Kita dapat mengakses object yang dibuat dengan object literal sama mudahnya dengan object yang dibuat dengan class. Bahkan, kita bisa membuat value nya berupa array, atau bahkan object lain!
+
+Value dalam object literal selain string bisa juga dengan memasukkan value array bahkan value object literal lainnya.
 
 Kita bisa coba dengan kode berikut:
 
@@ -30,9 +35,15 @@ var supermanObj = {
       sports: ["parkour", "hill climbing"]
     }
   ],
+<<<<<<< HEAD
   address: {},
   speak: function() {
     console.log('i am superman!');
+=======
+  address: {
+    street: "Planet Krypton",
+    zipCode: 54213
+>>>>>>> 0b93e59705a62a1c212c2973e7d248de63bd479a
   }
 };
 
@@ -41,12 +52,17 @@ console.log(supermanObj.age); // 200
 console.log(supermanObj.favorites[0]); // "coding"
 console.log(supermanObj.favorites[2].sports); // ["parkour", "hill climbing"]
 console.log(supermanObj.favorites[2].sports[0]); // "parkour"
+<<<<<<< HEAD
 supermanObj.speak(); // "i am superman!"
+=======
+console.log(supermanObj.address); // {street: "Planet Krypton", zipCode: 54213}
+console.log(supermanObj.address.zipCode); //54213
+>>>>>>> 0b93e59705a62a1c212c2973e7d248de63bd479a
 ```
 
 Kamu dapat mencoba kode di atas [di sini](http://jsbin.com/diruxiq/edit?js,console)
 
-### BONUS: JSON
+<!-- ### BONUS: JSON
 
 JSON adalah format pertukaran data (data-interchange) yang ringan (lightweight), mudah bagi manusia untuk membaca dan menulisnya, mudah juga bagi mesin/komputer untuk mengurai (parse) dan hasilkan (generate). Win win! :star2:
 
@@ -109,7 +125,7 @@ contoh lain:
   ],
   "address":{}
 }
-```
+``` -->
 
 
 
@@ -117,5 +133,5 @@ contoh lain:
 
 - [JavaScript Objects on W3Schools](http://www.w3schools.com/js/js_objects.asp)
 - [Working with objects, on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-- [JSON.org](http://json.org)
-- [JSON Parser Online](http://json.parser.online.fr)
+<!-- - [JSON.org](http://json.org)
+- [JSON Parser Online](http://json.parser.online.fr) -->
