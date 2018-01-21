@@ -36,7 +36,7 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 [[**Exercises 9**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
 
 ## Jumat - Document Object Model (DOM)
-Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik!
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik! Kamu akan ditantang dengan DOM di week 6 setelah final live coding, jadi silakan baca materi ini setelah kamu telah siap untuk mengambil final live coding di Senin pekan depan.
 
 - :notebook_with_decorative_cover:
 [Mengenal DOM](/modules/js-dom-intro.md)
