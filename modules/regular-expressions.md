@@ -159,3 +159,4 @@ Ada sebuah platform yang cocok untuk melatih kamu dalam menggunakan regex, yaitu
 
 - [RegexOne - Belajar Regex dengan Interaktif](https://regexone.com/)
 - [Regex Codecademy](https://www.codecademy.com/en/courses/javascript-intermediate-en-NJ7Lr/0/1)
+- [Video Tutorial] (https://www.youtube.com/watch?v=EkluES9Rvak)
