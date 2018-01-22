@@ -62,7 +62,7 @@ Materi & Referensi :
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
 Tugas :
-- :anchor: [[**Exercises 2**] Codecademy Course - CSS](https://www.codecademy.com/learn/learn-css)
+- :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
 - 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 - 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
