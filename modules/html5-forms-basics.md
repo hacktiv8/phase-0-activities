@@ -131,7 +131,6 @@ Contoh html di atas akan mengirimkan halaman kita ke halaman bernama `halaman_su
 ## References
 
 - [Learn to Code HTML & CSS, by Shay How](http://learn.shayhowe.com/html-css/building-forms) (lesson 10: Building Forms)
-- [Forms in HTML, by MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
 - [HTML5 forms introduction and new attributes, on HTML5 Doctor](http://html5doctor.com/html5-forms-introduction-and-new-attributes)
 - [Making Forms Fabulous with HTML5, on HTML5 Rocks](http://www.html5rocks.com/en/tutorials/forms/html5forms)
 - [HTML5 - Web Forms 2.0, on TutorialsPoint](http://www.tutorialspoint.com/html5/html5_web_forms2.htm)
