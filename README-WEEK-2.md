@@ -31,7 +31,6 @@ Tugas :
 
 - :anchor:
 [[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 1 and 2 - Intro and Control Flow)](https://www.codecademy.com/learn/learn-javascript)
-
 - :anchor:
 [[**Exercises 1**] Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
 - :anchor:
