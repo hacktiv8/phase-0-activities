@@ -18,8 +18,6 @@ Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, 
 
 Materi & Referensi :
 
-- :wrench:
-[Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
 [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-first-time.md)
 - :notebook_with_decorative_cover:
@@ -30,6 +28,9 @@ Materi & Referensi :
 [Memahami Control Flow: Conditional dan Branching](modules/js-first-time.md#conditional)
 
 Tugas :
+
+- :anchor:
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 1 and 2 - Intro and Control Flow)](https://www.codecademy.com/learn/learn-javascript)
 
 - :anchor:
 [[**Exercises 1**] Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
@@ -43,7 +44,8 @@ Tugas :
 Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebagai looping atau iteration.
 
 Materi & Referensi :
-
+- :wrench:
+[Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
 [Memahami Control Flow: Iteration atau Looping](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
@@ -61,7 +63,8 @@ Tugas :
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
 Materi & Referensi :
-
+- :anchor:
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
 - :notebook_with_decorative_cover:
 [Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover:
@@ -121,9 +124,11 @@ Tugas : -->
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
 
-- :anchor:
-[[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 6 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
+
 - :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md) -->
+
+- :anchor:
+[[**Exercises 15**] JavaScript Building Blocks: Codecademy JavaScript Course (Hanya sampai Unit 5 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
 
 ## Sabtu dan Minggu
 

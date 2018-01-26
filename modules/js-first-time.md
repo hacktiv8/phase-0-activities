@@ -44,11 +44,9 @@ Bukalah [Repl](repl.it/languages/javascript), dan cobalah kode di atas pada tab 
 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
-- Integer: tipe data dengan nilai berupa angka
-- Float: tipe data dengan nilai berupa angka koma
-- Character: tipe data dengan nilai berupa sebuah karakter
+- Number: tipe data dengan nilai berupa angka
 - String: tipe data dengan nilai berupa kumpulan atau set dari beberapa karakter
-- Boolean: tipe data dengan nilai berupa `true` atau `false`.  
+- Boolean: tipe data dengan nilai berupa `true` atau `false`.
 
 ### Variable
 
@@ -60,7 +58,8 @@ console.log(tampung); // 5
 ```
 
 ```javascript
-var angkaGanjil = 1, angkaGenap = 2;
+var angkaGanjil = 1;
+var angkaGenap = 2;
 console.log(angkaGanjil); // 1
 console.log(angkaGenap); // 2
 ```
@@ -68,7 +67,7 @@ console.log(angkaGenap); // 2
 :warning: Waspadai pemanggilan variable yang tidak bernilai!
 ```javascript
 var tampungBaru;
-console.log(tampungBaru); // UNDEFINED
+console.log(tampungBaru); // undefined
 ```
 
 ### Operator
@@ -102,7 +101,7 @@ Contoh sederhana penggunaan modulus:
 Assignment operator adalah operator yang meng-"assign", atau memberikan nilai. Biasanya, assignment operator digunakan untuk memberikan nilai kepada sebuah variable.
 
 ```javascript
-var bilangan
+var bilangan;
 bilangan = 5; // Contoh assignment value 5 ke sebuah variable
 ```
 
@@ -112,7 +111,7 @@ Comparison operator adalah operator yang membandingkan satu nilai dengan nilai l
 - Equal operator (==)
 
 ```javascript
-var angka = 8
+var angka = 8;
 console.log(angka == 8); // true
 console.log(angka == 1); // false
 ```
@@ -120,7 +119,7 @@ console.log(angka == 1); // false
 - Not Equal operator (!=)
 
 ```javascript
-var angka = 8
+var angka = 8;
 console.log(angka != 7); // true
 console.log(angka != 8); // false
 ```
@@ -130,7 +129,7 @@ console.log(angka != 8); // false
 Sedikit berbeda dengan equal operator, strict operator `===` mewajibkan nilai yang dibandingkan sama dan tipe data nya pun harus sama. Sedangkan pada `==`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `true`.
 
 ```javascript
-var angkaBeda = "8"
+var angkaBeda = "8";
 console.log(angkaBeda == 8); // true
 console.log(angkaBeda === 8); // false
 console.log(angkaBeda === "8"); // true
@@ -141,7 +140,7 @@ console.log(angkaBeda === "8"); // true
 Sedikit berbeda dengan not equal operator, strict not equal operator `!==` mewajibkan nilai yang dibandingkan tidak sama dan tipe data nya pun harus sama. Sedangkan pada `!=`, `8` dan `"8"` akan dianggap sama, karena itu menghasilkan nilai `false`.
 
 ```javascript
-var angkaBeda = "8"
+var angkaBeda = "8";
 console.log(angkaBeda != 7); // true
 console.log(angkaBeda !== 7); // true
 console.log(angkaBeda !== 8); // true
@@ -153,7 +152,7 @@ console.log(angkaBeda !== "8"); // false
 operator selanjutnya adalah `<`, yaitu kurang dari sekian, dan `>`, yaitu lebih dari sekian.
 
 ```javascript
-var angka = 8
+var angka = 8;
 console.log(angka > 7); // true
 console.log(angka < 6); // false
 console.log(angka <= 8); // true
