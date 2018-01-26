@@ -32,8 +32,6 @@ Tugas :
 - :anchor:
 [[**Exercises 1**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 1**] Mengenal penggunaan Variable dalam JavaScript](modules/anchor-belajar-variabel.md)
-- :anchor:
 [[**Exercises 2**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
 - :anchor:
 [[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
@@ -46,7 +44,7 @@ Materi & Referensi :
 - :wrench:
 [Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
-[Memahami Control Flow: Iteration atau Looping](modules/js-first-time.md#loopiteration)
+[Memahami Perulangan atau Looping](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
 [Memahami Built-in Object Math](modules/math-object-js.md)
 
@@ -58,7 +56,7 @@ Tugas :
 - :anchor:
 [[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
-## Rabu - Pseudocode, Functions, dan Scope
+## Rabu - Mengenal Konsep Looping atau Perulangan
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
 Materi & Referensi :
@@ -81,7 +79,7 @@ Tugas :
 - :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
 - :anchor: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
-## Kamis
+## Kamis - Solve Problems menggunakan Pseudocode
 - :anchor:
 [[**Exercises 1**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
@@ -103,7 +101,7 @@ Tugas :
 [[**Exercises 10**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
 
 
-## Jumat
+## Jumat - Solve Problems menggunakan JavaScript
 <!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
