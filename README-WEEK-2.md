@@ -94,7 +94,6 @@ Tugas :
 [[**Exercises 6**] Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
 [[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
-
 - :anchor:
 [[**Exercises 9**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 - :anchor:
