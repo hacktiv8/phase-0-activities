@@ -60,10 +60,6 @@ Tugas :
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
 Materi & Referensi :
-- :anchor:
-[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
-- :notebook_with_decorative_cover:
-[Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
 - :notebook_with_decorative_cover:
 [Mempelajari Function atau Method](modules/js-first-time.md#functionmethod)
 - :notebook_with_decorative_cover:
@@ -72,14 +68,20 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
+- :anchor:
 [[**Exercises 7**] Membuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md)
 - :anchor:
 [[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
-- :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
-- :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
 - :anchor: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 ## Kamis - Solve Problems menggunakan Pseudocode
+
+- :notebook_with_decorative_cover:
+[Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
+- :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
+- :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
+
 - :anchor:
 [[**Exercises 1**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
