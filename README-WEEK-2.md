@@ -79,7 +79,30 @@ Tugas :
 - :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
 - :anchor: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
-## Kamis - mengenal Array dan Memperdalam String
+## Kamis
+- :anchor:
+[[**Exercises 1**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+- :anchor:
+[[**Exercises 2**] Balik Kata](/modules/challenge-balik-kata.md)
+- :anchor:
+[[**Exercises 3**] Konversi Menit](/modules/challenge-konversi-menit.md)
+- :anchor:
+[[**Exercises 4**] X dan O](/modules/challenge-x-dan-o.md)
+- :anchor:
+[[**Exercises 5**] Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
+- :anchor:
+[[**Exercises 6**] Palindrome](/modules/challenge-palindrome.md)
+- :anchor:
+[[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
+
+- :anchor:
+[[**Exercises 9**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
+- :anchor:
+[[**Exercises 10**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
+
+
+## Jumat
+<!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
 Materi & Referensi :
@@ -88,19 +111,19 @@ Materi & Referensi :
 - :notebook_with_decorative_cover:
 [Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 
-Tugas :
+Tugas : -->
 
-- :anchor: [[**Exercises 12**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
+<!-- - :anchor: [[**Exercises 12**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
 - :anchor: [[**Exercises 13**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
-- :anchor: [[**Exercises 14**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
+- :anchor: [[**Exercises 14**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md) -->
 
-## Jumat - Your First JavaScript App!
+<!-- ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
 
 - :anchor:
 [[**Exercises 15**] Menyelesaikan Codecademy JavaScript Course (Hanya sampai Unit 6 - Arrays and Loops)](https://www.codecademy.com/learn/learn-javascript)
-- :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md)
+- :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md) -->
 
 ## Sabtu dan Minggu
 
