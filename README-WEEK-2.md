@@ -1,4 +1,5 @@
-Material Valid for FullStack Immersive Batch 15 and Batch 16
+Material Valid for FullStack Immersive Batch 17
+
 # Hacktiv8 Phase 0 Week 2: The World of JavaScript
 
 ![Header](assets/header-w2.jpg)
@@ -12,7 +13,24 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 
 Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama h8-p0-w2. Untuk setiap satu tugas, buatlah file .js untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama exercise-1.js dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke dalam foxhub. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
 
-## Senin - Dunia JavaScript
+## Senin - Pengenalan Programming, Algoritma, dan Pseudocode
+
+Materi & Referensi :
+- :notebook_with_decorative_cover:
+[Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
+
+Tugas :
+
+- :anchor:
+[[**Exercises 1**] Hukum Newton](modules/challenge-algoritma-hukum-newton.md)
+- :anchor:
+[[**Exercises 2**] Tahun Kabisat](modules/challenge-algoritma-tahun-kabisat.md)
+[[**Exercises 2**] Laundry Day](modules/challenge-algoritma-laundry-day.md)
+- :anchor:
+[[**Exercises 3**] Periksa Kuku](modules/challenge-algoritma-periksa-kuku.md)
+- :anchor:
+
+## Selasa - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
 
@@ -36,9 +54,9 @@ Tugas :
 - :anchor:
 [[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 
-## Selasa - Mengenal Konsep Looping atau Perulangan
+## Rabu - Mengenal Konsep Looping atau Perulangan
 
-Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebagai looping atau iteration.
+Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebagai looping atau iteration di JavaScript.
 
 Materi & Referensi :
 - :wrench:
@@ -56,7 +74,7 @@ Tugas :
 - :anchor:
 [[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
-## Rabu - Menggunakan Konsep Functions
+## Kamis - Menggunakan Konsep Functions
 
 Mulai familiar dengan JavaScript? Good! Saatnya kita masuk ke pembahasan bagaimana alur dan algortima yang sangat penting untuk menyelesaikan kasus dengan programming, dan juga mengenal dengan yang namanya functions dan scope yang sangat membantu kamu untuk membuat program.
 
@@ -76,12 +94,10 @@ Tugas :
 [[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
 - :anchor: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
-## Kamis - Solve Problems menggunakan Pseudocode
+<!-- ## Kamis - Solve Problems menggunakan Pseudocode
 
-- :notebook_with_decorative_cover:
-[Mempelajari struktur alur program dengan algoritma dan pseudocode](modules/algorithm-pseudocode.md)
 - :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
-- :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md)
+- :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md) -->
 
 ## Jumat - Solve Problems menggunakan JavaScript
 
