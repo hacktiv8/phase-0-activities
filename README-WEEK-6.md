@@ -1,4 +1,5 @@
-# Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
+# COMING SOON! Prepare For Live Code!
+<!-- # Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
 
 ![Header](assets/header-w1.jpg)
 
@@ -54,4 +55,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png)
+![Hacktiv8 Banner](assets/banner.png) -->
