@@ -16,9 +16,9 @@ Contoh:
 
 nama yang digunakan untuk mendaftar di website Hacktiv8: Adhy Wiranata
 
-email yang digunakan untuk mendaftar di website Hacktiv8: adhy@gmail.com
+email yang digunakan untuk mendaftar di website Hacktiv8: hello@gmail.com
 
-maka passwordnya adalah: adhywiranataadhy
+maka passwordnya adalah: adhywiranatahello
 
 ![Demo Login](/assets/demo-foxhub-login.png)
 

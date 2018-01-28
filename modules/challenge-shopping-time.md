@@ -31,7 +31,7 @@ maka output:
 ## Code
 
 ```JavaScript
-function shoppingTime(arr) {
+function shoppingTime(memberId, money) {
   // you can only write your code here!
 }
 
