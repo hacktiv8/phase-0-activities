@@ -42,11 +42,11 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 5**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 1**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 6**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+[[**Exercises 2**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
 - :anchor:
-[[**Exercises 7**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+[[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 
 ## Rabu - Mengenal Konsep Looping atau Perulangan
 
@@ -62,11 +62,11 @@ Materi & Referensi :
 
 Tugas :
 
-- :anchor: [[**Exercises 8**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
+- :anchor: [[**Exercises 4**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
 - :anchor:
-[[**Exercises 9**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
+[[**Exercises 5**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
 - :anchor:
-[[**Exercises 10**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
+[[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
 ## Kamis - Menggunakan Konsep Functions
 
@@ -81,12 +81,12 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 11**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 7**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
+<!-- - :anchor:
+[[**Exercises 8**] Mgembuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md) -->
 - :anchor:
-[[**Exercises 12**] Mgembuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md)
-- :anchor:
-[[**Exercises 13**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
-- :anchor: [[**Exercises 14**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
+[[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
+- :anchor: [[**Exercises 9**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 <!-- ## Kamis - Solve Problems menggunakan Pseudocode
 
@@ -96,23 +96,23 @@ Tugas :
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 15**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+[[**Exercises 10**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
-[[**Exercises 16**] Balik Kata](/modules/challenge-balik-kata.md)
+[[**Exercises 11**] Balik Kata](/modules/challenge-balik-kata.md)
 - :anchor:
-[[**Exercises 17**] Konversi Menit](/modules/challenge-konversi-menit.md)
+[[**Exercises 12**] Konversi Menit](/modules/challenge-konversi-menit.md)
 - :anchor:
 [[**Exercises 4**] X dan O](/modules/challenge-x-dan-o.md)
 - :anchor:
 [[**Exercises 5**] Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
-- :anchor:
+<!-- - :anchor:
 [[**Exercises 6**] Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
 [[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
 - :anchor:
 [[**Exercises 9**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 - :anchor:
-[[**Exercises 10**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
+[[**Exercises 10**] Palindrome Angka](/modules/challenge-palindrome-angka.md) -->
 
 <!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
