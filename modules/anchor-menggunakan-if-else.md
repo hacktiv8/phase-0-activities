@@ -21,38 +21,31 @@ Kamu diminta untuk memprogram suatu game sederhana, Proxytia namanya. Untuk memu
 
 ```javascript
 
-//Contoh input 1
+//Contoh input
 var nama = 'Mikael';
 var peran = '';
-
-//Contoh input 2
-var nama = 'Nina';
-var peran = 'Ksatria';
-
-//Contoh input 3
-var nama = 'Danu';
-var peran = 'Tabib';
-
-//Contoh input 4
-var nama = 'Zero';
-var peran = 'Penyihir';
 ```
+
+Silakan ganti nilai nama dan peran untuk mengetes kondisi!
 
 ### Output
 
 ```javascript
-//Output untuk Input 1
+// Output untuk Input nama = '' dan peran = ''
+"Nama harus diisi!"
+
+//Output untuk Input nama = 'Mikael' dan peran = ''
 "Halo Mikael, Pilih peranmu untuk memulai game!"
 
-//Output untuk Input 2
+//Output untuk Input nama = 'Nina' dan peran 'Ksatria'
 "Selamat datang di Dunia Proxytia, Nina"
 "Halo Ksatria Nina, kamu dapat menyerang dengan senjatamu!"
 
-//Output untuk Input 3
+//Output untuk Input nama = 'Danu' dan peran 'Tabib'
 "Selamat datang di Dunia Proxytia, Danu"
 "Halo Tabib Danu, kamu akan membantu temanmu yang terluka."
 
-//Output untuk Input 4
+//Output untuk Input nama = 'Zero' dan peran 'Penyihir'
 "Selamat datang di Dunia Proxytia, Zero"
 "Halo Penyihir Zero, ciptakan keajaiban yang membantu kemenanganmu!"
 ```

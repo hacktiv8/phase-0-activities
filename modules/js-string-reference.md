@@ -15,19 +15,33 @@
 
 ### More About String
 
-String adalah tipe data yang yang berisikan karakter-karakter alfanumerik yang dibungkus dengan karakter kutip (`'` dan `"`). Apabila kamu sudah pernah mempelajari tentang array pada JavaScript, String sama seperti array dengan isi didalamnya adalah karakter-karakter alfanumerik. karakter-karakter pada string dapat diakses menggunakan indeks. Namun, isi didalamnya tidak dapat diubah secara langsung dengan menggunakan indeks tersebut.
+String adalah tipe data yang yang berisikan karakter-karakter alfanumerik yang dibungkus dengan karakter kutip (`'` dan `"`). karakter-karakter pada string dapat diakses menggunakan indeks atau posisi, dimana dimulai dari angka 0.
 
 ```javascript
 var title = 'Your Name';
 
+// mengambil huruf pertama dari string
 console.log(title[0]); // 'Y'
+
+// mengambil huruf terakhir dari string. Apa itu length? Penjelasan .length di section selanjutnya :)
 console.log(title[title.length - 1]); // 'e'
 
-title[0] = 'T'
-console.log(title) // tetap 'Your Name'
+// "memaksa" perubahan nilai di posisi 0
+title[0] = 'T';
+// tidak akan ada perubahan
+console.log(title); // 'Your Name'
+
+title = 'My name';
+// ada perubahan, karena assign keseluruhan string
+console.log(title); // 'My name'
+
+// menambahkan string dengan simbol '+'
+title = title + ' is Bento';
+
+console.log(title); // 'My name is Bento'
 ```
 
-Pada JavaScript, tipe data primitif seperti String diperlakukan seperti objek. Oleh karena itu, String memiliki *property* dan *method*. Apabila kamu belum mempelajari tentang Objek pada JavaScript, kamu tidak perlu pusing dengan kedua istilah tersebut. Secara sederhana, *property* dan *method* adalah variable dan function milik String yang dapat digunakan untuk mempermudah kita dalam melakukan pemrograman.
+Pada JavaScript, tipe data primitif seperti String diperlakukan seperti objek. Oleh karena itu, String memiliki *property* dan *method*. Apabila kamu belum mendengar tentang Objek pada JavaScript (dan memang seharusnya belum), kamu tidak perlu pusing dengan kedua istilah tersebut. Secara sederhana, *property* dan *method* adalah kemampuan milik String yang dapat digunakan untuk mempermudah kita dalam melakukan pemrograman. Kamu cukup menggunakan apa yang dimanakan dengan method. Method, akan lebih dalam dibahas di materi *JavaScript Function*.
 
 ### String Properties
 
@@ -71,7 +85,7 @@ console.log(text.indexOf('u'));     // 1
 console.log(text.indexOf('jreng')); // -1
 ```
 
-#### `.match([regular-expressions])`
+<!-- #### `.match([regular-expressions])`
 
 Mencari string yang memenuhi syarat pada suatu *[regular expression](regular-expressions.md)* dan menemukan string yang ditemukan ke dalam sebuah array.
 
@@ -110,18 +124,9 @@ Mengembalikan array dari potongan-potongan string yang dipisah dengan karakter s
 var story    = 'Once_upon_a_time';
 var splitted = story.split('_');
 console.log(splitted); // ['Once', 'upon', 'a', 'time']
-```
-#### `.substr([indeks awal], [panjang yang diinginkan])`
+``` -->
 
-Mengembalikan potongan string mulai dari indeks pada parameter pertama dengan karakter sebanyak yang ditentukan pada array kedua. Bila parameter kedua tidak ditentukan, akan diambil sampai akhir string.
-
-```javascript
-var name = 'Uvuvwevwevwe Onyetenyevwe Ugwemubwem Ossas';
-var subs = name.substr(1,10);
-console.log(subs); // vuvwevwevw'
-```
-
-#### `.substring([indeks awal], [indeks akhir (optional)])`
+#### `.substr([indeks awal], [indeks akhir (optional)])`
 
 Mengembalikan potongan string mulai dari indeks pada parameter pertama sampai dengan indeks pada parameter kedua. Bila parameter kedua tidak ditentukan, maka secara otomatis berakhir pada karakter terakhir. Karakter pada indeks yang ditentukan pada parameter kedua tidak diikutkan sebagai output.
 
@@ -160,7 +165,7 @@ var username    = ' administrator ';
 var newUsername = username.trim(); // 'newUsername = 'administrator'
 ```
 
-**Semua contoh kode diatas dapat diakses [disini](http://jsbin.com/goleva/edit?js,console)**
+<!-- **Semua contoh kode diatas dapat diakses [disini](http://jsbin.com/goleva/edit?js,console)** -->
 
 ### Typecasting To and From String
 
@@ -221,7 +226,7 @@ var strReal_1 = parseFloat(int); // strReal_1 = 89
 var strReal_2 = parseFloat(int); // strReal_2 = 56.7
 ```
 
-**Semua contoh kode diatas dapat diakses [disini](http://jsbin.com/xacujej/edit?js,console**
+<!-- **Semua contoh kode diatas dapat diakses [disini](http://jsbin.com/xacujej/edit?js,console** -->
 
 ### Additional References
 
