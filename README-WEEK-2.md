@@ -14,6 +14,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama h8-p0-w2. Untuk setiap satu tugas, buatlah file .js (untuk tugas javascript), file .txt (untuk tugas pseudocode), atau file .png (untuk tugas screenshot codecademy) untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama exercise-1.js dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke dalam foxhub. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
 
 ## Senin - Pengenalan Programming, Algoritma, dan Pseudocode
+Hari pertama di Week 2! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
@@ -25,11 +26,13 @@ Tugas :
 [[**Exercises 1**] Berlatih dengan Pseudocode](modules/challenge-main-pseudocode.md)
 
 ## Selasa - Dunia JavaScript
-Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
 
+Hari ini masuklah kita ke bahasa pemrograman JavaScript. Yuk kenalan dengan JavaScript dan langsung coba keseruannya!
 
 Materi & Referensi :
 
+- :wrench:
+[Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
 [Memahami dan menggunakan dasar pemrograman dengan JavaScript](modules/js-first-time.md)
 - :notebook_with_decorative_cover:
@@ -53,8 +56,6 @@ Tugas :
 Hari ini mari kita berkenalan dengan string dan perulangan, atau sering disebut juga sebagai looping atau iteration di JavaScript.
 
 Materi & Referensi :
-- :wrench:
-[Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
 - :notebook_with_decorative_cover:
 [Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 - :notebook_with_decorative_cover:
@@ -116,8 +117,6 @@ Tugas : -->
 
 <!-- ## Jumat - Your First JavaScript App!
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
-
-
 
 - :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md) -->
 
