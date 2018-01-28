@@ -119,9 +119,8 @@ Tugas : -->
 Tibalah di akhir minggu. Kamu telah mengenal berbagai macam sintaks JavaScript dari hari pertama hingga hari ini. Sekarang saatnya tunjukkan kemampuan yang telah kamu dapatkan dengan membuat sebuah aplikasi sederhana yang akan ditampilkan di console. JSBin tetap menjadi teman terbaikmu hari ini.
 
 - :anchor: [[**Exercises 16**] WEEKLY PROJECT - Simple JavaScript App](modules/js-application.md) -->
-
-- :anchor:
-[[**Exercises 15**] JavaScript Building Blocks: Codecademy JavaScript Course (Hanya sampai Unit 5 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
+<!-- - :anchor:
+[[**Exercises 15**] JavaScript Building Blocks: Codecademy JavaScript Course (Hanya sampai Unit 5 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript) -->
 
 ## Sabtu dan Minggu
 
