@@ -25,10 +25,10 @@ Tugas :
 [[**Exercises 1**] Hukum Newton](modules/challenge-algoritma-hukum-newton.md)
 - :anchor:
 [[**Exercises 2**] Tahun Kabisat](modules/challenge-algoritma-tahun-kabisat.md)
-[[**Exercises 2**] Laundry Day](modules/challenge-algoritma-laundry-day.md)
 - :anchor:
-[[**Exercises 3**] Periksa Kuku](modules/challenge-algoritma-periksa-kuku.md)
+[[**Exercises 3**] Laundry Day](modules/challenge-algoritma-laundry-day.md)
 - :anchor:
+[[**Exercises 4**] Periksa Kuku](modules/challenge-algoritma-periksa-kuku.md)
 
 ## Selasa - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
@@ -48,11 +48,11 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 5**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 2**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+[[**Exercises 6**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
 - :anchor:
-[[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+[[**Exercises 7**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 
 ## Rabu - Mengenal Konsep Looping atau Perulangan
 
@@ -68,11 +68,11 @@ Materi & Referensi :
 
 Tugas :
 
-- :anchor: [[**Exercises 4**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
+- :anchor: [[**Exercises 8**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
 - :anchor:
-[[**Exercises 5**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
+[[**Exercises 9**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
 - :anchor:
-[[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
+[[**Exercises 10**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
 
 ## Kamis - Menggunakan Konsep Functions
 
@@ -87,12 +87,12 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 11**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 7**] Membuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md)
+[[**Exercises 12**] Mgembuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md)
 - :anchor:
-[[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
-- :anchor: [[**Exercises 11**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
+[[**Exercises 13**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
+- :anchor: [[**Exercises 14**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
 
 <!-- ## Kamis - Solve Problems menggunakan Pseudocode
 
@@ -102,11 +102,11 @@ Tugas :
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 1**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+[[**Exercises 15**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
-[[**Exercises 2**] Balik Kata](/modules/challenge-balik-kata.md)
+[[**Exercises 16**] Balik Kata](/modules/challenge-balik-kata.md)
 - :anchor:
-[[**Exercises 3**] Konversi Menit](/modules/challenge-konversi-menit.md)
+[[**Exercises 17**] Konversi Menit](/modules/challenge-konversi-menit.md)
 - :anchor:
 [[**Exercises 4**] X dan O](/modules/challenge-x-dan-o.md)
 - :anchor:
