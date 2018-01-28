@@ -11,7 +11,7 @@ dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini
 
 ## Metode Pengumpulan Tugas
 
-Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama h8-p0-w2. Untuk setiap satu tugas, buatlah file .js untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama exercise-1.js dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke dalam foxhub. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
+Untuk seluruh tugas week 2, buatlah sebuah repository baru di github dengan nama h8-p0-w2. Untuk setiap satu tugas, buatlah file .js (untuk tugas javascript), file .txt (untuk tugas pseudocode), atau file .png (untuk tugas screenshot codecademy) untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama exercise-1.js dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke dalam foxhub. **Jangan kirimkan link ke repository, tapi ke direct file di dalam repository-nya**.
 
 ## Senin - Pengenalan Programming, Algoritma, dan Pseudocode
 
@@ -42,31 +42,30 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 2**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 2**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+[[**Exercises 3**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
 - :anchor:
-[[**Exercises 3**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+[[**Exercises 4**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
 
-## Rabu - Mengenal Konsep Looping atau Perulangan
+## Rabu - Mengenal Tipe data String dan Konsep Looping atau Perulangan
 
-Hari ini mari kita berkenalan dengan perulangan, atau sering disebut juga sebagai looping atau iteration di JavaScript.
+Hari ini mari kita berkenalan dengan string dan perulangan, atau sering disebut juga sebagai looping atau iteration di JavaScript.
 
 Materi & Referensi :
 - :wrench:
 [Repl, tools online untuk menjalankan JavaScript](https://repl.it/languages/javascript)
+- :notebook_with_decorative_cover:
+[Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 - :notebook_with_decorative_cover:
 [Memahami Perulangan atau Looping](modules/js-first-time.md#loopiteration)
 - :notebook_with_decorative_cover:
 [Memahami Built-in Object Math](modules/math-object-js.md)
 
 Tugas :
-
-- :anchor: [[**Exercises 4**] Berlatih Perulangan di JavaScript](modules/anchor-main-loop.md)
-<!-- - :anchor:
-[[**Exercises 5**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
-- :anchor:
-[[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md) -->
+- :anchor: [[**Exercises 5**] Bermain dengan String di JavaScript](modules/anchor-main-string.md)
+- :anchor: [[**Exercises 6**] Berlatih Perulangan di JavaScript](modules/anchor-main-loop.md)
+- :anchor: [[**Exercises 7**] Perulangan - Play with Asterisks](modules/anchor-main-loop-asterisks.md)
 
 ## Kamis - Menggunakan Konsep Functions
 
@@ -81,40 +80,24 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 7**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 8**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
+[[**Exercises 9**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
 - :anchor:
-[[**Exercises 9**] Berlatih Penggunaan Functions Part 2](modules/anchor-basic-function-2.md)
-
-<!-- - :anchor:
-[[**Exercises 8**] Mgembuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md) -->
-<!-- - :anchor: [[**Exercises 9**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md) -->
-<!-- ## Kamis - Solve Problems menggunakan Pseudocode
-
-- :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
-- :anchor: [[**Exercises 10**] Mengubah Pseudocode menjadi kode JavaScript (Part 2)](modules/anchor-pseudocode2.md) -->
+[[**Exercises 10**] Berlatih Penggunaan Functions Part 2](modules/anchor-basic-function-2.md)
 
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 10**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+[[**Exercises 11**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
-[[**Exercises 11**] Balik Kata](/modules/challenge-balik-kata.md)
+[[**Exercises 12**] Balik Kata](/modules/challenge-balik-kata.md)
 - :anchor:
-[[**Exercises 12**] Konversi Menit](/modules/challenge-konversi-menit.md)
+[[**Exercises 13**] Konversi Menit](/modules/challenge-konversi-menit.md)
 - :anchor:
-[[**Exercises 4**] X dan O](/modules/challenge-x-dan-o.md)
+[[**Exercises 14**] X dan O](/modules/challenge-x-dan-o.md)
 - :anchor:
-[[**Exercises 5**] Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
-<!-- - :anchor:
-[[**Exercises 6**] Palindrome](/modules/challenge-palindrome.md)
-- :anchor:
-[[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
-- :anchor:
-[[**Exercises 9**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
-- :anchor:
-[[**Exercises 10**] Palindrome Angka](/modules/challenge-palindrome-angka.md) -->
+[[**Exercises 15**] Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
 
 <!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
