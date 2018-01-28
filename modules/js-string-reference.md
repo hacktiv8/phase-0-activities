@@ -26,8 +26,19 @@ console.log(title[0]); // 'Y'
 // mengambil huruf terakhir dari string. Apa itu length? Penjelasan .length di section selanjutnya :)
 console.log(title[title.length - 1]); // 'e'
 
+// "memaksa" perubahan nilai di posisi 0
 title[0] = 'T';
-console.log(title) // tetap 'Your Name'
+// tidak akan ada perubahan
+console.log(title); // 'Your Name'
+
+title = 'My name';
+// ada perubahan, karena assign keseluruhan string
+console.log(title); // 'My name'
+
+// menambahkan string dengan simbol '+'
+title = title + ' is Bento';
+
+console.log(title); // 'My name is Bento'
 ```
 
 Pada JavaScript, tipe data primitif seperti String diperlakukan seperti objek. Oleh karena itu, String memiliki *property* dan *method*. Apabila kamu belum mendengar tentang Objek pada JavaScript (dan memang seharusnya belum), kamu tidak perlu pusing dengan kedua istilah tersebut. Secara sederhana, *property* dan *method* adalah kemampuan milik String yang dapat digunakan untuk mempermudah kita dalam melakukan pemrograman. Kamu cukup menggunakan apa yang dimanakan dengan method. Method, akan lebih dalam dibahas di materi *JavaScript Function*.
