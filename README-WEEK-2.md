@@ -62,11 +62,11 @@ Materi & Referensi :
 
 Tugas :
 
-- :anchor: [[**Exercises 4**] Melakukan Perulangan Menggunakan `while`](modules/anchor-belajar-while.md)
-- :anchor:
+- :anchor: [[**Exercises 4**] Berlatih Perulangan di JavaScript](modules/anchor-main-loop.md)
+<!-- - :anchor:
 [[**Exercises 5**] Melakukan Perulangan Menggunakan `for`](modules/anchor-belajar-for.md)
 - :anchor:
-[[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md)
+[[**Exercises 6**] Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana](modules/ganjil-genap-dll.md) -->
 
 ## Kamis - Menggunakan Konsep Functions
 
@@ -81,13 +81,15 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 7**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions and Scope)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 7**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
+- :anchor:
+[[**Exercises 8**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
+- :anchor:
+[[**Exercises 9**] Berlatih Penggunaan Functions Part 2](modules/anchor-basic-function-2.md)
+
 <!-- - :anchor:
 [[**Exercises 8**] Mgembuat algoritma sederhana dalam pseudocode](modules/anchor-case-to-pseudocode.md) -->
-- :anchor:
-[[**Exercises 8**] Mengenal Penggunaan Functions](modules/anchor-basic-function.md)
-- :anchor: [[**Exercises 9**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md)
-
+<!-- - :anchor: [[**Exercises 9**] Menggabungkan Konsep Perulangan dan Kondisional](modules/rocket-loop-conditional.md) -->
 <!-- ## Kamis - Solve Problems menggunakan Pseudocode
 
 - :anchor: [[**Exercises 9**] Mengubah Pseudocode menjadi kode JavaScript](modules/anchor-pseudocode.md)
