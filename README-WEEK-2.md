@@ -22,13 +22,7 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] Hukum Newton](modules/challenge-algoritma-hukum-newton.md)
-- :anchor:
-[[**Exercises 2**] Tahun Kabisat](modules/challenge-algoritma-tahun-kabisat.md)
-- :anchor:
-[[**Exercises 3**] Laundry Day](modules/challenge-algoritma-laundry-day.md)
-- :anchor:
-[[**Exercises 4**] Periksa Kuku](modules/challenge-algoritma-periksa-kuku.md)
+[[**Exercises 1**] Berlatih dengan Pseudocode](modules/challenge-main-pseudocode.md)
 
 ## Selasa - Dunia JavaScript
 Hari pertama di JavaScript! Mulailah pekan baru dengan semangat baru! Hari ini, kamu akan bertemu dengan banyak kode yang mungkin belum pernah kamu lihat sebelumnya. Bersiaplah, dan jangan lupa bertanya apabila kamu menemukan kesulitan. Selamat belajar! :smile:
