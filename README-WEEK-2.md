@@ -84,19 +84,17 @@ Tugas :
 [[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
 [[**Exercises 9**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
-- :anchor:
-[[**Exercises 10**] Berlatih Penggunaan Functions Part 2](modules/anchor-basic-function-2.md)
 
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 11**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+[[**Exercises 10**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
 - :anchor:
-[[**Exercises 12**] Balik Kata](/modules/challenge-balik-kata.md)
+[[**Exercises 11**] Balik Kata](/modules/challenge-balik-kata.md)
 - :anchor:
-[[**Exercises 13**] Konversi Menit](/modules/challenge-konversi-menit.md)
+[[**Exercises 12**] Konversi Menit](/modules/challenge-konversi-menit.md)
 - :anchor:
-[[**Exercises 14**] X dan O](/modules/challenge-x-dan-o.md)
+[[**Exercises 13**] X dan O](/modules/challenge-x-dan-o.md)
 
 <!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
