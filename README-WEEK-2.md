@@ -97,8 +97,6 @@ Tugas :
 [[**Exercises 13**] Konversi Menit](/modules/challenge-konversi-menit.md)
 - :anchor:
 [[**Exercises 14**] X dan O](/modules/challenge-x-dan-o.md)
-- :anchor:
-[[**Exercises 15**] Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
 
 <!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
