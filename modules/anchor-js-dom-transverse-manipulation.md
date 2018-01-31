@@ -1,4 +1,4 @@
-#Manipulasi DOM Sederhana dengan DOM Transversing di JavaScript
+# Manipulasi DOM Sederhana dengan DOM Transversing di JavaScript
 
 Setelah mengetahui tentang DOM selection dan manipulation serta DOM transversing, kita akan mencoba memanipulasi DOM kembali, tapi memanfaatkan penjelajahan DOM berdasarkan hubungan parent-child.
 
