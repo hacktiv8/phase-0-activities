@@ -1,48 +1,42 @@
-# COMING SOON! Prepare For Live Code!
-<!-- # Hacktiv8 Phase 0 Week 6: ES6 dan Paradigma Programming
+# Hacktiv8 Phase 0 Week 6: Finals and JavaScript DOM
 
 ![Header](assets/header-w1.jpg)
 
-Sampailah di minggu terakhir phase 0 ! Sangat diharapkan apabila kamu sudah paham dan menyelesaikan tugas di minggu sebelumnya dengan baik. Di minggu terakhir ini, kamu akan berkenalan dengan JavaScript ES6  :bowtie:
-
-- :pushpin:
-[Form Pengumpulan Tugas Week 6 Batch 14](https://airtable.com/shr1ErRhqEXFm0rG6)
+Sampailah di minggu terakhir phase 0! Senin - Rabu kamu akan fokus untuk final live coding, dan di kamis dan jumat kamu akan bermain dengan DOM dan membuat project web kamu yang paling seru!
 
 ![Let's start!](assets/start.png)
 
-## Senin - Selasa: Final Live Coding (Offline).
+## Senin - Rabu: Final Live Coding (Offline).
 Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding. Berbeda dengan Live Coding sebelumnya, Final Live Coding ini wajib dilakukan Offline.
 
-Artinya kamu harus datang ke Hacktiv8 untuk mengikuti nya. Pilih hari yang kamu bisa antara hari Senin atau Selasa. Dihari itu ada 2 Sesi yang bisa kamu pilih Jam nya.
+## Kamis - Document Object Model
+Mulai hari ini, kamu akan berkenalan dengan DOM, topik baru yang dapat kamu manfaatkan untuk berlatih memanipulasi halaman HTML dan tampilannya dengan JavaScript. (Yap, betul. Back to HTML!)
 
-Sesi Pagi : 10.00 - 12.00
-
-Sesi Siang : 14.00 - 16.00
-
-Informasikan kepada instruktur kamu bisa hari apa dan ikut Sesi siang atau pagi.
-
-## Rabu - EcmaScript 6
-Mulai hari ini, kamu akan mengenal banyak sintaks baru terutama ES6. Kami juga memberikan referensi melalui devdocs.io, sebuah web yang merupakan kurasi referensi sintaks yang sangat lengkap. Kami tidak memberikan ini di minggu-minggu sebelumnya, dengan tujuan supaya bisa fokus dengan materi yang diberikan, karena kami mengerti JavaScript sangat luas, namun ada beberapa hal fundamental yang ingin kami perkenalkan sebelum akhirnya masuk ke yang lebih advanced.
-
-- :wrench:
-[Devdocs.io, referensi lengkap sintaks JavaScript](http://devdocs.io/javascript/)
+Materi & Referensi :
 - :notebook_with_decorative_cover:
-[Mengenal EcmaScript 6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6.md)
+[Mengenal DOM](/modules/js-dom-intro.md)
 - :notebook_with_decorative_cover:
-[Mengenal Scope di JavaScript](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-scope.md)
+[Membuat DOM](/modules/js-dom-creation.md)
 - :notebook_with_decorative_cover:
-[Memanfaatkan Scope di JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-scope.md)
-- :notebook_with_decorative_cover:
-[Memanfaatkan Arrow Function di ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/js-es6-arrow-function.md)
+[Menjelajah DOM](/modules/js-dom-transversing.md)
+
+Tugas :
+- 💪
+[[**Latihan Pribadi 1**] Memanipulasi Element HTML](modules/anchor-js-dom-manipulation.md)
+- 💪
+[[**Latihan Pribadi 2**] Memanipulasi dan Menjelajah DOM](modules/anchor-js-dom-transverse-manipulation.md)
+- 💪
+[[**Latihan Pribadi 3**] Membuat Validasi Form menggunakan JavaScript](modules/anchor-js-form-validation.md)
+- 💪
+[[**Latihan Pribadi 4**] Membuat Element HTML Dinamis Dengan JavaScript](modules/anchor-js-dom-creation.md)
+
+## Jumat - Final Project!
+
+Tibalah di hari terakhir fase 0. Kamu akan ditantang untuk membuat final project web app apapun memanfaatkan topik DOM. Final Project ini paling lambat dikumpulkan di sabtu malam agar kamu punya waktu luang untuk berkreasi dan mempersiapkan diri ke fase 1. Final Project sebagai syarat untuk student yang telah memenuhi final live code dan nilai tugas agar bisa masuk ke fase 1.
+
 - :anchor:
-[[**Exercises 1**] Mengubah Sintaks ES5 ke ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es5-to-es6.md)
+[[**Final Project**] Membuat Web App menggunakan HTML, CSS, dan JavaScript](modules/anchor-js-dom-web-app.md)
 
-## Kamis - Paradigma Functional Programming
-
-- :notebook_with_decorative_cover:
-[Mengenal Functional Programming pada JavaScript ES6](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/functional-basics.md)
-- :anchor:
-[[**Exercises 2**] Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-es6-functional.md)
 
 ## Sabtu dan Minggu
 
@@ -55,4 +49,4 @@ Salam,
 
 Tim Hacktiv8
 
-![Hacktiv8 Banner](assets/banner.png) -->
+![Hacktiv8 Banner](assets/banner.png)
