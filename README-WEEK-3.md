@@ -12,7 +12,7 @@ Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari 
 
 Instruksi diberikan di channel kelas.
 
-## Selasa
+## Selasa - Mengenal Tipe Data Array
 
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
@@ -34,43 +34,54 @@ Tugas :
 
 - :anchor:
 [[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://www.codecademy.com/learn/learn-javascript)
-- :anchor: [[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
-- :anchor: [[**Exercises 3**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
-- :anchor: [[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
+- :anchor:
+[[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
+- :anchor:
+[[**Exercises 3**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
+- :anchor:
+[[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
 
+## Rabu - Logic Challenges Refresh
 
-## Rabu
 Gunakan waktu sejenak untuk berkenalan dengan Node Js,
 sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan mencoba langsung mengimplementasi kodemu melalui node Js!
 
 Tugas :
 - :anchor:
-[[**Exercises 5**] Perpangkatan Dua](/modules/challenge-perpangkatan-dua.md)
+[[**Exercises 5**] Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
-[[**Exercises 6**] Palindrome](/modules/challenge-palindrome.md)
+[[**Exercises 6**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
 - :anchor:
 [[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
-
-## Kamis
-Hari baru, tantangan baru!
-
-Tugas :
 - :anchor:
 [[**Exercises 8**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
 - :anchor:
 [[**Exercises 9**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
-- :anchor:
-[[**Exercises 10**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
 
-## Jumat
+## Kamis - More Logic Challenges
+
+Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai problem dengan arrays, saatnya perbanyak latihan dengan soal yang terus melatih logika!
 
 Tugas :
 - :anchor:
-[[**Exercises 11**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
+[[**Exercises 10**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
 - :anchor:
-[[**Exercises 12**] Deret Geometri](/modules/challenge-deret-geometri.md)
+[[**Exercises 11**] Deret Geometri](/modules/challenge-deret-geometri.md)
 - :anchor:
-[[**Exercises 13**] Target Terdekat](/modules/challenge-target-terdekat.md)
+[[**Exercises 12**] Target Terdekat](/modules/challenge-target-terdekat.md)
+
+## Jumat - More Arrays + Multidimensional Array
+
+Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya di saat ini kamu telah bisa menilai cara mana yang lebih baik menggunakan array, dan yang tidak perlu, bukan?
+
+Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array multidimensi. Tenang saja, array multidimensi konsep nya sama persis dengan array satu dimensi!
+
+- :anchor:
+[[**Exercises 13**] Cari Mean](/modules/challenge-cari-mean.md)
+- :anchor:
+[[**Exercises 14**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
+
+Tugas :
 
 ## Sabtu dan Minggu
 

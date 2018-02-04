@@ -18,8 +18,6 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 - :anchor:
 [[**Exercises 2**] Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
 - :anchor:
-[[**Exercises 3**] Cari Mean](/modules/challenge-cari-mean.md)
-- :anchor:
 [[**Exercises 4**] Cari Median](/modules/challenge-cari-median.md)
 - :anchor:
 [[**Exercises 5**] Cari Modus](/modules/challenge-cari-modus.md)
