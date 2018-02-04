@@ -8,42 +8,40 @@ Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari 
 
 ![Let's start!](assets/start.png)
 
-## Senin - Online Live Coding (Arrays, Looping, & Conditionals)
+## Senin - Offline Live Coding
 
-Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.
-
-Pilih waktu yang bisa kamu ikuti pada Sesi dibawah ini :
-
-Sesi Pagi : 11.00 WIB - 12.00 WIB
-
-Sesi Siang : 14.00 WIB - 15.00 WIB
+Instruksi diberikan di channel kelas.
 
 ## Selasa
-Saatnya memulai minggu yang penuh tantangan, namun sebelumnya gunakan waktu sejenak untuk berkenalan dengan Node Js,
-sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa
-dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan
-mencoba langsung mengimplementasi kodemu melalui node Js!
+
+Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
 
 Materi & Referensi :
 
 - :notebook_with_decorative_cover:
 [Mengenal Node JS](/modules/js-node.md)
 - :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
-- :notebook_with_decorative_cover: [Tools: HACKTIV8 Fox Hub](/modules/fox-hub-guide.md)
+
+Tugas :
+
+Materi & Referensi :
+
+- :notebook_with_decorative_cover: [Mempelajari tipe data Array](modules/js-array.md)
+- :notebook_with_decorative_cover:
+[Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
-- :anchor:
-[[**Exercises 2**] Balik Kata](/modules/challenge-balik-kata.md)
-- :anchor:
-[[**Exercises 3**] Konversi Menit](/modules/challenge-konversi-menit.md)
-- :anchor:
-[[**Exercises 4**] X dan O](/modules/challenge-x-dan-o.md)
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://www.codecademy.com/learn/learn-javascript)
+- :anchor: [[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
+- :anchor: [[**Exercises 3**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
+- :anchor: [[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
+
 
 ## Rabu
-Hari kedua bersama challenge! Asah kemampuanmu hari ini!
+Gunakan waktu sejenak untuk berkenalan dengan Node Js,
+sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan mencoba langsung mengimplementasi kodemu melalui node Js!
 
 Tugas :
 - :anchor:
