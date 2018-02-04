@@ -1,4 +1,4 @@
-#Menyusun Halaman HTML Dinamis di JavaScript
+# Menyusun Halaman HTML Dinamis di JavaScript
 
 Setelah mengetahui tentang DOM selection dan manipulation serta DOM transversing, kita akan mencoba memanipulasi DOM kembali, tapi memanfaatkan penjelajahan DOM berdasarkan hubungan parent-child.
 

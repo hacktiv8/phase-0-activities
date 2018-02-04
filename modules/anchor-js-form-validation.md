@@ -1,4 +1,4 @@
-#Form Validation Sederhana dengan JavaScript
+# Form Validation Sederhana dengan JavaScript
 
 Setelah mengetahui tentang DOM kamu dapat menggunakan pengetahuan itu untuk melakukan banyak hal dalam web development, contohnya adalah Form Validation. Form validation dilakukan untuk memastikan input dari user sudah benar sebelum dikirimkan ke server. Untuk melatih pemahaman kamu tentang DOM, kerjakan tantangan ini dengan baik. Untuk saat ini kamu tidak perlu memikirkan cara mengirimkan data ke server.
 
