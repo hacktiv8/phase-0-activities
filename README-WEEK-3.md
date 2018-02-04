@@ -18,14 +18,6 @@ Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di var
 
 Materi & Referensi :
 
-- :notebook_with_decorative_cover:
-[Mengenal Node JS](/modules/js-node.md)
-- :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
-
-Tugas :
-
-Materi & Referensi :
-
 - :notebook_with_decorative_cover: [Mempelajari tipe data Array](modules/js-array.md)
 - :notebook_with_decorative_cover:
 [Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
@@ -45,6 +37,12 @@ Tugas :
 
 Gunakan waktu sejenak untuk berkenalan dengan Node Js,
 sebuah platform yang memungkinkan kamu untuk menjalankan script JavaScript di server. Jadi, kamu bisa dengan mudah membuat kode JavaScript yang dapat berjalan di terminal kamu. Hari ini juga, kamu akan mencoba langsung mengimplementasi kodemu melalui node Js!
+
+Materi & Referensi :
+
+- :notebook_with_decorative_cover:
+[Mengenal Node JS](/modules/js-node.md)
+- :notebook_with_decorative_cover: [Membuat code JavaScript-mu dengan Baik ](modules/js-code-style.md)
 
 Tugas :
 - :anchor:
