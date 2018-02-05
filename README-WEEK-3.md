@@ -79,6 +79,8 @@ Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array mul
 [[**Exercises 13 (Auto)**] Target Terdekat](/modules/challenge-target-terdekat.md)
 - :anchor:
 [[**Exercises 14**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
+- :anchor:
+[[**Exercises 15**] Mengelompokkan Hewan](modules/challenge-kelompok-hewan.md)
 
 Tugas :
 
