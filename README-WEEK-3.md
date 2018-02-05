@@ -1,4 +1,4 @@
-# Hacktiv8 Phase 0 Week 3: Enter Node JS and JavaScript Training
+# Hacktiv8 Phase 0 Week 3: Arrays and Logics
 
 ![Header](assets/header-w3.jpg)
 
@@ -46,27 +46,28 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 5**] Palindrome](/modules/challenge-palindrome.md)
+[[**Exercises 5 (Auto)**] Palindrome](/modules/challenge-palindrome.md)
 - :anchor:
-[[**Exercises 6**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
+[[**Exercises 6 (Auto)**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
 - :anchor:
-[[**Exercises 7**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
+[[**Exercises 7 (Auto)**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
 - :anchor:
-[[**Exercises 8**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
-- :anchor:
-[[**Exercises 9**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
+[[**Exercises 8 (Auto)**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
 
 ## Kamis - More Logic Challenges
 
 Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai problem dengan arrays, saatnya perbanyak latihan dengan soal yang terus melatih logika!
 
 Tugas :
+
 - :anchor:
-[[**Exercises 10**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
+[[**Exercises 9 (Auto)**] Cari Mean](/modules/challenge-cari-mean.md)
 - :anchor:
-[[**Exercises 11**] Deret Geometri](/modules/challenge-deret-geometri.md)
+[[**Exercises 10 (Auto)**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
 - :anchor:
-[[**Exercises 12**] Target Terdekat](/modules/challenge-target-terdekat.md)
+[[**Exercises 11 (Auto)**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
+- :anchor:
+[[**Exercises 12 (Auto)**] Deret Geometri](/modules/challenge-deret-geometri.md)
 
 ## Jumat - More Arrays + Multidimensional Array
 
@@ -75,7 +76,7 @@ Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya
 Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array multidimensi. Tenang saja, array multidimensi konsep nya sama persis dengan array satu dimensi!
 
 - :anchor:
-[[**Exercises 13**] Cari Mean](/modules/challenge-cari-mean.md)
+[[**Exercises 13 (Auto)**] Target Terdekat](/modules/challenge-target-terdekat.md)
 - :anchor:
 [[**Exercises 14**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
 
