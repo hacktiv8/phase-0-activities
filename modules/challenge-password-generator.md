@@ -1,9 +1,6 @@
-/**
-=====================================
-Modular Functions: Password Generator
-=====================================
+# Logic Challenge - Password Generator
 
-[INSTRUKSI]
+## Problem
 
 Diberikan function changeVocals, reverseWord, setLowerUpperCase, removeSpaces, dan passwordGenerator
 
@@ -20,8 +17,7 @@ Pada function passwordGenerator implementasikan requirement dibawah ini untuk me
 
 NOTE: Semua manipulasi string (changeVocals, reverseWord, setLowerUpperCase, removeSpaces) diletakkan di passwordGenerator dan return password-nya dari function ini juga
 
-
-*/
+```JavaScript
 
 function changeVocals (str) {
   //code di sini
@@ -46,3 +42,4 @@ function passwordGenerator (name) {
 console.log(passwordGenerator('Sergei Dragunov')); // VPNVGBRdJFGRFs
 console.log(passwordGenerator('Dimitri Wahyudiputra')); // BRTVPJDVYHBwJRTJMJd
 console.log(passwordGenerator('Alexei')); // JFXFLb
+```
