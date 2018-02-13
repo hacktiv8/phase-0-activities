@@ -15,7 +15,8 @@ Pada function passwordGenerator implementasikan requirement dibawah ini untuk me
  4. Gunakan function removeSpaces untuk menghilangkan semua spasi di dalam string yang sudah
   kita manipulasi
 
-NOTE: Semua manipulasi string (changeVocals, reverseWord, setLowerUpperCase, removeSpaces) diletakkan di passwordGenerator dan return password-nya dari function ini juga
+### NOTE: 
+Semua manipulasi string (changeVocals, reverseWord, setLowerUpperCase, removeSpaces) diletakkan di passwordGenerator dan return password-nya dari function ini juga
 
 ```JavaScript
 
