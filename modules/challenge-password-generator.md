@@ -40,7 +40,9 @@ function passwordGenerator (name) {
   //code di sini
 }
 
-console.log(passwordGenerator('Sergei Dragunov')); // VPNVGBRdJFGRFs
-console.log(passwordGenerator('Dimitri Wahyudiputra')); // BRTVPJDVYHBwJRTJMJd
-console.log(passwordGenerator('Alexei')); // JFXFLb
+console.log(passwordGenerator('Sergei Dragunov')); // 'VPNVGBRdJFGRFs'
+console.log(passwordGenerator('Dimitri Wahyudiputra')); // 'BRTVPJDVYHBwJRTJMJd'
+console.log(passwordGenerator('Alexei')); // 'JFXFLb'
+console.log(passwordGenerator('Alex')); // 'Minimal karakter yang diinputkan adalah 5 karakter'
+
 ```
