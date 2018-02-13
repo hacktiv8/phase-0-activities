@@ -1,11 +1,11 @@
-/*
-===============================================
-Function Mastery: Most Frequent Largest Numbers
-===============================================
+# Logic Challenge - Most Frequent Largest Numbers
+
+## Problem
+
 Dengan HANYA mengubah code di dalam 2 function yang diberikan,
 selesaikan countLargestNumbers. Dilarang mengubah isi dalam function numberProcessing!
-*/
 
+```JavaScript
 function sorting(arrNumber) {
   // code di sini
 }
@@ -31,3 +31,4 @@ console.log(mostFrequentLargestNumbers([1, 1, 1, 1]));
 
 console.log(countLargestNumbers([]));
 //''
+```
