@@ -12,6 +12,14 @@ HACKTIV8 Phase 0 membutuhkan setiap student untuk membawa laptop di beberapa ses
 
 Requirement di atas cukup untuk Phase 0 (fase persiapan), dan untuk Phase 1 - 3, namun agar Phase 3 bisa lebih lancar, 4 GB RAM lebih recommended.
 
+## Operating System
+
+Jika kamu bukan pengguna macbook (OSX), silakan menginstall OS Linux. Kamu bebas memilih OS Linux yang mana, tapi yang paling mudah untuk pemula dari segi instalasi adalah Linux Ubuntu. Gunakan link dibawah ini untuk mendownload:
+
+[Linux Ubuntu](https://www.ubuntu.com/)
+
+[Cara Install Ubuntu di Windows](https://www.youtube.com/watch?v=c_Ja2PRt0cc)
+
 ## Text Editor
 
 Di HACKTIV8, kamu akan banyak menulis kode program. Sebelum kamu memulai, akan lebih baik jika kamu telah menyiapkan software untuk tempat kamu menyimpan kode. Anggap saja text editor di programming itu seperti microsoft word di saat kita mau membuat dokumen teks.
