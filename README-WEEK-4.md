@@ -10,7 +10,7 @@ Selamat sudah melalui kegiatan pekan ketiga! Di pekan keempat ini, kita akan fok
 
 Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.
 
-## Selasa - Numbers Crunching
+## Selasa - Numbers Crunching and Play with Strings
 Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
 - :anchor:
@@ -18,38 +18,44 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 - :anchor:
 [[**Exercises 2**] Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
 - :anchor:
-[[**Exercises 4**] Cari Median](/modules/challenge-cari-median.md)
+[[**Exercises 3**] Cari Median](/modules/challenge-cari-median.md)
 - :anchor:
-[[**Exercises 5**] Cari Modus](/modules/challenge-cari-modus.md)
+[[**Exercises 4**] Cari Modus](/modules/challenge-cari-modus.md)
+- :anchor:
+[[**Exercises 5**] Ubah Huruf](/modules/challenge-ubah-huruf.md)
+- :anchor:
+[[**Exercises 6**] Hitung Huruf](/modules/challenge-hitung-huruf.md)
 
 ## Rabu - Built-in Functions Mastery
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
 - :anchor:
-[[**Exercises 6**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
+[[**Exercises 7**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
 - :anchor:
-[[**Exercises 7**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
+[[**Exercises 8**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
 - :anchor:
-[[**Exercises 8**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
-- :rocket:
-[[**Exercises 9**] Cek AB](/modules/challenge-cek-ab.md)
+[[**Exercises 9**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
+- :anchor:
+[[**Exercises 10**] Cek AB](/modules/challenge-cek-ab.md)
 
-## Kamis - Play with Strings
-Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat. Tidak terasa, sudah kamu sudah masuk hari ketiga!
+## Kamis - Object Literal
+Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat.
+- :notebook_with_decorative_cover:
+[Materi Object Literal](/modules/js-object-literal.md)
+- :anchor: [[**Exercises 11**] Change me](modules/challenge-object-literal.md)
+- :anchor: [[**Exercises 12**] Shopping Time!](modules/challenge-shopping-time.md)
+- :anchor: [[**Exercises 13**] Toko X](modules/challenge-toko-x.md)
 
-- :anchor:
-[[**Exercises 10**] Tambah Dash](/modules/challenge-tambah-dash.md)
-- :anchor:
-[[**Exercises 11**] Ubah Kapital](/modules/challenge-ubah-kapital.md)
-- :anchor:
-[[**Exercises 12**] Ubah Huruf](/modules/challenge-ubah-huruf.md)
-- :anchor:
-[[**Exercises 13**] Hitung Huruf](/modules/challenge-hitung-huruf.md)
 
-## Jumat - End of Week Material: Recursive Functions
-
+## Jumat - Modularizing Code using Functions & Recursive Functions
 - :notebook_with_decorative_cover:
 [Mengenal Rekursif](/modules/js-function-recursive.md)
+- :anchor: [[**Exercises 14**] Most Frequent Largest Numbers](modules/challenge-most-frequent-largest-numbers.md)
+- :anchor: [[**Exercises 15**] Password Generator](modules/challenge-password-generator.md)
+- :anchor: [[**Exercises 16**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
+- :anchor: [[**Exercises 17**] Total Digit Rekursif](/modules/challenge-total-digit.md)
+- :anchor: [[**Exercises 18**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
+
 
 ## Sabtu dan Minggu
 
