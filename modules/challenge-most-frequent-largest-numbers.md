@@ -29,6 +29,6 @@ console.log(mostFrequentLargestNumbers([122, 122, 130, 100, 135, 100, 135, 150])
 console.log(mostFrequentLargestNumbers([1, 1, 1, 1]));
 //'angka paling besar adalah 1 dan jumlah kemunculan sebanyak 4 kali'
 
-console.log(countLargestNumbers([]));
+console.log(mostFrequentLargestNumbers([]));
 //''
 ```
