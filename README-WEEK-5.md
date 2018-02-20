@@ -10,21 +10,18 @@ Selamat sudah melalui kegiatan pekan kelima! Setelah tiga minggu penuh bermain d
 
 Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kemampuanmu sesuai dengan yang telah kamu pelajari dan kamu latih di pekan ini. Melalui live coding ini kami akan menilai pengertian kamu selama ini tentang JavaScript, dan tentunya kami akan memberikan feedback agar kamu bisa meningkatkan bagian mana yang masih kurang. Sesi online live coding ini, tidak seperti tantangan-tantangan di hari-hari sebelumnya. **Kamu tidak bisa mengulang atau memperbaiki apa yang telah kamu kerjakan di sesi live coding.** Sesi live coding tidak dibuat untuk membuatmu gagal, namun untuk memastikan apakah kamu telah terlatih dengan soal-soal coderbyte sebelumnya. Gagal di sesi live coding tidak mutlak membuatmu gagal di Phase 0, namun akan mempengaruhi keputusan instruktur untuk bisa melanjutkanmu ke Phase 1.
 
-## Selasa - Array Multidimensi Review & Object Literal
-- :notebook_with_decorative_cover:
-[Materi Object Literal](/modules/js-object-literal.md)
-- :anchor: [[**Exercises 1**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
-- :anchor: [[**Exercises 2**] Change me](modules/challenge-object-literal.md)
-- :anchor: [[**Exercises 3**] Shopping Time!](modules/challenge-shopping-time.md)
-- :anchor: [[**Exercises 4**] Toko X](modules/challenge-toko-x.md)
+## Selasa - Review Array and object
+- :anchor: [[**Exercises 1**] Deep Sum](modules/challenge-deep-sum.md)
+- :anchor: [[**Exercises 2**] Naik Angkot](modules/challenge-naik-angkot.md)
+- :anchor: [[**Exercises 3**] Highest Score](modules/challenge-highest-score.md)
+- :anchor: [[**Exercises 4**] Graduates](modules/challenge-graduates.md)
 
 
-## Rabu - Recursive Functions
+## Rabu - Git Branch
 - :notebook_with_decorative_cover:
 [Review Materi Rekursif](/modules/js-function-recursive.md)
-- :anchor: [[**Exercises 5**] Total Digit Rekursif](/modules/challenge-total-digit.md)
-- :anchor: [[**Exercises 6**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
-- :anchor: [[**Exercises 7**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
+- :anchor: [[**Exercises 5**] Damage Calculation](/modules/challenge-damage-calculation.md)
+- :anchor: [[**Exercises 6**] Melee Ranged Grouping](/modules/challenge-melee-ranged-grouping.md)
 
 
 ## Kamis - Regex
