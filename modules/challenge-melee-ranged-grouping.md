@@ -7,9 +7,11 @@ Format string yang diberikan adalah:
 <nama_hero>-<tipe_hero>,<nama_hero>-<tipe-hero>, ...
 
 Output yang diharapkan:
-[ [ <daftar hero dengan tipe ranged> ], [ <daftar hero dengan tipe melee> ] ]
+[ [ <daftar_hero_dengan_tipe_ranged> ], [ <daftar_hero_dengan_tipe_melee> ] ]
 
 Jika input adalah string kosong ('') maka return array kosong
+
+[Submit Tugas Disini](https://github.com/deathmitri/melee-ranged-grouping-git)
 
 ```JavaScript
 function meleeRangedGrouping (str) {

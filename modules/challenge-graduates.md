@@ -7,6 +7,7 @@ Implementasikan function graduates untuk mendapatkan daftar student yang lulus d
 - Student yang tidak lulus tidak perlu ditampilkan.
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
+```
 {
   <class>: [
     { name: <name>, score: <score> },
@@ -18,6 +19,7 @@ Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
   ],
   <class>: [] //NOTE: Jika tidak ada student yang lulus, class ini akan diisi oleh array kosong
 }
+```
 
 ```JavaScript
 function graduates (students) {

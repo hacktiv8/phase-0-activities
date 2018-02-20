@@ -4,6 +4,7 @@ Implementasikan function deepSum untuk mendapatkan jumlah pertambahan dari angka
 di dalam array
 
 Contoh array:
+```
 [
   [
     [1, 2, 3],
@@ -15,10 +16,11 @@ Contoh array:
     [1]
   ]
 ]
+```
 
 Maka akan menghasilkan output: 22
 
-Level kedalaman array akan di-asumsikan selalu 3, [ [ [ ] ] ], jika yang diberikan adalah array
+Level kedalaman array akan di-asumsikan selalu 3, `[ [ [ ] ] ]`, jika yang diberikan adalah array
 kosong maka kembalikan nilai 'No number'
 
 ```JavaScript

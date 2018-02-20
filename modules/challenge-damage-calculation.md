@@ -14,6 +14,8 @@ damageCalculation(3, 10) akan mengembalikan nilai 24
 
 Karena attack akan dikurangi 2, maka setiap attack akan menghasilkan damage 8
 
+[Submit Tugas Disini](https://github.com/deathmitri/damage-calculation-git)
+
 ```JavaScript
 function attack (damage) {
   // Code disini
