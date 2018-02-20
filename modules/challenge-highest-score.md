@@ -4,11 +4,13 @@ Implementasikan function highestScore untuk mendapatkan student dengan nilai ter
 setiap class:
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
+```
 {
   <class>: { name: <name>, score: <score> },
   <class>: { name: <name>, score: <score> },
   <class>: { name: <name>, score: <score> }
 }
+```
 
 
 ```JavaScript
