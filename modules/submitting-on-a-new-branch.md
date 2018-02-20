@@ -28,12 +28,12 @@
 
 6. Lakukan `Pull Request` dari halaman repository damage-calculation-git dengan cara klik tombol `Compare & pull request`
 
-   ![Pull Request](https://lh5.googleusercontent.com/g54bSlL0yK1Y0OVcUFeSeOGtbCGTuJ042t2hDjFyE2ilVHp3Lezj8y91XtsH0VzPix5KrUMVZqQjiQALQz4i=w3360-h1760-rw "Pull Request")
+   ![Pull Request](https://lh4.googleusercontent.com/PwhWPoPc3CLJ5YQmhrFKcgARSv5Ssup50QSvlzkRU1XtWS_j4ItqvCpEUgwrr4dvEiEWMTCCUslluMu5mU58=w3360-h1760-rw "Pull Request")
 
 6. Tambahkan message dan klik button `Create pull request`
 
-   ![Create Pull Request](https://lh6.googleusercontent.com/Etr9M-RNc0xbnvqskK615m7UXwBBooiP_k_xrgKAGxfaZAn4k8AmBKNzghryFHqhyI_3eQdnM0n9VFyXemXE=w3360-h1760-rw "Create Pull Request")
+   ![Create Pull Request](https://lh4.googleusercontent.com/UkzoIvZlKk6lWn4LCnJ9Jz2jboDWZ7QnrBJ0ihPEt-qg19-8jXht7dIciPFID91nLcZFh6ehGWqbzlEe1N2a=w3360-h1760-rw "Create Pull Request")
 
 7. Selesai! Jika kamu sudah melakukan step ke-8, maka akan redirect ke halaman ini
 
-   ![Done](https://lh5.googleusercontent.com/MwTXxobK1mlev4X96ujHiHPmjSwFM8BIVRLnjtytGnFq7vs4jSKMx3TuDpKihxQakz8fhqebsBRR0lmo9E3u=w3360-h1760-rw "Done")
+   ![Done](https://lh4.googleusercontent.com/UkWMAeq-K5Wmmpz1In1Oj4ywKmBh-7qkIllcro54-nOfuE2CbKEKjC21u6HEyJSAJHxHz6ezixl86q3JeLA4=w3360-h1760-rw "Done")

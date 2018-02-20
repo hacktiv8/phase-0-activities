@@ -19,8 +19,6 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 
 ## Rabu - Git Branch
 - :notebook_with_decorative_cover:
-[Review Materi Rekursif](/modules/js-function-recursive.md)
-- :notebook_with_decorative_cover:
 [Cara Submit menggunakan Git Branch (Untuk Exercises Hari Rabu)](/modules/submitting-on-a-new-branch.md)
 - :anchor: [[**Exercises 5**] Damage Calculation](/modules/challenge-damage-calculation.md)
 - :anchor: [[**Exercises 6**] Melee Ranged Grouping](/modules/challenge-melee-ranged-grouping.md)
