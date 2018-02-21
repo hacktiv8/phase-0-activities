@@ -28,12 +28,12 @@
 
 6. Lakukan `Pull Request` dari halaman repository damage-calculation-git dengan cara klik tombol `Compare & pull request`
 
-   ![Pull Request](https://lh4.googleusercontent.com/PwhWPoPc3CLJ5YQmhrFKcgARSv5Ssup50QSvlzkRU1XtWS_j4ItqvCpEUgwrr4dvEiEWMTCCUslluMu5mU58=w3360-h1760-rw "Pull Request")
+   ![Pull Request](assets/compare-and-pull-request.png "Pull Request")
 
 6. Tambahkan message dan klik button `Create pull request`
 
-   ![Create Pull Request](https://lh4.googleusercontent.com/UkzoIvZlKk6lWn4LCnJ9Jz2jboDWZ7QnrBJ0ihPEt-qg19-8jXht7dIciPFID91nLcZFh6ehGWqbzlEe1N2a=w3360-h1760-rw "Create Pull Request")
+   ![Create Pull Request](assets/create-pull-request.png "Create Pull Request")
 
 7. Selesai! Jika kamu sudah melakukan step ke-8, maka akan redirect ke halaman ini
 
-   ![Done](https://lh4.googleusercontent.com/UkWMAeq-K5Wmmpz1In1Oj4ywKmBh-7qkIllcro54-nOfuE2CbKEKjC21u6HEyJSAJHxHz6ezixl86q3JeLA4=w3360-h1760-rw "Done")
+   ![Done](assets/successfully-pull-request.png "Done")
