@@ -11,7 +11,7 @@ Output yang diharapkan:
 
 Jika input adalah string kosong ('') maka return array kosong
 
-[Submit Tugas Disini](https://github.com/deathmitri/melee-ranged-grouping-git)
+[Submit Tugas Disini](https://github.com/initialdmitri/melee-ranged-grouping-git)
 
 ```JavaScript
 function meleeRangedGrouping (str) {
