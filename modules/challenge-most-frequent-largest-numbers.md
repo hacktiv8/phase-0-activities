@@ -2,8 +2,7 @@
 
 ## Problem
 
-Dengan HANYA mengubah code di dalam 2 function yang diberikan,
-selesaikan countLargestNumbers. Dilarang mengubah isi dalam function numberProcessing!
+Dengan HANYA mengubah code di dalam 2 function yang diberikan (sorting dan getTotal). Dilarang mengubah isi dalam function mostFrequentLargestNumbers!
 
 ```JavaScript
 function sorting(arrNumber) {
