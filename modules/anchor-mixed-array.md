@@ -46,7 +46,7 @@ dataHandling2(input);
  *
  * ["0001", "Roman Alamsyah Elsharawy", "Provinsi Bandar Lampung", "21/05/1989", "Pria", "SMA Internasional Metro"]
  * Mei
- * [1989, 21, 05]
+ * ["1989", "21", "05"]
  * 21-05-1989
  * Roman Alamsyah
  */
