@@ -4,14 +4,14 @@ Diberikan function meleeRangedGrouping yang menerima 1 parameter berupa string, 
 meleeRangedGrouping agar dapat menghasilkan multidimensional array seperti yang diminta.
 
 Format string yang diberikan adalah:
-<nama_hero>-<tipe_hero>,<nama_hero>-<tipe-hero>, ...
+`<nama_hero>-<tipe_hero>,<nama_hero>-<tipe-hero>, ...`
 
 Output yang diharapkan:
-[ [ <daftar_hero_dengan_tipe_ranged> ], [ <daftar_hero_dengan_tipe_melee> ] ]
+`[ [ <daftar_hero_dengan_tipe_ranged> ], [ <daftar_hero_dengan_tipe_melee> ] ]`
 
 Jika input adalah string kosong ('') maka return array kosong
 
-[Submit Tugas Disini](https://github.com/initialdmitri/melee-ranged-grouping-git)
+[Submit Tugas Disini](https://github.com/phase-0-branch-exercises/melee-ranged-grouping)
 
 ```JavaScript
 function meleeRangedGrouping (str) {
