@@ -28,9 +28,9 @@ Tiba saatnya kita melakukan Live Coding Online yang bertujuan untuk menguji kema
 - :notebook_with_decorative_cover:
 [Mengenal Regular Expressions](/modules/regular-expressions.md)
 - :anchor:
-[[**Exercises 8**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
+[[**Exercises 7**] Hapus Simbol](/modules/challenge-hapus-simbol.md)
 - :anchor:
-[[**Exercises 9**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
+[[**Exercises 8**] Cari Pelaku](/modules/challenge-cari-pelaku.md)
 
 ## Jumat - Document Object Model (DOM)
 Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik! Kamu akan ditantang dengan DOM di week 6 setelah final live coding, jadi silakan baca materi ini setelah kamu telah siap untuk mengambil final live coding di Senin pekan depan.
