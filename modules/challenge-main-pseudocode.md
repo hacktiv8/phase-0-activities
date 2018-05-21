@@ -30,17 +30,17 @@ Dalam kalender Gregorian, tahun kabisat memiliki beberapa kriteria yaitu antara 
  - Jika tahun habis di bagi 4 dan tidak habis di bagi 100, dan
  - Jika tahun habis di bagi 4, habis di bagi 100 dan habis di bagi 400
 
-Buatlah algoritma/pseudocode untuk menentukan apakah suatu tahun merupakan tahun kabisat atau bukan!
+Buatlah algoritma & pseudocode untuk menentukan apakah suatu tahun merupakan tahun kabisat atau bukan!
 
 ## 3. Laundry Day
 
 Foxie akan mencuci pakaiannya menggunakan mesin cuci. Pakaian yang akan dicuci oleh Foxie sebanyak 20 dan akan dimasukkan ke mesin cuci.
 Mesin cuci akan dinyalakan jika semua pakaian Foxie sudah masuk ke mesin cuci.
 
-Bantulah Foxie untuk menghitung jumlah pakaian yang akan dimasukkan ke mesin cuci menggunakan algoritma / pseudocode perulangan!
+Bantulah Foxie untuk menghitung jumlah pakaian yang akan dimasukkan ke mesin cuci menggunakan algoritma & pseudocode perulangan!
 
 ## 4. Periksa Kuku
 
 Seorang guru akan memeriksa kuku siswa-siswinya yang sebanyak 40 orang dengan cara berkeliling kelas. Jika guru menemukan siswa/siswi yang memiliki kuku yang panjang maka guru akan menghukum siswa/siswi tersebut, jika tidak guru akan memuji siswa/siswi tersebut.
 
-Buatlah algoritma/pseudocode untuk permasalahan diatas.
+Buatlah algoritma & pseudocode untuk permasalahan diatas.
