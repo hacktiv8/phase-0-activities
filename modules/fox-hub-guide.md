@@ -3,7 +3,7 @@
 HACKTIV8 Fox Hub (Beta) adalah platform yang digunakan untuk melakukan pengumpulan tugas dan monitoring nilai setiap student Phase 0 sampai akhir program.
 
 ## Getting Started
-[Link Hacktiv8 Fox Hub (Beta)] (http://foxhub.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com)
+[Link Hacktiv8 Fox Hub (Beta)](http://foxhub.hacktiv8.com.s3-website-ap-southeast-1.amazonaws.com)
 
 Cara Penggunaan:
 
