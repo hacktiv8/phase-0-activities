@@ -213,7 +213,7 @@ Dalam paragraf atau heading, kita bisa gunakan strong (`strong`) untuk hal penti
 
 ### Kutipan Blok (Block Quote)
 
-Kutipan dari sumber lain, atau membuat teks kita terlihat keren seperti sebuah kuripan/quote.
+Kutipan dari sumber lain, atau membuat teks kita terlihat keren seperti sebuah kutipan/quote.
 
 ```html
 <blockquote>
