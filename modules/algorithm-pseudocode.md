@@ -48,7 +48,7 @@ Banyak tools software yang dapat kamu gunakan untuk menggambar flowchart. salah 
 
 Bagi kalian yang nanti akan membuat sebuah sistem yang complex, menggambar flowchart bisa jadi hal pertama yang kalian lakukan sebelum coding. Kenapa ?
 
-Karena untuk membuat sebuah sistem yang complex kalian harus punya gambaran yang jelas dari proses atau prosedur dari awal hingga ahkir sistem yang kalian buat. Kalau tidak ada flowchart kadang di tengah pengerjaan project kita lupa alur dari sistem yang kita buat. Tentu hal ini akan mempengaruhi codingan kalian.
+Karena untuk membuat sebuah sistem yang complex kalian harus punya gambaran yang jelas dari proses atau prosedur dari awal hingga akhir sistem yang kalian buat. Kalau tidak ada flowchart kadang di tengah pengerjaan project kita lupa alur dari sistem yang kita buat. Tentu hal ini akan mempengaruhi codingan kalian.
 
 
 ### Mengenal Pseudocode
@@ -192,7 +192,7 @@ WHILE "hungry"
   DO "eat"
 ```
 
-Nah, pseudocode di atas cukup simple dan mencontohkan kita proses paling sederhana dalam looping. WHILE adalah standard keyword untuk menjunukkan kondisi "selama kita masih lapar", lakukan proses makan.
+Nah, pseudocode di atas cukup simple dan mencontohkan kita proses paling sederhana dalam looping. WHILE adalah standard keyword untuk menunjukkan kondisi "selama kita masih lapar", lakukan proses makan.
 
 Biasanya, saat kita membuat looping, ada sebuah proses yang dilakukan untuk mencapai kondisi tersebut. Kita coba perbaiki contoh pseudocode diatas, dengan asumsi kemampuan makan kita dalam sekali makan adalah 5 sendok nasi. Kita coba umpakan kemampuan makan ini sebagai "hungry level".
 
