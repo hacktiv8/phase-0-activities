@@ -23,38 +23,36 @@ Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan b
 [[**Exercises 4**] Cari Modus](/modules/challenge-cari-modus.md)
 - :anchor:
 [[**Exercises 5**] Ubah Huruf](/modules/challenge-ubah-huruf.md)
-- :anchor:
-[[**Exercises 6**] Hitung Huruf](/modules/challenge-hitung-huruf.md)
 
 ## Rabu - Built-in Functions Mastery
 Hari kedua di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
 - :anchor:
-[[**Exercises 7**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
+[[**Exercises 6**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
 - :anchor:
-[[**Exercises 8**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
+[[**Exercises 7**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
 - :anchor:
-[[**Exercises 9**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
+[[**Exercises 8**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
 - :anchor:
-[[**Exercises 10**] Cek AB](/modules/challenge-cek-ab.md)
+[[**Exercises 9**] Cek AB](/modules/challenge-cek-ab.md)
 
 ## Kamis - Object Literal
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat.
 - :notebook_with_decorative_cover:
 [Materi Object Literal](/modules/js-object-literal.md)
-- :anchor: [[**Exercises 11**] Change me](modules/challenge-object-literal.md)
-- :anchor: [[**Exercises 12**] Shopping Time!](modules/challenge-shopping-time.md)
-- :anchor: [[**Exercises 13**] Toko X](modules/challenge-toko-x.md)
+- :anchor: [[**Exercises 10**] Change me](modules/challenge-object-literal.md)
+- :anchor: [[**Exercises 11**] Shopping Time!](modules/challenge-shopping-time.md)
+- :anchor: [[**Exercises 12**] Toko X](modules/challenge-toko-x.md)
 
 
 ## Jumat - Modularizing Code using Functions & Recursive Functions
 - :notebook_with_decorative_cover:
 [Mengenal Rekursif](/modules/js-function-recursive.md)
-- :anchor: [[**Exercises 14**] Most Frequent Largest Numbers](modules/challenge-most-frequent-largest-numbers.md)
-- :anchor: [[**Exercises 15**] Password Generator](modules/challenge-password-generator.md)
-- :anchor: [[**Exercises 16**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
-- :anchor: [[**Exercises 17**] Total Digit Rekursif](/modules/challenge-total-digit.md)
-- :anchor: [[**Exercises 18**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
+- :anchor: [[**Exercises 13**] Most Frequent Largest Numbers](modules/challenge-most-frequent-largest-numbers.md)
+- :anchor: [[**Exercises 14**] Password Generator](modules/challenge-password-generator.md)
+- :anchor: [[**Exercises 15**] Makan Terus Rekursif](/modules/challenge-makan-terus.md)
+- :anchor: [[**Exercises 16**] Total Digit Rekursif](/modules/challenge-total-digit.md)
+- :anchor: [[**Exercises 17**] Kali Terus Rekursif](/modules/challenge-kali-terus.md)
 
 
 ## Sabtu dan Minggu
