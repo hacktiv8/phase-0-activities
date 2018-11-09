@@ -9,7 +9,7 @@
 
 ### Fungsi (Function) Review
 
-Sedikit kita review apa yang telah kita pelajari minggu lalu, fungsi atau metode (metode) tentunya kita sudah pakai beberapa kali saat berlatih dengna tipe data dan objek. Ia bekerja baik dengan statement kondisi, sehingga kkita tidak perlu repot berulang kali memanggil/menulis beberapa baris kode yang sama atau berpola berulang kali.
+Sedikit kita review apa yang telah kita pelajari minggu lalu, fungsi atau metode (metode) tentunya kita sudah pakai beberapa kali saat berlatih dengna tipe data dan objek. Ia bekerja baik dengan statement kondisi, sehingga kita tidak perlu repot berulang kali memanggil/menulis beberapa baris kode yang sama atau berpola berulang kali.
 
 Sebuah fungsi dibuat dengan ekspresi yang dimulai dengan kata kunci `function`. Fungsi dapat memiliki beberapa parameter (or argumen), atau bahkan tanpa parameter sama sekali. Fungsi dalam JS juga merupakan pendefinisian variabel umum yang mana nilainya adalah `function`.
 
