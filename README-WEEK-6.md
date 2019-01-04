@@ -9,6 +9,16 @@ Sampailah di minggu terakhir phase 0! Senin - Rabu kamu akan fokus untuk final l
 ## Senin - Rabu: Final Live Coding (Offline).
 Ini saat yang menentukan untuk bisa lanjut ke Phase 1. Persiapkan ilmu yang telah kamu pelajari di logic dan JavaScript! Note: Materi Week 1, dan 6 tidak diikutkan ke dalam kompetensi Final Live Coding. Berbeda dengan Live Coding sebelumnya, Final Live Coding ini wajib dilakukan Offline.
 
+## Rabu - Document Object Model (DOM)
+Akhirnya beberapa pekan tantangan yang penuh logika berakhir. Sekarang, kamu akan mempelajari mempelajari DOM, yang akan membuat website kamu menjadi interaktif dan menarik! Kamu akan ditantang dengan DOM di week 6 setelah final live coding, jadi silakan baca materi ini setelah kamu telah siap untuk mengambil final live coding di Senin pekan depan.
+
+- :notebook_with_decorative_cover:
+[Mengenal DOM](/modules/js-dom-intro.md)
+- :notebook_with_decorative_cover:
+[Membuat DOM](/modules/js-dom-creation.md)
+- :notebook_with_decorative_cover:
+[Menjelajah DOM](/modules/js-dom-transversing.md)
+
 ## Kamis - Document Object Model
 Mulai hari ini, kamu akan berkenalan dengan DOM, topik baru yang dapat kamu manfaatkan untuk berlatih memanipulasi halaman HTML dan tampilannya dengan JavaScript. (Yap, betul. Back to HTML!)
 

@@ -8,7 +8,7 @@ Karena sudah menginjak pekan ke 3, ada baiknya kamu menyelesaikan tugasnya dari 
 
 ![Let's start!](assets/start.png)
 
-## Senin - Offline Live Coding
+## Senin - Live Coding
 
 Instruksi diberikan di channel kelas.
 
