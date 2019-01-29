@@ -63,7 +63,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
-- 💪 [[**Latihan Pribadi 2**] Mempelajar CSS Selector dengan Simulasi](https://flukeout.github.io/)
+- 💪 [[**Latihan Pribadi 2**] Mempelajari CSS Selector dengan Simulasi](https://flukeout.github.io/)
 - 💪 [[**Latihan Pribadi 3**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 - 💪 [[**Latihan Pribadi 4**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
