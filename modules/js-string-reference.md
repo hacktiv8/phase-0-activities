@@ -126,7 +126,7 @@ var splitted = story.split('_');
 console.log(splitted); // ['Once', 'upon', 'a', 'time']
 ``` -->
 
-#### `.substr([indeks awal], [indeks akhir (optional)])`
+#### `.substring([indeks awal], [indeks akhir (optional)])`
 
 Mengembalikan potongan string mulai dari indeks pada parameter pertama sampai dengan indeks pada parameter kedua. Bila parameter kedua tidak ditentukan, maka secara otomatis berakhir pada karakter terakhir. Karakter pada indeks yang ditentukan pada parameter kedua tidak diikutkan sebagai output.
 
@@ -134,6 +134,16 @@ Mengembalikan potongan string mulai dari indeks pada parameter pertama sampai de
 var car1 = 'Lykan Hypersport';
 var car2 = car1.substr(6);
 console.log(car2); // Hypersport
+```
+
+#### `.substr([indeks awal], [jumlah karakter yang diambil (optional)])`
+
+Mendapatkan potongan string mulai dari indeks pada parameter pertama dengan jumlah indeks pada parameter kedua. Bila parameter kedua tidak ditentukan, maka secara otomatis berakhir pada karakter terakhir. Karakter pada indeks yang ditentukan pada parameter kedua tidak diikutkan sebagai output.
+
+```javascript
+var motor1 = 'zelda motor';
+var motor2 = car1.substr(2, 2);
+console.log(motor2); // ld
 ```
 
 #### `.toUpperCase()`
