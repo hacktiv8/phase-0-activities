@@ -13,10 +13,11 @@ Untuk dapat mengikuti seluruh pembelajaran di HACKTIV8, kamu perlu mempersiapkan
 
 ## Komputer
 
-HACKTIV8 Phase 0 membutuhkan setiap student untuk membawa laptop di beberapa sesi, karena itu silakan dipersiapkan laptop dengan minimum requirement sebagai berikut:
+HACKTIV8 membutuhkan setiap student untuk membawa laptop, karena itu silakan dipersiapkan laptop dengan minimum requirement sebagai berikut:
 
-- 2 GB RAM (4 GB lebih recommended)
-- Sistem Operasi Linux / OSX
+- 8 GB RAM 
+- Processor Intel Core i3 atau AMD FX 63xx atau setara
+- Sangat disarankan minimal Sistem Operasi Linux / OSX 
 - Menginstall text editor. Detail tentang text editor akan disebutkan dibawah
 
 Requirement di atas cukup untuk Phase 0 (fase persiapan), dan untuk Phase 1 - 3, namun agar Phase 3 bisa lebih lancar, 4 GB RAM lebih recommended.
