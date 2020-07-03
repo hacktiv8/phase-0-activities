@@ -63,8 +63,9 @@ Materi & Referensi :
 
 Tugas :
 - :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
-- 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
-- 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
+- 💪 [[**Latihan Pribadi 2**] Mempelajari CSS Selector dengan Simulasi](https://flukeout.github.io/)
+- 💪 [[**Latihan Pribadi 3**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
+- 💪 [[**Latihan Pribadi 4**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
 ## Rabu dan Kamis - Mengendalikan Revisi Menggunakan Git
 Kamu telah mampu membuat website yang cukup menarik dengan ilmu yang telah kamu pelajari. Sekarang saatnya
@@ -82,9 +83,9 @@ Materi & Referensi :
 Tugas :
 
 - 💪
-[[**Latihan Pribadi 4**] Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
+[[**Latihan Pribadi 5**] Mempelajari Markdown dan Membuat README.md](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/markdown-anchor.md)
 - 💪
-[[**Latihan Pribadi 5**] Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
+[[**Latihan Pribadi 6**] Membuat Branch Baru pada Repositori](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/git-branch-anchor.md)
 
 
 ## Jumat - Satu Langkah Menjadi Expert HTML dan CSS!
