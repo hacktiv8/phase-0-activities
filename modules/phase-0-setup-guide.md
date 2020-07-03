@@ -1,11 +1,11 @@
-# HACKTIV8 Phase 0 Setup Guide
+# HACKTIV8 Setup Guide
 
-Selamat datang di Phase 0, dan selamat mempersiapkan komputer, tools, dan persiapan lainnya agar hari pertamamu di Phase 0 berjalan lancar.
+Selamat datang di HACKTIV8, dan selamat mempersiapkan komputer, tools, dan persiapan lainnya agar hari pertamamu di HACKTIV8 berjalan lancar.
 
 ## Platform
 Untuk dapat mengikuti seluruh pembelajaran di HACKTIV8, kamu perlu mempersiapkan beberapa hal berikut:
 
-1. Slack Account. Kamu akan diinvite oleh instruktur Phase 0 ke dalam sebuah platform bernama Slack di senin depan setelah briefing. Platform ini akan menjadi tempat utama untuk diskusi materi dan berkonsultasi secara offline dengan instruktur.
+1. Slack Account. Kamu akan diinvite oleh instruktur ke dalam sebuah platform bernama Slack di senin depan setelah briefing. Platform ini akan menjadi tempat utama untuk diskusi materi dan berkonsultasi dengan instruktur.
 
 2. Github Account. Kamu akan terus-menerus menggunakan Github sebagai profile. Penjelasan tentang kegunaan dan manfaat Github akan dibahas di Phase 0.
 
@@ -20,7 +20,6 @@ HACKTIV8 membutuhkan setiap student untuk membawa laptop, karena itu silakan dip
 - Sangat disarankan minimal Sistem Operasi Linux / OSX 
 - Menginstall text editor. Detail tentang text editor akan disebutkan dibawah
 
-Requirement di atas cukup untuk Phase 0 (fase persiapan), dan untuk Phase 1 - 3, namun agar Phase 3 bisa lebih lancar, 4 GB RAM lebih recommended.
 
 ## Operating System
 
